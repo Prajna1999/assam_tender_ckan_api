@@ -1,0 +1,1836 @@
+,fiscal_year,buyer_name,tender/stage,tender/mainProcurementCategory,avg_duration
+0,2016-17,Animal Husbandry and Veterinary Department,Financial Evaluation,Goods,180.0
+1,2016-17,Animal Husbandry and Veterinary Department,Technical Evaluation,Goods,90.0
+2,2016-17,Assam Police,AOC,Goods,180.0
+3,2016-17,Assam Police,AOC,Services,90.0
+4,2016-17,Assam Police,Financial Bid Opening,Goods,240.0
+5,2016-17,Assam Police,To be Opened,Goods,180.0
+6,2016-17,Assam Police Housing Corporation Ltd,AOC,Works,60.0
+7,2016-17,Assam Police Housing Corporation Ltd,Financial Bid Opening,Works,60.0
+8,2016-17,Assam Police Housing Corporation Ltd,Technical Bid Opening,Works,60.0
+9,2016-17,Assam Police Housing Corporation Ltd,Technical Evaluation,Works,60.0
+10,2016-17,Assam Police Housing Corporation Ltd,To be Opened,Works,60.0
+11,2016-17,Assam State Agricultural Marketing Board,AOC,Works,180.0
+12,2016-17,Assam State Agricultural Marketing Board,Bid Opening,Works,365.0
+13,2016-17,Axom Sarba Siksha Abhijan Mission,Financial Bid Opening,Goods,90.0
+14,2016-17,Axom Sarba Siksha Abhijan Mission,Financial Bid Opening,Works,180.0
+15,2016-17,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Goods,90.0
+16,2016-17,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Services,84.0
+17,2016-17,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Works,90.0
+18,2016-17,Axom Sarba Siksha Abhijan Mission,To be Opened,Goods,87.22222222222223
+19,2016-17,Axom Sarba Siksha Abhijan Mission,To be Opened,Services,90.0
+20,2016-17,Axom Sarba Siksha Abhijan Mission,To be Opened,Works,90.0
+21,2016-17,Bodoland Territorial Council-PWD,AOC,Works,180.0
+22,2016-17,Bodoland Territorial Council-PWD,Technical Evaluation,Works,180.0
+23,2016-17,Bodoland Territorial Council-PWD,To be Opened,Works,180.0
+24,2016-17,Bodoland Territorial Council-WRD,AOC,Works,180.0
+25,2016-17,Department of Handloom Textile and Sericulture,AOC,Goods,365.0
+26,2016-17,Department of Handloom Textile and Sericulture,To be Opened,Works,180.0
+27,2016-17,Department of Labour and Welfare,AOC,Goods,60.0
+28,2016-17,Department of Science and Technology,Financial Bid Opening,Works,180.0
+29,2016-17,Department of Science and Technology,Technical Evaluation,Works,362.5
+30,2016-17,Department of Tourism,AOC,Works,202.5
+31,2016-17,Department of Tourism,To be Opened,Works,193.84615384615384
+32,2016-17,Department of Water Resources,AOC,Works,180.0
+33,2016-17,Department of Water Resources,Financial Bid Opening,Goods,180.0
+34,2016-17,Department of Water Resources,Financial Bid Opening,Works,180.09316770186336
+35,2016-17,Department of Water Resources,Financial Evaluation,Works,180.0
+36,2016-17,Department of Water Resources,Technical Bid Opening,Works,180.0
+37,2016-17,Department of Water Resources,Technical Evaluation,Works,171.62790697674419
+38,2016-17,Department of Water Resources,To be Opened,Works,180.0
+39,2016-17,Director- Fire and Emergency Services-Assam,AOC,Works,365.0
+40,2016-17,Director- Fire and Emergency Services-Assam,Financial Evaluation,Works,365.0
+41,2016-17,Director- Fire and Emergency Services-Assam,To be Opened,Works,365.0
+42,2016-17,Directorate of Agriculture and Assam Seed Corporation,AOC,Goods,90.0
+43,2016-17,Directorate of Agriculture and Assam Seed Corporation,Evaluation,Goods,30.0
+44,2016-17,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Goods,90.0
+45,2016-17,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Works,90.0
+46,2016-17,Directorate of Agriculture and Assam Seed Corporation,To be Opened,Goods,90.0
+47,2016-17,Directorate of Sports and Youth Welfare - Assam,Technical Evaluation,Services,90.0
+48,2016-17,Directorate of Sports and Youth Welfare - Assam,To be Opened,Services,90.0
+49,2016-17,Directorate of Sports and Youth Welfare - Assam,To be Opened,Works,90.0
+50,2016-17,Elementary Education Department,AOC,Goods,90.0
+51,2016-17,Elementary Education Department,To be Opened,Goods,90.0
+52,2016-17,Excise Department,To be Opened,Goods,21.0
+53,2016-17,Food Civil Supplies and Consumer Affairs Department,To be Opened,Works,90.0
+54,2016-17,Gauhati High Court - Guwahati,AOC,Goods,180.0
+55,2016-17,Gauhati High Court - Guwahati,AOC,Services,180.0
+56,2016-17,Gauhati High Court - Guwahati,To be Opened,Goods,180.0
+57,2016-17,Gauhati High Court - Guwahati,To be Opened,Services,180.0
+58,2016-17,Guwahati Metropolitan Development Authority,Financial Bid Opening,Works,120.0
+59,2016-17,Guwahati Metropolitan Development Authority,Financial Evaluation,Works,120.0
+60,2016-17,Guwahati Metropolitan Development Authority,Technical Evaluation,Works,90.0
+61,2016-17,Guwahati Metropolitan Development Authority,To be Opened,Services,120.0
+62,2016-17,Guwahati Metropolitan Development Authority,To be Opened,Works,120.0
+63,2016-17,Health and Family Welfare Department,AOC,Goods,365.0
+64,2016-17,Health and Family Welfare Department,Financial Evaluation,Goods,319.2857142857143
+65,2016-17,Health and Family Welfare Department,Technical Bid Opening,Goods,337.77777777777777
+66,2016-17,Health and Family Welfare Department,Technical Evaluation,Goods,365.0
+67,2016-17,Health and Family Welfare Department,To be Opened,Goods,365.0
+68,2016-17,Higher Education (Technical) Department,AOC,Goods,90.0
+69,2016-17,Higher Education (Technical) Department,To be Opened,Goods,90.0
+70,2016-17,Home B,Financial Bid Opening,Goods,365.0
+71,2016-17,Home B,Financial Evaluation,Goods,365.0
+72,2016-17,Home B,Technical Bid Opening,Goods,365.0
+73,2016-17,Home B,Technical Evaluation,Goods,365.0
+74,2016-17,Industries and Commerce Department,AOC,Services,60.0
+75,2016-17,Industries and Commerce Department,AOC,Works,161.25
+76,2016-17,Industries and Commerce Department,Financial Bid Opening,Services,120.0
+77,2016-17,Industries and Commerce Department,Financial Evaluation,Works,180.0
+78,2016-17,Industries and Commerce Department,Technical Bid Opening,Works,120.0
+79,2016-17,Industries and Commerce Department,Technical Evaluation,Goods,180.0
+80,2016-17,Industries and Commerce Department,Technical Evaluation,Works,242.0
+81,2016-17,Industries and Commerce Department,To be Opened,Goods,180.0
+82,2016-17,Industries and Commerce Department,To be Opened,Services,180.0
+83,2016-17,Industries and Commerce Department,To be Opened,Works,191.25
+84,2016-17,Information and Public Relations Department,Financial Evaluation,Works,120.0
+85,2016-17,Information and Public Relations Department,To be Opened,Services,90.0
+86,2016-17,Irrigation Department,AOC,Works,116.875
+87,2016-17,Irrigation Department,Financial Bid Opening,Works,180.0
+88,2016-17,Irrigation Department,Technical Evaluation,Works,180.0
+89,2016-17,National Health Mission,AOC,Works,180.0
+90,2016-17,National Health Mission,Financial Bid Opening,Goods,90.0
+91,2016-17,National Health Mission,Financial Evaluation,Works,180.0
+92,2016-17,National Health Mission,Technical Bid Opening,Works,180.0
+93,2016-17,National Health Mission,Technical Evaluation,Goods,105.0
+94,2016-17,National Health Mission,Technical Evaluation,Services,180.0
+95,2016-17,National Health Mission,Technical Evaluation,Works,182.5
+96,2016-17,National Health Mission,To be Opened,Goods,128.57142857142858
+97,2016-17,National Health Mission,To be Opened,Services,180.0
+98,2016-17,National Health Mission,To be Opened,Works,176.66666666666666
+99,2016-17,National Register of Citizens Assam,Technical Evaluation,Goods,90.0
+100,2016-17,Organizing Committee-South Asian Games,Technical Evaluation,Works,90.0
+101,2016-17,Principal Secretary- P and RD- Assam Secretariat,Technical Bid Opening,Goods,180.0
+102,2016-17,Principal Secretary- P and RD- Assam Secretariat,Technical Bid Opening,Works,180.0
+103,2016-17,Principal Secretary- P and RD- Assam Secretariat,Technical Evaluation,Services,90.0
+104,2016-17,Principal Secretary- P and RD- Assam Secretariat,Technical Evaluation,Works,180.0
+105,2016-17,Principal Secretary- P and RD- Assam Secretariat,To be Opened,Goods,180.0
+106,2016-17,Principal Secretary-Department of Information Technology,AOC,Goods,180.0
+107,2016-17,Principal Secretary-Department of Information Technology,AOC,Services,120.0
+108,2016-17,Principal Secretary-Department of Information Technology,Evaluation,Works,180.0
+109,2016-17,Principal Secretary-Department of Information Technology,Financial Evaluation,Services,180.0
+110,2016-17,Principal Secretary-Department of Information Technology,Technical Evaluation,Services,180.0
+111,2016-17,Principal Secretary-Department of Information Technology,Technical Evaluation,Works,180.0
+112,2016-17,Principal Secretary-Department of Information Technology,To be Opened,Services,180.0
+113,2016-17,Public Health Engineering Department,AOC,Works,60.0
+114,2016-17,Public Health Engineering Department,Bid Opening,Works,60.0
+115,2016-17,Public Health Engineering Department,Technical Evaluation,Works,60.0
+116,2016-17,Public Health Engineering Department,To be Opened,Works,120.0
+117,2016-17,Public Works Building and NH Department,AOC,Works,180.0
+118,2016-17,Public Works Building and NH Department,Financial Bid Opening,Works,180.0
+119,2016-17,Public Works Building and NH Department,Financial Evaluation,Works,180.0
+120,2016-17,Public Works Building and NH Department,Technical Bid Opening,Goods,180.0
+121,2016-17,Public Works Building and NH Department,Technical Bid Opening,Works,112.5
+122,2016-17,Public Works Building and NH Department,Technical Evaluation,Services,180.0
+123,2016-17,Public Works Building and NH Department,Technical Evaluation,Works,176.04166666666666
+124,2016-17,Public Works Building and NH Department,To be Opened,Goods,180.0
+125,2016-17,Public Works Building and NH Department,To be Opened,Services,180.0
+126,2016-17,Public Works Building and NH Department,To be Opened,Works,180.0
+127,2016-17,Public Works Roads Department,AOC,Works,180.0
+128,2016-17,Public Works Roads Department,Technical Evaluation,Works,180.0
+129,2016-17,Public Works Roads Department,To be Opened,Works,180.0
+130,2016-17,Rashtriya Madhyamik Siksha Abhijan,Financial Evaluation,Goods,180.0
+131,2016-17,Rashtriya Madhyamik Siksha Abhijan,Technical Evaluation,Goods,112.5
+132,2016-17,Rashtriya Madhyamik Siksha Abhijan,Technical Evaluation,Services,115.71428571428571
+133,2016-17,Rashtriya Madhyamik Siksha Abhijan,To be Opened,Goods,90.0
+134,2016-17,Social Welfare Department,AOC,Goods,45.0
+135,2016-17,Social Welfare Department,Evaluation,Goods,45.0
+136,2016-17,Social Welfare Department,Financial Bid Opening,Goods,45.0
+137,2016-17,Social Welfare Department,Financial Evaluation,Goods,45.0
+138,2016-17,Social Welfare Department,To be Opened,Goods,77.5
+139,2016-17,Soil Conservation Department,AOC,Works,180.0
+140,2016-17,Soil Conservation Department,Financial Bid Opening,Works,180.0
+141,2016-17,Soil Conservation Department,Financial Evaluation,Works,180.0
+142,2016-17,Soil Conservation Department,To be Opened,Works,225.0
+143,2016-17,Taxation Department,Technical Evaluation,Goods,82.5
+144,2016-17,Taxation Department,Technical Evaluation,Works,90.0
+145,2016-17,Taxation Department,To be Opened,Goods,45.0
+146,2016-17,Tea Tribes Welfare Department,To be Opened,Goods,90.0
+147,2016-17,Urban Development Department,Technical Evaluation,Works,180.0
+148,2016-17,Urban Development Department,To be Opened,Works,180.0
+149,2016-17,Welfare of Plain Tribes and Backward Classes,AOC,Goods,90.0
+150,2016-17,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Goods,181.66666666666666
+151,2017-18,Animal Husbandry and Veterinary Department,AOC,Goods,135.0
+152,2017-18,Animal Husbandry and Veterinary Department,AOC,Works,180.0
+153,2017-18,Animal Husbandry and Veterinary Department,Financial Bid Opening,Goods,270.0
+154,2017-18,Animal Husbandry and Veterinary Department,Technical Evaluation,Goods,272.5
+155,2017-18,Animal Husbandry and Veterinary Department,To be Opened,Goods,180.0
+156,2017-18,Animal Husbandry and Veterinary Department,To be Opened,Works,180.0
+157,2017-18,Assam Electricity Grid Corporation Ltd,AOC,Goods,180.0
+158,2017-18,Assam Electricity Grid Corporation Ltd,AOC,Works,192.0
+159,2017-18,Assam Electricity Grid Corporation Ltd,Financial Bid Opening,Goods,180.0
+160,2017-18,Assam Electricity Grid Corporation Ltd,Financial Bid Opening,Works,180.0
+161,2017-18,Assam Electricity Grid Corporation Ltd,Technical Evaluation,Goods,165.0
+162,2017-18,Assam Electricity Grid Corporation Ltd,Technical Evaluation,Works,165.0
+163,2017-18,Assam Electricity Grid Corporation Ltd,To be Opened,Goods,180.0
+164,2017-18,Assam Electricity Grid Corporation Ltd,To be Opened,Works,200.0
+165,2017-18,Assam Home Guards and Civil Defence Organization,AOC,Goods,180.0
+166,2017-18,Assam Land Management and Information Society,Financial Evaluation,Goods,180.0
+167,2017-18,Assam Land Management and Information Society,To be Opened,Goods,180.0
+168,2017-18,Assam Police,AOC,Goods,346.5
+169,2017-18,Assam Police,AOC,Services,90.0
+170,2017-18,Assam Police,Financial Bid Opening,Goods,365.0
+171,2017-18,Assam Police,Technical Evaluation,Goods,365.0
+172,2017-18,Assam Police,To be Opened,Goods,211.11111111111111
+173,2017-18,Assam Police Housing Corporation Ltd,Bid Opening,Works,60.0
+174,2017-18,Assam Police Housing Corporation Ltd,Financial Bid Opening,Works,60.0
+175,2017-18,Assam Police Housing Corporation Ltd,Financial Evaluation,Works,60.0
+176,2017-18,Assam Police Housing Corporation Ltd,Technical Evaluation,Works,60.0
+177,2017-18,Assam Police Housing Corporation Ltd,To be Opened,Works,60.0
+178,2017-18,Assam Power Distribution Company Ltd,AOC,Goods,180.0
+179,2017-18,Assam Power Distribution Company Ltd,AOC,Works,180.17045454545453
+180,2017-18,Assam Power Distribution Company Ltd,Financial Bid Opening,Works,180.0
+181,2017-18,Assam Power Distribution Company Ltd,Financial Evaluation,Works,180.0
+182,2017-18,Assam Power Distribution Company Ltd,Technical Evaluation,Works,172.22222222222223
+183,2017-18,Assam Power Distribution Company Ltd,To be Opened,Goods,226.25
+184,2017-18,Assam Power Distribution Company Ltd,To be Opened,Works,180.0
+185,2017-18,Assam Power Generation Company Limited,AOC,Goods,120.0
+186,2017-18,Assam Power Generation Company Limited,AOC,Works,135.0
+187,2017-18,Assam Power Generation Company Limited,Financial Bid Opening,Works,105.0
+188,2017-18,Assam Power Generation Company Limited,Financial Evaluation,Works,120.0
+189,2017-18,Assam Power Generation Company Limited,Technical Bid Opening,Works,120.0
+190,2017-18,Assam Power Generation Company Limited,Technical Evaluation,Works,95.0
+191,2017-18,Assam Power Generation Company Limited,To be Opened,Goods,120.0
+192,2017-18,Assam Power Generation Company Limited,To be Opened,Works,150.0
+193,2017-18,Assam Power Generation Company Limited APGCL - ADB,Technical Bid Opening,Services,180.0
+194,2017-18,Assam Society for Comprehensive Financial Management System,Evaluation,Services,90.0
+195,2017-18,Assam Society for Comprehensive Financial Management System,To be Opened,Goods,120.0
+196,2017-18,Assam Society for Comprehensive Financial Management System,To be Opened,Services,45.0
+197,2017-18,Assam State Disaster Management Authority,AOC,Goods,180.0
+198,2017-18,Assam State Disaster Management Authority,AOC,Services,180.0
+199,2017-18,Assam State Disaster Management Authority,To be Opened,Goods,180.0
+200,2017-18,Assam State Transport Corporation,AOC,Services,180.0
+201,2017-18,Axom Sarba Siksha Abhijan Mission,Financial Bid Opening,Services,90.0
+202,2017-18,Axom Sarba Siksha Abhijan Mission,Technical Bid Opening,Services,90.0
+203,2017-18,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Goods,86.05263157894737
+204,2017-18,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Services,84.0
+205,2017-18,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Works,150.0
+206,2017-18,Axom Sarba Siksha Abhijan Mission,To be Opened,Goods,96.0
+207,2017-18,Axom Sarba Siksha Abhijan Mission,To be Opened,Services,90.0
+208,2017-18,Axom Sarba Siksha Abhijan Mission,To be Opened,Works,112.5
+209,2017-18,Bodoland Territorial Council,AOC,Goods,120.0
+210,2017-18,Bodoland Territorial Council,AOC,Works,178.2
+211,2017-18,Bodoland Territorial Council,Financial Bid Opening,Works,154.28571428571428
+212,2017-18,Bodoland Territorial Council,Financial Evaluation,Goods,180.0
+213,2017-18,Bodoland Territorial Council,Financial Evaluation,Works,166.30434782608697
+214,2017-18,Bodoland Territorial Council,Technical Bid Opening,Goods,180.0
+215,2017-18,Bodoland Territorial Council,Technical Bid Opening,Works,161.66666666666666
+216,2017-18,Bodoland Territorial Council,Technical Evaluation,Goods,102.85714285714286
+217,2017-18,Bodoland Territorial Council,Technical Evaluation,Works,178.23529411764707
+218,2017-18,Bodoland Territorial Council,To be Opened,Goods,180.0
+219,2017-18,Bodoland Territorial Council,To be Opened,Works,180.0
+220,2017-18,Bodoland Territorial Council-PWD,AOC,Works,180.0
+221,2017-18,Bodoland Territorial Council-PWD,Financial Bid Opening,Works,180.0
+222,2017-18,Bodoland Territorial Council-PWD,Financial Evaluation,Works,180.0
+223,2017-18,Bodoland Territorial Council-PWD,Technical Evaluation,Works,180.0
+224,2017-18,Bodoland Territorial Council-PWD,To be Opened,Works,180.0
+225,2017-18,Bodoland Territorial Council-WRD,AOC,Works,166.93548387096774
+226,2017-18,Bodoland Territorial Council-WRD,Technical Evaluation,Works,180.0
+227,2017-18,Bodoland Territorial Council-WRD,To be Opened,Works,162.0
+228,2017-18,Commissionerate Of Transport,Technical Evaluation,Goods,180.0
+229,2017-18,Commissionerate Of Transport,Technical Evaluation,Services,90.0
+230,2017-18,Commissionerate Of Transport,To be Opened,Goods,90.0
+231,2017-18,Commissionerate Of Transport,To be Opened,Services,90.0
+232,2017-18,Cooperation Department,AOC,Works,180.0
+233,2017-18,Cooperation Department,Financial Evaluation,Works,180.0
+234,2017-18,Cooperation Department,Technical Evaluation,Works,180.0
+235,2017-18,Cooperation Department,To be Opened,Works,180.0
+236,2017-18,Cotton University,AOC,Works,180.0
+237,2017-18,Department of Cultural Affairs,AOC,Works,180.0
+238,2017-18,Department of Cultural Affairs,Financial Evaluation,Works,135.0
+239,2017-18,Department of Cultural Affairs,Technical Bid Opening,Goods,180.0
+240,2017-18,Department of Cultural Affairs,Technical Bid Opening,Works,90.0
+241,2017-18,Department of Cultural Affairs,Technical Evaluation,Goods,180.0
+242,2017-18,Department of Cultural Affairs,Technical Evaluation,Works,106.36363636363636
+243,2017-18,Department of Cultural Affairs,To be Opened,Goods,180.0
+244,2017-18,Department of Cultural Affairs,To be Opened,Works,175.26315789473685
+245,2017-18,Department of Fisheries,AOC,Works,180.0
+246,2017-18,Department of Fisheries,Technical Evaluation,Works,180.0
+247,2017-18,Department of Fisheries,To be Opened,Works,180.0
+248,2017-18,Department of Handloom Textile and Sericulture,Financial Evaluation,Goods,365.0
+249,2017-18,Department of Handloom Textile and Sericulture,Financial Evaluation,Works,174.54545454545453
+250,2017-18,Department of Handloom Textile and Sericulture,Technical Bid Opening,Works,180.0
+251,2017-18,Department of Handloom Textile and Sericulture,Technical Evaluation,Works,172.5
+252,2017-18,Department of Handloom Textile and Sericulture,To be Opened,Works,165.23809523809524
+253,2017-18,Department of Higher Education,AOC,Works,180.0
+254,2017-18,Department of Higher Education,Financial Evaluation,Works,180.0
+255,2017-18,Department of Higher Education,Technical Evaluation,Goods,31.973684210526315
+256,2017-18,Department of Higher Education,To be Opened,Goods,36.81818181818182
+257,2017-18,Department of Higher Education,To be Opened,Services,180.0
+258,2017-18,Department of Science and Technology,Financial Bid Opening,Works,365.0
+259,2017-18,Department of Science and Technology,Technical Evaluation,Works,120.0
+260,2017-18,Department of Science and Technology,To be Opened,Works,365.0
+261,2017-18,Department of Tourism,AOC,Works,180.0
+262,2017-18,Department of Tourism,To be Opened,Works,180.0
+263,2017-18,Department of Water Resources,AOC,Works,173.20754716981133
+264,2017-18,Department of Water Resources,Bid Opening,Works,120.0
+265,2017-18,Department of Water Resources,Financial Bid Opening,Goods,180.0
+266,2017-18,Department of Water Resources,Financial Bid Opening,Works,180.0
+267,2017-18,Department of Water Resources,Financial Evaluation,Works,180.0
+268,2017-18,Department of Water Resources,Technical Bid Opening,Works,180.0
+269,2017-18,Department of Water Resources,Technical Evaluation,Goods,180.0
+270,2017-18,Department of Water Resources,Technical Evaluation,Works,180.0
+271,2017-18,Department of Water Resources,To be Opened,Goods,180.0
+272,2017-18,Department of Water Resources,To be Opened,Services,180.0
+273,2017-18,Department of Water Resources,To be Opened,Works,179.0
+274,2017-18,Director- Fire and Emergency Services-Assam,AOC,Goods,365.0
+275,2017-18,Director- Fire and Emergency Services-Assam,AOC,Works,208.46153846153845
+276,2017-18,Director- Fire and Emergency Services-Assam,Evaluation,Goods,365.0
+277,2017-18,Director- Fire and Emergency Services-Assam,To be Opened,Works,180.0
+278,2017-18,Directorate of Agriculture and Assam Seed Corporation,AOC,Goods,90.0
+279,2017-18,Directorate of Agriculture and Assam Seed Corporation,AOC,Services,60.0
+280,2017-18,Directorate of Agriculture and Assam Seed Corporation,AOC,Works,45.0
+281,2017-18,Directorate of Agriculture and Assam Seed Corporation,Evaluation,Services,181.66666666666666
+282,2017-18,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Goods,163.33333333333334
+283,2017-18,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Services,90.0
+284,2017-18,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Works,105.0
+285,2017-18,Directorate of Agriculture and Assam Seed Corporation,Technical Bid Opening,Goods,45.0
+286,2017-18,Directorate of Agriculture and Assam Seed Corporation,Technical Bid Opening,Works,90.0
+287,2017-18,Directorate of Agriculture and Assam Seed Corporation,Technical Evaluation,Goods,227.5
+288,2017-18,Directorate of Agriculture and Assam Seed Corporation,Technical Evaluation,Services,67.5
+289,2017-18,Directorate of Agriculture and Assam Seed Corporation,Technical Evaluation,Works,90.0
+290,2017-18,Directorate of Agriculture and Assam Seed Corporation,To be Opened,Goods,90.0
+291,2017-18,Directorate of Agriculture and Assam Seed Corporation,To be Opened,Works,120.0
+292,2017-18,Directorate of Forensic Science Assam,Financial Bid Opening,Goods,180.0
+293,2017-18,Directorate of Forensic Science Assam,Technical Evaluation,Goods,180.0
+294,2017-18,Directorate of Forensic Science Assam,To be Opened,Goods,180.0
+295,2017-18,Directorate of Horticulture Assam,Financial Evaluation,Goods,90.0
+296,2017-18,Directorate of Horticulture Assam,To be Opened,Services,90.0
+297,2017-18,Directorate of Sports and Youth Welfare - Assam,AOC,Services,60.0
+298,2017-18,Directorate of Sports and Youth Welfare - Assam,AOC,Works,90.0
+299,2017-18,Directorate of Sports and Youth Welfare - Assam,Technical Evaluation,Goods,75.0
+300,2017-18,Directorate of Sports and Youth Welfare - Assam,To be Opened,Goods,60.0
+301,2017-18,Directorate of Sports and Youth Welfare - Assam,To be Opened,Services,60.0
+302,2017-18,Directorate of Sports and Youth Welfare - Assam,To be Opened,Works,60.0
+303,2017-18,Elementary Education Department,AOC,Goods,90.0
+304,2017-18,Elementary Education Department,To be Opened,Goods,90.0
+305,2017-18,Elementary Education Department,To be Opened,Works,90.0
+306,2017-18,Excise Department,To be Opened,Goods,60.0
+307,2017-18,Food Civil Supplies and Consumer Affairs Department,AOC,Goods,365.0
+308,2017-18,Food Civil Supplies and Consumer Affairs Department,AOC,Services,365.0
+309,2017-18,Food Civil Supplies and Consumer Affairs Department,Evaluation,Goods,365.0
+310,2017-18,Food Civil Supplies and Consumer Affairs Department,Financial Bid Opening,Goods,365.0
+311,2017-18,Food Civil Supplies and Consumer Affairs Department,Financial Evaluation,Goods,365.0
+312,2017-18,Food Civil Supplies and Consumer Affairs Department,Technical Evaluation,Goods,365.0
+313,2017-18,Food Civil Supplies and Consumer Affairs Department,Technical Evaluation,Works,365.0
+314,2017-18,Food Civil Supplies and Consumer Affairs Department,To be Opened,Goods,365.0
+315,2017-18,Gauhati High Court - Guwahati,AOC,Goods,200.0
+316,2017-18,Gauhati High Court - Guwahati,Technical Bid Opening,Goods,180.0
+317,2017-18,Gauhati High Court - Guwahati,To be Opened,Goods,180.0
+318,2017-18,General Administration Department,Financial Evaluation,Services,120.0
+319,2017-18,General Administration Department,To be Opened,Services,120.0
+320,2017-18,Guwahati Metropolitan Development Authority,Evaluation,Works,120.0
+321,2017-18,Guwahati Metropolitan Development Authority,Financial Evaluation,Works,180.0
+322,2017-18,Guwahati Metropolitan Development Authority,Technical Bid Opening,Works,120.0
+323,2017-18,Guwahati Metropolitan Development Authority,Technical Evaluation,Works,120.0
+324,2017-18,Guwahati Metropolitan Development Authority,To be Opened,Services,180.0
+325,2017-18,Guwahati Metropolitan Development Authority,To be Opened,Works,120.0
+326,2017-18,Guwahati Municipal Corporation,AOC,Works,734.6376811594203
+327,2017-18,Guwahati Municipal Corporation,Evaluation,Works,135.0
+328,2017-18,Guwahati Municipal Corporation,Financial Evaluation,Goods,90.0
+329,2017-18,Guwahati Municipal Corporation,Financial Evaluation,Works,120.0
+330,2017-18,Guwahati Municipal Corporation,Technical Bid Opening,Works,90.0
+331,2017-18,Guwahati Municipal Corporation,Technical Evaluation,Works,682.0
+332,2017-18,Guwahati Municipal Corporation,To be Opened,Works,404.17543859649123
+333,2017-18,Guwahati Smart City Ltd.,Technical Evaluation,Works,180.0
+334,2017-18,Guwahati Smart City Ltd.,To be Opened,Works,161.53846153846155
+335,2017-18,Health and Family Welfare Department,AOC,Goods,354.44444444444446
+336,2017-18,Health and Family Welfare Department,AOC,Services,90.0
+337,2017-18,Health and Family Welfare Department,AOC,Works,120.0
+338,2017-18,Health and Family Welfare Department,Financial Bid Opening,Goods,90.0
+339,2017-18,Health and Family Welfare Department,Financial Bid Opening,Services,410.0
+340,2017-18,Health and Family Welfare Department,Financial Bid Opening,Works,90.0
+341,2017-18,Health and Family Welfare Department,Financial Evaluation,Goods,428.875
+342,2017-18,Health and Family Welfare Department,Financial Evaluation,Services,303.3333333333333
+343,2017-18,Health and Family Welfare Department,Technical Bid Opening,Goods,408.8
+344,2017-18,Health and Family Welfare Department,Technical Bid Opening,Services,363.3333333333333
+345,2017-18,Health and Family Welfare Department,Technical Evaluation,Goods,435.9259259259259
+346,2017-18,Health and Family Welfare Department,Technical Evaluation,Services,45.0
+347,2017-18,Health and Family Welfare Department,To be Opened,Goods,418.8636363636364
+348,2017-18,Health and Family Welfare Department,To be Opened,Services,272.85714285714283
+349,2017-18,Higher Education (Technical) Department,Financial Bid Opening,Goods,90.0
+350,2017-18,Higher Education (Technical) Department,Financial Evaluation,Goods,90.0
+351,2017-18,Higher Education (Technical) Department,Technical Bid Opening,Goods,90.0
+352,2017-18,Higher Education (Technical) Department,To be Opened,Goods,90.0
+353,2017-18,Home B,AOC,Goods,365.0
+354,2017-18,Home B,Financial Evaluation,Goods,365.0
+355,2017-18,Home B,Financial Evaluation,Services,365.0
+356,2017-18,Home B,Technical Bid Opening,Goods,365.0
+357,2017-18,Industries and Commerce Department,AOC,Goods,158.57142857142858
+358,2017-18,Industries and Commerce Department,AOC,Services,146.66666666666666
+359,2017-18,Industries and Commerce Department,AOC,Works,136.36363636363637
+360,2017-18,Industries and Commerce Department,Bid Opening,Services,60.0
+361,2017-18,Industries and Commerce Department,Bid Opening,Works,180.0
+362,2017-18,Industries and Commerce Department,Evaluation,Works,180.0
+363,2017-18,Industries and Commerce Department,Financial Bid Opening,Goods,210.0
+364,2017-18,Industries and Commerce Department,Financial Bid Opening,Services,90.0
+365,2017-18,Industries and Commerce Department,Financial Bid Opening,Works,177.5
+366,2017-18,Industries and Commerce Department,Financial Evaluation,Goods,120.0
+367,2017-18,Industries and Commerce Department,Financial Evaluation,Services,272.5
+368,2017-18,Industries and Commerce Department,Financial Evaluation,Works,180.0
+369,2017-18,Industries and Commerce Department,Technical Bid Opening,Goods,180.0
+370,2017-18,Industries and Commerce Department,Technical Bid Opening,Services,272.5
+371,2017-18,Industries and Commerce Department,Technical Bid Opening,Works,150.0
+372,2017-18,Industries and Commerce Department,Technical Evaluation,Goods,203.88888888888889
+373,2017-18,Industries and Commerce Department,Technical Evaluation,Services,165.83333333333334
+374,2017-18,Industries and Commerce Department,Technical Evaluation,Works,197.61904761904762
+375,2017-18,Industries and Commerce Department,To be Opened,Goods,243.75
+376,2017-18,Industries and Commerce Department,To be Opened,Services,173.57142857142858
+377,2017-18,Industries and Commerce Department,To be Opened,Works,171.13636363636363
+378,2017-18,Information and Public Relations Department,To be Opened,Works,135.0
+379,2017-18,Irrigation Department,AOC,Works,180.0
+380,2017-18,Irrigation Department,Financial Evaluation,Works,180.0
+381,2017-18,Irrigation Department,Technical Evaluation,Works,180.0
+382,2017-18,Irrigation Department,To be Opened,Works,180.0
+383,2017-18,Karbi Anglong Autonomous Council,Financial Evaluation,Works,180.0
+384,2017-18,Karbi Anglong Autonomous Council,To be Opened,Works,180.0
+385,2017-18,Mines  and Minerals Department,AOC,Goods,180.0
+386,2017-18,Mines  and Minerals Department,Financial Evaluation,Goods,180.0
+387,2017-18,Mines  and Minerals Department,Technical Evaluation,Services,180.0
+388,2017-18,Mines  and Minerals Department,To be Opened,Goods,180.0
+389,2017-18,National Health Mission,AOC,Goods,150.0
+390,2017-18,National Health Mission,AOC,Services,180.0
+391,2017-18,National Health Mission,AOC,Works,225.0
+392,2017-18,National Health Mission,Financial Bid Opening,Goods,150.0
+393,2017-18,National Health Mission,Financial Bid Opening,Works,180.0
+394,2017-18,National Health Mission,Financial Evaluation,Goods,160.0
+395,2017-18,National Health Mission,Technical Evaluation,Goods,124.54545454545455
+396,2017-18,National Health Mission,Technical Evaluation,Services,150.0
+397,2017-18,National Health Mission,Technical Evaluation,Works,189.0625
+398,2017-18,National Health Mission,To be Opened,Goods,128.57142857142858
+399,2017-18,National Health Mission,To be Opened,Services,150.0
+400,2017-18,National Health Mission,To be Opened,Works,189.0
+401,2017-18,Office of the Chief Electoral Officer Assam,Financial Evaluation,Goods,730.0
+402,2017-18,Pr. Chief Conservator of Forest and Head of Forest Force,Financial Evaluation,Works,45.0
+403,2017-18,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Evaluation,Works,30.0
+404,2017-18,Pr. Chief Conservator of Forest and Head of Forest Force,To be Opened,Works,45.0
+405,2017-18,Principal Secretary- P and RD- Assam Secretariat,AOC,Goods,157.5
+406,2017-18,Principal Secretary- P and RD- Assam Secretariat,AOC,Services,97.5
+407,2017-18,Principal Secretary- P and RD- Assam Secretariat,Evaluation,Services,45.0
+408,2017-18,Principal Secretary- P and RD- Assam Secretariat,Technical Bid Opening,Goods,180.0
+409,2017-18,Principal Secretary- P and RD- Assam Secretariat,Technical Bid Opening,Services,90.0
+410,2017-18,Principal Secretary- P and RD- Assam Secretariat,Technical Evaluation,Goods,180.0
+411,2017-18,Principal Secretary- P and RD- Assam Secretariat,Technical Evaluation,Works,180.0
+412,2017-18,Principal Secretary- P and RD- Assam Secretariat,To be Opened,Goods,180.0
+413,2017-18,Principal Secretary- P and RD- Assam Secretariat,To be Opened,Works,180.0
+414,2017-18,Principal Secretary-Department of Information Technology,AOC,Goods,180.0
+415,2017-18,Principal Secretary-Department of Information Technology,AOC,Services,150.0
+416,2017-18,Principal Secretary-Department of Information Technology,AOC,Works,135.0
+417,2017-18,Principal Secretary-Department of Information Technology,Evaluation,Goods,180.0
+418,2017-18,Principal Secretary-Department of Information Technology,Evaluation,Services,120.0
+419,2017-18,Principal Secretary-Department of Information Technology,Financial Bid Opening,Goods,180.0
+420,2017-18,Principal Secretary-Department of Information Technology,Financial Evaluation,Goods,180.0
+421,2017-18,Principal Secretary-Department of Information Technology,Financial Evaluation,Services,142.5
+422,2017-18,Principal Secretary-Department of Information Technology,Financial Evaluation,Works,105.0
+423,2017-18,Principal Secretary-Department of Information Technology,Technical Evaluation,Goods,180.0
+424,2017-18,Principal Secretary-Department of Information Technology,Technical Evaluation,Services,180.0
+425,2017-18,Principal Secretary-Department of Information Technology,To be Opened,Goods,180.0
+426,2017-18,Principal Secretary-Department of Information Technology,To be Opened,Services,180.0
+427,2017-18,Principal Secretary-Department of Information Technology,To be Opened,Works,180.0
+428,2017-18,Printing and Stationery Department,Technical Evaluation,Goods,135.0
+429,2017-18,Printing and Stationery Department,To be Opened,Goods,180.0
+430,2017-18,Public Health Engineering Department,AOC,Goods,60.0
+431,2017-18,Public Health Engineering Department,AOC,Services,157.5
+432,2017-18,Public Health Engineering Department,AOC,Works,77.14285714285714
+433,2017-18,Public Health Engineering Department,Financial Bid Opening,Works,180.0
+434,2017-18,Public Health Engineering Department,Financial Evaluation,Goods,60.0
+435,2017-18,Public Health Engineering Department,Technical Bid Opening,Goods,60.0
+436,2017-18,Public Health Engineering Department,Technical Evaluation,Goods,95.93333333333334
+437,2017-18,Public Health Engineering Department,Technical Evaluation,Works,180.0
+438,2017-18,Public Health Engineering Department,To be Opened,Goods,75.0
+439,2017-18,Public Health Engineering Department,To be Opened,Services,120.0
+440,2017-18,Public Health Engineering Department,To be Opened,Works,180.0
+441,2017-18,Public Works Building and NH Department,AOC,Works,180.16483516483515
+442,2017-18,Public Works Building and NH Department,Financial Bid Opening,Works,180.0
+443,2017-18,Public Works Building and NH Department,Financial Evaluation,Goods,180.0
+444,2017-18,Public Works Building and NH Department,Financial Evaluation,Works,180.0
+445,2017-18,Public Works Building and NH Department,Technical Bid Opening,Works,180.0
+446,2017-18,Public Works Building and NH Department,Technical Evaluation,Works,180.0
+447,2017-18,Public Works Building and NH Department,To be Opened,Works,178.91129032258064
+448,2017-18,Public Works Roads Department,AOC,Works,94.57627118644068
+449,2017-18,Public Works Roads Department,Financial Bid Opening,Works,176.43243243243242
+450,2017-18,Public Works Roads Department,Financial Evaluation,Works,106.25
+451,2017-18,Public Works Roads Department,Technical Bid Opening,Works,94.18604651162791
+452,2017-18,Public Works Roads Department,Technical Evaluation,Goods,180.0
+453,2017-18,Public Works Roads Department,Technical Evaluation,Works,172.91803278688525
+454,2017-18,Public Works Roads Department,To be Opened,Goods,60.0
+455,2017-18,Public Works Roads Department,To be Opened,Services,180.0
+456,2017-18,Public Works Roads Department,To be Opened,Works,171.91616766467067
+457,2017-18,Rashtriya Madhyamik Siksha Abhijan,Financial Evaluation,Goods,90.0
+458,2017-18,Rashtriya Madhyamik Siksha Abhijan,Financial Evaluation,Services,150.0
+459,2017-18,Rashtriya Madhyamik Siksha Abhijan,Technical Evaluation,Goods,110.0
+460,2017-18,Rashtriya Madhyamik Siksha Abhijan,Technical Evaluation,Services,162.0
+461,2017-18,Rashtriya Madhyamik Siksha Abhijan,Technical Evaluation,Works,137.3684210526316
+462,2017-18,Rashtriya Madhyamik Siksha Abhijan,To be Opened,Goods,120.0
+463,2017-18,Rashtriya Madhyamik Siksha Abhijan,To be Opened,Services,180.0
+464,2017-18,Rashtriya Madhyamik Siksha Abhijan,To be Opened,Works,110.0
+465,2017-18,SECONDARY EDUCATION DEPARTMENT ASSAM,Financial Bid Opening,Goods,365.0
+466,2017-18,SECONDARY EDUCATION DEPARTMENT ASSAM,To be Opened,Goods,161.66666666666666
+467,2017-18,Skill Employment and Entrepreneurship Department,Evaluation,Works,90.0
+468,2017-18,Skill Employment and Entrepreneurship Department,Financial Bid Opening,Services,120.0
+469,2017-18,Skill Employment and Entrepreneurship Department,Technical Evaluation,Services,120.0
+470,2017-18,Skill Employment and Entrepreneurship Department,Technical Evaluation,Works,180.0
+471,2017-18,Skill Employment and Entrepreneurship Department,To be Opened,Services,112.5
+472,2017-18,Skill Employment and Entrepreneurship Department,To be Opened,Works,180.0
+473,2017-18,Social Welfare Department,Financial Evaluation,Services,120.0
+474,2017-18,Soil Conservation Department,AOC,Works,180.0
+475,2017-18,Soil Conservation Department,Financial Bid Opening,Works,180.0
+476,2017-18,Soil Conservation Department,Financial Evaluation,Works,213.75
+477,2017-18,Soil Conservation Department,Technical Evaluation,Works,198.0
+478,2017-18,Soil Conservation Department,To be Opened,Works,180.0
+479,2017-18,Taxation Department,Technical Evaluation,Goods,45.0
+480,2017-18,Tea Tribes Welfare Department,AOC,Goods,60.0
+481,2017-18,Tea Tribes Welfare Department,AOC,Works,180.0
+482,2017-18,Tea Tribes Welfare Department,To be Opened,Goods,45.0
+483,2017-18,Tea Tribes Welfare Department,To be Opened,Works,90.0
+484,2017-18,Urban Development Department,AOC,Works,120.0
+485,2017-18,Urban Development Department,Financial Evaluation,Works,120.0
+486,2017-18,Urban Development Department,Technical Bid Opening,Works,140.0
+487,2017-18,Urban Development Department,Technical Evaluation,Works,120.0
+488,2017-18,Urban Development Department,To be Opened,Services,90.0
+489,2017-18,Welfare of Minorities Development Department,Financial Bid Opening,Goods,213.75
+490,2017-18,Welfare of Minorities Development Department,Financial Evaluation,Goods,255.0
+491,2017-18,Welfare of Minorities Development Department,Technical Bid Opening,Goods,255.0
+492,2017-18,Welfare of Minorities Development Department,To be Opened,Goods,305.0
+493,2017-18,Welfare of Plain Tribes and Backward Classes,AOC,Goods,90.0
+494,2017-18,Welfare of Plain Tribes and Backward Classes,AOC,Works,180.0
+495,2017-18,Welfare of Plain Tribes and Backward Classes,Evaluation,Services,90.0
+496,2017-18,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Goods,365.0
+497,2017-18,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Works,180.0
+498,2017-18,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Goods,289.5
+499,2017-18,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Works,180.0
+500,2017-18,Welfare of Plain Tribes and Backward Classes,Technical Evaluation,Goods,147.33333333333334
+501,2017-18,Welfare of Plain Tribes and Backward Classes,Technical Evaluation,Services,365.0
+502,2017-18,Welfare of Plain Tribes and Backward Classes,Technical Evaluation,Works,180.0
+503,2017-18,Welfare of Plain Tribes and Backward Classes,To be Opened,Goods,262.14285714285717
+504,2017-18,Welfare of Plain Tribes and Backward Classes,To be Opened,Services,272.5
+505,2017-18,Welfare of Plain Tribes and Backward Classes,To be Opened,Works,180.0
+506,2018-19,Animal Husbandry and Veterinary Department,AOC,Goods,85.83333333333333
+507,2018-19,Animal Husbandry and Veterinary Department,AOC,Services,337.0
+508,2018-19,Animal Husbandry and Veterinary Department,Financial Bid Opening,Goods,328.0
+509,2018-19,Animal Husbandry and Veterinary Department,Financial Bid Opening,Services,180.0
+510,2018-19,Animal Husbandry and Veterinary Department,Financial Bid Opening,Works,174.54545454545453
+511,2018-19,Animal Husbandry and Veterinary Department,Financial Evaluation,Works,90.0
+512,2018-19,Animal Husbandry and Veterinary Department,Technical Bid Opening,Services,180.0
+513,2018-19,Animal Husbandry and Veterinary Department,Technical Evaluation,Goods,340.4
+514,2018-19,Animal Husbandry and Veterinary Department,Technical Evaluation,Works,315.0
+515,2018-19,Animal Husbandry and Veterinary Department,To be Opened,Goods,108.0
+516,2018-19,Animal Husbandry and Veterinary Department,To be Opened,Services,180.0
+517,2018-19,Animal Husbandry and Veterinary Department,To be Opened,Works,180.0
+518,2018-19,Assam Electricity Grid Corporation Ltd,AOC,Goods,180.0
+519,2018-19,Assam Electricity Grid Corporation Ltd,AOC,Works,180.0
+520,2018-19,Assam Electricity Grid Corporation Ltd,Bid Opening,Services,180.0
+521,2018-19,Assam Electricity Grid Corporation Ltd,Financial Bid Opening,Goods,180.0
+522,2018-19,Assam Electricity Grid Corporation Ltd,Financial Bid Opening,Services,150.0
+523,2018-19,Assam Electricity Grid Corporation Ltd,Financial Bid Opening,Works,181.57894736842104
+524,2018-19,Assam Electricity Grid Corporation Ltd,Financial Evaluation,Goods,180.0
+525,2018-19,Assam Electricity Grid Corporation Ltd,Financial Evaluation,Works,210.0
+526,2018-19,Assam Electricity Grid Corporation Ltd,Technical Bid Opening,Goods,180.0
+527,2018-19,Assam Electricity Grid Corporation Ltd,Technical Bid Opening,Services,180.0
+528,2018-19,Assam Electricity Grid Corporation Ltd,Technical Bid Opening,Works,185.0
+529,2018-19,Assam Electricity Grid Corporation Ltd,Technical Evaluation,Goods,144.0
+530,2018-19,Assam Electricity Grid Corporation Ltd,Technical Evaluation,Works,180.0
+531,2018-19,Assam Electricity Grid Corporation Ltd,To be Opened,Goods,150.0
+532,2018-19,Assam Electricity Grid Corporation Ltd,To be Opened,Services,180.0
+533,2018-19,Assam Electricity Grid Corporation Ltd,To be Opened,Works,192.0
+534,2018-19,Assam Home Guards and Civil Defence Organization,AOC,Goods,365.0
+535,2018-19,Assam Inland Water Transport Development Society,AOC,Goods,90.0
+536,2018-19,Assam Inland Water Transport Development Society,AOC,Works,45.0
+537,2018-19,Assam Inland Water Transport Development Society,Evaluation,Services,120.0
+538,2018-19,Assam Inland Water Transport Development Society,Technical Bid Opening,Works,90.0
+539,2018-19,Assam Inland Water Transport Development Society,To be Opened,Goods,75.0
+540,2018-19,Assam Inland Water Transport Development Society,To be Opened,Works,90.0
+541,2018-19,Assam Police,AOC,Goods,307.5
+542,2018-19,Assam Police,AOC,Services,180.0
+543,2018-19,Assam Police,Bid Opening,Goods,365.0
+544,2018-19,Assam Police,Financial Bid Opening,Goods,180.0
+545,2018-19,Assam Police,Financial Evaluation,Goods,272.5
+546,2018-19,Assam Police,Financial Evaluation,Services,365.0
+547,2018-19,Assam Police,Technical Bid Opening,Goods,180.0
+548,2018-19,Assam Police,Technical Evaluation,Goods,365.0
+549,2018-19,Assam Police,To be Opened,Goods,250.0
+550,2018-19,Assam Police,To be Opened,Services,109.5
+551,2018-19,Assam Police Housing Corporation Ltd,Bid Opening,Works,60.0
+552,2018-19,Assam Police Housing Corporation Ltd,Financial Bid Opening,Works,63.87096774193548
+553,2018-19,Assam Police Housing Corporation Ltd,Technical Evaluation,Works,72.0
+554,2018-19,Assam Police Housing Corporation Ltd,To be Opened,Works,64.61538461538461
+555,2018-19,Assam Power Distribution Company Limited-ADB,To be Opened,Goods,180.0
+556,2018-19,Assam Power Distribution Company Ltd,AOC,Goods,203.125
+557,2018-19,Assam Power Distribution Company Ltd,AOC,Services,211.66666666666666
+558,2018-19,Assam Power Distribution Company Ltd,AOC,Works,106.12676056338029
+559,2018-19,Assam Power Distribution Company Ltd,Financial Bid Opening,Goods,270.0
+560,2018-19,Assam Power Distribution Company Ltd,Financial Evaluation,Works,90.0
+561,2018-19,Assam Power Distribution Company Ltd,Technical Evaluation,Works,178.92857142857142
+562,2018-19,Assam Power Distribution Company Ltd,To be Opened,Goods,241.66666666666666
+563,2018-19,Assam Power Distribution Company Ltd,To be Opened,Services,211.66666666666666
+564,2018-19,Assam Power Distribution Company Ltd,To be Opened,Works,215.625
+565,2018-19,Assam Power Generation Company Limited,AOC,Goods,120.0
+566,2018-19,Assam Power Generation Company Limited,AOC,Services,180.0
+567,2018-19,Assam Power Generation Company Limited,AOC,Works,112.5
+568,2018-19,Assam Power Generation Company Limited,Financial Bid Opening,Services,105.0
+569,2018-19,Assam Power Generation Company Limited,Financial Bid Opening,Works,96.0
+570,2018-19,Assam Power Generation Company Limited,Financial Evaluation,Services,90.0
+571,2018-19,Assam Power Generation Company Limited,Technical Bid Opening,Works,90.0
+572,2018-19,Assam Power Generation Company Limited,Technical Evaluation,Goods,180.0
+573,2018-19,Assam Power Generation Company Limited,Technical Evaluation,Works,90.0
+574,2018-19,Assam Power Generation Company Limited,To be Opened,Works,110.76923076923077
+575,2018-19,Assam Power Generation Company Limited APGCL - ADB,AOC,Services,180.0
+576,2018-19,Assam Power Generation Company Limited APGCL - ADB,Technical Bid Opening,Works,180.0
+577,2018-19,Assam Society for Comprehensive Financial Management System,AOC,Goods,120.0
+578,2018-19,Assam Society for Comprehensive Financial Management System,Technical Bid Opening,Goods,120.0
+579,2018-19,Assam Society for Comprehensive Financial Management System,To be Opened,Goods,180.0
+580,2018-19,Assam State Agricultural Marketing Board,AOC,Works,180.0
+581,2018-19,Assam State Disaster Management Authority,AOC,Goods,180.0
+582,2018-19,Assam State Disaster Management Authority,AOC,Services,180.0
+583,2018-19,Assam State Disaster Management Authority,Technical Bid Opening,Goods,180.0
+584,2018-19,Assam State Transport Corporation,AOC,Services,120.0
+585,2018-19,Assam State Transport Corporation,Evaluation,Services,120.0
+586,2018-19,Assam State Transport Corporation,Financial Bid Opening,Works,180.0
+587,2018-19,Assam State Transport Corporation,Technical Evaluation,Goods,120.0
+588,2018-19,Assam State Transport Corporation,To be Opened,Goods,120.0
+589,2018-19,Assam State Transport Corporation,To be Opened,Services,120.0
+590,2018-19,Assam State Transport Corporation,To be Opened,Works,180.0
+591,2018-19,Assam Urban Infrastructure Investment Program,Financial Evaluation,Works,180.0
+592,2018-19,Axom Sarba Siksha Abhijan Mission,Financial Bid Opening,Goods,90.0
+593,2018-19,Axom Sarba Siksha Abhijan Mission,Financial Bid Opening,Services,90.0
+594,2018-19,Axom Sarba Siksha Abhijan Mission,Financial Bid Opening,Works,180.0
+595,2018-19,Axom Sarba Siksha Abhijan Mission,Financial Evaluation,Goods,90.0
+596,2018-19,Axom Sarba Siksha Abhijan Mission,Financial Evaluation,Works,180.0
+597,2018-19,Axom Sarba Siksha Abhijan Mission,Technical Bid Opening,Goods,60.0
+598,2018-19,Axom Sarba Siksha Abhijan Mission,Technical Bid Opening,Services,60.0
+599,2018-19,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Goods,90.0
+600,2018-19,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Services,60.0
+601,2018-19,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Works,90.0
+602,2018-19,Axom Sarba Siksha Abhijan Mission,To be Opened,Goods,87.0
+603,2018-19,Axom Sarba Siksha Abhijan Mission,To be Opened,Services,67.5
+604,2018-19,Axom Sarba Siksha Abhijan Mission,To be Opened,Works,180.0
+605,2018-19,Bodoland Territorial Council,AOC,Goods,180.0
+606,2018-19,Bodoland Territorial Council,AOC,Works,177.53086419753086
+607,2018-19,Bodoland Territorial Council,Financial Bid Opening,Goods,180.0
+608,2018-19,Bodoland Territorial Council,Financial Bid Opening,Works,173.14285714285714
+609,2018-19,Bodoland Territorial Council,Financial Evaluation,Goods,165.6818181818182
+610,2018-19,Bodoland Territorial Council,Financial Evaluation,Services,105.0
+611,2018-19,Bodoland Territorial Council,Financial Evaluation,Works,168.78164556962025
+612,2018-19,Bodoland Territorial Council,Technical Bid Opening,Goods,180.0
+613,2018-19,Bodoland Territorial Council,Technical Bid Opening,Works,159.75
+614,2018-19,Bodoland Territorial Council,Technical Evaluation,Goods,180.0
+615,2018-19,Bodoland Territorial Council,Technical Evaluation,Works,178.15068493150685
+616,2018-19,Bodoland Territorial Council,To be Opened,Goods,180.0
+617,2018-19,Bodoland Territorial Council,To be Opened,Works,168.9795918367347
+618,2018-19,Bodoland Territorial Council-PWD,AOC,Works,179.9264705882353
+619,2018-19,Bodoland Territorial Council-PWD,Financial Bid Opening,Works,179.8695652173913
+620,2018-19,Bodoland Territorial Council-PWD,Technical Bid Opening,Works,180.0
+621,2018-19,Bodoland Territorial Council-PWD,To be Opened,Works,180.0
+622,2018-19,Bodoland Territorial Council-WRD,AOC,Works,102.0
+623,2018-19,Bodoland Territorial Council-WRD,Financial Evaluation,Works,90.0
+624,2018-19,Bodoland Territorial Council-WRD,Technical Bid Opening,Works,90.0
+625,2018-19,Bodoland Territorial Council-WRD,Technical Evaluation,Works,60.0
+626,2018-19,Bodoland Territorial Council-WRD,To be Opened,Works,90.0
+627,2018-19,Commissionerate Of Transport,Financial Bid Opening,Goods,90.0
+628,2018-19,Cooperation Department,AOC,Goods,240.0
+629,2018-19,Cooperation Department,Financial Bid Opening,Goods,120.0
+630,2018-19,Cooperation Department,Financial Evaluation,Works,180.0
+631,2018-19,Cooperation Department,Technical Bid Opening,Goods,105.0
+632,2018-19,Cooperation Department,Technical Evaluation,Goods,150.0
+633,2018-19,Cooperation Department,Technical Evaluation,Works,180.0
+634,2018-19,Cooperation Department,To be Opened,Goods,128.57142857142858
+635,2018-19,Cooperation Department,To be Opened,Services,45.0
+636,2018-19,Cooperation Department,To be Opened,Works,45.0
+637,2018-19,Cotton University,AOC,Works,180.0
+638,2018-19,Department of Cultural Affairs,AOC,Services,210.0
+639,2018-19,Department of Cultural Affairs,AOC,Works,180.0
+640,2018-19,Department of Cultural Affairs,Financial Bid Opening,Works,365.0
+641,2018-19,Department of Cultural Affairs,Technical Bid Opening,Works,180.0
+642,2018-19,Department of Cultural Affairs,Technical Evaluation,Services,180.0
+643,2018-19,Department of Cultural Affairs,Technical Evaluation,Works,180.0
+644,2018-19,Department of Cultural Affairs,To be Opened,Services,170.0
+645,2018-19,Department of Cultural Affairs,To be Opened,Works,272.5
+646,2018-19,Department of Fisheries,AOC,Works,146.25
+647,2018-19,Department of Fisheries,Financial Evaluation,Goods,180.0
+648,2018-19,Department of Fisheries,Financial Evaluation,Works,180.0
+649,2018-19,Department of Fisheries,Technical Bid Opening,Goods,180.0
+650,2018-19,Department of Fisheries,Technical Bid Opening,Works,180.0
+651,2018-19,Department of Fisheries,Technical Evaluation,Goods,180.0
+652,2018-19,Department of Fisheries,To be Opened,Goods,180.0
+653,2018-19,Department of Fisheries,To be Opened,Works,45.0
+654,2018-19,Department of Handloom Textile and Sericulture,AOC,Goods,180.0
+655,2018-19,Department of Handloom Textile and Sericulture,AOC,Works,180.0
+656,2018-19,Department of Handloom Textile and Sericulture,Financial Bid Opening,Goods,180.0
+657,2018-19,Department of Handloom Textile and Sericulture,Financial Bid Opening,Works,180.0
+658,2018-19,Department of Handloom Textile and Sericulture,Technical Evaluation,Goods,272.5
+659,2018-19,Department of Handloom Textile and Sericulture,To be Opened,Goods,180.0
+660,2018-19,Department of Higher Education,AOC,Goods,90.0
+661,2018-19,Department of Higher Education,AOC,Works,129.0
+662,2018-19,Department of Higher Education,Financial Bid Opening,Goods,30.0
+663,2018-19,Department of Higher Education,Financial Bid Opening,Works,160.0
+664,2018-19,Department of Higher Education,Financial Evaluation,Works,176.25
+665,2018-19,Department of Higher Education,Technical Evaluation,Works,180.0
+666,2018-19,Department of Higher Education,To be Opened,Goods,180.0
+667,2018-19,Department of Higher Education,To be Opened,Works,121.66666666666667
+668,2018-19,Department of Tourism,AOC,Works,191.25
+669,2018-19,Department of Tourism,Financial Evaluation,Works,180.0
+670,2018-19,Department of Tourism,Technical Bid Opening,Services,180.0
+671,2018-19,Department of Tourism,Technical Evaluation,Services,225.0
+672,2018-19,Department of Tourism,To be Opened,Services,210.0
+673,2018-19,Department of Tourism,To be Opened,Works,180.0
+674,2018-19,Department of Water Resources,AOC,Goods,120.0
+675,2018-19,Department of Water Resources,AOC,Works,178.5781990521327
+676,2018-19,Department of Water Resources,Financial Bid Opening,Works,180.0
+677,2018-19,Department of Water Resources,Financial Evaluation,Works,180.0
+678,2018-19,Department of Water Resources,Technical Bid Opening,Goods,180.0
+679,2018-19,Department of Water Resources,Technical Bid Opening,Works,180.0
+680,2018-19,Department of Water Resources,Technical Evaluation,Goods,180.0
+681,2018-19,Department of Water Resources,Technical Evaluation,Works,180.0
+682,2018-19,Department of Water Resources,To be Opened,Goods,180.0
+683,2018-19,Department of Water Resources,To be Opened,Works,177.5
+684,2018-19,Dibrugarh University,Technical Bid Opening,Goods,120.0
+685,2018-19,Director- Fire and Emergency Services-Assam,AOC,Goods,365.0
+686,2018-19,Director- Fire and Emergency Services-Assam,AOC,Works,297.72727272727275
+687,2018-19,Director- Fire and Emergency Services-Assam,Bid Opening,Works,365.0
+688,2018-19,Director- Fire and Emergency Services-Assam,Evaluation,Works,365.0
+689,2018-19,Director- Fire and Emergency Services-Assam,To be Opened,Goods,365.0
+690,2018-19,Director- Fire and Emergency Services-Assam,To be Opened,Services,180.0
+691,2018-19,Director- Fire and Emergency Services-Assam,To be Opened,Works,365.0
+692,2018-19,Directorate of Agriculture and Assam Seed Corporation,Financial Bid Opening,Goods,279.0
+693,2018-19,Directorate of Agriculture and Assam Seed Corporation,Financial Bid Opening,Works,120.0
+694,2018-19,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Goods,196.66666666666666
+695,2018-19,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Works,90.0
+696,2018-19,Directorate of Agriculture and Assam Seed Corporation,Technical Bid Opening,Goods,30.0
+697,2018-19,Directorate of Agriculture and Assam Seed Corporation,Technical Bid Opening,Services,90.0
+698,2018-19,Directorate of Agriculture and Assam Seed Corporation,Technical Bid Opening,Works,116.66666666666667
+699,2018-19,Directorate of Agriculture and Assam Seed Corporation,To be Opened,Goods,365.0
+700,2018-19,Directorate of Agriculture and Assam Seed Corporation,To be Opened,Services,90.0
+701,2018-19,Directorate of Agriculture and Assam Seed Corporation,To be Opened,Works,90.0
+702,2018-19,Directorate of Forensic Science Assam,Financial Bid Opening,Goods,100.0
+703,2018-19,Directorate of Forensic Science Assam,Technical Bid Opening,Goods,120.0
+704,2018-19,Directorate of Horticulture Assam,Evaluation,Services,365.0
+705,2018-19,Directorate of Horticulture Assam,Financial Evaluation,Services,365.0
+706,2018-19,Directorate of Horticulture Assam,Technical Evaluation,Goods,120.0
+707,2018-19,Directorate of Horticulture Assam,To be Opened,Goods,90.0
+708,2018-19,Directorate of Horticulture Assam,To be Opened,Services,180.0
+709,2018-19,Directorate of Sports and Youth Welfare - Assam,Financial Bid Opening,Goods,60.0
+710,2018-19,Directorate of Sports and Youth Welfare - Assam,Financial Bid Opening,Services,80.0
+711,2018-19,Directorate of Sports and Youth Welfare - Assam,Technical Bid Opening,Services,78.0
+712,2018-19,Directorate of Sports and Youth Welfare - Assam,Technical Evaluation,Services,90.0
+713,2018-19,Directorate of Sports and Youth Welfare - Assam,To be Opened,Services,165.0
+714,2018-19,Elementary Education Department,AOC,Goods,210.0
+715,2018-19,Elementary Education Department,AOC,Services,180.0
+716,2018-19,Excise Department,To be Opened,Goods,999.0
+717,2018-19,Finance Department - World Bank Tenders,AOC,Goods,180.0
+718,2018-19,Finance Department - World Bank Tenders,AOC,Services,90.0
+719,2018-19,Finance Department - World Bank Tenders,Bid Opening,Services,120.0
+720,2018-19,Finance Department - World Bank Tenders,Financial Bid Opening,Services,90.0
+721,2018-19,Food Civil Supplies and Consumer Affairs Department,AOC,Goods,365.0
+722,2018-19,Food Civil Supplies and Consumer Affairs Department,AOC,Works,365.0
+723,2018-19,Food Civil Supplies and Consumer Affairs Department,Financial Evaluation,Goods,365.0
+724,2018-19,Food Civil Supplies and Consumer Affairs Department,Financial Evaluation,Services,365.0
+725,2018-19,Food Civil Supplies and Consumer Affairs Department,Technical Evaluation,Goods,365.0
+726,2018-19,Food Civil Supplies and Consumer Affairs Department,To be Opened,Goods,365.0
+727,2018-19,Food Civil Supplies and Consumer Affairs Department,To be Opened,Services,365.0
+728,2018-19,Gauhati High Court - Guwahati,AOC,Goods,166.66666666666666
+729,2018-19,Gauhati High Court - Guwahati,Technical Bid Opening,Goods,180.0
+730,2018-19,Gauhati High Court - Guwahati,To be Opened,Goods,180.0
+731,2018-19,Gauhati University,AOC,Works,180.0
+732,2018-19,Gauhati University,Technical Bid Opening,Works,135.0
+733,2018-19,General Administration Department,AOC,Goods,90.0
+734,2018-19,Guwahati Metropolitan Development Authority,Bid Opening,Services,120.0
+735,2018-19,Guwahati Metropolitan Development Authority,Bid Opening,Works,120.0
+736,2018-19,Guwahati Metropolitan Development Authority,Technical Evaluation,Works,120.0
+737,2018-19,Guwahati Metropolitan Development Authority,To be Opened,Services,30.0
+738,2018-19,Guwahati Metropolitan Development Authority,To be Opened,Works,120.0
+739,2018-19,Guwahati Municipal Corporation,AOC,Works,90.0
+740,2018-19,Guwahati Municipal Corporation,Bid Opening,Works,227.5
+741,2018-19,Guwahati Municipal Corporation,Evaluation,Works,90.0
+742,2018-19,Guwahati Municipal Corporation,Financial Bid Opening,Works,90.0
+743,2018-19,Guwahati Municipal Corporation,Financial Evaluation,Works,90.0
+744,2018-19,Guwahati Municipal Corporation,Technical Bid Opening,Works,88.92857142857143
+745,2018-19,Guwahati Municipal Corporation,To be Opened,Works,94.2948717948718
+746,2018-19,Guwahati Smart City Ltd.,Financial Bid Opening,Works,180.0
+747,2018-19,Guwahati Smart City Ltd.,To be Opened,Works,180.0
+748,2018-19,Health and Family Welfare Department,AOC,Goods,310.0
+749,2018-19,Health and Family Welfare Department,AOC,Services,90.0
+750,2018-19,Health and Family Welfare Department,Financial Bid Opening,Goods,332.6470588235294
+751,2018-19,Health and Family Welfare Department,Financial Evaluation,Goods,407.5
+752,2018-19,Health and Family Welfare Department,Financial Evaluation,Services,197.5
+753,2018-19,Health and Family Welfare Department,Financial Evaluation,Works,45.0
+754,2018-19,Health and Family Welfare Department,Technical Bid Opening,Goods,365.0
+755,2018-19,Health and Family Welfare Department,Technical Bid Opening,Services,303.3333333333333
+756,2018-19,Health and Family Welfare Department,Technical Evaluation,Goods,340.3333333333333
+757,2018-19,Health and Family Welfare Department,Technical Evaluation,Services,365.0
+758,2018-19,Health and Family Welfare Department,Technical Evaluation,Works,45.0
+759,2018-19,Health and Family Welfare Department,To be Opened,Goods,365.4945054945055
+760,2018-19,Health and Family Welfare Department,To be Opened,Services,205.0
+761,2018-19,Health and Family Welfare Department,To be Opened,Works,272.5
+762,2018-19,Higher Education (Technical) Department,Financial Bid Opening,Goods,90.0
+763,2018-19,Higher Education (Technical) Department,Financial Evaluation,Goods,162.0
+764,2018-19,Higher Education (Technical) Department,Financial Evaluation,Works,180.0
+765,2018-19,Higher Education (Technical) Department,To be Opened,Services,365.0
+766,2018-19,Home B,AOC,Goods,229.76190476190476
+767,2018-19,Home B,Financial Bid Opening,Goods,239.51612903225808
+768,2018-19,Home B,Financial Evaluation,Goods,365.0
+769,2018-19,Home B,Technical Bid Opening,Goods,365.0
+770,2018-19,Home B,Technical Evaluation,Goods,90.0
+771,2018-19,Home B,To be Opened,Goods,302.2972972972973
+772,2018-19,Industries and Commerce Department,AOC,Goods,180.0
+773,2018-19,Industries and Commerce Department,AOC,Services,155.0
+774,2018-19,Industries and Commerce Department,AOC,Works,171.50943396226415
+775,2018-19,Industries and Commerce Department,Bid Opening,Works,180.0
+776,2018-19,Industries and Commerce Department,Financial Bid Opening,Goods,310.8333333333333
+777,2018-19,Industries and Commerce Department,Financial Bid Opening,Services,200.0
+778,2018-19,Industries and Commerce Department,Financial Bid Opening,Works,225.75
+779,2018-19,Industries and Commerce Department,Financial Evaluation,Goods,272.5
+780,2018-19,Industries and Commerce Department,Financial Evaluation,Services,180.0
+781,2018-19,Industries and Commerce Department,Financial Evaluation,Works,170.52631578947367
+782,2018-19,Industries and Commerce Department,Technical Bid Opening,Goods,180.0
+783,2018-19,Industries and Commerce Department,Technical Bid Opening,Works,205.71428571428572
+784,2018-19,Industries and Commerce Department,Technical Evaluation,Goods,221.11111111111111
+785,2018-19,Industries and Commerce Department,Technical Evaluation,Services,241.66666666666666
+786,2018-19,Industries and Commerce Department,Technical Evaluation,Works,191.42857142857142
+787,2018-19,Industries and Commerce Department,To be Opened,Goods,245.0
+788,2018-19,Industries and Commerce Department,To be Opened,Services,159.0
+789,2018-19,Industries and Commerce Department,To be Opened,Works,153.3783783783784
+790,2018-19,Information and Public Relations Department,Financial Bid Opening,Goods,90.0
+791,2018-19,Information and Public Relations Department,To be Opened,Goods,90.0
+792,2018-19,Irrigation Department,AOC,Works,196.55555555555554
+793,2018-19,Irrigation Department,Technical Evaluation,Services,180.0
+794,2018-19,Irrigation Department,Technical Evaluation,Works,180.0
+795,2018-19,Karbi Anglong Autonomous Council,AOC,Works,180.69767441860466
+796,2018-19,Karbi Anglong Autonomous Council,Financial Bid Opening,Works,180.0
+797,2018-19,Karbi Anglong Autonomous Council,Technical Evaluation,Works,180.0
+798,2018-19,Karbi Anglong Autonomous Council,To be Opened,Services,180.0
+799,2018-19,Karbi Anglong Autonomous Council,To be Opened,Works,180.0
+800,2018-19,Mines  and Minerals Department,AOC,Goods,180.0
+801,2018-19,Mines  and Minerals Department,Financial Evaluation,Goods,180.0
+802,2018-19,Mines  and Minerals Department,To be Opened,Goods,180.0
+803,2018-19,National Health Mission,AOC,Goods,97.5
+804,2018-19,National Health Mission,AOC,Services,165.0
+805,2018-19,National Health Mission,AOC,Works,199.46808510638297
+806,2018-19,National Health Mission,Financial Bid Opening,Goods,90.0
+807,2018-19,National Health Mission,Financial Bid Opening,Works,195.0
+808,2018-19,National Health Mission,Financial Evaluation,Goods,100.0
+809,2018-19,National Health Mission,Financial Evaluation,Services,180.0
+810,2018-19,National Health Mission,Financial Evaluation,Works,180.0
+811,2018-19,National Health Mission,Technical Bid Opening,Goods,90.0
+812,2018-19,National Health Mission,Technical Bid Opening,Works,225.0
+813,2018-19,National Health Mission,Technical Evaluation,Goods,111.0
+814,2018-19,National Health Mission,Technical Evaluation,Services,120.0
+815,2018-19,National Health Mission,Technical Evaluation,Works,195.57692307692307
+816,2018-19,National Health Mission,To be Opened,Goods,128.0
+817,2018-19,National Health Mission,To be Opened,Services,120.0
+818,2018-19,National Health Mission,To be Opened,Works,204.75
+819,2018-19,National Register of Citizens Assam,Financial Bid Opening,Goods,90.0
+820,2018-19,Office of the Chief Electoral Officer Assam,Financial Bid Opening,Goods,365.0
+821,2018-19,Office of the Chief Electoral Officer Assam,Financial Evaluation,Services,180.0
+822,2018-19,Office of the Chief Electoral Officer Assam,To be Opened,Services,180.0
+823,2018-19,Pollution Control Board,AOC,Works,180.0
+824,2018-19,Pollution Control Board,Technical Bid Opening,Works,180.0
+825,2018-19,Pollution Control Board,To be Opened,Works,180.0
+826,2018-19,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Evaluation,Services,90.0
+827,2018-19,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Evaluation,Works,55.0
+828,2018-19,Pr. Chief Conservator of Forest and Head of Forest Force,To be Opened,Works,105.0
+829,2018-19,Principal Secretary- P and RD- Assam Secretariat,AOC,Goods,112.5
+830,2018-19,Principal Secretary- P and RD- Assam Secretariat,AOC,Services,52.5
+831,2018-19,Principal Secretary- P and RD- Assam Secretariat,Evaluation,Services,73.33333333333333
+832,2018-19,Principal Secretary- P and RD- Assam Secretariat,Financial Bid Opening,Works,180.0
+833,2018-19,Principal Secretary- P and RD- Assam Secretariat,Financial Evaluation,Services,112.5
+834,2018-19,Principal Secretary- P and RD- Assam Secretariat,Financial Evaluation,Works,180.0
+835,2018-19,Principal Secretary- P and RD- Assam Secretariat,Technical Bid Opening,Services,180.0
+836,2018-19,Principal Secretary- P and RD- Assam Secretariat,Technical Evaluation,Goods,120.0
+837,2018-19,Principal Secretary- P and RD- Assam Secretariat,Technical Evaluation,Services,120.0
+838,2018-19,Principal Secretary- P and RD- Assam Secretariat,Technical Evaluation,Works,180.0
+839,2018-19,Principal Secretary- P and RD- Assam Secretariat,To be Opened,Goods,90.0
+840,2018-19,Principal Secretary- P and RD- Assam Secretariat,To be Opened,Services,90.0
+841,2018-19,Principal Secretary- P and RD- Assam Secretariat,To be Opened,Works,180.0
+842,2018-19,Principal Secretary-Department of Information Technology,AOC,Goods,240.0
+843,2018-19,Principal Secretary-Department of Information Technology,AOC,Services,180.0
+844,2018-19,Principal Secretary-Department of Information Technology,AOC,Works,180.0
+845,2018-19,Principal Secretary-Department of Information Technology,Financial Evaluation,Goods,241.66666666666666
+846,2018-19,Principal Secretary-Department of Information Technology,Financial Evaluation,Services,180.0
+847,2018-19,Principal Secretary-Department of Information Technology,Financial Evaluation,Works,180.0
+848,2018-19,Principal Secretary-Department of Information Technology,Technical Evaluation,Goods,241.66666666666666
+849,2018-19,Principal Secretary-Department of Information Technology,Technical Evaluation,Services,180.0
+850,2018-19,Principal Secretary-Department of Information Technology,Technical Evaluation,Works,150.0
+851,2018-19,Principal Secretary-Department of Information Technology,To be Opened,Goods,202.5
+852,2018-19,Principal Secretary-Department of Information Technology,To be Opened,Services,180.0
+853,2018-19,Principal Secretary-Department of Information Technology,To be Opened,Works,180.0
+854,2018-19,Printing and Stationery Department,To be Opened,Goods,255.0
+855,2018-19,Public Health Engineering Department,AOC,Goods,159.8095238095238
+856,2018-19,Public Health Engineering Department,AOC,Services,180.0
+857,2018-19,Public Health Engineering Department,AOC,Works,80.0
+858,2018-19,Public Health Engineering Department,Financial Evaluation,Works,30.0
+859,2018-19,Public Health Engineering Department,Technical Bid Opening,Goods,90.0
+860,2018-19,Public Health Engineering Department,Technical Bid Opening,Works,85.0
+861,2018-19,Public Health Engineering Department,Technical Evaluation,Goods,180.0
+862,2018-19,Public Health Engineering Department,Technical Evaluation,Services,180.0
+863,2018-19,Public Health Engineering Department,Technical Evaluation,Works,80.0
+864,2018-19,Public Health Engineering Department,To be Opened,Goods,133.57142857142858
+865,2018-19,Public Health Engineering Department,To be Opened,Services,45.0
+866,2018-19,Public Health Engineering Department,To be Opened,Works,67.2
+867,2018-19,Public Works Building and NH Department,AOC,Works,180.0
+868,2018-19,Public Works Building and NH Department,Financial Bid Opening,Works,180.0
+869,2018-19,Public Works Building and NH Department,Financial Evaluation,Works,180.0
+870,2018-19,Public Works Building and NH Department,Technical Evaluation,Works,180.0
+871,2018-19,Public Works Building and NH Department,To be Opened,Works,180.0
+872,2018-19,Public Works Roads Department,AOC,Services,90.0
+873,2018-19,Public Works Roads Department,AOC,Works,156.86363636363637
+874,2018-19,Public Works Roads Department,Financial Bid Opening,Goods,180.0
+875,2018-19,Public Works Roads Department,Financial Bid Opening,Works,178.38509316770185
+876,2018-19,Public Works Roads Department,Financial Evaluation,Works,119.34782608695652
+877,2018-19,Public Works Roads Department,Technical Bid Opening,Works,154.0909090909091
+878,2018-19,Public Works Roads Department,Technical Evaluation,Works,163.19347319347318
+879,2018-19,Public Works Roads Department,To be Opened,Works,170.63819095477388
+880,2018-19,Rashtriya Madhyamik Siksha Abhijan,Financial Evaluation,Goods,90.0
+881,2018-19,Rashtriya Madhyamik Siksha Abhijan,Financial Evaluation,Services,60.0
+882,2018-19,Rashtriya Madhyamik Siksha Abhijan,Technical Evaluation,Services,365.0
+883,2018-19,Rashtriya Madhyamik Siksha Abhijan,To be Opened,Goods,90.0
+884,2018-19,Rashtriya Madhyamik Siksha Abhijan,To be Opened,Services,263.3333333333333
+885,2018-19,Rashtriya Madhyamik Siksha Abhijan,To be Opened,Works,90.0
+886,2018-19,SECONDARY EDUCATION DEPARTMENT ASSAM,AOC,Goods,60.0
+887,2018-19,SECONDARY EDUCATION DEPARTMENT ASSAM,AOC,Services,90.0
+888,2018-19,SECONDARY EDUCATION DEPARTMENT ASSAM,Financial Evaluation,Goods,60.0
+889,2018-19,SECONDARY EDUCATION DEPARTMENT ASSAM,Technical Bid Opening,Works,60.0
+890,2018-19,SECONDARY EDUCATION DEPARTMENT ASSAM,Technical Evaluation,Goods,60.0
+891,2018-19,SECONDARY EDUCATION DEPARTMENT ASSAM,Technical Evaluation,Works,90.0
+892,2018-19,SECONDARY EDUCATION DEPARTMENT ASSAM,To be Opened,Goods,90.0
+893,2018-19,SECONDARY EDUCATION DEPARTMENT ASSAM,To be Opened,Works,110.0
+894,2018-19,Secretariat Administration Department,AOC,Goods,180.0
+895,2018-19,Secretariat Administration Department,Financial Bid Opening,Goods,180.0
+896,2018-19,Secretariat Administration Department,Technical Evaluation,Services,45.0
+897,2018-19,Secretariat Administration Department,To be Opened,Services,45.0
+898,2018-19,Skill Employment and Entrepreneurship Department,Financial Evaluation,Works,180.0
+899,2018-19,Skill Employment and Entrepreneurship Department,Technical Evaluation,Goods,180.0
+900,2018-19,Skill Employment and Entrepreneurship Department,To be Opened,Works,180.0
+901,2018-19,Social Welfare Department,AOC,Works,225.0
+902,2018-19,Social Welfare Department,Evaluation,Goods,60.0
+903,2018-19,Social Welfare Department,Financial Evaluation,Goods,94.28571428571429
+904,2018-19,Srimanta Sankardeva University of Health Sciences,Technical Evaluation,Services,90.0
+905,2018-19,Taxation Department,Financial Bid Opening,Services,90.0
+906,2018-19,Taxation Department,Financial Bid Opening,Works,90.0
+907,2018-19,Taxation Department,To be Opened,Services,90.0
+908,2018-19,Tea Tribes Welfare Department,Financial Evaluation,Goods,213.75
+909,2018-19,Tea Tribes Welfare Department,Financial Evaluation,Services,202.5
+910,2018-19,Tea Tribes Welfare Department,Technical Evaluation,Goods,225.0
+911,2018-19,Tea Tribes Welfare Department,To be Opened,Goods,204.0
+912,2018-19,Tea Tribes Welfare Department,To be Opened,Services,180.0
+913,2018-19,Urban Development Department,AOC,Services,90.0
+914,2018-19,Urban Development Department,AOC,Works,162.1875
+915,2018-19,Urban Development Department,Financial Bid Opening,Services,180.0
+916,2018-19,Urban Development Department,Financial Bid Opening,Works,135.0
+917,2018-19,Urban Development Department,Financial Evaluation,Services,120.0
+918,2018-19,Urban Development Department,Financial Evaluation,Works,180.0
+919,2018-19,Urban Development Department,Technical Bid Opening,Works,130.0
+920,2018-19,Urban Development Department,Technical Evaluation,Services,127.5
+921,2018-19,Urban Development Department,Technical Evaluation,Works,114.0
+922,2018-19,Urban Development Department,To be Opened,Goods,60.0
+923,2018-19,Urban Development Department,To be Opened,Services,135.0
+924,2018-19,Urban Development Department,To be Opened,Works,146.14285714285714
+925,2018-19,Welfare of Minorities Development Department,AOC,Goods,45.0
+926,2018-19,Welfare of Plain Tribes and Backward Classes,AOC,Goods,45.0
+927,2018-19,Welfare of Plain Tribes and Backward Classes,AOC,Works,180.0
+928,2018-19,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Goods,476.875
+929,2018-19,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Services,90.0
+930,2018-19,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Works,140.0
+931,2018-19,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Goods,140.30769230769232
+932,2018-19,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Services,730.0
+933,2018-19,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Works,264.27272727272725
+934,2018-19,Welfare of Plain Tribes and Backward Classes,Technical Bid Opening,Goods,329.4
+935,2018-19,Welfare of Plain Tribes and Backward Classes,Technical Bid Opening,Works,51.666666666666664
+936,2018-19,Welfare of Plain Tribes and Backward Classes,Technical Evaluation,Goods,511.0
+937,2018-19,Welfare of Plain Tribes and Backward Classes,To be Opened,Goods,364.2857142857143
+938,2018-19,Welfare of Plain Tribes and Backward Classes,To be Opened,Works,175.14705882352942
+939,2019-20,Animal Husbandry and Veterinary Department,AOC,Goods,272.5
+940,2019-20,Animal Husbandry and Veterinary Department,AOC,Works,180.0
+941,2019-20,Animal Husbandry and Veterinary Department,Financial Bid Opening,Goods,90.0
+942,2019-20,Animal Husbandry and Veterinary Department,Financial Bid Opening,Services,180.0
+943,2019-20,Animal Husbandry and Veterinary Department,Financial Evaluation,Works,180.0
+944,2019-20,Animal Husbandry and Veterinary Department,Technical Bid Opening,Goods,90.0
+945,2019-20,Animal Husbandry and Veterinary Department,Technical Bid Opening,Services,180.0
+946,2019-20,Animal Husbandry and Veterinary Department,Technical Bid Opening,Works,180.0
+947,2019-20,Animal Husbandry and Veterinary Department,Technical Evaluation,Services,337.0
+948,2019-20,Animal Husbandry and Veterinary Department,To be Opened,Goods,363.75
+949,2019-20,Animal Husbandry and Veterinary Department,To be Opened,Services,180.0
+950,2019-20,Assam Electricity Grid Corporation Ltd,AOC,Services,180.0
+951,2019-20,Assam Electricity Grid Corporation Ltd,AOC,Works,180.0
+952,2019-20,Assam Electricity Grid Corporation Ltd,Evaluation,Works,180.0
+953,2019-20,Assam Electricity Grid Corporation Ltd,Financial Bid Opening,Goods,180.0
+954,2019-20,Assam Electricity Grid Corporation Ltd,Financial Bid Opening,Services,180.0
+955,2019-20,Assam Electricity Grid Corporation Ltd,Financial Bid Opening,Works,185.0
+956,2019-20,Assam Electricity Grid Corporation Ltd,Financial Evaluation,Goods,180.0
+957,2019-20,Assam Electricity Grid Corporation Ltd,Financial Evaluation,Services,180.0
+958,2019-20,Assam Electricity Grid Corporation Ltd,Financial Evaluation,Works,180.0
+959,2019-20,Assam Electricity Grid Corporation Ltd,Technical Bid Opening,Services,180.0
+960,2019-20,Assam Electricity Grid Corporation Ltd,Technical Bid Opening,Works,180.0
+961,2019-20,Assam Electricity Grid Corporation Ltd,Technical Evaluation,Goods,180.0
+962,2019-20,Assam Electricity Grid Corporation Ltd,Technical Evaluation,Works,195.0
+963,2019-20,Assam Electricity Grid Corporation Ltd,To be Opened,Goods,180.0
+964,2019-20,Assam Electricity Grid Corporation Ltd,To be Opened,Works,182.30769230769232
+965,2019-20,Assam Home Guards and Civil Defence Organization,AOC,Goods,365.0
+966,2019-20,Assam Inland Water Transport Development Society,AOC,Goods,107.14285714285714
+967,2019-20,Assam Inland Water Transport Development Society,AOC,Services,120.0
+968,2019-20,Assam Inland Water Transport Development Society,AOC,Works,112.5
+969,2019-20,Assam Inland Water Transport Development Society,Evaluation,Works,120.0
+970,2019-20,Assam Inland Water Transport Development Society,To be Opened,Works,90.0
+971,2019-20,Assam Police,AOC,Goods,310.0
+972,2019-20,Assam Police,AOC,Services,484.6666666666667
+973,2019-20,Assam Police,Evaluation,Services,365.0
+974,2019-20,Assam Police,Financial Bid Opening,Goods,150.0
+975,2019-20,Assam Police,Technical Bid Opening,Goods,365.0
+976,2019-20,Assam Police,Technical Bid Opening,Works,365.0
+977,2019-20,Assam Police,Technical Evaluation,Goods,365.0
+978,2019-20,Assam Police,To be Opened,Goods,172.14285714285714
+979,2019-20,Assam Police,To be Opened,Services,523.5
+980,2019-20,Assam Police Housing Corporation Ltd,AOC,Works,120.0
+981,2019-20,Assam Police Housing Corporation Ltd,Technical Bid Opening,Works,120.0
+982,2019-20,Assam Police Housing Corporation Ltd,Technical Evaluation,Works,120.0
+983,2019-20,Assam Police Housing Corporation Ltd,To be Opened,Goods,365.0
+984,2019-20,Assam Police Housing Corporation Ltd,To be Opened,Services,90.0
+985,2019-20,Assam Police Housing Corporation Ltd,To be Opened,Works,119.48275862068965
+986,2019-20,Assam Power Distribution Company Ltd,AOC,Goods,180.0
+987,2019-20,Assam Power Distribution Company Ltd,AOC,Services,353.375
+988,2019-20,Assam Power Distribution Company Ltd,AOC,Works,170.625
+989,2019-20,Assam Power Distribution Company Ltd,Financial Bid Opening,Works,180.0
+990,2019-20,Assam Power Distribution Company Ltd,Financial Evaluation,Services,365.0
+991,2019-20,Assam Power Distribution Company Ltd,Financial Evaluation,Works,180.0
+992,2019-20,Assam Power Distribution Company Ltd,Technical Evaluation,Goods,180.0
+993,2019-20,Assam Power Distribution Company Ltd,Technical Evaluation,Services,180.0
+994,2019-20,Assam Power Distribution Company Ltd,Technical Evaluation,Works,162.0
+995,2019-20,Assam Power Distribution Company Ltd,To be Opened,Goods,30.0
+996,2019-20,Assam Power Distribution Company Ltd,To be Opened,Services,365.0
+997,2019-20,Assam Power Distribution Company Ltd,To be Opened,Works,173.46153846153845
+998,2019-20,Assam Power Generation Company Limited,AOC,Goods,180.0
+999,2019-20,Assam Power Generation Company Limited,AOC,Services,150.0
+1000,2019-20,Assam Power Generation Company Limited,AOC,Works,153.75
+1001,2019-20,Assam Power Generation Company Limited,Financial Bid Opening,Goods,120.0
+1002,2019-20,Assam Power Generation Company Limited,Financial Bid Opening,Services,180.0
+1003,2019-20,Assam Power Generation Company Limited,Financial Bid Opening,Works,180.0
+1004,2019-20,Assam Power Generation Company Limited,Technical Bid Opening,Services,180.0
+1005,2019-20,Assam Power Generation Company Limited,Technical Evaluation,Services,210.83333333333334
+1006,2019-20,Assam Power Generation Company Limited,Technical Evaluation,Works,180.0
+1007,2019-20,Assam Power Generation Company Limited APGCL - ADB,AOC,Works,180.0
+1008,2019-20,Assam Society for Comprehensive Financial Management System,AOC,Goods,30.0
+1009,2019-20,Assam Society for Comprehensive Financial Management System,Financial Bid Opening,Goods,30.0
+1010,2019-20,Assam Society for Comprehensive Financial Management System,To be Opened,Goods,120.0
+1011,2019-20,Assam State Disaster Management Authority,AOC,Goods,272.5
+1012,2019-20,Assam State Disaster Management Authority,AOC,Works,180.0
+1013,2019-20,Assam State Disaster Management Authority,Technical Bid Opening,Goods,547.5
+1014,2019-20,Assam State Disaster Management Authority,Technical Evaluation,Services,90.0
+1015,2019-20,Assam State Disaster Management Authority,To be Opened,Goods,303.3333333333333
+1016,2019-20,Assam State Transport Corporation,AOC,Goods,180.0
+1017,2019-20,Assam State Transport Corporation,AOC,Services,150.0
+1018,2019-20,Assam State Transport Corporation,Financial Bid Opening,Services,180.0
+1019,2019-20,Assam State Transport Corporation,Financial Evaluation,Goods,165.0
+1020,2019-20,Assam State Transport Corporation,Financial Evaluation,Works,120.0
+1021,2019-20,Assam State Transport Corporation,Technical Bid Opening,Goods,180.0
+1022,2019-20,Assam State Transport Corporation,Technical Bid Opening,Services,180.0
+1023,2019-20,Assam State Transport Corporation,Technical Evaluation,Services,156.0
+1024,2019-20,Assam State Transport Corporation,Technical Evaluation,Works,180.0
+1025,2019-20,Assam State Transport Corporation,To be Opened,Goods,180.0
+1026,2019-20,Assam State Transport Corporation,To be Opened,Services,150.0
+1027,2019-20,Assam State Transport Corporation,To be Opened,Works,180.0
+1028,2019-20,Assam Urban Infrastructure Investment Program,Financial Bid Opening,Goods,105.0
+1029,2019-20,Assam Urban Infrastructure Investment Program,Financial Bid Opening,Works,120.0
+1030,2019-20,Axom Sarba Siksha Abhijan Mission,Financial Bid Opening,Goods,90.0
+1031,2019-20,Axom Sarba Siksha Abhijan Mission,Financial Bid Opening,Services,60.0
+1032,2019-20,Axom Sarba Siksha Abhijan Mission,Financial Bid Opening,Works,180.0
+1033,2019-20,Axom Sarba Siksha Abhijan Mission,Financial Evaluation,Goods,180.0
+1034,2019-20,Axom Sarba Siksha Abhijan Mission,Financial Evaluation,Services,241.66666666666666
+1035,2019-20,Axom Sarba Siksha Abhijan Mission,Financial Evaluation,Works,241.66666666666666
+1036,2019-20,Axom Sarba Siksha Abhijan Mission,Technical Bid Opening,Works,150.0
+1037,2019-20,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Goods,89.11764705882354
+1038,2019-20,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Services,186.375
+1039,2019-20,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Works,168.42105263157896
+1040,2019-20,Axom Sarba Siksha Abhijan Mission,To be Opened,Goods,103.63636363636364
+1041,2019-20,Axom Sarba Siksha Abhijan Mission,To be Opened,Services,151.0
+1042,2019-20,Axom Sarba Siksha Abhijan Mission,To be Opened,Works,157.5
+1043,2019-20,BODOLAND UNIVERSITY,AOC,Works,180.0
+1044,2019-20,BODOLAND UNIVERSITY,To be Opened,Works,180.0
+1045,2019-20,Bodoland Territorial Council,AOC,Goods,180.0
+1046,2019-20,Bodoland Territorial Council,AOC,Works,178.59375
+1047,2019-20,Bodoland Territorial Council,Financial Bid Opening,Goods,180.0
+1048,2019-20,Bodoland Territorial Council,Financial Bid Opening,Services,180.0
+1049,2019-20,Bodoland Territorial Council,Financial Bid Opening,Works,169.5505617977528
+1050,2019-20,Bodoland Territorial Council,Financial Evaluation,Goods,180.0
+1051,2019-20,Bodoland Territorial Council,Financial Evaluation,Works,146.45454545454547
+1052,2019-20,Bodoland Territorial Council,Technical Bid Opening,Goods,180.0
+1053,2019-20,Bodoland Territorial Council,Technical Bid Opening,Works,180.0
+1054,2019-20,Bodoland Territorial Council,Technical Evaluation,Goods,168.0
+1055,2019-20,Bodoland Territorial Council,Technical Evaluation,Works,177.0
+1056,2019-20,Bodoland Territorial Council,To be Opened,Goods,180.0
+1057,2019-20,Bodoland Territorial Council,To be Opened,Works,177.1875
+1058,2019-20,Bodoland Territorial Council-PWD,AOC,Works,180.0
+1059,2019-20,Bodoland Territorial Council-PWD,Financial Bid Opening,Works,180.0
+1060,2019-20,Bodoland Territorial Council-PWD,Technical Bid Opening,Works,180.0
+1061,2019-20,Bodoland Territorial Council-PWD,Technical Evaluation,Services,180.0
+1062,2019-20,Bodoland Territorial Council-PWD,Technical Evaluation,Works,180.0
+1063,2019-20,Bodoland Territorial Council-PWD,To be Opened,Works,180.39473684210526
+1064,2019-20,Bodoland Territorial Council-WRD,AOC,Works,165.48387096774192
+1065,2019-20,Bodoland Territorial Council-WRD,Technical Bid Opening,Works,180.0
+1066,2019-20,Bodoland Territorial Council-WRD,To be Opened,Works,150.0
+1067,2019-20,Border Protection and Development Department,Financial Bid Opening,Services,180.0
+1068,2019-20,Border Protection and Development Department,Technical Bid Opening,Services,180.0
+1069,2019-20,Border Protection and Development Department,To be Opened,Services,180.0
+1070,2019-20,Cooperation Department,AOC,Goods,162.85714285714286
+1071,2019-20,Cooperation Department,AOC,Services,82.5
+1072,2019-20,Cooperation Department,AOC,Works,180.0
+1073,2019-20,Cooperation Department,Evaluation,Works,180.0
+1074,2019-20,Cooperation Department,Financial Bid Opening,Works,180.0
+1075,2019-20,Cooperation Department,Technical Bid Opening,Works,180.0
+1076,2019-20,Cooperation Department,Technical Evaluation,Goods,180.0
+1077,2019-20,Cooperation Department,Technical Evaluation,Works,180.0
+1078,2019-20,Cooperation Department,To be Opened,Services,162.0
+1079,2019-20,Cooperation Department,To be Opened,Works,180.0
+1080,2019-20,Cotton University,AOC,Works,180.0
+1081,2019-20,Department of Cultural Affairs,AOC,Works,365.0
+1082,2019-20,Department of Cultural Affairs,Technical Bid Opening,Works,365.0
+1083,2019-20,Department of Cultural Affairs,To be Opened,Works,365.0
+1084,2019-20,Department of Fisheries,AOC,Works,45.0
+1085,2019-20,Department of Fisheries,Financial Evaluation,Works,180.0
+1086,2019-20,Department of Fisheries,Technical Evaluation,Works,112.5
+1087,2019-20,Department of Fisheries,To be Opened,Services,180.0
+1088,2019-20,Department of Handloom Textile and Sericulture,AOC,Goods,180.0
+1089,2019-20,Department of Handloom Textile and Sericulture,AOC,Works,120.0
+1090,2019-20,Department of Handloom Textile and Sericulture,Evaluation,Works,45.0
+1091,2019-20,Department of Handloom Textile and Sericulture,Financial Bid Opening,Goods,272.5
+1092,2019-20,Department of Handloom Textile and Sericulture,Technical Bid Opening,Goods,254.0
+1093,2019-20,Department of Handloom Textile and Sericulture,Technical Evaluation,Goods,45.0
+1094,2019-20,Department of Handloom Textile and Sericulture,Technical Evaluation,Works,270.0
+1095,2019-20,Department of Handloom Textile and Sericulture,To be Opened,Goods,365.0
+1096,2019-20,Department of Handloom Textile and Sericulture,To be Opened,Works,180.0
+1097,2019-20,Department of Higher Education,AOC,Works,180.0
+1098,2019-20,Department of Higher Education,Bid Opening,Goods,10.0
+1099,2019-20,Department of Higher Education,Technical Evaluation,Works,180.0
+1100,2019-20,Department of Higher Education,To be Opened,Works,180.0
+1101,2019-20,Department of Labour and Welfare,AOC,Services,180.0
+1102,2019-20,Department of Science and Technology,Financial Evaluation,Goods,180.0
+1103,2019-20,Department of Science and Technology,Technical Evaluation,Goods,120.0
+1104,2019-20,Department of Science and Technology,To be Opened,Goods,120.0
+1105,2019-20,Department of Tourism,Financial Evaluation,Goods,180.0
+1106,2019-20,Department of Tourism,Financial Evaluation,Services,195.0
+1107,2019-20,Department of Tourism,Financial Evaluation,Works,180.0
+1108,2019-20,Department of Tourism,To be Opened,Services,168.75
+1109,2019-20,Department of Tourism,To be Opened,Works,180.0
+1110,2019-20,Department of Water Resources,AOC,Works,179.42028985507247
+1111,2019-20,Department of Water Resources,Evaluation,Works,120.0
+1112,2019-20,Department of Water Resources,Financial Bid Opening,Works,180.0
+1113,2019-20,Department of Water Resources,Financial Evaluation,Works,180.0
+1114,2019-20,Department of Water Resources,Technical Bid Opening,Works,180.0
+1115,2019-20,Department of Water Resources,Technical Evaluation,Works,180.0
+1116,2019-20,Department of Water Resources,To be Opened,Works,180.0
+1117,2019-20,Dibrugarh University,AOC,Works,90.0
+1118,2019-20,Dibrugarh University,Technical Evaluation,Goods,90.0
+1119,2019-20,Dibrugarh University,Technical Evaluation,Services,90.0
+1120,2019-20,Dibrugarh University,Technical Evaluation,Works,90.0
+1121,2019-20,Dibrugarh University,To be Opened,Goods,90.0
+1122,2019-20,Dibrugarh University,To be Opened,Works,75.0
+1123,2019-20,Director- Fire and Emergency Services-Assam,AOC,Works,365.0
+1124,2019-20,Director- Fire and Emergency Services-Assam,Financial Bid Opening,Works,365.0
+1125,2019-20,Director- Fire and Emergency Services-Assam,Technical Evaluation,Works,180.0
+1126,2019-20,Director- Fire and Emergency Services-Assam,To be Opened,Goods,365.0
+1127,2019-20,Director- Fire and Emergency Services-Assam,To be Opened,Works,365.0
+1128,2019-20,Directorate of Agriculture and Assam Seed Corporation,AOC,Goods,90.0
+1129,2019-20,Directorate of Agriculture and Assam Seed Corporation,AOC,Services,682.0
+1130,2019-20,Directorate of Agriculture and Assam Seed Corporation,AOC,Works,90.0
+1131,2019-20,Directorate of Agriculture and Assam Seed Corporation,Bid Opening,Services,365.0
+1132,2019-20,Directorate of Agriculture and Assam Seed Corporation,Evaluation,Goods,608.3333333333334
+1133,2019-20,Directorate of Agriculture and Assam Seed Corporation,Financial Bid Opening,Services,180.0
+1134,2019-20,Directorate of Agriculture and Assam Seed Corporation,Financial Bid Opening,Works,90.0
+1135,2019-20,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Goods,227.5
+1136,2019-20,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Services,90.0
+1137,2019-20,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Works,90.0
+1138,2019-20,Directorate of Agriculture and Assam Seed Corporation,Technical Bid Opening,Works,90.0
+1139,2019-20,Directorate of Agriculture and Assam Seed Corporation,Technical Evaluation,Goods,180.0
+1140,2019-20,Directorate of Agriculture and Assam Seed Corporation,Technical Evaluation,Works,90.0
+1141,2019-20,Directorate of Agriculture and Assam Seed Corporation,To be Opened,Goods,365.0
+1142,2019-20,Directorate of Agriculture and Assam Seed Corporation,To be Opened,Services,180.0
+1143,2019-20,Directorate of Agriculture and Assam Seed Corporation,To be Opened,Works,90.0
+1144,2019-20,Directorate of Forensic Science Assam,Financial Bid Opening,Goods,120.0
+1145,2019-20,Directorate of Forensic Science Assam,Technical Evaluation,Goods,150.0
+1146,2019-20,Directorate of Forensic Science Assam,To be Opened,Goods,120.0
+1147,2019-20,Directorate of Horticulture Assam,Evaluation,Works,730.0
+1148,2019-20,Directorate of Horticulture Assam,Financial Evaluation,Goods,365.0
+1149,2019-20,Directorate of Horticulture Assam,Financial Evaluation,Services,90.0
+1150,2019-20,Directorate of Horticulture Assam,Technical Bid Opening,Services,135.0
+1151,2019-20,Directorate of Land Records and Survey etc. Assam,AOC,Goods,180.0
+1152,2019-20,Directorate of Land Records and Survey etc. Assam,AOC,Services,180.0
+1153,2019-20,Directorate of Sports and Youth Welfare - Assam,AOC,Goods,58.5
+1154,2019-20,Directorate of Sports and Youth Welfare - Assam,AOC,Services,65.0
+1155,2019-20,Directorate of Sports and Youth Welfare - Assam,Financial Evaluation,Services,90.0
+1156,2019-20,Directorate of Sports and Youth Welfare - Assam,Technical Bid Opening,Goods,60.0
+1157,2019-20,Directorate of Sports and Youth Welfare - Assam,Technical Evaluation,Goods,60.0
+1158,2019-20,Directorate of Sports and Youth Welfare - Assam,To be Opened,Goods,60.0
+1159,2019-20,Directorate of Sports and Youth Welfare - Assam,To be Opened,Services,66.0
+1160,2019-20,Elementary Education Department,AOC,Goods,210.0
+1161,2019-20,Elementary Education Department,Technical Bid Opening,Services,180.0
+1162,2019-20,Finance Department - World Bank Tenders,AOC,Goods,90.0
+1163,2019-20,Finance Department - World Bank Tenders,AOC,Services,116.25
+1164,2019-20,Finance Department - World Bank Tenders,Bid Opening,Services,105.0
+1165,2019-20,Finance Department - World Bank Tenders,Evaluation,Services,90.0
+1166,2019-20,Finance Department - World Bank Tenders,To be Opened,Services,150.0
+1167,2019-20,Food Civil Supplies and Consumer Affairs Department,AOC,Goods,365.0
+1168,2019-20,Food Civil Supplies and Consumer Affairs Department,AOC,Services,365.0
+1169,2019-20,Food Civil Supplies and Consumer Affairs Department,Financial Bid Opening,Goods,365.0
+1170,2019-20,Food Civil Supplies and Consumer Affairs Department,Technical Evaluation,Goods,365.0
+1171,2019-20,Food Civil Supplies and Consumer Affairs Department,Technical Evaluation,Services,21.0
+1172,2019-20,Food Civil Supplies and Consumer Affairs Department,To be Opened,Goods,365.0
+1173,2019-20,Gauhati High Court - Guwahati,AOC,Goods,180.0
+1174,2019-20,Gauhati High Court - Guwahati,To be Opened,Goods,180.0
+1175,2019-20,Gauhati University,AOC,Works,180.0
+1176,2019-20,Gauhati University,Financial Bid Opening,Works,180.0
+1177,2019-20,Gauhati University,Technical Bid Opening,Works,180.0
+1178,2019-20,Gauhati University,Technical Evaluation,Works,180.0
+1179,2019-20,Gauhati University,To be Opened,Works,180.0
+1180,2019-20,Guwahati Metropolitan Development Authority,Financial Evaluation,Services,150.0
+1181,2019-20,Guwahati Metropolitan Development Authority,Technical Bid Opening,Services,180.0
+1182,2019-20,Guwahati Metropolitan Development Authority,Technical Bid Opening,Works,120.0
+1183,2019-20,Guwahati Metropolitan Development Authority,Technical Evaluation,Works,120.0
+1184,2019-20,Guwahati Metropolitan Development Authority,To be Opened,Services,174.0
+1185,2019-20,Guwahati Metropolitan Development Authority,To be Opened,Works,120.0
+1186,2019-20,Guwahati Municipal Corporation,AOC,Works,90.0
+1187,2019-20,Guwahati Municipal Corporation,Financial Bid Opening,Goods,90.0
+1188,2019-20,Guwahati Municipal Corporation,Financial Evaluation,Works,90.0
+1189,2019-20,Guwahati Municipal Corporation,Technical Bid Opening,Goods,90.0
+1190,2019-20,Guwahati Municipal Corporation,Technical Bid Opening,Works,90.0
+1191,2019-20,Guwahati Municipal Corporation,To be Opened,Goods,90.0
+1192,2019-20,Guwahati Municipal Corporation,To be Opened,Works,128.57142857142858
+1193,2019-20,Guwahati Smart City Ltd.,Bid Opening,Works,180.0
+1194,2019-20,Guwahati Smart City Ltd.,To be Opened,Works,180.0
+1195,2019-20,Health and Family Welfare Department,AOC,Goods,357.22222222222223
+1196,2019-20,Health and Family Welfare Department,AOC,Services,341.5
+1197,2019-20,Health and Family Welfare Department,AOC,Works,90.0
+1198,2019-20,Health and Family Welfare Department,Financial Bid Opening,Goods,365.0
+1199,2019-20,Health and Family Welfare Department,Financial Bid Opening,Services,365.0
+1200,2019-20,Health and Family Welfare Department,Financial Bid Opening,Works,365.0
+1201,2019-20,Health and Family Welfare Department,Technical Bid Opening,Goods,325.7142857142857
+1202,2019-20,Health and Family Welfare Department,Technical Evaluation,Goods,393.0769230769231
+1203,2019-20,Health and Family Welfare Department,Technical Evaluation,Services,273.3333333333333
+1204,2019-20,Health and Family Welfare Department,To be Opened,Goods,348.75
+1205,2019-20,Health and Family Welfare Department,To be Opened,Services,334.1666666666667
+1206,2019-20,Health and Family Welfare Department,To be Opened,Works,365.0
+1207,2019-20,Higher Education (Technical) Department,AOC,Goods,90.0
+1208,2019-20,Higher Education (Technical) Department,Financial Bid Opening,Goods,90.0
+1209,2019-20,Higher Education (Technical) Department,Financial Evaluation,Goods,90.0
+1210,2019-20,Higher Education (Technical) Department,To be Opened,Goods,90.0
+1211,2019-20,Home B,AOC,Goods,306.3265306122449
+1212,2019-20,Home B,Financial Bid Opening,Goods,258.4848484848485
+1213,2019-20,Home B,Financial Evaluation,Goods,214.0
+1214,2019-20,Home B,Technical Bid Opening,Goods,260.3333333333333
+1215,2019-20,Home B,Technical Evaluation,Goods,120.55555555555556
+1216,2019-20,Home B,To be Opened,Goods,222.93150684931507
+1217,2019-20,Industries and Commerce Department,AOC,Goods,165.0
+1218,2019-20,Industries and Commerce Department,AOC,Services,135.0
+1219,2019-20,Industries and Commerce Department,AOC,Works,173.50574712643677
+1220,2019-20,Industries and Commerce Department,Bid Opening,Services,60.0
+1221,2019-20,Industries and Commerce Department,Bid Opening,Works,180.0
+1222,2019-20,Industries and Commerce Department,Evaluation,Works,180.0
+1223,2019-20,Industries and Commerce Department,Financial Bid Opening,Goods,365.0
+1224,2019-20,Industries and Commerce Department,Financial Bid Opening,Services,180.0
+1225,2019-20,Industries and Commerce Department,Financial Bid Opening,Works,180.0
+1226,2019-20,Industries and Commerce Department,Financial Evaluation,Services,180.0
+1227,2019-20,Industries and Commerce Department,Financial Evaluation,Works,318.25
+1228,2019-20,Industries and Commerce Department,Technical Bid Opening,Goods,347.5
+1229,2019-20,Industries and Commerce Department,Technical Bid Opening,Services,180.0
+1230,2019-20,Industries and Commerce Department,Technical Bid Opening,Works,180.0
+1231,2019-20,Industries and Commerce Department,Technical Evaluation,Goods,167.91666666666666
+1232,2019-20,Industries and Commerce Department,Technical Evaluation,Services,158.57142857142858
+1233,2019-20,Industries and Commerce Department,Technical Evaluation,Works,205.0
+1234,2019-20,Industries and Commerce Department,To be Opened,Goods,133.47826086956522
+1235,2019-20,Industries and Commerce Department,To be Opened,Services,104.11764705882354
+1236,2019-20,Industries and Commerce Department,To be Opened,Works,159.6153846153846
+1237,2019-20,Information and Public Relations Department,Financial Bid Opening,Services,90.0
+1238,2019-20,Irrigation Department,AOC,Goods,125.0
+1239,2019-20,Irrigation Department,AOC,Works,208.5211267605634
+1240,2019-20,Irrigation Department,Financial Bid Opening,Services,180.0
+1241,2019-20,Irrigation Department,Financial Bid Opening,Works,180.0
+1242,2019-20,Irrigation Department,Technical Bid Opening,Works,180.0
+1243,2019-20,Irrigation Department,Technical Evaluation,Works,180.0
+1244,2019-20,Irrigation Department,To be Opened,Goods,125.0
+1245,2019-20,Irrigation Department,To be Opened,Works,191.5625
+1246,2019-20,Karbi Anglong Autonomous Council,AOC,Works,180.0
+1247,2019-20,Karbi Anglong Autonomous Council,Financial Bid Opening,Works,180.0
+1248,2019-20,Karbi Anglong Autonomous Council,Technical Bid Opening,Works,150.0
+1249,2019-20,Karbi Anglong Autonomous Council,Technical Evaluation,Works,135.0
+1250,2019-20,Karbi Anglong Autonomous Council,To be Opened,Works,162.0
+1251,2019-20,Mines  and Minerals Department,Financial Evaluation,Goods,180.0
+1252,2019-20,Mines  and Minerals Department,To be Opened,Goods,200.0
+1253,2019-20,National Health Mission,AOC,Goods,109.77272727272727
+1254,2019-20,National Health Mission,AOC,Works,217.5
+1255,2019-20,National Health Mission,Bid Opening,Goods,90.0
+1256,2019-20,National Health Mission,Evaluation,Goods,90.0
+1257,2019-20,National Health Mission,Financial Bid Opening,Goods,93.0
+1258,2019-20,National Health Mission,Financial Bid Opening,Works,202.5
+1259,2019-20,National Health Mission,Financial Evaluation,Services,135.0
+1260,2019-20,National Health Mission,Financial Evaluation,Works,180.0
+1261,2019-20,National Health Mission,Technical Bid Opening,Works,202.5
+1262,2019-20,National Health Mission,Technical Evaluation,Goods,150.0
+1263,2019-20,National Health Mission,Technical Evaluation,Services,150.0
+1264,2019-20,National Health Mission,Technical Evaluation,Works,216.0
+1265,2019-20,National Health Mission,To be Opened,Goods,83.33333333333333
+1266,2019-20,National Health Mission,To be Opened,Services,140.0
+1267,2019-20,National Health Mission,To be Opened,Works,219.8684210526316
+1268,2019-20,National Register of Citizens Assam,Technical Evaluation,Services,90.0
+1269,2019-20,North Cachar Hills Autonomous Council,AOC,Services,120.0
+1270,2019-20,Pollution Control Board,To be Opened,Works,180.0
+1271,2019-20,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Services,180.0
+1272,2019-20,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Works,365.0
+1273,2019-20,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Bid Opening,Services,180.0
+1274,2019-20,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Evaluation,Services,365.0
+1275,2019-20,Pr. Chief Conservator of Forest and Head of Forest Force,To be Opened,Services,180.0
+1276,2019-20,Pr. Chief Conservator of Forest and Head of Forest Force,To be Opened,Works,180.0
+1277,2019-20,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,180.0
+1278,2019-20,Principal Secretary- P and RD- Assam Secretariat,Evaluation,Services,30.0
+1279,2019-20,Principal Secretary- P and RD- Assam Secretariat,Financial Bid Opening,Goods,120.0
+1280,2019-20,Principal Secretary- P and RD- Assam Secretariat,Financial Bid Opening,Works,180.0
+1281,2019-20,Principal Secretary- P and RD- Assam Secretariat,Financial Evaluation,Goods,180.0
+1282,2019-20,Principal Secretary- P and RD- Assam Secretariat,Financial Evaluation,Works,180.0
+1283,2019-20,Principal Secretary- P and RD- Assam Secretariat,Technical Bid Opening,Goods,60.0
+1284,2019-20,Principal Secretary- P and RD- Assam Secretariat,Technical Bid Opening,Works,180.0
+1285,2019-20,Principal Secretary- P and RD- Assam Secretariat,Technical Evaluation,Goods,112.5
+1286,2019-20,Principal Secretary- P and RD- Assam Secretariat,Technical Evaluation,Works,181.25
+1287,2019-20,Principal Secretary- P and RD- Assam Secretariat,To be Opened,Goods,60.0
+1288,2019-20,Principal Secretary- P and RD- Assam Secretariat,To be Opened,Services,60.0
+1289,2019-20,Principal Secretary- P and RD- Assam Secretariat,To be Opened,Works,180.0
+1290,2019-20,Principal Secretary-Department of Information Technology,AOC,Goods,180.0
+1291,2019-20,Principal Secretary-Department of Information Technology,AOC,Services,186.0
+1292,2019-20,Principal Secretary-Department of Information Technology,AOC,Works,180.0
+1293,2019-20,Principal Secretary-Department of Information Technology,Financial Evaluation,Goods,180.0
+1294,2019-20,Principal Secretary-Department of Information Technology,Financial Evaluation,Services,180.0
+1295,2019-20,Principal Secretary-Department of Information Technology,Technical Evaluation,Services,180.0
+1296,2019-20,Principal Secretary-Department of Information Technology,To be Opened,Goods,241.66666666666666
+1297,2019-20,Principal Secretary-Department of Information Technology,To be Opened,Services,190.0
+1298,2019-20,Principal Secretary-Department of Information Technology,To be Opened,Works,180.0
+1299,2019-20,Printing and Stationery Department,Financial Evaluation,Goods,30.0
+1300,2019-20,Printing and Stationery Department,To be Opened,Goods,30.0
+1301,2019-20,Public Health Engineering Department,AOC,Goods,90.0
+1302,2019-20,Public Health Engineering Department,AOC,Services,90.0
+1303,2019-20,Public Health Engineering Department,AOC,Works,90.50675675675676
+1304,2019-20,Public Health Engineering Department,Technical Bid Opening,Works,195.0
+1305,2019-20,Public Health Engineering Department,Technical Evaluation,Goods,90.0
+1306,2019-20,Public Health Engineering Department,Technical Evaluation,Services,90.0
+1307,2019-20,Public Health Engineering Department,Technical Evaluation,Works,90.0
+1308,2019-20,Public Health Engineering Department,To be Opened,Goods,176.25
+1309,2019-20,Public Health Engineering Department,To be Opened,Works,90.0
+1310,2019-20,Public Works Building and NH Department,AOC,Works,178.3783783783784
+1311,2019-20,Public Works Building and NH Department,Financial Bid Opening,Works,180.0
+1312,2019-20,Public Works Building and NH Department,Financial Evaluation,Works,180.0
+1313,2019-20,Public Works Building and NH Department,Technical Bid Opening,Works,180.0
+1314,2019-20,Public Works Building and NH Department,Technical Evaluation,Works,180.0
+1315,2019-20,Public Works Building and NH Department,To be Opened,Goods,180.0
+1316,2019-20,Public Works Building and NH Department,To be Opened,Works,180.16129032258064
+1317,2019-20,Public Works Roads Department,AOC,Goods,90.0
+1318,2019-20,Public Works Roads Department,AOC,Services,120.0
+1319,2019-20,Public Works Roads Department,AOC,Works,165.8495145631068
+1320,2019-20,Public Works Roads Department,Bid Opening,Goods,30.0
+1321,2019-20,Public Works Roads Department,Financial Bid Opening,Works,156.82584269662922
+1322,2019-20,Public Works Roads Department,Financial Evaluation,Works,121.55844155844156
+1323,2019-20,Public Works Roads Department,Technical Bid Opening,Works,142.5
+1324,2019-20,Public Works Roads Department,Technical Evaluation,Works,135.8490566037736
+1325,2019-20,Public Works Roads Department,To be Opened,Goods,30.0
+1326,2019-20,Public Works Roads Department,To be Opened,Services,90.0
+1327,2019-20,Public Works Roads Department,To be Opened,Works,154.4291338582677
+1328,2019-20,SECONDARY EDUCATION DEPARTMENT ASSAM,AOC,Services,75.0
+1329,2019-20,SECONDARY EDUCATION DEPARTMENT ASSAM,AOC,Works,90.0
+1330,2019-20,SECONDARY EDUCATION DEPARTMENT ASSAM,Financial Evaluation,Goods,90.0
+1331,2019-20,SECONDARY EDUCATION DEPARTMENT ASSAM,Technical Evaluation,Goods,135.0
+1332,2019-20,SECONDARY EDUCATION DEPARTMENT ASSAM,Technical Evaluation,Services,180.0
+1333,2019-20,SECONDARY EDUCATION DEPARTMENT ASSAM,To be Opened,Goods,120.0
+1334,2019-20,Secretariat Administration Department,AOC,Services,90.0
+1335,2019-20,Skill Employment and Entrepreneurship Department,AOC,Services,180.0
+1336,2019-20,Skill Employment and Entrepreneurship Department,Technical Evaluation,Services,165.0
+1337,2019-20,Skill Employment and Entrepreneurship Department,To be Opened,Services,123.0
+1338,2019-20,Skill Employment and Entrepreneurship Department,To be Opened,Works,180.0
+1339,2019-20,Social Welfare Department,Evaluation,Goods,180.0
+1340,2019-20,Social Welfare Department,Financial Bid Opening,Goods,730.0
+1341,2019-20,Social Welfare Department,Financial Evaluation,Goods,343.3333333333333
+1342,2019-20,Social Welfare Department,To be Opened,Goods,55.5
+1343,2019-20,Social Welfare Department,To be Opened,Works,90.0
+1344,2019-20,Soil Conservation Department,AOC,Works,180.0
+1345,2019-20,Tea Tribes Welfare Department,To be Opened,Services,202.5
+1346,2019-20,Transformation and Development Department,Bid Opening,Services,180.0
+1347,2019-20,Urban Development Department,AOC,Goods,180.0
+1348,2019-20,Urban Development Department,AOC,Services,120.0
+1349,2019-20,Urban Development Department,AOC,Works,163.53846153846155
+1350,2019-20,Urban Development Department,Evaluation,Services,180.0
+1351,2019-20,Urban Development Department,Financial Bid Opening,Works,162.85714285714286
+1352,2019-20,Urban Development Department,Financial Evaluation,Services,120.0
+1353,2019-20,Urban Development Department,Financial Evaluation,Works,142.5
+1354,2019-20,Urban Development Department,Technical Bid Opening,Services,120.0
+1355,2019-20,Urban Development Department,Technical Bid Opening,Works,150.0
+1356,2019-20,Urban Development Department,Technical Evaluation,Goods,180.0
+1357,2019-20,Urban Development Department,Technical Evaluation,Services,180.0
+1358,2019-20,Urban Development Department,Technical Evaluation,Works,162.85714285714286
+1359,2019-20,Urban Development Department,To be Opened,Goods,180.0
+1360,2019-20,Urban Development Department,To be Opened,Services,201.66666666666666
+1361,2019-20,Urban Development Department,To be Opened,Works,134.11764705882354
+1362,2019-20,Water Resources Department- World Bank Tenders,Financial Bid Opening,Goods,120.0
+1363,2019-20,Welfare of Minorities Development Department,AOC,Goods,45.0
+1364,2019-20,Welfare of Minorities Development Department,To be Opened,Goods,45.0
+1365,2019-20,Welfare of Plain Tribes and Backward Classes,AOC,Goods,198.84615384615384
+1366,2019-20,Welfare of Plain Tribes and Backward Classes,AOC,Services,180.0
+1367,2019-20,Welfare of Plain Tribes and Backward Classes,AOC,Works,141.66666666666666
+1368,2019-20,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Goods,373.3333333333333
+1369,2019-20,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Services,180.0
+1370,2019-20,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Works,150.0
+1371,2019-20,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Goods,337.85714285714283
+1372,2019-20,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Services,270.0
+1373,2019-20,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Works,165.0
+1374,2019-20,Welfare of Plain Tribes and Backward Classes,Technical Bid Opening,Goods,272.5
+1375,2019-20,Welfare of Plain Tribes and Backward Classes,Technical Bid Opening,Works,153.10344827586206
+1376,2019-20,Welfare of Plain Tribes and Backward Classes,Technical Evaluation,Goods,608.3333333333334
+1377,2019-20,Welfare of Plain Tribes and Backward Classes,Technical Evaluation,Works,180.0
+1378,2019-20,Welfare of Plain Tribes and Backward Classes,To be Opened,Goods,282.9166666666667
+1379,2019-20,Welfare of Plain Tribes and Backward Classes,To be Opened,Services,270.0
+1380,2020-21,Animal Husbandry and Veterinary Department,AOC,Goods,266.875
+1381,2020-21,Animal Husbandry and Veterinary Department,AOC,Services,90.0
+1382,2020-21,Animal Husbandry and Veterinary Department,AOC,Works,180.0
+1383,2020-21,Animal Husbandry and Veterinary Department,Financial Bid Opening,Goods,90.0
+1384,2020-21,Animal Husbandry and Veterinary Department,Financial Bid Opening,Works,180.0
+1385,2020-21,Animal Husbandry and Veterinary Department,Technical Bid Opening,Goods,135.0
+1386,2020-21,Animal Husbandry and Veterinary Department,Technical Bid Opening,Services,90.0
+1387,2020-21,Animal Husbandry and Veterinary Department,Technical Bid Opening,Works,180.0
+1388,2020-21,Animal Husbandry and Veterinary Department,Technical Evaluation,Goods,272.5
+1389,2020-21,Animal Husbandry and Veterinary Department,Technical Evaluation,Works,180.0
+1390,2020-21,Animal Husbandry and Veterinary Department,To be Opened,Goods,365.0
+1391,2020-21,Animal Husbandry and Veterinary Department,To be Opened,Services,90.0
+1392,2020-21,Animal Husbandry and Veterinary Department,To be Opened,Works,180.0
+1393,2020-21,Animal Husbandry and Veterinary Department-Externally Aided Project,AOC,Goods,365.0
+1394,2020-21,Animal Husbandry and Veterinary Department-Externally Aided Project,AOC,Works,180.0
+1395,2020-21,Animal Husbandry and Veterinary Department-Externally Aided Project,Technical Bid Opening,Goods,365.0
+1396,2020-21,Assam Electricity Grid Corporation Ltd,AOC,Goods,180.0
+1397,2020-21,Assam Electricity Grid Corporation Ltd,AOC,Services,180.0
+1398,2020-21,Assam Electricity Grid Corporation Ltd,AOC,Works,180.0
+1399,2020-21,Assam Electricity Grid Corporation Ltd,Financial Bid Opening,Goods,180.0
+1400,2020-21,Assam Electricity Grid Corporation Ltd,Financial Bid Opening,Works,180.0
+1401,2020-21,Assam Electricity Grid Corporation Ltd,Financial Evaluation,Works,180.0
+1402,2020-21,Assam Electricity Grid Corporation Ltd,Technical Bid Opening,Goods,180.0
+1403,2020-21,Assam Electricity Grid Corporation Ltd,Technical Bid Opening,Services,180.0
+1404,2020-21,Assam Electricity Grid Corporation Ltd,Technical Bid Opening,Works,190.0
+1405,2020-21,Assam Electricity Grid Corporation Ltd,Technical Evaluation,Goods,180.0
+1406,2020-21,Assam Electricity Grid Corporation Ltd,Technical Evaluation,Works,180.0
+1407,2020-21,Assam Electricity Grid Corporation Ltd,To be Opened,Goods,180.0
+1408,2020-21,Assam Electricity Grid Corporation Ltd,To be Opened,Works,178.92857142857142
+1409,2020-21,Assam Electricity Grid Corporation Ltd. - Externally Funded Projects,AOC,Works,180.0
+1410,2020-21,Assam Electricity Grid Corporation Ltd. - Externally Funded Projects,Financial Bid Opening,Works,120.0
+1411,2020-21,Assam Electricity Grid Corporation Ltd. - Externally Funded Projects,Technical Bid Opening,Works,180.0
+1412,2020-21,Assam Electricity Grid Corporation Ltd. - Externally Funded Projects,To be Opened,Works,180.0
+1413,2020-21,Assam Home Guards and Civil Defence Organization,AOC,Goods,365.0
+1414,2020-21,Assam Inland Water Transport Development Society,AOC,Services,120.0
+1415,2020-21,Assam Inland Water Transport Development Society,Bid Opening,Services,130.0
+1416,2020-21,Assam Inland Water Transport Development Society,Technical Evaluation,Services,120.0
+1417,2020-21,Assam Inland Water Transport Development Society,To be Opened,Services,120.0
+1418,2020-21,Assam Police,AOC,Goods,272.5
+1419,2020-21,Assam Police,AOC,Services,365.0
+1420,2020-21,Assam Police,Bid Opening,Services,180.0
+1421,2020-21,Assam Police,Financial Bid Opening,Goods,180.0
+1422,2020-21,Assam Police,Financial Evaluation,Goods,365.0
+1423,2020-21,Assam Police,Technical Bid Opening,Goods,217.0
+1424,2020-21,Assam Police,Technical Evaluation,Goods,180.0
+1425,2020-21,Assam Police,Technical Evaluation,Services,180.0
+1426,2020-21,Assam Police,To be Opened,Goods,272.5
+1427,2020-21,Assam Police,To be Opened,Services,180.0
+1428,2020-21,Assam Police Housing Corporation Ltd,AOC,Works,121.5
+1429,2020-21,Assam Police Housing Corporation Ltd,Technical Bid Opening,Works,150.0
+1430,2020-21,Assam Police Housing Corporation Ltd,Technical Evaluation,Works,120.0
+1431,2020-21,Assam Police Housing Corporation Ltd,To be Opened,Works,120.0
+1432,2020-21,Assam Power Distribution Company Limited- Externally Aided Project,Financial Bid Opening,Works,120.0
+1433,2020-21,Assam Power Distribution Company Limited- Externally Aided Project,Technical Bid Opening,Works,120.0
+1434,2020-21,Assam Power Distribution Company Limited- Externally Aided Project,To be Opened,Works,180.0
+1435,2020-21,Assam Power Distribution Company Ltd,AOC,Works,177.27272727272728
+1436,2020-21,Assam Power Distribution Company Ltd,Financial Evaluation,Works,90.0
+1437,2020-21,Assam Power Distribution Company Ltd,Technical Bid Opening,Services,365.0
+1438,2020-21,Assam Power Distribution Company Ltd,Technical Bid Opening,Works,180.0
+1439,2020-21,Assam Power Distribution Company Ltd,Technical Evaluation,Works,180.0
+1440,2020-21,Assam Power Distribution Company Ltd,To be Opened,Goods,180.0
+1441,2020-21,Assam Power Distribution Company Ltd,To be Opened,Services,180.0
+1442,2020-21,Assam Power Distribution Company Ltd,To be Opened,Works,180.0
+1443,2020-21,Assam Power Generation Company Limited,AOC,Goods,120.0
+1444,2020-21,Assam Power Generation Company Limited,AOC,Works,120.0
+1445,2020-21,Assam Power Generation Company Limited,Technical Evaluation,Works,180.0
+1446,2020-21,Assam Power Generation Company Limited APGCL - ADB,Financial Bid Opening,Works,180.0
+1447,2020-21,Assam Power Generation Company Limited APGCL - ADB,To be Opened,Services,180.0
+1448,2020-21,Assam Power Generation Company Limited APGCL - ADB,To be Opened,Works,120.0
+1449,2020-21,Assam Science and Technology University,AOC,Goods,90.0
+1450,2020-21,Assam Science and Technology University,To be Opened,Goods,90.0
+1451,2020-21,Assam State Disaster Management Authority,AOC,Goods,365.0
+1452,2020-21,Assam State Disaster Management Authority,AOC,Services,180.0
+1453,2020-21,Assam State Disaster Management Authority,Bid Opening,Services,365.0
+1454,2020-21,Assam State Disaster Management Authority,Financial Evaluation,Goods,180.0
+1455,2020-21,Assam State Disaster Management Authority,Technical Bid Opening,Goods,180.0
+1456,2020-21,Assam State Disaster Management Authority,Technical Evaluation,Goods,180.0
+1457,2020-21,Assam State Disaster Management Authority,Technical Evaluation,Services,365.0
+1458,2020-21,Assam State Disaster Management Authority,To be Opened,Goods,547.5
+1459,2020-21,Assam State Disaster Management Authority,To be Opened,Services,272.5
+1460,2020-21,Assam State Transport Corporation,AOC,Goods,45.0
+1461,2020-21,Assam State Transport Corporation,AOC,Works,120.0
+1462,2020-21,Assam State Transport Corporation,Financial Evaluation,Goods,180.0
+1463,2020-21,Assam State Transport Corporation,To be Opened,Goods,180.0
+1464,2020-21,Assam State Transport Corporation,To be Opened,Services,150.0
+1465,2020-21,Axom Sarba Siksha Abhijan Mission,Technical Bid Opening,Goods,90.0
+1466,2020-21,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Goods,90.0
+1467,2020-21,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Services,79.5
+1468,2020-21,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Works,168.75
+1469,2020-21,Axom Sarba Siksha Abhijan Mission,To be Opened,Goods,91.07142857142857
+1470,2020-21,Axom Sarba Siksha Abhijan Mission,To be Opened,Services,87.6923076923077
+1471,2020-21,Axom Sarba Siksha Abhijan Mission,To be Opened,Works,162.0
+1472,2020-21,BODOLAND UNIVERSITY,Technical Evaluation,Works,180.0
+1473,2020-21,BODOLAND UNIVERSITY,To be Opened,Works,180.0
+1474,2020-21,Bodoland Territorial Council,AOC,Goods,180.0
+1475,2020-21,Bodoland Territorial Council,AOC,Works,180.0
+1476,2020-21,Bodoland Territorial Council,Financial Bid Opening,Goods,180.0
+1477,2020-21,Bodoland Territorial Council,Financial Bid Opening,Works,180.0
+1478,2020-21,Bodoland Territorial Council,Financial Evaluation,Goods,161.25
+1479,2020-21,Bodoland Territorial Council,Financial Evaluation,Works,180.0
+1480,2020-21,Bodoland Territorial Council,Technical Bid Opening,Goods,180.0
+1481,2020-21,Bodoland Territorial Council,Technical Bid Opening,Works,180.0
+1482,2020-21,Bodoland Territorial Council,Technical Evaluation,Goods,180.0
+1483,2020-21,Bodoland Territorial Council,Technical Evaluation,Works,168.0
+1484,2020-21,Bodoland Territorial Council,To be Opened,Goods,163.63636363636363
+1485,2020-21,Bodoland Territorial Council,To be Opened,Works,180.0
+1486,2020-21,Bodoland Territorial Council-PWD,AOC,Works,180.0
+1487,2020-21,Bodoland Territorial Council-PWD,Financial Bid Opening,Works,180.0
+1488,2020-21,Bodoland Territorial Council-PWD,Technical Bid Opening,Works,180.0
+1489,2020-21,Bodoland Territorial Council-PWD,Technical Evaluation,Works,180.0
+1490,2020-21,Bodoland Territorial Council-PWD,To be Opened,Works,180.0
+1491,2020-21,Bodoland Territorial Council-WRD,AOC,Works,180.0
+1492,2020-21,Bodoland Territorial Council-WRD,Financial Bid Opening,Works,180.0
+1493,2020-21,Bodoland Territorial Council-WRD,Financial Evaluation,Works,180.0
+1494,2020-21,Bodoland Territorial Council-WRD,Technical Evaluation,Works,180.0
+1495,2020-21,Bodoland Territorial Council-WRD,To be Opened,Works,180.0
+1496,2020-21,Cooperation Department,AOC,Goods,120.0
+1497,2020-21,Cooperation Department,AOC,Works,180.0
+1498,2020-21,Cooperation Department,Bid Opening,Services,60.0
+1499,2020-21,Cooperation Department,Financial Bid Opening,Goods,120.0
+1500,2020-21,Cooperation Department,Financial Bid Opening,Works,180.0
+1501,2020-21,Cooperation Department,Technical Bid Opening,Goods,120.0
+1502,2020-21,Cooperation Department,Technical Bid Opening,Works,180.0
+1503,2020-21,Cooperation Department,To be Opened,Goods,120.0
+1504,2020-21,Cooperation Department,To be Opened,Works,180.0
+1505,2020-21,Cotton University,AOC,Works,180.0
+1506,2020-21,Department of Cultural Affairs,AOC,Services,365.0
+1507,2020-21,Department of Cultural Affairs,AOC,Works,365.0
+1508,2020-21,Department of Cultural Affairs,Financial Bid Opening,Goods,30.0
+1509,2020-21,Department of Cultural Affairs,Financial Bid Opening,Works,365.0
+1510,2020-21,Department of Cultural Affairs,Technical Bid Opening,Works,365.0
+1511,2020-21,Department of Cultural Affairs,Technical Evaluation,Works,365.0
+1512,2020-21,Department of Fisheries,AOC,Services,180.0
+1513,2020-21,Department of Fisheries,Financial Evaluation,Works,180.0
+1514,2020-21,Department of Fisheries,To be Opened,Services,120.0
+1515,2020-21,Department of Fisheries,To be Opened,Works,180.0
+1516,2020-21,Department of Handloom Textile and Sericulture,AOC,Goods,202.5
+1517,2020-21,Department of Handloom Textile and Sericulture,AOC,Works,225.0
+1518,2020-21,Department of Handloom Textile and Sericulture,Technical Bid Opening,Goods,365.0
+1519,2020-21,Department of Handloom Textile and Sericulture,To be Opened,Goods,365.0
+1520,2020-21,Department of Higher Education,Technical Evaluation,Services,90.0
+1521,2020-21,Department of Higher Education,Technical Evaluation,Works,180.0
+1522,2020-21,Department of Labour and Welfare,AOC,Goods,120.0
+1523,2020-21,Department of Labour and Welfare,AOC,Services,120.0
+1524,2020-21,Department of Labour and Welfare,Bid Opening,Goods,90.0
+1525,2020-21,Department of Labour and Welfare,Technical Evaluation,Services,180.0
+1526,2020-21,Department of Labour and Welfare,To be Opened,Services,180.0
+1527,2020-21,Department of Science and Technology,Technical Bid Opening,Goods,180.0
+1528,2020-21,Department of Tourism,To be Opened,Services,180.0
+1529,2020-21,Department of Water Resources,AOC,Services,120.0
+1530,2020-21,Department of Water Resources,AOC,Works,180.0
+1531,2020-21,Department of Water Resources,Financial Bid Opening,Works,180.0
+1532,2020-21,Department of Water Resources,Financial Evaluation,Works,180.0
+1533,2020-21,Department of Water Resources,Technical Bid Opening,Works,180.0
+1534,2020-21,Department of Water Resources,Technical Evaluation,Services,120.0
+1535,2020-21,Department of Water Resources,Technical Evaluation,Works,180.0
+1536,2020-21,Department of Water Resources,To be Opened,Services,120.0
+1537,2020-21,Department of Water Resources,To be Opened,Works,180.0
+1538,2020-21,Dibrugarh University,AOC,Goods,45.0
+1539,2020-21,Dibrugarh University,AOC,Works,135.0
+1540,2020-21,Dibrugarh University,Technical Evaluation,Goods,90.0
+1541,2020-21,Dibrugarh University,To be Opened,Goods,112.5
+1542,2020-21,Dibrugarh University,To be Opened,Services,180.0
+1543,2020-21,Director- Fire and Emergency Services-Assam,AOC,Goods,365.0
+1544,2020-21,Director- Fire and Emergency Services-Assam,AOC,Works,224.4
+1545,2020-21,Directorate of Agriculture and Assam Seed Corporation,AOC,Goods,120.0
+1546,2020-21,Directorate of Agriculture and Assam Seed Corporation,AOC,Works,67.5
+1547,2020-21,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Goods,420.0
+1548,2020-21,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Services,180.0
+1549,2020-21,Directorate of Agriculture and Assam Seed Corporation,Technical Bid Opening,Goods,120.0
+1550,2020-21,Directorate of Agriculture and Assam Seed Corporation,Technical Bid Opening,Works,90.0
+1551,2020-21,Directorate of Agriculture and Assam Seed Corporation,Technical Evaluation,Goods,420.0
+1552,2020-21,Directorate of Agriculture and Assam Seed Corporation,To be Opened,Goods,303.3333333333333
+1553,2020-21,Directorate of Agriculture and Assam Seed Corporation,To be Opened,Services,180.0
+1554,2020-21,Directorate of Horticulture Assam,Bid Opening,Services,90.0
+1555,2020-21,Directorate of Horticulture Assam,Technical Bid Opening,Goods,365.0
+1556,2020-21,Directorate of Horticulture Assam,Technical Evaluation,Goods,120.0
+1557,2020-21,Directorate of Horticulture Assam,To be Opened,Goods,365.0
+1558,2020-21,Directorate of Horticulture Assam,To be Opened,Services,90.0
+1559,2020-21,Directorate of Land Records and Survey etc. Assam,AOC,Goods,180.0
+1560,2020-21,Directorate of Land Records and Survey etc. Assam,AOC,Works,180.0
+1561,2020-21,Directorate of Land Records and Survey etc. Assam,To be Opened,Goods,180.0
+1562,2020-21,Directorate of Sports and Youth Welfare - Assam,AOC,Goods,60.0
+1563,2020-21,Directorate of Sports and Youth Welfare - Assam,AOC,Services,30.0
+1564,2020-21,Directorate of Sports and Youth Welfare - Assam,Technical Bid Opening,Goods,45.0
+1565,2020-21,Elementary Education Department,AOC,Goods,210.0
+1566,2020-21,Elementary Education Department,AOC,Services,360.0
+1567,2020-21,Elementary Education Department,Technical Bid Opening,Goods,210.0
+1568,2020-21,Elementary Education Department,Technical Bid Opening,Services,180.0
+1569,2020-21,Excise Department,Financial Bid Opening,Goods,999.0
+1570,2020-21,Finance Department - World Bank Tenders,AOC,Goods,180.0
+1571,2020-21,Finance Department - World Bank Tenders,AOC,Services,144.0
+1572,2020-21,Finance Department - World Bank Tenders,Bid Opening,Services,180.0
+1573,2020-21,Finance Department - World Bank Tenders,Evaluation,Services,180.0
+1574,2020-21,Finance Department - World Bank Tenders,Financial Bid Opening,Goods,120.0
+1575,2020-21,Finance Department - World Bank Tenders,Financial Bid Opening,Services,150.0
+1576,2020-21,Finance Department - World Bank Tenders,Financial Evaluation,Services,90.0
+1577,2020-21,Finance Department - World Bank Tenders,Technical Evaluation,Services,120.0
+1578,2020-21,Finance Department - World Bank Tenders,To be Opened,Services,130.0
+1579,2020-21,Food Civil Supplies and Consumer Affairs Department,AOC,Goods,365.0
+1580,2020-21,Food Civil Supplies and Consumer Affairs Department,AOC,Services,365.0
+1581,2020-21,Food Civil Supplies and Consumer Affairs Department,Financial Bid Opening,Goods,365.0
+1582,2020-21,Food Civil Supplies and Consumer Affairs Department,Financial Bid Opening,Services,180.0
+1583,2020-21,Food Civil Supplies and Consumer Affairs Department,To be Opened,Goods,365.0
+1584,2020-21,Gauhati High Court - Guwahati,Financial Bid Opening,Goods,60.0
+1585,2020-21,Gauhati High Court - Guwahati,Technical Bid Opening,Goods,60.0
+1586,2020-21,Gauhati University,AOC,Works,180.0
+1587,2020-21,Gauhati University,Technical Bid Opening,Works,180.0
+1588,2020-21,General Administration Department,AOC,Goods,10.0
+1589,2020-21,General Administration Department,Financial Bid Opening,Goods,15.0
+1590,2020-21,Guwahati Metropolitan Development Authority,Bid Opening,Works,120.0
+1591,2020-21,Guwahati Metropolitan Development Authority,Financial Evaluation,Services,180.0
+1592,2020-21,Guwahati Metropolitan Development Authority,Technical Bid Opening,Works,124.28571428571429
+1593,2020-21,Guwahati Metropolitan Development Authority,Technical Evaluation,Services,170.0
+1594,2020-21,Guwahati Metropolitan Development Authority,Technical Evaluation,Works,120.0
+1595,2020-21,Guwahati Metropolitan Development Authority,To be Opened,Goods,120.0
+1596,2020-21,Guwahati Metropolitan Development Authority,To be Opened,Services,150.0
+1597,2020-21,Guwahati Metropolitan Development Authority,To be Opened,Works,122.72727272727273
+1598,2020-21,Guwahati Municipal Corporation,AOC,Goods,90.0
+1599,2020-21,Guwahati Municipal Corporation,AOC,Services,999.0
+1600,2020-21,Guwahati Municipal Corporation,AOC,Works,100.0
+1601,2020-21,Guwahati Municipal Corporation,Bid Opening,Goods,90.0
+1602,2020-21,Guwahati Municipal Corporation,Financial Bid Opening,Goods,90.0
+1603,2020-21,Guwahati Municipal Corporation,Financial Bid Opening,Works,90.0
+1604,2020-21,Guwahati Municipal Corporation,Financial Evaluation,Works,90.0
+1605,2020-21,Guwahati Municipal Corporation,Technical Bid Opening,Goods,90.0
+1606,2020-21,Guwahati Municipal Corporation,Technical Bid Opening,Works,90.0
+1607,2020-21,Guwahati Municipal Corporation,Technical Evaluation,Works,90.0
+1608,2020-21,Guwahati Municipal Corporation,To be Opened,Goods,90.0
+1609,2020-21,Guwahati Municipal Corporation,To be Opened,Services,463.0
+1610,2020-21,Guwahati Municipal Corporation,To be Opened,Works,91.87074829931973
+1611,2020-21,Guwahati Smart City Ltd.,Financial Evaluation,Works,180.0
+1612,2020-21,Guwahati Smart City Ltd.,To be Opened,Works,180.0
+1613,2020-21,Health and Family Welfare Department,AOC,Goods,372.60869565217394
+1614,2020-21,Health and Family Welfare Department,AOC,Services,340.75
+1615,2020-21,Health and Family Welfare Department,Financial Bid Opening,Goods,211.66666666666666
+1616,2020-21,Health and Family Welfare Department,Financial Bid Opening,Services,333.3333333333333
+1617,2020-21,Health and Family Welfare Department,Financial Evaluation,Goods,272.5
+1618,2020-21,Health and Family Welfare Department,Financial Evaluation,Services,180.0
+1619,2020-21,Health and Family Welfare Department,Technical Bid Opening,Goods,376.25
+1620,2020-21,Health and Family Welfare Department,Technical Bid Opening,Services,476.6666666666667
+1621,2020-21,Health and Family Welfare Department,Technical Evaluation,Goods,365.0
+1622,2020-21,Health and Family Welfare Department,Technical Evaluation,Services,365.0
+1623,2020-21,Health and Family Welfare Department,To be Opened,Goods,339.3103448275862
+1624,2020-21,Health and Family Welfare Department,To be Opened,Services,408.125
+1625,2020-21,Higher Education (Technical) Department,AOC,Goods,90.0
+1626,2020-21,Higher Education (Technical) Department,Financial Evaluation,Goods,180.0
+1627,2020-21,Higher Education (Technical) Department,Technical Bid Opening,Goods,180.0
+1628,2020-21,Hill Areas Department,AOC,Goods,180.0
+1629,2020-21,Hill Areas Department,To be Opened,Goods,180.0
+1630,2020-21,Home B,AOC,Goods,90.0
+1631,2020-21,Home B,Financial Bid Opening,Goods,90.0
+1632,2020-21,Home B,Financial Evaluation,Goods,365.0
+1633,2020-21,Home B,Technical Bid Opening,Goods,120.0
+1634,2020-21,Home B,To be Opened,Goods,312.3611111111111
+1635,2020-21,Industries and Commerce Department,AOC,Goods,162.0
+1636,2020-21,Industries and Commerce Department,AOC,Services,106.66666666666667
+1637,2020-21,Industries and Commerce Department,AOC,Works,195.19607843137254
+1638,2020-21,Industries and Commerce Department,Financial Bid Opening,Goods,153.0
+1639,2020-21,Industries and Commerce Department,Financial Bid Opening,Services,160.0
+1640,2020-21,Industries and Commerce Department,Financial Bid Opening,Works,166.66666666666666
+1641,2020-21,Industries and Commerce Department,Financial Evaluation,Goods,156.0
+1642,2020-21,Industries and Commerce Department,Financial Evaluation,Services,180.0
+1643,2020-21,Industries and Commerce Department,Technical Bid Opening,Goods,242.0
+1644,2020-21,Industries and Commerce Department,Technical Bid Opening,Services,125.0
+1645,2020-21,Industries and Commerce Department,Technical Bid Opening,Works,175.3846153846154
+1646,2020-21,Industries and Commerce Department,Technical Evaluation,Goods,262.22222222222223
+1647,2020-21,Industries and Commerce Department,Technical Evaluation,Services,144.0
+1648,2020-21,Industries and Commerce Department,To be Opened,Goods,131.25
+1649,2020-21,Industries and Commerce Department,To be Opened,Services,120.0
+1650,2020-21,Industries and Commerce Department,To be Opened,Works,167.5
+1651,2020-21,Information and Public Relations Department,AOC,Services,90.0
+1652,2020-21,Information and Public Relations Department,Financial Bid Opening,Goods,227.5
+1653,2020-21,Information and Public Relations Department,Financial Evaluation,Services,365.0
+1654,2020-21,Information and Public Relations Department,Technical Bid Opening,Goods,365.0
+1655,2020-21,Information and Public Relations Department,To be Opened,Goods,90.0
+1656,2020-21,Irrigation Department,AOC,Goods,180.0
+1657,2020-21,Irrigation Department,AOC,Works,193.7719298245614
+1658,2020-21,Irrigation Department,Financial Bid Opening,Goods,180.0
+1659,2020-21,Irrigation Department,Financial Bid Opening,Works,180.0
+1660,2020-21,Irrigation Department,Financial Evaluation,Works,180.0
+1661,2020-21,Irrigation Department,Technical Bid Opening,Works,180.0
+1662,2020-21,Irrigation Department,Technical Evaluation,Works,180.0
+1663,2020-21,Irrigation Department,To be Opened,Works,271.6666666666667
+1664,2020-21,Karbi Anglong Autonomous Council,AOC,Works,180.0
+1665,2020-21,Karbi Anglong Autonomous Council,Financial Bid Opening,Works,180.0
+1666,2020-21,Karbi Anglong Autonomous Council,Financial Evaluation,Goods,180.0
+1667,2020-21,Karbi Anglong Autonomous Council,Technical Evaluation,Works,180.0
+1668,2020-21,Karbi Anglong Autonomous Council,To be Opened,Works,180.0
+1669,2020-21,National Health Mission,AOC,Goods,88.26923076923077
+1670,2020-21,National Health Mission,AOC,Services,135.0
+1671,2020-21,National Health Mission,AOC,Works,180.0
+1672,2020-21,National Health Mission,Bid Opening,Goods,90.0
+1673,2020-21,National Health Mission,Evaluation,Goods,90.0
+1674,2020-21,National Health Mission,Evaluation,Services,180.0
+1675,2020-21,National Health Mission,Financial Bid Opening,Goods,120.0
+1676,2020-21,National Health Mission,Financial Bid Opening,Services,105.0
+1677,2020-21,National Health Mission,Financial Bid Opening,Works,218.57142857142858
+1678,2020-21,National Health Mission,Financial Evaluation,Goods,144.0
+1679,2020-21,National Health Mission,Financial Evaluation,Works,206.25
+1680,2020-21,National Health Mission,Technical Bid Opening,Goods,90.0
+1681,2020-21,National Health Mission,Technical Bid Opening,Works,189.0
+1682,2020-21,National Health Mission,Technical Evaluation,Goods,131.25
+1683,2020-21,National Health Mission,Technical Evaluation,Services,157.5
+1684,2020-21,National Health Mission,Technical Evaluation,Works,219.5121951219512
+1685,2020-21,National Health Mission,To be Opened,Goods,157.5
+1686,2020-21,National Health Mission,To be Opened,Services,142.5
+1687,2020-21,National Health Mission,To be Opened,Works,204.54545454545453
+1688,2020-21,North Cachar Hills Autonomous Council,Technical Evaluation,Works,180.0
+1689,2020-21,Office of the Chief Electoral Officer Assam,AOC,Goods,90.0
+1690,2020-21,Office of the Chief Electoral Officer Assam,AOC,Services,180.0
+1691,2020-21,Office of the Chief Electoral Officer Assam,Technical Bid Opening,Services,180.0
+1692,2020-21,Office of the Chief Electoral Officer Assam,To be Opened,Goods,90.0
+1693,2020-21,Pollution Control Board,Technical Evaluation,Works,180.0
+1694,2020-21,Pollution Control Board,To be Opened,Works,180.0
+1695,2020-21,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Works,367.6666666666667
+1696,2020-21,Pr. Chief Conservator of Forest and Head of Forest Force,Financial Bid Opening,Works,277.62068965517244
+1697,2020-21,Pr. Chief Conservator of Forest and Head of Forest Force,Financial Evaluation,Works,530.0526315789474
+1698,2020-21,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Bid Opening,Works,444.95238095238096
+1699,2020-21,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Evaluation,Works,733.6875
+1700,2020-21,Pr. Chief Conservator of Forest and Head of Forest Force,To be Opened,Goods,300.0
+1701,2020-21,Pr. Chief Conservator of Forest and Head of Forest Force,To be Opened,Works,361.8863636363636
+1702,2020-21,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,291.42857142857144
+1703,2020-21,Principal Secretary- P and RD- Assam Secretariat,Financial Bid Opening,Goods,180.0
+1704,2020-21,Principal Secretary- P and RD- Assam Secretariat,Financial Bid Opening,Works,180.0
+1705,2020-21,Principal Secretary- P and RD- Assam Secretariat,Financial Evaluation,Works,171.8181818181818
+1706,2020-21,Principal Secretary- P and RD- Assam Secretariat,Technical Bid Opening,Goods,120.0
+1707,2020-21,Principal Secretary- P and RD- Assam Secretariat,Technical Bid Opening,Works,180.0
+1708,2020-21,Principal Secretary- P and RD- Assam Secretariat,Technical Evaluation,Goods,180.0
+1709,2020-21,Principal Secretary- P and RD- Assam Secretariat,Technical Evaluation,Works,180.0
+1710,2020-21,Principal Secretary- P and RD- Assam Secretariat,To be Opened,Goods,140.0
+1711,2020-21,Principal Secretary- P and RD- Assam Secretariat,To be Opened,Services,180.0
+1712,2020-21,Principal Secretary- P and RD- Assam Secretariat,To be Opened,Works,218.0
+1713,2020-21,Principal Secretary-Department of Information Technology,AOC,Goods,180.0
+1714,2020-21,Principal Secretary-Department of Information Technology,AOC,Services,165.0
+1715,2020-21,Principal Secretary-Department of Information Technology,Technical Evaluation,Goods,90.0
+1716,2020-21,Principal Secretary-Department of Information Technology,To be Opened,Goods,180.0
+1717,2020-21,Principal Secretary-Department of Information Technology,To be Opened,Services,180.0
+1718,2020-21,Principal Secretary-Department of Information Technology,To be Opened,Works,180.0
+1719,2020-21,Public Health Engineering Department,AOC,Goods,112.5
+1720,2020-21,Public Health Engineering Department,AOC,Services,110.0
+1721,2020-21,Public Health Engineering Department,AOC,Works,90.75
+1722,2020-21,Public Health Engineering Department,Bid Opening,Works,90.0
+1723,2020-21,Public Health Engineering Department,Evaluation,Goods,90.0
+1724,2020-21,Public Health Engineering Department,Financial Bid Opening,Services,90.0
+1725,2020-21,Public Health Engineering Department,Financial Evaluation,Goods,180.0
+1726,2020-21,Public Health Engineering Department,Technical Bid Opening,Goods,90.0
+1727,2020-21,Public Health Engineering Department,Technical Evaluation,Services,90.0
+1728,2020-21,Public Health Engineering Department,Technical Evaluation,Works,90.0
+1729,2020-21,Public Health Engineering Department,To be Opened,Goods,90.0
+1730,2020-21,Public Health Engineering Department,To be Opened,Works,90.0
+1731,2020-21,Public Works Building and NH Department,AOC,Works,179.1346153846154
+1732,2020-21,Public Works Building and NH Department,Financial Bid Opening,Works,178.8118811881188
+1733,2020-21,Public Works Building and NH Department,Financial Evaluation,Goods,180.0
+1734,2020-21,Public Works Building and NH Department,Financial Evaluation,Works,168.0
+1735,2020-21,Public Works Building and NH Department,Technical Bid Opening,Works,180.0
+1736,2020-21,Public Works Building and NH Department,Technical Evaluation,Goods,180.0
+1737,2020-21,Public Works Building and NH Department,Technical Evaluation,Works,180.0
+1738,2020-21,Public Works Building and NH Department,To be Opened,Goods,180.0
+1739,2020-21,Public Works Building and NH Department,To be Opened,Works,175.3125
+1740,2020-21,Public Works Roads Department,AOC,Goods,150.0
+1741,2020-21,Public Works Roads Department,AOC,Services,90.0
+1742,2020-21,Public Works Roads Department,AOC,Works,167.06896551724137
+1743,2020-21,Public Works Roads Department,Bid Opening,Works,90.0
+1744,2020-21,Public Works Roads Department,Evaluation,Works,90.0
+1745,2020-21,Public Works Roads Department,Financial Bid Opening,Goods,180.0
+1746,2020-21,Public Works Roads Department,Financial Bid Opening,Works,170.91370558375635
+1747,2020-21,Public Works Roads Department,Financial Evaluation,Goods,180.0
+1748,2020-21,Public Works Roads Department,Financial Evaluation,Works,128.07692307692307
+1749,2020-21,Public Works Roads Department,Technical Bid Opening,Works,138.64864864864865
+1750,2020-21,Public Works Roads Department,Technical Evaluation,Works,145.31393568147013
+1751,2020-21,Public Works Roads Department,To be Opened,Works,168.58096828046746
+1752,2020-21,Rashtriya Madhyamik Siksha Abhijan,Financial Evaluation,Goods,90.0
+1753,2020-21,Rashtriya Madhyamik Siksha Abhijan,Financial Evaluation,Services,90.0
+1754,2020-21,Rashtriya Madhyamik Siksha Abhijan,Financial Evaluation,Works,180.0
+1755,2020-21,Rashtriya Madhyamik Siksha Abhijan,Technical Evaluation,Goods,90.0
+1756,2020-21,Rashtriya Madhyamik Siksha Abhijan,Technical Evaluation,Services,227.5
+1757,2020-21,Rashtriya Madhyamik Siksha Abhijan,To be Opened,Goods,227.5
+1758,2020-21,Rashtriya Madhyamik Siksha Abhijan,To be Opened,Services,365.0
+1759,2020-21,SECONDARY EDUCATION DEPARTMENT ASSAM,AOC,Goods,60.0
+1760,2020-21,SECONDARY EDUCATION DEPARTMENT ASSAM,To be Opened,Goods,60.0
+1761,2020-21,Skill Employment and Entrepreneurship Department,AOC,Services,150.0
+1762,2020-21,Skill Employment and Entrepreneurship Department,AOC,Works,180.0
+1763,2020-21,Skill Employment and Entrepreneurship Department,Financial Bid Opening,Services,180.0
+1764,2020-21,Skill Employment and Entrepreneurship Department,Financial Evaluation,Services,120.0
+1765,2020-21,Skill Employment and Entrepreneurship Department,Financial Evaluation,Works,180.0
+1766,2020-21,Skill Employment and Entrepreneurship Department,To be Opened,Services,180.0
+1767,2020-21,Social Welfare Department,AOC,Goods,90.0
+1768,2020-21,Social Welfare Department,Evaluation,Works,120.0
+1769,2020-21,Social Welfare Department,Financial Evaluation,Goods,90.0
+1770,2020-21,Social Welfare Department,Technical Bid Opening,Goods,120.0
+1771,2020-21,Social Welfare Department,Technical Bid Opening,Services,120.0
+1772,2020-21,Soil Conservation Department,AOC,Works,597.6666666666666
+1773,2020-21,Soil Conservation Department,Technical Evaluation,Works,180.0
+1774,2020-21,Soil Conservation Department,To be Opened,Works,477.25
+1775,2020-21,Tea Tribes Welfare Department,AOC,Goods,180.0
+1776,2020-21,Tea Tribes Welfare Department,Financial Bid Opening,Services,180.0
+1777,2020-21,Tea Tribes Welfare Department,Technical Bid Opening,Goods,180.0
+1778,2020-21,Tea Tribes Welfare Department,Technical Evaluation,Goods,180.0
+1779,2020-21,Tea Tribes Welfare Department,To be Opened,Goods,365.0
+1780,2020-21,Transport Department,Financial Bid Opening,Goods,180.0
+1781,2020-21,Transport Department,Technical Bid Opening,Goods,180.0
+1782,2020-21,Transport Department,Technical Evaluation,Services,180.0
+1783,2020-21,Transport Department,To be Opened,Goods,180.0
+1784,2020-21,Transport Department,To be Opened,Services,180.0
+1785,2020-21,Urban Development Department,AOC,Works,123.75
+1786,2020-21,Urban Development Department,Financial Bid Opening,Goods,180.0
+1787,2020-21,Urban Development Department,Financial Bid Opening,Works,140.0
+1788,2020-21,Urban Development Department,Financial Evaluation,Works,160.0
+1789,2020-21,Urban Development Department,Technical Bid Opening,Works,121.66666666666667
+1790,2020-21,Urban Development Department,Technical Evaluation,Goods,180.0
+1791,2020-21,Urban Development Department,Technical Evaluation,Works,145.0
+1792,2020-21,Urban Development Department,To be Opened,Goods,180.0
+1793,2020-21,Urban Development Department,To be Opened,Works,166.15384615384616
+1794,2020-21,Water Resources Department- World Bank Tenders,AOC,Goods,120.0
+1795,2020-21,Water Resources Department- World Bank Tenders,Financial Bid Opening,Goods,120.0
+1796,2020-21,Welfare of Minorities Development Department,Evaluation,Services,60.0
+1797,2020-21,Welfare of Plain Tribes and Backward Classes,AOC,Goods,326.9047619047619
+1798,2020-21,Welfare of Plain Tribes and Backward Classes,AOC,Works,162.85714285714286
+1799,2020-21,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Goods,208.33333333333334
+1800,2020-21,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Works,162.85714285714286
+1801,2020-21,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Goods,299.11764705882354
+1802,2020-21,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Services,365.0
+1803,2020-21,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Works,180.0
+1804,2020-21,Welfare of Plain Tribes and Backward Classes,Technical Bid Opening,Goods,125.0
+1805,2020-21,Welfare of Plain Tribes and Backward Classes,Technical Bid Opening,Works,160.0
+1806,2020-21,Welfare of Plain Tribes and Backward Classes,Technical Evaluation,Goods,120.41666666666667
+1807,2020-21,Welfare of Plain Tribes and Backward Classes,Technical Evaluation,Works,180.0
+1808,2020-21,Welfare of Plain Tribes and Backward Classes,To be Opened,Goods,307.85714285714283
+1809,2020-21,Welfare of Plain Tribes and Backward Classes,To be Opened,Services,365.0
+1810,2020-21,Welfare of Plain Tribes and Backward Classes,To be Opened,Works,140.93023255813952
+1811,2021-22,Assam Electricity Grid Corporation Ltd,To be Opened,Works,180.0
+1812,2021-22,Assam Electricity Grid Corporation Ltd. - Externally Funded Projects,To be Opened,Goods,120.0
+1813,2021-22,Assam Inland Water Transport Development Society,Bid Opening,Works,120.0
+1814,2021-22,Assam Inland Water Transport Development Society,To be Opened,Services,150.0
+1815,2021-22,Assam Power Distribution Company Ltd,To be Opened,Services,180.0
+1816,2021-22,Assam Power Generation Company Limited,To be Opened,Works,180.0
+1817,2021-22,Cooperation Department,To be Opened,Goods,120.0
+1818,2021-22,Department of Water Resources,To be Opened,Goods,120.0
+1819,2021-22,Department of Water Resources,To be Opened,Works,120.0
+1820,2021-22,Directorate of Agriculture and Assam Seed Corporation,To be Opened,Goods,120.0
+1821,2021-22,Directorate of Agriculture and Assam Seed Corporation,To be Opened,Services,180.0
+1822,2021-22,Directorate of Agriculture and Assam Seed Corporation,To be Opened,Works,90.0
+1823,2021-22,Finance Department - World Bank Tenders,To be Opened,Goods,180.0
+1824,2021-22,Health and Family Welfare Department,Technical Bid Opening,Goods,90.0
+1825,2021-22,Health and Family Welfare Department,To be Opened,Goods,330.625
+1826,2021-22,Industries and Commerce Department,Technical Evaluation,Services,60.0
+1827,2021-22,Industries and Commerce Department,To be Opened,Goods,180.0
+1828,2021-22,Industries and Commerce Department,To be Opened,Services,180.0
+1829,2021-22,Industries and Commerce Department,To be Opened,Works,180.0
+1830,2021-22,Pollution Control Board,To be Opened,Goods,180.0
+1831,2021-22,Principal Secretary-Department of Information Technology,To be Opened,Services,180.0
+1832,2021-22,Public Health Engineering Department,Technical Evaluation,Goods,90.0
+1833,2021-22,Public Works Roads Department,To be Opened,Works,90.0
+1834,2021-22,Water Resources Department- World Bank Tenders,To be Opened,Goods,120.0

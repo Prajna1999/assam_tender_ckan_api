@@ -1,0 +1,1340 @@
+,fiscal_year,buyer_name,tender/stage,tender/mainProcurementCategory,tender/procurementMethod,tender_count
+0,2017-2018,Assam Police,AOC,Goods,Open,20
+1,2017-2018,Assam Police,Cancelled,Goods,Open,3
+2,2017-2018,Bodoland Territorial Council,AOC,Works,Open,5
+3,2017-2018,Bodoland Territorial Council-PWD,AOC,Works,Open,4
+4,2017-2018,Bodoland Territorial Council-PWD,Cancelled,Works,Open,1
+5,2017-2018,Industries and Commerce Department,Cancelled,Goods,Open,3
+6,2017-2018,Industries and Commerce Department,Cancelled,Works,Open,1
+7,2017-2018,Principal Secretary-Department of Information Technology,AOC,Goods,Selective,1
+8,2017-2018,Public Works Building and NH Department,AOC,Works,Open,6
+9,2017-2018,Welfare of Plain Tribes and Backward Classes,Cancelled,Goods,Open,1
+10,2017-2018,Welfare of Plain Tribes and Backward Classes,Cancelled,Works,Open,2
+11,2018-2019,Assam Electricity Grid Corporation Ltd,AOC,Works,Open,3
+12,2018-2019,Assam Electricity Grid Corporation Ltd,Cancelled,Works,Open,1
+13,2018-2019,Assam Police,AOC,Services,Open,2
+14,2018-2019,Assam Police,Cancelled,Goods,Open,2
+15,2018-2019,Assam Power Distribution Company Ltd,AOC,Works,Open,1
+16,2018-2019,Assam Power Generation Company Limited,Cancelled,Works,Open,6
+17,2018-2019,Assam State Transport Corporation,AOC,Services,Open,1
+18,2018-2019,Bodoland Territorial Council,AOC,Goods,Open,1
+19,2018-2019,Bodoland Territorial Council,AOC,Works,Open,7
+20,2018-2019,Bodoland Territorial Council,Cancelled,Works,Open,5
+21,2018-2019,Bodoland Territorial Council-PWD,Cancelled,Works,Open,1
+22,2018-2019,Bodoland Territorial Council-WRD,AOC,Works,Open,7
+23,2018-2019,Cotton University,AOC,Works,Open,2
+24,2018-2019,Department of Tourism,AOC,Works,Open,1
+25,2018-2019,Department of Water Resources,AOC,Works,Open,1
+26,2018-2019,Directorate of Agriculture and Assam Seed Corporation,AOC,Works,Open Tender,1
+27,2018-2019,Health and Family Welfare Department,AOC,Goods,Open,1
+28,2018-2019,Health and Family Welfare Department,Cancelled,Goods,Open,1
+29,2018-2019,Industries and Commerce Department,AOC,Works,Open,3
+30,2018-2019,Industries and Commerce Department,Cancelled,Goods,Open,1
+31,2018-2019,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,Open,2
+32,2018-2019,Principal Secretary-Department of Information Technology,Cancelled,Services,Open,1
+33,2018-2019,Public Works Building and NH Department,AOC,Works,Open,12
+34,2018-2019,Public Works Building and NH Department,AOC,Works,Open Tender,4
+35,2018-2019,Public Works Roads Department,AOC,Works,Open,1
+36,2018-2019,Public Works Roads Department,AOC,Works,Open Tender,4
+37,2018-2019,Urban Development Department,AOC,Works,Open Tender,1
+38,2018-2019,Welfare of Plain Tribes and Backward Classes,AOC,Goods,Open,1
+39,2019-2020,Animal Husbandry and Veterinary Department,AOC,Works,Open,4
+40,2019-2020,Assam Electricity Grid Corporation Ltd,AOC,Goods,Open,1
+41,2019-2020,Assam Electricity Grid Corporation Ltd,AOC,Services,Open,4
+42,2019-2020,Assam Electricity Grid Corporation Ltd,AOC,Works,Open,9
+43,2019-2020,Assam Electricity Grid Corporation Ltd,Cancelled,Services,Open,1
+44,2019-2020,Assam Electricity Grid Corporation Ltd,Cancelled,Works,Open,2
+45,2019-2020,Assam Inland Water Transport Development Society,AOC,Goods,Open,8
+46,2019-2020,Assam Inland Water Transport Development Society,AOC,Services,Open,1
+47,2019-2020,Assam Inland Water Transport Development Society,AOC,Works,Open,3
+48,2019-2020,Assam Police,AOC,Goods,Open,4
+49,2019-2020,Assam Police,AOC,Services,Open,1
+50,2019-2020,Assam Police Housing Corporation Ltd,AOC,Works,Open,20
+51,2019-2020,Assam Power Distribution Company Ltd,AOC,Goods,Open,11
+52,2019-2020,Assam Power Distribution Company Ltd,AOC,Services,Open,38
+53,2019-2020,Assam Power Distribution Company Ltd,AOC,Works,Open,3
+54,2019-2020,Assam Power Distribution Company Ltd,Cancelled,Services,Open,1
+55,2019-2020,Assam Power Generation Company Limited,AOC,Goods,Open,2
+56,2019-2020,Assam Power Generation Company Limited,AOC,Services,Open,2
+57,2019-2020,Assam Power Generation Company Limited,AOC,Works,Open,5
+58,2019-2020,Assam Power Generation Company Limited,Cancelled,Works,Open,1
+59,2019-2020,Assam State Transport Corporation,AOC,Goods,Open,1
+60,2019-2020,Assam State Transport Corporation,AOC,Services,Open,3
+61,2019-2020,Assam State Transport Corporation,Cancelled,Goods,Open,3
+62,2019-2020,Assam State Transport Corporation,Cancelled,Services,Open,3
+63,2019-2020,Assam State Transport Corporation,Cancelled,Works,Open,1
+64,2019-2020,BODOLAND UNIVERSITY,Cancelled,Works,Open,2
+65,2019-2020,Bodoland Territorial Council,AOC,Goods,Open,3
+66,2019-2020,Bodoland Territorial Council,AOC,Goods,Open Tender,2
+67,2019-2020,Bodoland Territorial Council,AOC,Works,Open,6
+68,2019-2020,Bodoland Territorial Council,Cancelled,Works,Open,4
+69,2019-2020,Bodoland Territorial Council-PWD,Cancelled,Works,Open,5
+70,2019-2020,Cooperation Department,AOC,Works,Open,21
+71,2019-2020,Cotton University,AOC,Works,Open,3
+72,2019-2020,Department of Tourism,AOC,Works,Open,2
+73,2019-2020,Department of Water Resources,AOC,Works,Open,2
+74,2019-2020,Dibrugarh University,AOC,Works,Open,2
+75,2019-2020,Director- Fire and Emergency Services-Assam,AOC,Works,Open,2
+76,2019-2020,Director- Fire and Emergency Services-Assam,AOC,Works,Selective,1
+77,2019-2020,Directorate of Agriculture and Assam Seed Corporation,AOC,Works,Open,8
+78,2019-2020,Directorate of Land Records and Survey etc. Assam,AOC,Goods,Open,1
+79,2019-2020,Directorate of Land Records and Survey etc. Assam,AOC,Services,Open,1
+80,2019-2020,Finance Department - World Bank Tenders,AOC,Services,Open,2
+81,2019-2020,Guwahati Metropolitan Development Authority,AOC,Works,Open,1
+82,2019-2020,Guwahati Metropolitan Development Authority,AOC,Works,Open Tender,1
+83,2019-2020,Guwahati Metropolitan Development Authority,Financial Evaluation,Works,Open,1
+84,2019-2020,Health and Family Welfare Department,AOC,Goods,Open,7
+85,2019-2020,Health and Family Welfare Department,AOC,Services,Open,1
+86,2019-2020,Health and Family Welfare Department,Cancelled,Goods,Open,11
+87,2019-2020,Health and Family Welfare Department,Cancelled,Works,Open,1
+88,2019-2020,Health and Family Welfare Department,Financial Evaluation,Goods,Open,1
+89,2019-2020,Home B,AOC,Goods,Open,18
+90,2019-2020,Home B,Cancelled,Goods,Open,15
+91,2019-2020,Industries and Commerce Department,AOC,Goods,Open,1
+92,2019-2020,Industries and Commerce Department,AOC,Works,Open,4
+93,2019-2020,Industries and Commerce Department,Cancelled,Services,Open,1
+94,2019-2020,Industries and Commerce Department,Cancelled,Works,Open,1
+95,2019-2020,Irrigation Department,Cancelled,Works,Open,1
+96,2019-2020,National Health Mission,AOC,Goods,Open,6
+97,2019-2020,National Health Mission,AOC,Goods,Open Limited,13
+98,2019-2020,National Health Mission,AOC,Works,Open,37
+99,2019-2020,National Health Mission,Cancelled,Goods,Open,1
+100,2019-2020,National Health Mission,Cancelled,Services,Open,1
+101,2019-2020,National Health Mission,Cancelled,Works,Open,4
+102,2019-2020,National Health Mission,Financial Evaluation,Services,Open,1
+103,2019-2020,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,Open,25
+104,2019-2020,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,Open Tender,7
+105,2019-2020,Principal Secretary- P and RD- Assam Secretariat,Cancelled,Works,Open,1
+106,2019-2020,Principal Secretary- P and RD- Assam Secretariat,Financial Evaluation,Works,Open,4
+107,2019-2020,Public Health Engineering Department,AOC,Services,Open,1
+108,2019-2020,Public Health Engineering Department,Cancelled,Goods,Open,2
+109,2019-2020,Public Health Engineering Department,Cancelled,Works,Open,4
+110,2019-2020,Public Works Building and NH Department,AOC,Works,Open,18
+111,2019-2020,Public Works Building and NH Department,AOC,Works,Open Tender,3
+112,2019-2020,Public Works Roads Department,AOC,Works,Open,9
+113,2019-2020,Public Works Roads Department,Financial Evaluation,Works,Open,1
+114,2019-2020,Skill Employment and Entrepreneurship Department,AOC,Services,Open,1
+115,2019-2020,Social Welfare Department,Cancelled,Goods,Open,1
+116,2019-2020,Urban Development Department,AOC,Works,Open,3
+117,2019-2020,Urban Development Department,Cancelled,Goods,Open,3
+118,2019-2020,Welfare of Plain Tribes and Backward Classes,AOC,Goods,Open,10
+119,2019-2020,Welfare of Plain Tribes and Backward Classes,AOC,Services,Open,1
+120,2019-2020,Welfare of Plain Tribes and Backward Classes,AOC,Works,Limited,1
+121,2019-2020,Welfare of Plain Tribes and Backward Classes,AOC,Works,Open,4
+122,2019-2020,Welfare of Plain Tribes and Backward Classes,AOC,Works,Selective,5
+123,2019-2020,Welfare of Plain Tribes and Backward Classes,Cancelled,Goods,Open,1
+124,2019-2020,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Goods,Open,4
+125,2019-2020,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Services,Open,2
+126,2020-2021,Animal Husbandry and Veterinary Department,AOC,Goods,Open,11
+127,2020-2021,Animal Husbandry and Veterinary Department,AOC,Works,Open,2
+128,2020-2021,Animal Husbandry and Veterinary Department,AOC,Works,Open Tender,1
+129,2020-2021,Animal Husbandry and Veterinary Department,Cancelled,Goods,Open,1
+130,2020-2021,Animal Husbandry and Veterinary Department,Cancelled,Services,Open,2
+131,2020-2021,Animal Husbandry and Veterinary Department,Cancelled,Works,Open,1
+132,2020-2021,Animal Husbandry and Veterinary Department-Externally Aided Project,AOC,Goods,Open,1
+133,2020-2021,Assam Electricity Grid Corporation Ltd,AOC,Goods,Open,1
+134,2020-2021,Assam Electricity Grid Corporation Ltd,AOC,Services,Open,1
+135,2020-2021,Assam Electricity Grid Corporation Ltd,AOC,Works,Open,13
+136,2020-2021,Assam Electricity Grid Corporation Ltd,Cancelled,Goods,Open,1
+137,2020-2021,Assam Electricity Grid Corporation Ltd,Cancelled,Services,Open,1
+138,2020-2021,Assam Electricity Grid Corporation Ltd,Cancelled,Works,Open,3
+139,2020-2021,Assam Electricity Grid Corporation Ltd. - Externally Funded Projects,AOC,Works,Open,10
+140,2020-2021,Assam Inland Water Transport Development Society,AOC,Services,Open Tender,1
+141,2020-2021,Assam Inland Water Transport Development Society,AOC,Works,Open,1
+142,2020-2021,Assam Inland Water Transport Development Society,AOC,Works,Open Tender,1
+143,2020-2021,Assam Inland Water Transport Development Society,Cancelled,Services,Open,2
+144,2020-2021,Assam Police,AOC,Goods,Open,4
+145,2020-2021,Assam Police,AOC,Services,Open,1
+146,2020-2021,Assam Police,AOC,Services,Selective,2
+147,2020-2021,Assam Police,Cancelled,Goods,Open,2
+148,2020-2021,Assam Police,Cancelled,Services,Open,1
+149,2020-2021,Assam Police,Cancelled,Works,Open,1
+150,2020-2021,Assam Police,Financial Evaluation,Goods,Open,1
+151,2020-2021,Assam Police Housing Corporation Ltd,AOC,Works,Open,33
+152,2020-2021,Assam Police Housing Corporation Ltd,Cancelled,Works,Open,4
+153,2020-2021,Assam Power Distribution Company Limited- Externally Aided Project,AOC,Works,Open,9
+154,2020-2021,Assam Power Distribution Company Limited- Externally Aided Project,Cancelled,Works,Open,1
+155,2020-2021,Assam Power Distribution Company Ltd,AOC,Works,Open,29
+156,2020-2021,Assam Power Distribution Company Ltd,Cancelled,Services,Open,14
+157,2020-2021,Assam Power Generation Company Limited,AOC,Goods,Open,1
+158,2020-2021,Assam Power Generation Company Limited,AOC,Works,Open,2
+159,2020-2021,Assam Power Generation Company Limited,AOC,Works,Open Tender,1
+160,2020-2021,Assam Power Generation Company Limited APGCL - ADB,AOC,Services,Open,1
+161,2020-2021,Assam Power Generation Company Limited APGCL - ADB,AOC,Services,Open Tender,1
+162,2020-2021,Assam Power Generation Company Limited APGCL - ADB,AOC,Works,Global Tenders,1
+163,2020-2021,Assam Power Generation Company Limited APGCL - ADB,AOC,Works,Open,1
+164,2020-2021,Assam Science and Technology University,AOC,Goods,Open,1
+165,2020-2021,Assam State Disaster Management Authority,AOC,Goods,Open,2
+166,2020-2021,Assam State Disaster Management Authority,AOC,Services,Open,1
+167,2020-2021,Assam State Disaster Management Authority,Cancelled,Goods,Open,2
+168,2020-2021,Assam State Disaster Management Authority,Financial Evaluation,Services,Open,1
+169,2020-2021,Assam State Transport Corporation,AOC,Goods,Open,1
+170,2020-2021,Assam State Transport Corporation,AOC,Works,Open,1
+171,2020-2021,Assam State Transport Corporation,Cancelled,Goods,Open,4
+172,2020-2021,Assam State Transport Corporation,Cancelled,Services,Open,3
+173,2020-2021,Axom Sarba Siksha Abhijan Mission,AOC,Goods,Open,11
+174,2020-2021,Axom Sarba Siksha Abhijan Mission,AOC,Services,Open,1
+175,2020-2021,Axom Sarba Siksha Abhijan Mission,Cancelled,Goods,Open,11
+176,2020-2021,Axom Sarba Siksha Abhijan Mission,Cancelled,Services,Open,1
+177,2020-2021,Axom Sarba Siksha Abhijan Mission,Cancelled,Works,Open,2
+178,2020-2021,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Services,Open,1
+179,2020-2021,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Works,Open,18
+180,2020-2021,BODOLAND UNIVERSITY,Cancelled,Works,Open,2
+181,2020-2021,Bodoland Territorial Council,AOC,Goods,Open,1
+182,2020-2021,Bodoland Territorial Council,AOC,Works,Open,33
+183,2020-2021,Bodoland Territorial Council,Cancelled,Works,Open,3
+184,2020-2021,Bodoland Territorial Council,Financial Bid Opening,Works,Open,21
+185,2020-2021,Bodoland Territorial Council,Financial Evaluation,Works,Open,1
+186,2020-2021,Bodoland Territorial Council,Technical Evaluation,Works,Open,3
+187,2020-2021,Bodoland Territorial Council-PWD,AOC,Works,Open,15
+188,2020-2021,Bodoland Territorial Council-PWD,AOC,Works,Open Tender,1
+189,2020-2021,Bodoland Territorial Council-PWD,Cancelled,Works,Open,9
+190,2020-2021,Bodoland Territorial Council-PWD,Technical Evaluation,Services,Open,1
+191,2020-2021,Bodoland Territorial Council-PWD,Technical Evaluation,Works,Open,4
+192,2020-2021,Bodoland Territorial Council-WRD,AOC,Works,Open,7
+193,2020-2021,Cooperation Department,AOC,Goods,Open,4
+194,2020-2021,Cooperation Department,AOC,Works,Open,36
+195,2020-2021,Cotton University,AOC,Works,Open,2
+196,2020-2021,Department of Cultural Affairs,AOC,Services,Open,2
+197,2020-2021,Department of Cultural Affairs,AOC,Works,Open,36
+198,2020-2021,Department of Cultural Affairs,Cancelled,Works,Open,1
+199,2020-2021,Department of Cultural Affairs,Financial Bid Opening,Works,Open,1
+200,2020-2021,Department of Cultural Affairs,Retender,Works,Open,4
+201,2020-2021,Department of Cultural Affairs,Technical Evaluation,Works,Open,1
+202,2020-2021,Department of Fisheries,AOC,Services,Open,1
+203,2020-2021,Department of Fisheries,Cancelled,Works,Open,1
+204,2020-2021,Department of Fisheries,Retender,Services,Open,1
+205,2020-2021,Department of Handloom Textile and Sericulture,AOC,Goods,Open,4
+206,2020-2021,Department of Handloom Textile and Sericulture,AOC,Works,Open,1
+207,2020-2021,Department of Handloom Textile and Sericulture,Cancelled,Works,Open,1
+208,2020-2021,Department of Handloom Textile and Sericulture,Technical Evaluation,Works,Open,1
+209,2020-2021,Department of Labour and Welfare,AOC,Services,Open,1
+210,2020-2021,Department of Science and Technology,AOC,Goods,Open,1
+211,2020-2021,Department of Tourism,AOC,Goods,Open,1
+212,2020-2021,Department of Water Resources,AOC,Works,Open,41
+213,2020-2021,Department of Water Resources,Cancelled,Works,Open,1
+214,2020-2021,Department of Water Resources,Retender,Works,Open,6
+215,2020-2021,Dibrugarh University,AOC,Goods,Open,1
+216,2020-2021,Dibrugarh University,AOC,Works,Open,2
+217,2020-2021,Director- Fire and Emergency Services-Assam,AOC,Goods,Open,2
+218,2020-2021,Director- Fire and Emergency Services-Assam,AOC,Works,Open,7
+219,2020-2021,Directorate of Agriculture and Assam Seed Corporation,AOC,Goods,Open,1
+220,2020-2021,Directorate of Agriculture and Assam Seed Corporation,AOC,Works,Open,1
+221,2020-2021,Directorate of Agriculture and Assam Seed Corporation,Cancelled,Goods,Open,1
+222,2020-2021,Directorate of Agriculture and Assam Seed Corporation,Financial Bid Opening,Works,Open,1
+223,2020-2021,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Goods,Open,3
+224,2020-2021,Directorate of Horticulture Assam,AOC,Goods,Open,1
+225,2020-2021,Directorate of Horticulture Assam,Cancelled,Works,Open,1
+226,2020-2021,Directorate of Land Records and Survey etc. Assam,AOC,Goods,Open,2
+227,2020-2021,Directorate of Land Records and Survey etc. Assam,AOC,Works,Open,1
+228,2020-2021,Directorate of Sports and Youth Welfare - Assam,AOC,Goods,Open,1
+229,2020-2021,Elementary Education Department,AOC,Goods,Open,1
+230,2020-2021,Elementary Education Department,AOC,Services,Open,1
+231,2020-2021,Elementary Education Department,Retender,Services,Open,1
+232,2020-2021,Finance Department - World Bank Tenders,AOC,Goods,Open,1
+233,2020-2021,Finance Department - World Bank Tenders,AOC,Services,Direct,3
+234,2020-2021,Finance Department - World Bank Tenders,AOC,Services,Open,1
+235,2020-2021,Finance Department - World Bank Tenders,AOC,Services,Selective,3
+236,2020-2021,Food Civil Supplies and Consumer Affairs Department,AOC,Goods,Open,2
+237,2020-2021,Food Civil Supplies and Consumer Affairs Department,AOC,Services,Open,1
+238,2020-2021,Food Civil Supplies and Consumer Affairs Department,Financial Bid Opening,Goods,Open,2
+239,2020-2021,Gauhati University,AOC,Works,Open,1
+240,2020-2021,Gauhati University,Retender,Works,Open,1
+241,2020-2021,Guwahati Metropolitan Development Authority,AOC,Services,Open,1
+242,2020-2021,Guwahati Metropolitan Development Authority,AOC,Works,Open,1
+243,2020-2021,Guwahati Metropolitan Development Authority,AOC,Works,Open Tender,1
+244,2020-2021,Guwahati Metropolitan Development Authority,Cancelled,Works,Open,2
+245,2020-2021,Guwahati Metropolitan Development Authority,Technical Evaluation,Services,Open,1
+246,2020-2021,Guwahati Metropolitan Development Authority,Technical Evaluation,Works,Open,2
+247,2020-2021,Guwahati Municipal Corporation,AOC,Goods,Open,1
+248,2020-2021,Guwahati Municipal Corporation,AOC,Services,Open,1
+249,2020-2021,Guwahati Municipal Corporation,AOC,Works,Open,5
+250,2020-2021,Guwahati Municipal Corporation,AOC,Works,Open Tender,3
+251,2020-2021,Guwahati Municipal Corporation,Cancelled,Goods,Open,1
+252,2020-2021,Guwahati Municipal Corporation,Cancelled,Works,Open,62
+253,2020-2021,Guwahati Municipal Corporation,Financial Bid Opening,Works,Open,2
+254,2020-2021,Guwahati Municipal Corporation,Financial Evaluation,Works,Open,6
+255,2020-2021,Guwahati Municipal Corporation,Retender,Works,Open,10
+256,2020-2021,Guwahati Smart City Ltd.,Cancelled,Works,Open,3
+257,2020-2021,Health and Family Welfare Department,AOC,Goods,Open,19
+258,2020-2021,Health and Family Welfare Department,AOC,Goods,Open Tender,1
+259,2020-2021,Health and Family Welfare Department,AOC,Services,Open,7
+260,2020-2021,Health and Family Welfare Department,AOC,Services,Open Tender,1
+261,2020-2021,Health and Family Welfare Department,Cancelled,Goods,Open,13
+262,2020-2021,Health and Family Welfare Department,Cancelled,Goods,Open Tender,1
+263,2020-2021,Health and Family Welfare Department,Cancelled,Services,Open,2
+264,2020-2021,Health and Family Welfare Department,Financial Evaluation,Goods,Open,7
+265,2020-2021,Health and Family Welfare Department,Financial Evaluation,Services,Open,1
+266,2020-2021,Health and Family Welfare Department,Retender,Goods,Open,6
+267,2020-2021,Health and Family Welfare Department,Retender,Services,Open,1
+268,2020-2021,Health and Family Welfare Department,Technical Evaluation,Goods,Open,5
+269,2020-2021,Health and Family Welfare Department,To Be Opened,Goods,Open,1
+270,2020-2021,Higher Education (Technical) Department,AOC,Goods,Open,2
+271,2020-2021,Higher Education (Technical) Department,Financial Evaluation,Goods,Open,1
+272,2020-2021,Hill Areas Department,AOC,Goods,Open,13
+273,2020-2021,Hill Areas Department,Retender,Goods,Open,1
+274,2020-2021,Home B,AOC,Goods,Open,15
+275,2020-2021,Home B,Cancelled,Goods,Open,12
+276,2020-2021,Industries and Commerce Department,AOC,Goods,Open,9
+277,2020-2021,Industries and Commerce Department,AOC,Goods,Open Limited,1
+278,2020-2021,Industries and Commerce Department,AOC,Goods,Open Tender,2
+279,2020-2021,Industries and Commerce Department,AOC,Services,Open,5
+280,2020-2021,Industries and Commerce Department,AOC,Works,Open,33
+281,2020-2021,Industries and Commerce Department,AOC,Works,Selective,1
+282,2020-2021,Industries and Commerce Department,Cancelled,Goods,Open,7
+283,2020-2021,Industries and Commerce Department,Cancelled,Services,Open,3
+284,2020-2021,Industries and Commerce Department,Cancelled,Services,Selective,1
+285,2020-2021,Industries and Commerce Department,Cancelled,Works,Open,33
+286,2020-2021,Industries and Commerce Department,Cancelled,Works,Open Limited,1
+287,2020-2021,Industries and Commerce Department,Financial Bid Opening,Goods,Open,2
+288,2020-2021,Industries and Commerce Department,Financial Bid Opening,Services,Open,1
+289,2020-2021,Industries and Commerce Department,Financial Bid Opening,Works,Open,2
+290,2020-2021,Industries and Commerce Department,Retender,Works,Open,7
+291,2020-2021,Industries and Commerce Department,Technical Evaluation,Goods,Open,2
+292,2020-2021,Industries and Commerce Department,To Be Opened,Works,Open,1
+293,2020-2021,Information and Public Relations Department,AOC,Services,Open,1
+294,2020-2021,Irrigation Department,AOC,Goods,Open,2
+295,2020-2021,Irrigation Department,AOC,Works,Open,26
+296,2020-2021,Irrigation Department,Cancelled,Works,Open,15
+297,2020-2021,Karbi Anglong Autonomous Council,AOC,Goods,Open,1
+298,2020-2021,Karbi Anglong Autonomous Council,AOC,Works,Open,2
+299,2020-2021,National Health Mission,AOC,Goods,Open,15
+300,2020-2021,National Health Mission,AOC,Goods,Open Limited,1
+301,2020-2021,National Health Mission,AOC,Services,Open,2
+302,2020-2021,National Health Mission,AOC,Services,Open Tender,1
+303,2020-2021,National Health Mission,AOC,Works,Open,22
+304,2020-2021,National Health Mission,Cancelled,Goods,Open,4
+305,2020-2021,National Health Mission,Cancelled,Services,Open,1
+306,2020-2021,National Health Mission,Cancelled,Works,Open,7
+307,2020-2021,National Health Mission,Financial Bid Opening,Works,Open,5
+308,2020-2021,National Health Mission,Financial Evaluation,Goods,Open,2
+309,2020-2021,National Health Mission,Financial Evaluation,Services,Open,1
+310,2020-2021,National Health Mission,Financial Evaluation,Works,Open,12
+311,2020-2021,National Health Mission,Retender,Works,Open,1
+312,2020-2021,National Health Mission,Technical Evaluation,Goods,Open,1
+313,2020-2021,National Health Mission,Technical Evaluation,Services,Open,1
+314,2020-2021,National Health Mission,Technical Evaluation,Works,Open,12
+315,2020-2021,Office of the Chief Electoral Officer Assam,AOC,Services,Open,1
+316,2020-2021,Pollution Control Board,Retender,Works,Open,1
+317,2020-2021,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Works,Open,5
+318,2020-2021,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Works,Open Tender,2
+319,2020-2021,Pr. Chief Conservator of Forest and Head of Forest Force,Cancelled,Works,Open,9
+320,2020-2021,Pr. Chief Conservator of Forest and Head of Forest Force,Retender,Works,Open,17
+321,2020-2021,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,Open,20
+322,2020-2021,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,Open Tender,3
+323,2020-2021,Principal Secretary- P and RD- Assam Secretariat,Cancelled,Goods,Open,4
+324,2020-2021,Principal Secretary- P and RD- Assam Secretariat,Cancelled,Works,Open,1
+325,2020-2021,Principal Secretary- P and RD- Assam Secretariat,Retender,Goods,Open,4
+326,2020-2021,Principal Secretary-Department of Information Technology,AOC,Services,Open,2
+327,2020-2021,Principal Secretary-Department of Information Technology,AOC,Works,Open,1
+328,2020-2021,Principal Secretary-Department of Information Technology,Cancelled,Goods,Open,2
+329,2020-2021,Principal Secretary-Department of Information Technology,Cancelled,Works,Open,1
+330,2020-2021,Public Health Engineering Department,AOC,Goods,Open,2
+331,2020-2021,Public Health Engineering Department,AOC,Services,Open,2
+332,2020-2021,Public Health Engineering Department,AOC,Works,Open,11
+333,2020-2021,Public Health Engineering Department,Cancelled,Services,Open,4
+334,2020-2021,Public Health Engineering Department,Cancelled,Works,Open,1
+335,2020-2021,Public Health Engineering Department,Financial Evaluation,Goods,Open,1
+336,2020-2021,Public Works Building and NH Department,AOC,Works,Open,166
+337,2020-2021,Public Works Building and NH Department,AOC,Works,Open Tender,2
+338,2020-2021,Public Works Building and NH Department,Cancelled,Goods,Open,2
+339,2020-2021,Public Works Building and NH Department,Cancelled,Works,Open,6
+340,2020-2021,Public Works Building and NH Department,Financial Bid Opening,Works,Open,2
+341,2020-2021,Public Works Building and NH Department,Financial Evaluation,Works,Open,4
+342,2020-2021,Public Works Building and NH Department,Retender,Works,Open,2
+343,2020-2021,Public Works Building and NH Department,Technical Bid Opening,Works,Open,1
+344,2020-2021,Public Works Roads Department,AOC,Services,Open,1
+345,2020-2021,Public Works Roads Department,AOC,Works,Open,409
+346,2020-2021,Public Works Roads Department,AOC,Works,Open Tender,17
+347,2020-2021,Public Works Roads Department,Cancelled,Works,Open,22
+348,2020-2021,Public Works Roads Department,Cancelled,Works,Open Tender,2
+349,2020-2021,Public Works Roads Department,Financial Bid Opening,Works,Open,28
+350,2020-2021,Public Works Roads Department,Financial Evaluation,Works,Open,2
+351,2020-2021,Public Works Roads Department,Retender,Works,Open,10
+352,2020-2021,Public Works Roads Department,Technical Bid Opening,Works,Open,1
+353,2020-2021,Public Works Roads Department,Technical Evaluation,Works,Open,14
+354,2020-2021,Rashtriya Madhyamik Siksha Abhijan,Cancelled,Goods,Open,1
+355,2020-2021,Rashtriya Madhyamik Siksha Abhijan,Financial Evaluation,Services,Open,1
+356,2020-2021,Rashtriya Madhyamik Siksha Abhijan,Financial Evaluation,Works,Open,1
+357,2020-2021,Skill Employment and Entrepreneurship Department,AOC,Services,Open,2
+358,2020-2021,Skill Employment and Entrepreneurship Department,Cancelled,Services,Open,3
+359,2020-2021,Social Welfare Department,AOC,Goods,Open,2
+360,2020-2021,Social Welfare Department,Cancelled,Goods,Open Tender,1
+361,2020-2021,Social Welfare Department,Cancelled,Works,Open,2
+362,2020-2021,Soil Conservation Department,AOC,Works,Open,15
+363,2020-2021,Soil Conservation Department,Retender,Works,Open,1
+364,2020-2021,Tea Tribes Welfare Department,AOC,Goods,Open,1
+365,2020-2021,Tea Tribes Welfare Department,Cancelled,Goods,Open,1
+366,2020-2021,Transport Department,AOC,Services,Open,1
+367,2020-2021,Transport Department,Financial Bid Opening,Goods,Open,1
+368,2020-2021,Transport Department,Retender,Goods,Open,1
+369,2020-2021,Transport Department,Retender,Services,Open,1
+370,2020-2021,Transport Department,Technical Evaluation,Services,Open,1
+371,2020-2021,Urban Development Department,AOC,Works,Open,25
+372,2020-2021,Urban Development Department,Cancelled,Works,Open,3
+373,2020-2021,Urban Development Department,Retender,Works,Open,3
+374,2020-2021,Urban Development Department,Technical Bid Opening,Works,Open,5
+375,2020-2021,Urban Development Department,Technical Evaluation,Works,Open,1
+376,2020-2021,Welfare of Plain Tribes and Backward Classes,AOC,Goods,Open,32
+377,2020-2021,Welfare of Plain Tribes and Backward Classes,AOC,Services,Open,2
+378,2020-2021,Welfare of Plain Tribes and Backward Classes,AOC,Works,Limited,5
+379,2020-2021,Welfare of Plain Tribes and Backward Classes,AOC,Works,Open,8
+380,2020-2021,Welfare of Plain Tribes and Backward Classes,AOC,Works,Open Tender,13
+381,2020-2021,Welfare of Plain Tribes and Backward Classes,AOC,Works,Selective,2
+382,2020-2021,Welfare of Plain Tribes and Backward Classes,Cancelled,Goods,Open,18
+383,2020-2021,Welfare of Plain Tribes and Backward Classes,Cancelled,Services,Open,1
+384,2020-2021,Welfare of Plain Tribes and Backward Classes,Cancelled,Works,Open,13
+385,2020-2021,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Goods,Open,4
+386,2020-2021,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Goods,Open,7
+387,2020-2021,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Works,Open,2
+388,2020-2021,Welfare of Plain Tribes and Backward Classes,Retender,Works,Open,1
+389,2020-2021,Welfare of Plain Tribes and Backward Classes,Technical Bid Opening,Goods,Open,2
+390,2020-2021,Welfare of Plain Tribes and Backward Classes,Technical Bid Opening,Works,Open,1
+391,2020-2021,Welfare of Plain Tribes and Backward Classes,Technical Evaluation,Works,Selective,1
+392,2021-2022,ASSAM CANCER CARE FOUNDATION,AOC,Goods,Open Tender,3
+393,2021-2022,ASSAM CANCER CARE FOUNDATION,AOC,Services,Open Tender,3
+394,2021-2022,Animal Husbandry and Veterinary Department,AOC,Goods,Open Tender,2
+395,2021-2022,Animal Husbandry and Veterinary Department,AOC,Works,Open,2
+396,2021-2022,Animal Husbandry and Veterinary Department,AOC,Works,Open Tender,5
+397,2021-2022,Animal Husbandry and Veterinary Department,Cancelled,Goods,Open Tender,1
+398,2021-2022,Animal Husbandry and Veterinary Department,Cancelled,Works,Open,2
+399,2021-2022,Animal Husbandry and Veterinary Department-Externally Aided Project,Cancelled,Goods,Open,1
+400,2021-2022,Assam Agricultural University,AOC,Works,Open Tender,2
+401,2021-2022,Assam Electricity Grid Corporation Ltd,AOC,Goods,Open,3
+402,2021-2022,Assam Electricity Grid Corporation Ltd,AOC,Works,Open,9
+403,2021-2022,Assam Electricity Grid Corporation Ltd,AOC,Works,Open Tender,2
+404,2021-2022,Assam Electricity Grid Corporation Ltd,Cancelled,Works,Open,1
+405,2021-2022,Assam Electricity Grid Corporation Ltd,Cancelled,Works,Open Tender,1
+406,2021-2022,Assam Electricity Grid Corporation Ltd. - Externally Funded Projects,AOC,Goods,Global Tenders,1
+407,2021-2022,Assam Electricity Grid Corporation Ltd. - Externally Funded Projects,AOC,Goods,Open,1
+408,2021-2022,Assam Inland Water Transport Development Society,AOC,Services,Limited,1
+409,2021-2022,Assam Inland Water Transport Development Society,AOC,Services,Open,1
+410,2021-2022,Assam Inland Water Transport Development Society,AOC,Works,Open,1
+411,2021-2022,Assam Inland Water Transport Development Society,Technical Evaluation,Services,Open,1
+412,2021-2022,Assam Police,Cancelled,Goods,Open,1
+413,2021-2022,Assam Police,Cancelled,Services,Open Tender,1
+414,2021-2022,Assam Police,Financial Evaluation,Goods,Open,1
+415,2021-2022,Assam Police,Technical Bid Opening,Goods,Open,2
+416,2021-2022,Assam Police,Technical Evaluation,Goods,Open,1
+417,2021-2022,Assam Police Housing Corporation Ltd,AOC,Works,Open,7
+418,2021-2022,Assam Police Housing Corporation Ltd,AOC,Works,Open Tender,3
+419,2021-2022,Assam Police Housing Corporation Ltd,Cancelled,Works,Open,6
+420,2021-2022,Assam Police Housing Corporation Ltd,Cancelled,Works,Open Tender,6
+421,2021-2022,Assam Police Housing Corporation Ltd,Technical Evaluation,Works,Open,8
+422,2021-2022,Assam Power Distribution Company Limited- Externally Aided Project,AOC,Works,Open,5
+423,2021-2022,Assam Power Distribution Company Ltd,AOC,Goods,Open Tender,1
+424,2021-2022,Assam Power Distribution Company Ltd,AOC,Services,Open,2
+425,2021-2022,Assam Power Distribution Company Ltd,AOC,Services,Open Tender,2
+426,2021-2022,Assam Power Distribution Company Ltd,AOC,Works,Open,2
+427,2021-2022,Assam Power Distribution Company Ltd,AOC,Works,Open Tender,80
+428,2021-2022,Assam Power Distribution Company Ltd,Cancelled,Goods,Open,1
+429,2021-2022,Assam Power Distribution Company Ltd,Cancelled,Services,Open,2
+430,2021-2022,Assam Power Distribution Company Ltd,Cancelled,Works,Open Tender,3
+431,2021-2022,Assam Power Distribution Company Ltd,Financial Bid Opening,Services,Open Tender,1
+432,2021-2022,Assam Power Distribution Company Ltd,Technical Evaluation,Services,Open,1
+433,2021-2022,Assam Power Generation Company Limited,AOC,Services,Open Tender,3
+434,2021-2022,Assam Power Generation Company Limited,AOC,Works,Open,1
+435,2021-2022,Assam Power Generation Company Limited,Cancelled,Works,Open Tender,2
+436,2021-2022,Assam Power Generation Company Limited APGCL - ADB,AOC,Services,Open Tender,1
+437,2021-2022,Assam Power Generation Company Limited APGCL - ADB,AOC,Works,Global Tenders,1
+438,2021-2022,Assam Power Generation Company Limited APGCL - ADB,AOC,Works,Open Tender,1
+439,2021-2022,Assam Science and Technology University,Cancelled,Goods,Open,1
+440,2021-2022,Assam State Disaster Management Authority,AOC,Goods,Open,2
+441,2021-2022,Assam State Disaster Management Authority,AOC,Services,Open Tender,1
+442,2021-2022,Assam State Disaster Management Authority,Cancelled,Goods,Open,1
+443,2021-2022,Assam State Transport Corporation,Cancelled,Services,Open,1
+444,2021-2022,Axom Sarba Siksha Abhijan Mission,AOC,Goods,Open,9
+445,2021-2022,Axom Sarba Siksha Abhijan Mission,AOC,Goods,Open Tender,1
+446,2021-2022,Axom Sarba Siksha Abhijan Mission,AOC,Services,Open,4
+447,2021-2022,Axom Sarba Siksha Abhijan Mission,AOC,Works,Open,2
+448,2021-2022,Axom Sarba Siksha Abhijan Mission,Cancelled,Goods,Open,15
+449,2021-2022,Axom Sarba Siksha Abhijan Mission,Cancelled,Services,Open,10
+450,2021-2022,Axom Sarba Siksha Abhijan Mission,Cancelled,Works,Open,4
+451,2021-2022,Axom Sarba Siksha Abhijan Mission,Financial Bid Opening,Goods,Open,1
+452,2021-2022,Axom Sarba Siksha Abhijan Mission,Financial Evaluation,Services,Open Tender,2
+453,2021-2022,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Goods,Open,2
+454,2021-2022,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Services,Open,2
+455,2021-2022,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Works,Open,1
+456,2021-2022,Axom Sarba Siksha Abhijan Mission,To Be Opened,Goods,Open,1
+457,2021-2022,Axom Sarba Siksha Abhijan Mission,To Be Opened,Services,Open,2
+458,2021-2022,BODOLAND UNIVERSITY,AOC,Works,Open,4
+459,2021-2022,BODOLAND UNIVERSITY,Cancelled,Works,Open,2
+460,2021-2022,Bodoland Territorial Council,AOC,Goods,Open,1
+461,2021-2022,Bodoland Territorial Council,AOC,Goods,Open Tender,1
+462,2021-2022,Bodoland Territorial Council,AOC,Works,Open,209
+463,2021-2022,Bodoland Territorial Council,Cancelled,Goods,Open,1
+464,2021-2022,Bodoland Territorial Council,Cancelled,Works,Open,45
+465,2021-2022,Bodoland Territorial Council,Financial Bid Opening,Goods,Open,8
+466,2021-2022,Bodoland Territorial Council,Financial Bid Opening,Works,Open,3
+467,2021-2022,Bodoland Territorial Council,Financial Evaluation,Goods,Open,19
+468,2021-2022,Bodoland Territorial Council,Financial Evaluation,Works,Open,4
+469,2021-2022,Bodoland Territorial Council,Retender,Goods,Open,2
+470,2021-2022,Bodoland Territorial Council,Technical Bid Opening,Goods,Open,4
+471,2021-2022,Bodoland Territorial Council,Technical Bid Opening,Works,Open,6
+472,2021-2022,Bodoland Territorial Council,Technical Evaluation,Goods,Open,1
+473,2021-2022,Bodoland Territorial Council,Technical Evaluation,Works,Open,8
+474,2021-2022,Bodoland Territorial Council,To Be Opened,Works,Open,2
+475,2021-2022,Bodoland Territorial Council-PWD,AOC,Works,Open,228
+476,2021-2022,Bodoland Territorial Council-PWD,AOC,Works,Open Tender,1
+477,2021-2022,Bodoland Territorial Council-PWD,Cancelled,Works,Open,38
+478,2021-2022,Bodoland Territorial Council-PWD,Technical Evaluation,Works,Open,2
+479,2021-2022,Bodoland Territorial Council-WRD,AOC,Works,Open,46
+480,2021-2022,Bodoland Territorial Council-WRD,AOC,Works,Open Tender,9
+481,2021-2022,Bodoland Territorial Council-WRD,Cancelled,Works,Open Tender,2
+482,2021-2022,Cooperation Department,AOC,Goods,Open Tender,5
+483,2021-2022,Cooperation Department,AOC,Services,Open Tender,1
+484,2021-2022,Cooperation Department,Cancelled,Services,Open,1
+485,2021-2022,Cooperation Department,Retender,Goods,Open,2
+486,2021-2022,Department of Cultural Affairs,AOC,Works,Open Tender,2
+487,2021-2022,Department of Cultural Affairs,Financial Bid Opening,Goods,Open,2
+488,2021-2022,Department of Handloom Textile and Sericulture,AOC,Goods,Open,1
+489,2021-2022,Department of Handloom Textile and Sericulture,AOC,Works,Open,1
+490,2021-2022,Department of Handloom Textile and Sericulture,Financial Evaluation,Goods,Open,1
+491,2021-2022,Department of Higher Education,Technical Evaluation,Works,Open,1
+492,2021-2022,Department of Housing and Urban Affairs,AOC,Works,Open Tender,14
+493,2021-2022,Department of Housing and Urban Affairs,Cancelled,Works,Open Tender,3
+494,2021-2022,Department of Labour and Welfare,AOC,Goods,Open,1
+495,2021-2022,Department of Labour and Welfare,AOC,Services,Open,1
+496,2021-2022,Department of Labour and Welfare,Cancelled,Goods,Open,2
+497,2021-2022,Department of Labour and Welfare,Cancelled,Services,Open,1
+498,2021-2022,Department of Science and Technology,AOC,Services,Open Tender,2
+499,2021-2022,Department of Tourism,AOC,Services,Open,1
+500,2021-2022,Department of Tourism,AOC,Services,Open Tender,2
+501,2021-2022,Department of Tourism,Financial Evaluation,Services,Open,1
+502,2021-2022,Department of Tourism,Technical Evaluation,Services,Open,1
+503,2021-2022,Department of Tourism,To Be Opened,Services,Open,12
+504,2021-2022,Department of Water Resources,AOC,Services,Open,1
+505,2021-2022,Department of Water Resources,AOC,Works,Open,120
+506,2021-2022,Department of Water Resources,AOC,Works,Open Tender,35
+507,2021-2022,Department of Water Resources,Cancelled,Goods,Open,1
+508,2021-2022,Department of Water Resources,Cancelled,Services,Open,1
+509,2021-2022,Department of Water Resources,Cancelled,Works,Open,17
+510,2021-2022,Department of Water Resources,Cancelled,Works,Open Tender,39
+511,2021-2022,Department of Water Resources,Financial Bid Opening,Works,Open,1
+512,2021-2022,Department of Water Resources,Financial Evaluation,Works,Open Tender,5
+513,2021-2022,Department of Water Resources,Retender,Works,Open,32
+514,2021-2022,Department of Water Resources,Retender,Works,Open Tender,4
+515,2021-2022,Department of Water Resources,Technical Evaluation,Services,Open,1
+516,2021-2022,Dibrugarh University,AOC,Goods,Open Tender,2
+517,2021-2022,Dibrugarh University,Cancelled,Goods,Open,1
+518,2021-2022,Director- Fire and Emergency Services-Assam,AOC,Works,Open,15
+519,2021-2022,Directorate of Agriculture and Assam Seed Corporation,AOC,Goods,Open Tender,1
+520,2021-2022,Directorate of Agriculture and Assam Seed Corporation,AOC,Services,Open Tender,1
+521,2021-2022,Directorate of Agriculture and Assam Seed Corporation,AOC,Works,Open Tender,3
+522,2021-2022,Directorate of Agriculture and Assam Seed Corporation,Cancelled,Goods,Open,2
+523,2021-2022,Directorate of Agriculture and Assam Seed Corporation,Cancelled,Services,Open,1
+524,2021-2022,Directorate of Agriculture and Assam Seed Corporation,Cancelled,Services,Open Tender,1
+525,2021-2022,Directorate of Agriculture and Assam Seed Corporation,Cancelled,Works,Open,1
+526,2021-2022,Directorate of Agriculture and Assam Seed Corporation,Cancelled,Works,Open Tender,12
+527,2021-2022,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Goods,Open,1
+528,2021-2022,Directorate of Agriculture and Assam Seed Corporation,Technical Evaluation,Goods,Open,1
+529,2021-2022,Directorate of Horticulture Assam,Financial Evaluation,Goods,Open,2
+530,2021-2022,Directorate of Horticulture Assam,Financial Evaluation,Goods,Open Tender,1
+531,2021-2022,Directorate of Sports and Youth Welfare - Assam,AOC,Goods,Open,1
+532,2021-2022,Directorate of Sports and Youth Welfare - Assam,AOC,Services,Open,1
+533,2021-2022,Directorate of Sports and Youth Welfare - Assam,Cancelled,Goods,Open,1
+534,2021-2022,Directorate of Sports and Youth Welfare - Assam,Cancelled,Goods,Open Tender,1
+535,2021-2022,Directorate of Sports and Youth Welfare - Assam,Retender,Goods,Open,1
+536,2021-2022,Finance Department - World Bank Tenders,AOC,Goods,Open,1
+537,2021-2022,Finance Department - World Bank Tenders,AOC,Goods,Open Tender,1
+538,2021-2022,Finance Department - World Bank Tenders,Financial Bid Opening,Services,Selective,1
+539,2021-2022,Food Civil Supplies and Consumer Affairs Department,AOC,Services,Open,1
+540,2021-2022,Gauhati High Court - Guwahati,AOC,Goods,Open,2
+541,2021-2022,Gauhati University,AOC,Works,Open,1
+542,2021-2022,Guwahati Metropolitan Development Authority,AOC,Works,Open,1
+543,2021-2022,Guwahati Metropolitan Development Authority,AOC,Works,Open Tender,3
+544,2021-2022,Guwahati Metropolitan Development Authority,Cancelled,Services,Open,1
+545,2021-2022,Guwahati Metropolitan Development Authority,Cancelled,Works,Open,2
+546,2021-2022,Guwahati Metropolitan Development Authority,Technical Bid Opening,Works,Open,2
+547,2021-2022,Guwahati Metropolitan Development Authority,Technical Evaluation,Works,Open,4
+548,2021-2022,Guwahati Metropolitan Development Authority,To Be Opened,Works,Open,1
+549,2021-2022,Guwahati Municipal Corporation,Cancelled,Goods,Open,1
+550,2021-2022,Guwahati Municipal Corporation,Cancelled,Works,Open,33
+551,2021-2022,Guwahati Municipal Corporation,Cancelled,Works,Open Tender,18
+552,2021-2022,Guwahati Municipal Corporation,Financial Bid Opening,Works,Open,14
+553,2021-2022,Guwahati Municipal Corporation,Financial Bid Opening,Works,Open Tender,3
+554,2021-2022,Guwahati Municipal Corporation,Financial Evaluation,Works,Open,72
+555,2021-2022,Guwahati Municipal Corporation,Retender,Works,Open,17
+556,2021-2022,Guwahati Municipal Corporation,Technical Bid Opening,Works,Open,2
+557,2021-2022,Guwahati Municipal Corporation,To Be Opened,Goods,Open,1
+558,2021-2022,Guwahati Municipal Corporation,To Be Opened,Works,Open,6
+559,2021-2022,Guwahati Smart City Ltd.,Cancelled,Works,Open,1
+560,2021-2022,Health and Family Welfare Department,AOC,Goods,Open,6
+561,2021-2022,Health and Family Welfare Department,AOC,Goods,Open Tender,8
+562,2021-2022,Health and Family Welfare Department,AOC,Services,Open,2
+563,2021-2022,Health and Family Welfare Department,AOC,Services,Open Tender,1
+564,2021-2022,Health and Family Welfare Department,Cancelled,Goods,Open,8
+565,2021-2022,Health and Family Welfare Department,Cancelled,Goods,Open Tender,9
+566,2021-2022,Health and Family Welfare Department,Cancelled,Services,Open,2
+567,2021-2022,Health and Family Welfare Department,Cancelled,Services,Open Tender,1
+568,2021-2022,Health and Family Welfare Department,Financial Evaluation,Goods,Open,2
+569,2021-2022,Health and Family Welfare Department,Financial Evaluation,Goods,Open Tender,1
+570,2021-2022,Home B,AOC,Goods,Open Tender,34
+571,2021-2022,Home B,Cancelled,Goods,Open,28
+572,2021-2022,Home B,Cancelled,Goods,Open Tender,3
+573,2021-2022,Home B,Financial Evaluation,Goods,Open Tender,2
+574,2021-2022,Home B,Technical Bid Opening,Goods,Open,1
+575,2021-2022,Indigenous and Tribal Faith and Culture Department,AOC,Works,Open Tender,8
+576,2021-2022,Industries and Commerce Department,AOC,Goods,Limited,4
+577,2021-2022,Industries and Commerce Department,AOC,Goods,Open,1
+578,2021-2022,Industries and Commerce Department,AOC,Goods,Open Limited,3
+579,2021-2022,Industries and Commerce Department,AOC,Goods,Open Tender,5
+580,2021-2022,Industries and Commerce Department,AOC,Services,Open,4
+581,2021-2022,Industries and Commerce Department,AOC,Services,Open Limited,1
+582,2021-2022,Industries and Commerce Department,AOC,Services,Open Tender,5
+583,2021-2022,Industries and Commerce Department,AOC,Services,Selective,1
+584,2021-2022,Industries and Commerce Department,AOC,Works,Open,8
+585,2021-2022,Industries and Commerce Department,AOC,Works,Open Limited,11
+586,2021-2022,Industries and Commerce Department,AOC,Works,Open Tender,19
+587,2021-2022,Industries and Commerce Department,AOC,Works,Selective,1
+588,2021-2022,Industries and Commerce Department,Cancelled,Goods,Open,2
+589,2021-2022,Industries and Commerce Department,Cancelled,Goods,Open Tender,5
+590,2021-2022,Industries and Commerce Department,Cancelled,Services,Open,1
+591,2021-2022,Industries and Commerce Department,Cancelled,Services,Open Tender,1
+592,2021-2022,Industries and Commerce Department,Cancelled,Works,Open,6
+593,2021-2022,Industries and Commerce Department,Financial Bid Opening,Services,Open,1
+594,2021-2022,Industries and Commerce Department,Retender,Services,Open,1
+595,2021-2022,Industries and Commerce Department,Retender,Works,Open,6
+596,2021-2022,Industries and Commerce Department,Technical Evaluation,Goods,Open,1
+597,2021-2022,Industries and Commerce Department,Technical Evaluation,Works,Open,3
+598,2021-2022,Industries and Commerce Department,Technical Evaluation,Works,Open Tender,1
+599,2021-2022,Information - Public Relations - Printing and Stationery Department,Cancelled,Goods,Open Tender,2
+600,2021-2022,Information and Public Relations Department,AOC,Goods,Open Tender,1
+601,2021-2022,Information and Public Relations Department,AOC,Services,Open,2
+602,2021-2022,Information and Public Relations Department,AOC,Services,Open Tender,1
+603,2021-2022,Information and Public Relations Department,Cancelled,Goods,Open,1
+604,2021-2022,Information and Public Relations Department,Retender,Goods,Open,1
+605,2021-2022,Irrigation Department,AOC,Goods,Open Tender,2
+606,2021-2022,Irrigation Department,AOC,Works,Open,32
+607,2021-2022,Irrigation Department,AOC,Works,Open Tender,1
+608,2021-2022,Irrigation Department,Cancelled,Works,Open,7
+609,2021-2022,Irrigation Department,Financial Bid Opening,Works,Open,2
+610,2021-2022,Karbi Anglong Autonomous Council,AOC,Works,Open,17
+611,2021-2022,Karbi Anglong Autonomous Council,Financial Evaluation,Works,Open,1
+612,2021-2022,Karbi Anglong Autonomous Council,Retender,Works,Open,1
+613,2021-2022,Karbi Anglong Autonomous Council,Technical Evaluation,Works,Open,2
+614,2021-2022,Karbi Anglong Autonomous Council,To Be Opened,Works,Open,1
+615,2021-2022,National Health Mission,AOC,Goods,Open,4
+616,2021-2022,National Health Mission,AOC,Goods,Open Limited,2
+617,2021-2022,National Health Mission,AOC,Goods,Open Tender,1
+618,2021-2022,National Health Mission,AOC,Services,Open,2
+619,2021-2022,National Health Mission,AOC,Works,Open,1
+620,2021-2022,National Health Mission,AOC,Works,Open Tender,94
+621,2021-2022,National Health Mission,Cancelled,Goods,Open,1
+622,2021-2022,National Health Mission,Cancelled,Works,Open,1
+623,2021-2022,National Health Mission,Cancelled,Works,Open Tender,126
+624,2021-2022,National Health Mission,Financial Bid Opening,Goods,Open,3
+625,2021-2022,National Health Mission,Financial Bid Opening,Services,Selective,1
+626,2021-2022,National Health Mission,Financial Bid Opening,Works,Open,13
+627,2021-2022,National Health Mission,Financial Evaluation,Works,Open Tender,1
+628,2021-2022,National Health Mission,Retender,Goods,Open,1
+629,2021-2022,National Health Mission,Retender,Works,Open Tender,2
+630,2021-2022,National Health Mission,Technical Bid Opening,Goods,Open Limited,3
+631,2021-2022,National Health Mission,Technical Evaluation,Works,Open,19
+632,2021-2022,National Health Mission,Technical Evaluation,Works,Open Tender,4
+633,2021-2022,National Health Mission,To Be Opened,Goods,Open,1
+634,2021-2022,National Health Mission,To Be Opened,Services,Open,2
+635,2021-2022,Office of the Chief Electoral Officer Assam,AOC,Goods,Open,1
+636,2021-2022,Office of the Chief Electoral Officer Assam,AOC,Services,Open,1
+637,2021-2022,Office of the Chief Electoral Officer Assam,AOC,Services,Open Tender,4
+638,2021-2022,Office of the Chief Electoral Officer Assam,Cancelled,Goods,Open,1
+639,2021-2022,Office of the Chief Electoral Officer Assam,Cancelled,Services,Open,1
+640,2021-2022,Pollution Control Board,AOC,Works,Open,1
+641,2021-2022,Pollution Control Board,Cancelled,Goods,Open,1
+642,2021-2022,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Works,Open,25
+643,2021-2022,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Works,Open Tender,2
+644,2021-2022,Pr. Chief Conservator of Forest and Head of Forest Force,Cancelled,Works,Open,45
+645,2021-2022,Pr. Chief Conservator of Forest and Head of Forest Force,Cancelled,Works,Open Tender,1
+646,2021-2022,Pr. Chief Conservator of Forest and Head of Forest Force,Financial Evaluation,Works,Open,4
+647,2021-2022,Pr. Chief Conservator of Forest and Head of Forest Force,Retender,Works,Open,10
+648,2021-2022,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Bid Opening,Works,Open,1
+649,2021-2022,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Evaluation,Works,Open,9
+650,2021-2022,Pr. Chief Conservator of Forest and Head of Forest Force,To Be Opened,Works,Open,1
+651,2021-2022,Principal Secretary- P and RD- Assam Secretariat,AOC,Goods,Open Tender,1
+652,2021-2022,Principal Secretary- P and RD- Assam Secretariat,AOC,Services,Open Tender,2
+653,2021-2022,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,Open,3
+654,2021-2022,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,Open Tender,10
+655,2021-2022,Principal Secretary- P and RD- Assam Secretariat,Cancelled,Goods,Open,1
+656,2021-2022,Principal Secretary- P and RD- Assam Secretariat,Financial Evaluation,Works,Open Tender,4
+657,2021-2022,Principal Secretary- P and RD- Assam Secretariat,To Be Opened,Works,Open,2
+658,2021-2022,Principal Secretary-Department of Information Technology,AOC,Goods,Open Tender,1
+659,2021-2022,Principal Secretary-Department of Information Technology,AOC,Services,Open Tender,2
+660,2021-2022,Principal Secretary-Department of Information Technology,Cancelled,Goods,Open Tender,1
+661,2021-2022,Principal Secretary-Department of Information Technology,Cancelled,Services,Open,2
+662,2021-2022,Principal Secretary-Department of Information Technology,Cancelled,Works,Open,1
+663,2021-2022,Principal Secretary-Department of Information Technology,Retender,Services,Open,1
+664,2021-2022,Principal Secretary-Department of Information Technology,Retender,Works,Open,1
+665,2021-2022,Principal Secretary-Department of Information Technology,Technical Evaluation,Services,Open,1
+666,2021-2022,Principal Secretary-Department of Information Technology,To Be Opened,Services,Open,1
+667,2021-2022,Public Health Engineering Department,AOC,Goods,Open,15
+668,2021-2022,Public Health Engineering Department,AOC,Services,Open Tender,1
+669,2021-2022,Public Health Engineering Department,AOC,Works,Open,14
+670,2021-2022,Public Health Engineering Department,Cancelled,Goods,Open,5
+671,2021-2022,Public Health Engineering Department,Cancelled,Services,Open Tender,1
+672,2021-2022,Public Health Engineering Department,Cancelled,Works,Open,12
+673,2021-2022,Public Health Engineering Department,Financial Evaluation,Services,Open Tender,1
+674,2021-2022,Public Health Engineering Department,Retender,Goods,Open,4
+675,2021-2022,Public Works Building and NH Department,AOC,Works,Open,51
+676,2021-2022,Public Works Building and NH Department,AOC,Works,Open Tender,45
+677,2021-2022,Public Works Building and NH Department,Cancelled,Works,Open,8
+678,2021-2022,Public Works Building and NH Department,Cancelled,Works,Open Tender,10
+679,2021-2022,Public Works Building and NH Department,Financial Bid Opening,Works,Open,6
+680,2021-2022,Public Works Building and NH Department,Financial Evaluation,Goods,Open,2
+681,2021-2022,Public Works Building and NH Department,Financial Evaluation,Works,Open,1
+682,2021-2022,Public Works Building and NH Department,Retender,Works,Open,2
+683,2021-2022,Public Works Building and NH Department,Technical Bid Opening,Works,Open,3
+684,2021-2022,Public Works Building and NH Department,Technical Evaluation,Works,Open,1
+685,2021-2022,Public Works Building and NH Department,To Be Opened,Works,Open,1
+686,2021-2022,Public Works Roads Department,AOC,Goods,Open,1
+687,2021-2022,Public Works Roads Department,AOC,Works,Open,399
+688,2021-2022,Public Works Roads Department,AOC,Works,Open Tender,81
+689,2021-2022,Public Works Roads Department,Cancelled,Works,Open,85
+690,2021-2022,Public Works Roads Department,Cancelled,Works,Open Tender,2
+691,2021-2022,Public Works Roads Department,Financial Bid Opening,Works,Open,241
+692,2021-2022,Public Works Roads Department,Financial Bid Opening,Works,Open Tender,1
+693,2021-2022,Public Works Roads Department,Financial Evaluation,Works,Open,22
+694,2021-2022,Public Works Roads Department,Financial Evaluation,Works,Open Tender,9
+695,2021-2022,Public Works Roads Department,Retender,Works,Open,25
+696,2021-2022,Public Works Roads Department,Technical Bid Opening,Works,Open,9
+697,2021-2022,Public Works Roads Department,Technical Evaluation,Works,Open,106
+698,2021-2022,Public Works Roads Department,Technical Evaluation,Works,Open Tender,6
+699,2021-2022,Public Works Roads Department,To Be Opened,Works,Open,62
+700,2021-2022,Public Works Roads Department-Externally Aided Project,AOC,Works,Global Tenders,1
+701,2021-2022,Public Works Roads Department-Externally Aided Project,AOC,Works,Open Tender,5
+702,2021-2022,Public Works Roads Department-Externally Aided Project,Cancelled,Works,Open Tender,1
+703,2021-2022,Public Works Roads Department-Externally Aided Project,Financial Bid Opening,Works,Open Tender,1
+704,2021-2022,Rashtriya Madhyamik Siksha Abhijan,AOC,Goods,Open,1
+705,2021-2022,Rashtriya Madhyamik Siksha Abhijan,Cancelled,Goods,Open,1
+706,2021-2022,Rashtriya Madhyamik Siksha Abhijan,Cancelled,Services,Open,1
+707,2021-2022,Rashtriya Madhyamik Siksha Abhijan,Financial Evaluation,Goods,Open,2
+708,2021-2022,Rashtriya Madhyamik Siksha Abhijan,Technical Evaluation,Services,Open,2
+709,2021-2022,SECONDARY EDUCATION DEPARTMENT ASSAM,AOC,Services,Open Tender,1
+710,2021-2022,Social Welfare Department,Cancelled,Goods,Open,1
+711,2021-2022,Social Welfare Department,Cancelled,Goods,Open Tender,1
+712,2021-2022,Social Welfare Department,Cancelled,Services,Open,1
+713,2021-2022,Social Welfare Department,Financial Evaluation,Goods,Open Tender,1
+714,2021-2022,Soil Conservation Department,AOC,Works,Open,13
+715,2021-2022,Soil Conservation Department,AOC,Works,Open Tender,3
+716,2021-2022,Soil Conservation Department,Retender,Works,Open,2
+717,2021-2022,Tea Tribes Welfare Department,AOC,Goods,Open,2
+718,2021-2022,Tea Tribes Welfare Department,Cancelled,Services,Open,1
+719,2021-2022,Urban Development Department,AOC,Services,Open Tender,1
+720,2021-2022,Urban Development Department,AOC,Works,Open,5
+721,2021-2022,Urban Development Department,AOC,Works,Open Tender,2
+722,2021-2022,Urban Development Department,Cancelled,Goods,Open,1
+723,2021-2022,Urban Development Department,Cancelled,Works,Open,2
+724,2021-2022,Urban Development Department,Financial Bid Opening,Works,Open,1
+725,2021-2022,Urban Development Department,Retender,Works,Open,2
+726,2021-2022,Urban Development Department,Technical Evaluation,Works,Open,2
+727,2021-2022,Urban Development Department,To Be Opened,Works,Open,5
+728,2021-2022,Water Resources Department- World Bank Tenders,AOC,Goods,Open Tender,3
+729,2021-2022,Water Resources Department- World Bank Tenders,Cancelled,Goods,Open,1
+730,2021-2022,Welfare of Plain Tribes and Backward Classes,AOC,Works,Limited,12
+731,2021-2022,Welfare of Plain Tribes and Backward Classes,AOC,Works,Open,25
+732,2021-2022,Welfare of Plain Tribes and Backward Classes,AOC,Works,Open Tender,16
+733,2021-2022,Welfare of Plain Tribes and Backward Classes,AOC,Works,Selective,9
+734,2021-2022,Welfare of Plain Tribes and Backward Classes,Cancelled,Goods,Open,1
+735,2021-2022,Welfare of Plain Tribes and Backward Classes,Cancelled,Goods,Open Tender,6
+736,2021-2022,Welfare of Plain Tribes and Backward Classes,Cancelled,Works,Open,2
+737,2021-2022,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Goods,Open,2
+738,2021-2022,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Works,Open,9
+739,2021-2022,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Works,Selective,7
+740,2021-2022,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Goods,Open,4
+741,2021-2022,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Works,Open,1
+742,2021-2022,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Works,Selective,1
+743,2021-2022,Welfare of Plain Tribes and Backward Classes,Retender,Works,Open,1
+744,2021-2022,Welfare of Plain Tribes and Backward Classes,Retender,Works,Selective,1
+745,2021-2022,Welfare of Plain Tribes and Backward Classes,Technical Bid Opening,Works,Open,3
+746,2021-2022,Welfare of Plain Tribes and Backward Classes,Technical Evaluation,Works,Selective,2
+747,2021-2022,Welfare of Plain Tribes and Backward Classes,To Be Opened,Goods,Open,1
+748,2021-2022,Welfare of Plain Tribes and Backward Classes,To Be Opened,Works,Open,3
+749,2022-2023,ASSAM CANCER CARE FOUNDATION,AOC,Goods,Open Tender,2
+750,2022-2023,ASSAM CANCER CARE FOUNDATION,AOC,Services,Open Tender,9
+751,2022-2023,ASSAM CANCER CARE FOUNDATION,AOC,Works,Open Tender,4
+752,2022-2023,ASSAM CANCER CARE FOUNDATION,Cancelled,Services,Open Tender,2
+753,2022-2023,Animal Husbandry and Veterinary Department,AOC,Goods,Open Tender,8
+754,2022-2023,Animal Husbandry and Veterinary Department,AOC,Services,Open Tender,4
+755,2022-2023,Animal Husbandry and Veterinary Department,AOC,Services,Single,1
+756,2022-2023,Animal Husbandry and Veterinary Department,AOC,Works,Open Tender,46
+757,2022-2023,Animal Husbandry and Veterinary Department,Cancelled,Goods,Open Tender,9
+758,2022-2023,Animal Husbandry and Veterinary Department,Cancelled,Services,Open Tender,1
+759,2022-2023,Animal Husbandry and Veterinary Department,Cancelled,Works,Open Tender,14
+760,2022-2023,Animal Husbandry and Veterinary Department,Financial Bid Opening,Services,Open Tender,3
+761,2022-2023,Animal Husbandry and Veterinary Department,Financial Bid Opening,Works,Open Tender,7
+762,2022-2023,Animal Husbandry and Veterinary Department,Financial Evaluation,Goods,Open Tender,1
+763,2022-2023,Animal Husbandry and Veterinary Department,Technical Evaluation,Goods,Open Tender,1
+764,2022-2023,Animal Husbandry and Veterinary Department,Technical Evaluation,Services,Open Tender,1
+765,2022-2023,Animal Husbandry and Veterinary Department,Technical Evaluation,Works,Open Tender,2
+766,2022-2023,Animal Husbandry and Veterinary Department-Externally Aided Project,AOC,Goods,Open Tender,6
+767,2022-2023,Animal Husbandry and Veterinary Department-Externally Aided Project,AOC,Services,Open Tender,1
+768,2022-2023,Animal Husbandry and Veterinary Department-Externally Aided Project,Cancelled,Goods,Open Tender,2
+769,2022-2023,Assam Agricultural University,AOC,Goods,Open Tender,11
+770,2022-2023,Assam Agricultural University,AOC,Works,Open Tender,28
+771,2022-2023,Assam Agricultural University,Cancelled,Goods,Open Tender,5
+772,2022-2023,Assam Agricultural University,Cancelled,Works,Open Tender,6
+773,2022-2023,Assam Agricultural University,Technical Evaluation,Works,Open Tender,1
+774,2022-2023,Assam Electricity Grid Corporation Ltd,AOC,Goods,Open Tender,4
+775,2022-2023,Assam Electricity Grid Corporation Ltd,AOC,Works,Open Tender,27
+776,2022-2023,Assam Electricity Grid Corporation Ltd,Cancelled,Works,Open Tender,9
+777,2022-2023,Assam Electricity Grid Corporation Ltd,Financial Bid Opening,Works,Open Tender,1
+778,2022-2023,Assam Electricity Grid Corporation Ltd,Retender,Works,Open Tender,1
+779,2022-2023,Assam Electricity Grid Corporation Ltd,Technical Evaluation,Works,Open Tender,1
+780,2022-2023,Assam Electricity Grid Corporation Ltd. - Externally Funded Projects,AOC,Services,Open Tender,1
+781,2022-2023,Assam Electricity Grid Corporation Ltd. - Externally Funded Projects,Cancelled,Works,Open Tender,1
+782,2022-2023,Assam Police,Cancelled,Goods,Open Tender,4
+783,2022-2023,Assam Police,Cancelled,Services,Open Tender,3
+784,2022-2023,Assam Police,Technical Evaluation,Services,Open Tender,1
+785,2022-2023,Assam Police,To Be Opened,Goods,Open Tender,1
+786,2022-2023,Assam Police Housing Corporation Ltd,AOC,Works,Open Tender,26
+787,2022-2023,Assam Police Housing Corporation Ltd,Cancelled,Works,Open Tender,25
+788,2022-2023,Assam Police Housing Corporation Ltd,To Be Opened,Works,Open Tender,1
+789,2022-2023,Assam Power Distribution Company Limited- Externally Aided Project,AOC,Works,Open Tender,13
+790,2022-2023,Assam Power Distribution Company Limited- Externally Aided Project,Cancelled,Works,Open Tender,1
+791,2022-2023,Assam Power Distribution Company Limited- Externally Aided Project,Financial Evaluation,Works,Open Tender,4
+792,2022-2023,Assam Power Distribution Company Ltd,AOC,Goods,Open Tender,1
+793,2022-2023,Assam Power Distribution Company Ltd,AOC,Services,Open Tender,15
+794,2022-2023,Assam Power Distribution Company Ltd,AOC,Works,Open Tender,41
+795,2022-2023,Assam Power Distribution Company Ltd,Cancelled,Services,Open Tender,20
+796,2022-2023,Assam Power Distribution Company Ltd,Cancelled,Works,Open Tender,19
+797,2022-2023,Assam Power Distribution Company Ltd,Financial Bid Opening,Services,Open Tender,1
+798,2022-2023,Assam Power Distribution Company Ltd,Financial Bid Opening,Works,Open Tender,17
+799,2022-2023,Assam Power Distribution Company Ltd,Financial Evaluation,Works,Open Tender,6
+800,2022-2023,Assam Power Distribution Company Ltd,Retender,Works,Open Tender,33
+801,2022-2023,Assam Power Distribution Company Ltd,Technical Evaluation,Goods,Open Tender,2
+802,2022-2023,Assam Power Distribution Company Ltd,Technical Evaluation,Services,Open Tender,21
+803,2022-2023,Assam Power Distribution Company Ltd,Technical Evaluation,Works,Open Tender,22
+804,2022-2023,Assam Power Distribution Company Ltd,To Be Opened,Works,Open Tender,2
+805,2022-2023,Assam Power Generation Company Limited,AOC,Goods,Open Tender,3
+806,2022-2023,Assam Power Generation Company Limited,AOC,Services,Limited,2
+807,2022-2023,Assam Power Generation Company Limited,AOC,Services,Open Tender,4
+808,2022-2023,Assam Power Generation Company Limited,AOC,Works,Open Tender,12
+809,2022-2023,Assam Power Generation Company Limited,Cancelled,Goods,Open Tender,3
+810,2022-2023,Assam Power Generation Company Limited,Cancelled,Services,Limited,1
+811,2022-2023,Assam Power Generation Company Limited,Cancelled,Works,Open Tender,20
+812,2022-2023,Assam Power Generation Company Limited,Financial Bid Opening,Services,Open Tender,1
+813,2022-2023,Assam Power Generation Company Limited,Financial Evaluation,Works,Open Tender,2
+814,2022-2023,Assam Power Generation Company Limited,Technical Bid Opening,Works,Open Tender,2
+815,2022-2023,Assam Power Generation Company Limited,Technical Evaluation,Services,Open Tender,1
+816,2022-2023,Assam Power Generation Company Limited,Technical Evaluation,Works,Open Tender,1
+817,2022-2023,Assam Power Generation Company Limited APGCL - ADB,AOC,Works,Global Tenders,1
+818,2022-2023,Assam Science and Technology University,AOC,Works,Open Tender,1
+819,2022-2023,Assam State Agricultural Marketing Board,AOC,Services,Open Tender,2
+820,2022-2023,Assam State Agricultural Marketing Board,AOC,Works,Open Tender,1
+821,2022-2023,Assam State Agricultural Marketing Board,Cancelled,Services,Open Tender,1
+822,2022-2023,Assam State Agricultural Marketing Board,To Be Opened,Services,Open Tender,4
+823,2022-2023,Assam State Disaster Management Authority,Cancelled,Services,Open Tender,1
+824,2022-2023,Assam State Disaster Management Authority- Externally Aided Project,AOC,Services,Open Tender,1
+825,2022-2023,Assam State Disaster Management Authority- Externally Aided Project,Retender,Services,Limited,1
+826,2022-2023,Assam State Disaster Management Authority- Externally Aided Project,Technical Bid Opening,Services,Limited,1
+827,2022-2023,Assam State Transport Corporation,AOC,Goods,Open Tender,4
+828,2022-2023,Assam State Transport Corporation,AOC,Services,Open Tender,2
+829,2022-2023,Assam State Transport Corporation,AOC,Works,Open Tender,1
+830,2022-2023,Assam State Transport Corporation,Financial Bid Opening,Goods,Open Tender,1
+831,2022-2023,Assam State Transport Corporation,Financial Bid Opening,Works,Open Tender,1
+832,2022-2023,Assam State Transport Corporation,Financial Evaluation,Goods,Open Tender,1
+833,2022-2023,Assam State Transport Corporation,Technical Evaluation,Goods,Open Tender,1
+834,2022-2023,Axom Sarba Siksha Abhijan Mission,AOC,Services,Open Tender,1
+835,2022-2023,Axom Sarba Siksha Abhijan Mission,AOC,Works,Open Tender,17
+836,2022-2023,Axom Sarba Siksha Abhijan Mission,Cancelled,Goods,Open Tender,1
+837,2022-2023,Axom Sarba Siksha Abhijan Mission,Cancelled,Works,Open Tender,50
+838,2022-2023,Axom Sarba Siksha Abhijan Mission,Retender,Works,Open Tender,10
+839,2022-2023,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Goods,Open Tender,1
+840,2022-2023,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Services,Open Tender,1
+841,2022-2023,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Works,Open Tender,1
+842,2022-2023,Axom Sarba Siksha Abhijan Mission,To Be Opened,Works,Open Tender,5
+843,2022-2023,BODOLAND UNIVERSITY,AOC,Works,Open Tender,3
+844,2022-2023,Bodoland Territorial Council,AOC,Goods,Open Tender,38
+845,2022-2023,Bodoland Territorial Council,AOC,Services,Open Tender,1
+846,2022-2023,Bodoland Territorial Council,AOC,Works,Open Tender,375
+847,2022-2023,Bodoland Territorial Council,Cancelled,Goods,Open Tender,17
+848,2022-2023,Bodoland Territorial Council,Cancelled,Services,Open Tender,1
+849,2022-2023,Bodoland Territorial Council,Cancelled,Works,Open Tender,37
+850,2022-2023,Bodoland Territorial Council,Financial Bid Opening,Goods,Open Tender,10
+851,2022-2023,Bodoland Territorial Council,Financial Bid Opening,Services,Open Tender,1
+852,2022-2023,Bodoland Territorial Council,Financial Bid Opening,Works,Open Tender,25
+853,2022-2023,Bodoland Territorial Council,Financial Evaluation,Goods,Open Tender,10
+854,2022-2023,Bodoland Territorial Council,Financial Evaluation,Services,Open Tender,1
+855,2022-2023,Bodoland Territorial Council,Financial Evaluation,Works,Open Tender,47
+856,2022-2023,Bodoland Territorial Council,Retender,Goods,Open Tender,2
+857,2022-2023,Bodoland Territorial Council,Retender,Services,Open Tender,1
+858,2022-2023,Bodoland Territorial Council,Retender,Works,Open Tender,6
+859,2022-2023,Bodoland Territorial Council,Technical Bid Opening,Goods,Open Tender,1
+860,2022-2023,Bodoland Territorial Council,Technical Bid Opening,Works,Open Tender,1
+861,2022-2023,Bodoland Territorial Council,Technical Evaluation,Goods,Open Tender,4
+862,2022-2023,Bodoland Territorial Council,Technical Evaluation,Services,Open Tender,1
+863,2022-2023,Bodoland Territorial Council,Technical Evaluation,Works,Open Tender,3
+864,2022-2023,Bodoland Territorial Council-PWD,AOC,Goods,Open Tender,1
+865,2022-2023,Bodoland Territorial Council-PWD,AOC,Services,Open Tender,1
+866,2022-2023,Bodoland Territorial Council-PWD,AOC,Works,Open Tender,227
+867,2022-2023,Bodoland Territorial Council-PWD,Cancelled,Works,Open Tender,35
+868,2022-2023,Bodoland Territorial Council-PWD,Retender,Works,Open Tender,1
+869,2022-2023,Bodoland Territorial Council-PWD,Technical Bid Opening,Works,Open Tender,2
+870,2022-2023,Bodoland Territorial Council-WRD,AOC,Works,Open Tender,1
+871,2022-2023,Chief Minister Secretariat,AOC,Services,Open Tender,1
+872,2022-2023,Cooperation Department,AOC,Goods,Open Tender,27
+873,2022-2023,Cooperation Department,AOC,Services,Open Tender,1
+874,2022-2023,Cooperation Department,AOC,Works,Open Tender,5
+875,2022-2023,Cooperation Department,Cancelled,Goods,Open Tender,8
+876,2022-2023,Cooperation Department,Cancelled,Services,Open Tender,1
+877,2022-2023,Cooperation Department,Cancelled,Works,Open Tender,2
+878,2022-2023,Cooperation Department,Retender,Goods,Open Tender,4
+879,2022-2023,Cooperation Department,Technical Bid Opening,Services,Open Tender,1
+880,2022-2023,Cooperation Department,Technical Evaluation,Works,Open Tender,2
+881,2022-2023,Cotton University,AOC,Works,Open Tender,2
+882,2022-2023,Cotton University,Technical Evaluation,Goods,Open Tender,3
+883,2022-2023,Department of Cultural Affairs,AOC,Services,Limited,1
+884,2022-2023,Department of Cultural Affairs,Cancelled,Goods,Open Tender,1
+885,2022-2023,Department of Cultural Affairs,Cancelled,Services,Limited,1
+886,2022-2023,Department of Cultural Affairs,Cancelled,Services,Open Tender,1
+887,2022-2023,Department of Fisheries,Cancelled,Works,Open Tender,3
+888,2022-2023,Department of Handloom Textile and Sericulture,AOC,Works,Open Tender,2
+889,2022-2023,Department of Handloom Textile and Sericulture,Cancelled,Goods,Open Tender,1
+890,2022-2023,Department of Handloom Textile and Sericulture,Cancelled,Works,Open Tender,1
+891,2022-2023,Department of Handloom Textile and Sericulture,Financial Bid Opening,Services,Open Tender,1
+892,2022-2023,Department of Handloom Textile and Sericulture,Financial Bid Opening,Works,Open Tender,1
+893,2022-2023,Department of Handloom Textile and Sericulture,Technical Bid Opening,Goods,Open Tender,1
+894,2022-2023,Department of Handloom Textile and Sericulture,Technical Evaluation,Goods,Open Tender,1
+895,2022-2023,Department of Handloom Textile and Sericulture,Technical Evaluation,Works,Open Tender,2
+896,2022-2023,Department of Handloom Textile and Sericulture,To Be Opened,Goods,Open Tender,3
+897,2022-2023,Department of Handloom Textile and Sericulture,To Be Opened,Works,Open Tender,15
+898,2022-2023,Department of Higher Education,AOC,Works,Open Tender,2
+899,2022-2023,Department of Housing and Urban Affairs,AOC,Goods,Open Tender,2
+900,2022-2023,Department of Housing and Urban Affairs,AOC,Works,Open Tender,64
+901,2022-2023,Department of Housing and Urban Affairs,Cancelled,Works,Open Tender,18
+902,2022-2023,Department of Housing and Urban Affairs,Financial Evaluation,Works,Open Tender,2
+903,2022-2023,Department of Housing and Urban Affairs,Retender,Works,Open Tender,5
+904,2022-2023,Department of Housing and Urban Affairs,To Be Opened,Works,Open Tender,2
+905,2022-2023,Department of Labour and Welfare,Cancelled,Services,Open Tender,1
+906,2022-2023,Department of Science and Technology,AOC,Services,Open Tender,2
+907,2022-2023,Department of Science and Technology,Cancelled,Services,Open Tender,1
+908,2022-2023,Department of Science and Technology,Cancelled,Works,Open Tender,1
+909,2022-2023,Department of Science and Technology,Financial Evaluation,Services,Open Tender,2
+910,2022-2023,Department of Tourism,AOC,Services,Open Tender,7
+911,2022-2023,Department of Tourism,AOC,Works,Open Tender,10
+912,2022-2023,Department of Tourism,Cancelled,Services,Open Tender,5
+913,2022-2023,Department of Tourism,Cancelled,Works,Open Tender,1
+914,2022-2023,Department of Tourism,Financial Evaluation,Services,Open Tender,11
+915,2022-2023,Department of Tourism,Technical Evaluation,Services,Open Tender,1
+916,2022-2023,Department of Tourism,Technical Evaluation,Works,Open Tender,1
+917,2022-2023,Department of Tourism,To Be Opened,Services,Open Tender,12
+918,2022-2023,Department of Water Resources,AOC,Goods,Open Tender,18
+919,2022-2023,Department of Water Resources,AOC,Goods,Single,1
+920,2022-2023,Department of Water Resources,AOC,Services,Limited,1
+921,2022-2023,Department of Water Resources,AOC,Works,Open Tender,139
+922,2022-2023,Department of Water Resources,Cancelled,Works,Open Tender,11
+923,2022-2023,Department of Water Resources,Financial Bid Opening,Works,Open Tender,17
+924,2022-2023,Department of Water Resources,Financial Evaluation,Services,Open Tender,2
+925,2022-2023,Department of Water Resources,Financial Evaluation,Works,Open Tender,7
+926,2022-2023,Department of Water Resources,Retender,Goods,Open Tender,3
+927,2022-2023,Department of Water Resources,Retender,Works,Open Tender,49
+928,2022-2023,Department of Water Resources,To Be Opened,Works,Open Tender,1
+929,2022-2023,Department of Water Resources-Externally Aided Project,Financial Evaluation,Services,Open Tender,3
+930,2022-2023,Dibrugarh University,AOC,Goods,Open Tender,1
+931,2022-2023,Dibrugarh University,AOC,Works,Open Tender,3
+932,2022-2023,Dibrugarh University,Cancelled,Goods,Open Tender,4
+933,2022-2023,Dibrugarh University,Cancelled,Works,Open Tender,4
+934,2022-2023,Dibrugarh University,Financial Evaluation,Services,Open Tender,1
+935,2022-2023,Dibrugarh University,Retender,Works,Open Tender,1
+936,2022-2023,Dibrugarh University,Technical Evaluation,Goods,Open Tender,2
+937,2022-2023,Director- Fire and Emergency Services-Assam,AOC,Works,Open Tender,7
+938,2022-2023,Directorate of Agriculture and Assam Seed Corporation,AOC,Goods,Open Tender,3
+939,2022-2023,Directorate of Agriculture and Assam Seed Corporation,AOC,Services,Open Tender,2
+940,2022-2023,Directorate of Agriculture and Assam Seed Corporation,AOC,Works,Open Tender,111
+941,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Cancelled,Goods,Open Tender,12
+942,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Cancelled,Services,Open Tender,3
+943,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Cancelled,Works,Open Tender,41
+944,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Financial Bid Opening,Goods,Open Tender,3
+945,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Financial Bid Opening,Works,Open Tender,3
+946,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Goods,Open Tender,3
+947,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Services,Open Tender,2
+948,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Works,Open Tender,11
+949,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Technical Bid Opening,Goods,Open Tender,1
+950,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Technical Bid Opening,Works,Open Tender,2
+951,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Technical Evaluation,Works,Open Tender,7
+952,2022-2023,Directorate of Agriculture and Assam Seed Corporation,To Be Opened,Services,Open Tender,1
+953,2022-2023,Directorate of Forensic Science Assam,AOC,Goods,Open Tender,3
+954,2022-2023,Directorate of Forensic Science Assam,Cancelled,Goods,Open Tender,2
+955,2022-2023,Directorate of Forensic Science Assam,Financial Evaluation,Goods,Open Tender,1
+956,2022-2023,Directorate of Forensic Science Assam,Technical Bid Opening,Goods,Open Tender,1
+957,2022-2023,Directorate of Forensic Science Assam,To Be Opened,Goods,Open Tender,1
+958,2022-2023,Directorate of Horticulture Assam,Cancelled,Goods,Open Tender,3
+959,2022-2023,Directorate of Horticulture Assam,Cancelled,Services,Open Tender,1
+960,2022-2023,Directorate of Horticulture Assam,Cancelled,Works,Open Tender,1
+961,2022-2023,Directorate of Horticulture Assam,Financial Evaluation,Goods,Open Tender,1
+962,2022-2023,Directorate of Horticulture Assam,Financial Evaluation,Services,Open Tender,1
+963,2022-2023,Directorate of Horticulture Assam,Technical Evaluation,Goods,Open Tender,1
+964,2022-2023,Directorate of Land Records and Survey etc. Assam,AOC,Goods,Limited,1
+965,2022-2023,Directorate of Land Records and Survey etc. Assam,Cancelled,Services,Open Tender,1
+966,2022-2023,Directorate of Land Records and Survey etc. Assam,Financial Evaluation,Services,Open Tender,1
+967,2022-2023,Directorate of Sports and Youth Welfare - Assam,AOC,Goods,Open Tender,5
+968,2022-2023,Directorate of Sports and Youth Welfare - Assam,AOC,Works,Open Tender,2
+969,2022-2023,Directorate of Sports and Youth Welfare - Assam,Cancelled,Services,Open Tender,4
+970,2022-2023,Directorate of Sports and Youth Welfare - Assam,Financial Bid Opening,Goods,Open Tender,1
+971,2022-2023,Directorate of Sports and Youth Welfare - Assam,Financial Bid Opening,Services,Open Tender,5
+972,2022-2023,Directorate of Sports and Youth Welfare - Assam,Technical Bid Opening,Services,Open Tender,1
+973,2022-2023,Directorate of Sports and Youth Welfare - Assam,Technical Evaluation,Services,Open Tender,2
+974,2022-2023,Directorate of Sports and Youth Welfare - Assam,To Be Opened,Services,Open Tender,3
+975,2022-2023,Elementary Education Department,AOC,Services,Open Tender,1
+976,2022-2023,Elementary Education Department,Cancelled,Goods,Open Tender,7
+977,2022-2023,Elementary Education Department,Cancelled,Services,Open Tender,7
+978,2022-2023,Elementary Education Department,Financial Evaluation,Goods,Open Tender,1
+979,2022-2023,Elementary Education Department,Financial Evaluation,Services,Open Tender,1
+980,2022-2023,Elementary Education Department,Technical Bid Opening,Goods,Limited,1
+981,2022-2023,Finance Department,Financial Evaluation,Services,Open Tender,1
+982,2022-2023,Finance Department - World Bank Tenders,AOC,Goods,Open Tender,8
+983,2022-2023,Finance Department - World Bank Tenders,AOC,Services,Limited,1
+984,2022-2023,Finance Department - World Bank Tenders,AOC,Services,Open Tender,1
+985,2022-2023,Finance Department - World Bank Tenders,AOC,Services,Single,1
+986,2022-2023,Finance Department - World Bank Tenders,Cancelled,Goods,Open Tender,5
+987,2022-2023,Finance Department - World Bank Tenders,Cancelled,Goods,Single,2
+988,2022-2023,Finance Department - World Bank Tenders,Cancelled,Services,Open Tender,1
+989,2022-2023,Finance Department - World Bank Tenders,Financial Bid Opening,Goods,Open Tender,2
+990,2022-2023,Finance Department - World Bank Tenders,Financial Bid Opening,Services,Single,1
+991,2022-2023,Finance Department - World Bank Tenders,Financial Evaluation,Goods,Open Tender,1
+992,2022-2023,Finance Department - World Bank Tenders,Technical Evaluation,Goods,Open Tender,1
+993,2022-2023,Food Civil Supplies and Consumer Affairs Department,AOC,Goods,Open Tender,6
+994,2022-2023,Food Civil Supplies and Consumer Affairs Department,AOC,Services,Open Tender,120
+995,2022-2023,Food Civil Supplies and Consumer Affairs Department,AOC,Works,Open Tender,1
+996,2022-2023,Food Civil Supplies and Consumer Affairs Department,Cancelled,Goods,Open Tender,1
+997,2022-2023,Food Civil Supplies and Consumer Affairs Department,Financial Bid Opening,Goods,Open Tender,1
+998,2022-2023,Food Civil Supplies and Consumer Affairs Department,Technical Evaluation,Works,Open Tender,1
+999,2022-2023,Gauhati High Court - Guwahati,AOC,Goods,Open Tender,3
+1000,2022-2023,Gauhati University,AOC,Works,Open Tender,8
+1001,2022-2023,Gauhati University,Cancelled,Works,Open Tender,2
+1002,2022-2023,Gauhati University,Financial Evaluation,Works,Open Tender,1
+1003,2022-2023,Gauhati University,Retender,Works,Open Tender,2
+1004,2022-2023,General Administration Department,AOC,Goods,Open Tender,2
+1005,2022-2023,General Administration Department,AOC,Works,Open Tender,19
+1006,2022-2023,General Administration Department,Cancelled,Goods,Open Tender,2
+1007,2022-2023,General Administration Department,Cancelled,Works,Open Tender,9
+1008,2022-2023,General Administration Department,Financial Bid Opening,Works,Open Tender,6
+1009,2022-2023,General Administration Department,Financial Evaluation,Works,Open Tender,2
+1010,2022-2023,General Administration Department,Technical Evaluation,Goods,Open Tender,2
+1011,2022-2023,General Administration Department,To Be Opened,Works,Open Tender,4
+1012,2022-2023,Guwahati Metropolitan Development Authority,AOC,Goods,Open Tender,2
+1013,2022-2023,Guwahati Metropolitan Development Authority,AOC,Services,Open Tender,4
+1014,2022-2023,Guwahati Metropolitan Development Authority,AOC,Works,Open Tender,21
+1015,2022-2023,Guwahati Metropolitan Development Authority,Cancelled,Services,Open Tender,4
+1016,2022-2023,Guwahati Metropolitan Development Authority,Cancelled,Works,Open Tender,8
+1017,2022-2023,Guwahati Metropolitan Development Authority,Financial Evaluation,Services,Open Tender,2
+1018,2022-2023,Guwahati Metropolitan Development Authority,Financial Evaluation,Works,Open Tender,2
+1019,2022-2023,Guwahati Metropolitan Development Authority,Technical Evaluation,Services,Open Tender,1
+1020,2022-2023,Guwahati Metropolitan Development Authority,Technical Evaluation,Works,Open Tender,1
+1021,2022-2023,Guwahati Metropolitan Development Authority,To Be Opened,Services,Open Tender,3
+1022,2022-2023,Guwahati Metropolitan Development Authority,To Be Opened,Works,Open Tender,5
+1023,2022-2023,Guwahati Municipal Corporation,AOC,Services,Open Tender,4
+1024,2022-2023,Guwahati Municipal Corporation,AOC,Works,Open Tender,117
+1025,2022-2023,Guwahati Municipal Corporation,Cancelled,Goods,Open Tender,1
+1026,2022-2023,Guwahati Municipal Corporation,Cancelled,Services,Open Tender,1
+1027,2022-2023,Guwahati Municipal Corporation,Cancelled,Works,Open Tender,239
+1028,2022-2023,Guwahati Municipal Corporation,Financial Bid Opening,Works,Open Tender,3
+1029,2022-2023,Guwahati Municipal Corporation,Financial Evaluation,Works,Open Tender,3
+1030,2022-2023,Guwahati Municipal Corporation,Technical Bid Opening,Works,Open Tender,3
+1031,2022-2023,Guwahati Municipal Corporation,Technical Evaluation,Works,Open Tender,10
+1032,2022-2023,Guwahati Municipal Corporation,To Be Opened,Works,Open Tender,9
+1033,2022-2023,Guwahati Smart City Ltd.,AOC,Services,Open Tender,1
+1034,2022-2023,Health and Family Welfare Department,AOC,Goods,Open Tender,43
+1035,2022-2023,Health and Family Welfare Department,AOC,Services,Open Tender,7
+1036,2022-2023,Health and Family Welfare Department,AOC,Works,Open Tender,1
+1037,2022-2023,Health and Family Welfare Department,Cancelled,Goods,Open Tender,28
+1038,2022-2023,Health and Family Welfare Department,Cancelled,Services,Open Tender,11
+1039,2022-2023,Health and Family Welfare Department,Financial Bid Opening,Goods,Open Tender,12
+1040,2022-2023,Health and Family Welfare Department,Financial Bid Opening,Services,Open Tender,2
+1041,2022-2023,Health and Family Welfare Department,Financial Evaluation,Goods,Open Tender,10
+1042,2022-2023,Health and Family Welfare Department,Financial Evaluation,Services,Open Tender,3
+1043,2022-2023,Health and Family Welfare Department,Retender,Goods,Open Tender,6
+1044,2022-2023,Health and Family Welfare Department,Retender,Services,Open Tender,3
+1045,2022-2023,Health and Family Welfare Department,Retender,Works,Open Tender,1
+1046,2022-2023,Health and Family Welfare Department,Technical Bid Opening,Goods,Open Tender,2
+1047,2022-2023,Health and Family Welfare Department,Technical Bid Opening,Services,Open Tender,1
+1048,2022-2023,Health and Family Welfare Department,Technical Evaluation,Goods,Open Tender,1
+1049,2022-2023,Health and Family Welfare Department,To Be Opened,Goods,Open Tender,3
+1050,2022-2023,Health and Family Welfare Department,To Be Opened,Services,Open Tender,2
+1051,2022-2023,Health and Family Welfare Department,To Be Opened,Works,Open Tender,1
+1052,2022-2023,Home B,AOC,Goods,Open Tender,75
+1053,2022-2023,Home B,Cancelled,Goods,Open Tender,38
+1054,2022-2023,Home B,Financial Bid Opening,Goods,Open Tender,3
+1055,2022-2023,Home B,Financial Evaluation,Goods,Open Tender,14
+1056,2022-2023,Home B,Retender,Goods,Open Tender,1
+1057,2022-2023,Home B,Technical Evaluation,Goods,Open Tender,3
+1058,2022-2023,Home B,To Be Opened,Goods,Open Tender,24
+1059,2022-2023,Industries and Commerce Department,AOC,Goods,Limited,5
+1060,2022-2023,Industries and Commerce Department,AOC,Goods,Open Limited,20
+1061,2022-2023,Industries and Commerce Department,AOC,Goods,Open Tender,13
+1062,2022-2023,Industries and Commerce Department,AOC,Services,Limited,3
+1063,2022-2023,Industries and Commerce Department,AOC,Services,Open Limited,2
+1064,2022-2023,Industries and Commerce Department,AOC,Services,Open Tender,18
+1065,2022-2023,Industries and Commerce Department,AOC,Works,Limited,8
+1066,2022-2023,Industries and Commerce Department,AOC,Works,Open Limited,4
+1067,2022-2023,Industries and Commerce Department,AOC,Works,Open Tender,45
+1068,2022-2023,Industries and Commerce Department,Cancelled,Goods,Limited,1
+1069,2022-2023,Industries and Commerce Department,Cancelled,Goods,Open Limited,4
+1070,2022-2023,Industries and Commerce Department,Cancelled,Goods,Open Tender,13
+1071,2022-2023,Industries and Commerce Department,Cancelled,Services,Limited,1
+1072,2022-2023,Industries and Commerce Department,Cancelled,Services,Open Limited,1
+1073,2022-2023,Industries and Commerce Department,Cancelled,Services,Open Tender,14
+1074,2022-2023,Industries and Commerce Department,Cancelled,Works,Limited,3
+1075,2022-2023,Industries and Commerce Department,Cancelled,Works,Open Tender,17
+1076,2022-2023,Industries and Commerce Department,Financial Bid Opening,Goods,Open Limited,1
+1077,2022-2023,Industries and Commerce Department,Financial Bid Opening,Services,Open Tender,4
+1078,2022-2023,Industries and Commerce Department,Financial Bid Opening,Works,Limited,1
+1079,2022-2023,Industries and Commerce Department,Financial Bid Opening,Works,Open Limited,5
+1080,2022-2023,Industries and Commerce Department,Financial Bid Opening,Works,Open Tender,4
+1081,2022-2023,Industries and Commerce Department,Financial Evaluation,Works,Open Tender,2
+1082,2022-2023,Industries and Commerce Department,Retender,Goods,Open Tender,1
+1083,2022-2023,Industries and Commerce Department,Retender,Services,Open Tender,1
+1084,2022-2023,Industries and Commerce Department,Retender,Works,Open Limited,1
+1085,2022-2023,Industries and Commerce Department,Retender,Works,Open Tender,4
+1086,2022-2023,Industries and Commerce Department,Technical Bid Opening,Services,Limited,1
+1087,2022-2023,Industries and Commerce Department,Technical Bid Opening,Services,Open Limited,1
+1088,2022-2023,Industries and Commerce Department,Technical Bid Opening,Services,Open Tender,3
+1089,2022-2023,Industries and Commerce Department,Technical Bid Opening,Works,Limited,11
+1090,2022-2023,Industries and Commerce Department,Technical Bid Opening,Works,Open Tender,2
+1091,2022-2023,Industries and Commerce Department,Technical Evaluation,Goods,Open Tender,13
+1092,2022-2023,Industries and Commerce Department,Technical Evaluation,Services,Open Tender,4
+1093,2022-2023,Industries and Commerce Department,Technical Evaluation,Works,Limited,1
+1094,2022-2023,Industries and Commerce Department,Technical Evaluation,Works,Open Tender,4
+1095,2022-2023,Industries and Commerce Department,To Be Opened,Goods,Open Tender,4
+1096,2022-2023,Industries and Commerce Department,To Be Opened,Services,Limited,1
+1097,2022-2023,Industries and Commerce Department,To Be Opened,Services,Open Tender,5
+1098,2022-2023,Industries and Commerce Department,To Be Opened,Works,Open Tender,1
+1099,2022-2023,Information - Public Relations - Printing and Stationery Department,AOC,Works,Open Tender,1
+1100,2022-2023,Information - Public Relations - Printing and Stationery Department,Cancelled,Goods,Open Tender,2
+1101,2022-2023,Information - Public Relations - Printing and Stationery Department,Cancelled,Services,Open Tender,5
+1102,2022-2023,Information - Public Relations - Printing and Stationery Department,Retender,Services,Open Tender,2
+1103,2022-2023,Information - Public Relations - Printing and Stationery Department,Technical Evaluation,Works,Open Tender,3
+1104,2022-2023,Information and Public Relations Department,AOC,Goods,Open Tender,1
+1105,2022-2023,Information and Public Relations Department,AOC,Services,Open Tender,1
+1106,2022-2023,Information and Public Relations Department,Cancelled,Goods,Open Tender,1
+1107,2022-2023,Information and Public Relations Department,Cancelled,Services,Open Tender,2
+1108,2022-2023,Information and Public Relations Department,Financial Evaluation,Goods,Open Tender,1
+1109,2022-2023,Information and Public Relations Department,Financial Evaluation,Services,Open Tender,1
+1110,2022-2023,Inland Water Transport,AOC,Services,Open Tender,4
+1111,2022-2023,Inland Water Transport,Cancelled,Services,Open Tender,1
+1112,2022-2023,Inland Water Transport,Financial Bid Opening,Services,Open Tender,1
+1113,2022-2023,Inland Water Transport,Technical Evaluation,Services,Open Tender,18
+1114,2022-2023,Inland Water Transport,To Be Opened,Services,Open Tender,30
+1115,2022-2023,Irrigation Department,AOC,Services,Open Tender,1
+1116,2022-2023,Irrigation Department,AOC,Works,Open Tender,105
+1117,2022-2023,Irrigation Department,Cancelled,Services,Open Tender,1
+1118,2022-2023,Irrigation Department,Cancelled,Works,Open Tender,27
+1119,2022-2023,Irrigation Department,Retender,Works,Open Tender,2
+1120,2022-2023,Karbi Anglong Autonomous Council,AOC,Works,Open Tender,3
+1121,2022-2023,Karbi Anglong Autonomous Council,Retender,Works,Open Tender,2
+1122,2022-2023,Karbi Anglong Autonomous Council,Technical Evaluation,Works,Open Tender,1
+1123,2022-2023,Medical Education and Research Department- Externally Aided Project,AOC,Services,Open Tender,2
+1124,2022-2023,National Health Mission,AOC,Goods,Open Tender,3
+1125,2022-2023,National Health Mission,AOC,Services,Open Tender,4
+1126,2022-2023,National Health Mission,AOC,Works,Open Tender,469
+1127,2022-2023,National Health Mission,Cancelled,Goods,Limited,1
+1128,2022-2023,National Health Mission,Cancelled,Goods,Open Tender,1
+1129,2022-2023,National Health Mission,Cancelled,Services,Open Tender,3
+1130,2022-2023,National Health Mission,Cancelled,Works,Open Tender,408
+1131,2022-2023,National Health Mission,Financial Bid Opening,Services,Open Tender,1
+1132,2022-2023,National Health Mission,Financial Bid Opening,Works,Open Tender,78
+1133,2022-2023,National Health Mission,Financial Evaluation,Works,Open Tender,1
+1134,2022-2023,National Health Mission,Retender,Goods,Open Tender,1
+1135,2022-2023,National Health Mission,Retender,Works,Open Tender,6
+1136,2022-2023,National Health Mission,Technical Bid Opening,Goods,Limited,4
+1137,2022-2023,National Health Mission,Technical Bid Opening,Goods,Open Limited,10
+1138,2022-2023,National Health Mission,Technical Bid Opening,Works,Open Tender,4
+1139,2022-2023,National Health Mission,Technical Evaluation,Services,Open Tender,2
+1140,2022-2023,National Health Mission,Technical Evaluation,Works,Open Tender,152
+1141,2022-2023,National Health Mission,To Be Opened,Goods,Open Limited,1
+1142,2022-2023,National Health Mission,To Be Opened,Goods,Open Tender,1
+1143,2022-2023,National Health Mission,To Be Opened,Services,Open Tender,1
+1144,2022-2023,National Health Mission,To Be Opened,Works,Open Tender,48
+1145,2022-2023,Office of the Chief Electoral Officer Assam,AOC,Services,Open Tender,2
+1146,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Goods,Open Tender,7
+1147,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Services,Open Tender,1
+1148,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Works,Open Tender,68
+1149,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Cancelled,Goods,Open Tender,4
+1150,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Cancelled,Services,Limited,1
+1151,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Cancelled,Services,Open Tender,3
+1152,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Cancelled,Works,Open Tender,59
+1153,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Financial Bid Opening,Goods,Open Tender,2
+1154,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Financial Bid Opening,Works,Open Tender,2
+1155,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Financial Evaluation,Services,Limited,1
+1156,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Financial Evaluation,Works,Open Tender,1
+1157,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Retender,Goods,Open Tender,1
+1158,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Retender,Works,Open Tender,3
+1159,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Bid Opening,Goods,Open Tender,8
+1160,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Bid Opening,Services,Open Tender,1
+1161,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Bid Opening,Works,Open Tender,24
+1162,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Evaluation,Goods,Open Tender,1
+1163,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Evaluation,Works,Open Tender,3
+1164,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,To Be Opened,Services,Open Tender,2
+1165,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,To Be Opened,Works,Open Tender,10
+1166,2022-2023,Principal Secretary- P and RD- Assam Secretariat,AOC,Goods,Open Tender,13
+1167,2022-2023,Principal Secretary- P and RD- Assam Secretariat,AOC,Services,Open Tender,5
+1168,2022-2023,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,Open Tender,13
+1169,2022-2023,Principal Secretary- P and RD- Assam Secretariat,Cancelled,Goods,Open Tender,5
+1170,2022-2023,Principal Secretary- P and RD- Assam Secretariat,Cancelled,Works,Open Tender,2
+1171,2022-2023,Principal Secretary- P and RD- Assam Secretariat,Retender,Goods,Open Tender,2
+1172,2022-2023,Principal Secretary- P and RD- Assam Secretariat,Retender,Works,Open Tender,2
+1173,2022-2023,Principal Secretary- P and RD- Assam Secretariat,Technical Bid Opening,Goods,Open Tender,5
+1174,2022-2023,Principal Secretary-Department of Information Technology,AOC,Goods,Open Tender,4
+1175,2022-2023,Principal Secretary-Department of Information Technology,AOC,Works,Open Tender,10
+1176,2022-2023,Principal Secretary-Department of Information Technology,Cancelled,Goods,Open Tender,3
+1177,2022-2023,Principal Secretary-Department of Information Technology,Cancelled,Works,Open Tender,3
+1178,2022-2023,Principal Secretary-Department of Information Technology,Financial Bid Opening,Services,Open Tender,1
+1179,2022-2023,Principal Secretary-Department of Information Technology,Financial Evaluation,Works,Open Tender,1
+1180,2022-2023,Principal Secretary-Department of Information Technology,Retender,Services,Limited,1
+1181,2022-2023,Principal Secretary-Department of Information Technology,To Be Opened,Works,Open Tender,1
+1182,2022-2023,Public Health Engineering Department,AOC,Goods,Open Tender,1
+1183,2022-2023,Public Health Engineering Department,AOC,Services,Limited,1
+1184,2022-2023,Public Health Engineering Department,AOC,Services,Open Tender,3
+1185,2022-2023,Public Health Engineering Department,AOC,Works,Open Tender,3
+1186,2022-2023,Public Health Engineering Department,Cancelled,Works,Open Tender,1
+1187,2022-2023,Public Health Engineering Department,Financial Bid Opening,Goods,Open Tender,1
+1188,2022-2023,Public Health Engineering Department,Financial Evaluation,Goods,Open Tender,4
+1189,2022-2023,Public Health Engineering Department,Financial Evaluation,Services,Open Tender,2
+1190,2022-2023,Public Health Engineering Department,Financial Evaluation,Works,Open Tender,1
+1191,2022-2023,Public Health Engineering Department,Retender,Goods,Open Tender,1
+1192,2022-2023,Public Health Engineering Department,Retender,Services,Open Tender,1
+1193,2022-2023,Public Health Engineering Department,Retender,Works,Open Tender,2
+1194,2022-2023,Public Health Engineering Department,Technical Bid Opening,Services,Open Tender,1
+1195,2022-2023,Public Health Engineering Department,Technical Evaluation,Works,Open Tender,5
+1196,2022-2023,Public Health Engineering Department,To Be Opened,Services,Limited,1
+1197,2022-2023,Public Health Engineering Department,To Be Opened,Works,Open Tender,1
+1198,2022-2023,Public Works Building and NH Department,AOC,Works,Open Tender,505
+1199,2022-2023,Public Works Building and NH Department,Cancelled,Services,Open Tender,8
+1200,2022-2023,Public Works Building and NH Department,Cancelled,Works,Open Tender,302
+1201,2022-2023,Public Works Building and NH Department,Financial Bid Opening,Works,Open Tender,72
+1202,2022-2023,Public Works Building and NH Department,Financial Evaluation,Works,Open Tender,10
+1203,2022-2023,Public Works Building and NH Department,Retender,Works,Open Tender,6
+1204,2022-2023,Public Works Building and NH Department,Technical Bid Opening,Works,Open Tender,31
+1205,2022-2023,Public Works Building and NH Department,Technical Evaluation,Works,Open Tender,4
+1206,2022-2023,Public Works Building and NH Department,To Be Opened,Works,Open Tender,1
+1207,2022-2023,Public Works Roads Department,AOC,Goods,Open Tender,1
+1208,2022-2023,Public Works Roads Department,AOC,Works,Open Tender,1073
+1209,2022-2023,Public Works Roads Department,Cancelled,Works,Open Tender,225
+1210,2022-2023,Public Works Roads Department,Financial Bid Opening,Works,Open Tender,39
+1211,2022-2023,Public Works Roads Department,Financial Evaluation,Works,Open Tender,7
+1212,2022-2023,Public Works Roads Department,Retender,Services,Open Tender,2
+1213,2022-2023,Public Works Roads Department,Retender,Works,Open Tender,12
+1214,2022-2023,Public Works Roads Department,Technical Bid Opening,Works,Open Tender,14
+1215,2022-2023,Public Works Roads Department,Technical Evaluation,Works,Open Tender,24
+1216,2022-2023,Public Works Roads Department,To Be Opened,Services,Open Tender,7
+1217,2022-2023,Public Works Roads Department,To Be Opened,Works,Open Tender,65
+1218,2022-2023,Public Works Roads Department-Externally Aided Project,AOC,Works,Open Tender,127
+1219,2022-2023,Public Works Roads Department-Externally Aided Project,Cancelled,Works,Open Tender,32
+1220,2022-2023,Public Works Roads Department-Externally Aided Project,Financial Bid Opening,Services,Open Tender,2
+1221,2022-2023,Public Works Roads Department-Externally Aided Project,Technical Bid Opening,Services,Open Tender,2
+1222,2022-2023,Public Works Roads Department-Externally Aided Project,Technical Evaluation,Works,Open Tender,10
+1223,2022-2023,SECONDARY EDUCATION DEPARTMENT ASSAM,AOC,Goods,Open Tender,3
+1224,2022-2023,Science Technology and Climate Change Department,AOC,Goods,Open Tender,3
+1225,2022-2023,Science Technology and Climate Change Department,AOC,Services,Open Tender,1
+1226,2022-2023,Science Technology and Climate Change Department,Cancelled,Goods,Open Tender,1
+1227,2022-2023,Science Technology and Climate Change Department,Financial Bid Opening,Goods,Open Tender,1
+1228,2022-2023,Skill Employment and Entrepreneurship Department,AOC,Services,Open Tender,7
+1229,2022-2023,Skill Employment and Entrepreneurship Department,AOC,Works,Open Tender,2
+1230,2022-2023,Skill Employment and Entrepreneurship Department,Cancelled,Services,Open Tender,1
+1231,2022-2023,Social Welfare Department,AOC,Goods,Open Tender,1
+1232,2022-2023,Social Welfare Department,Cancelled,Goods,Open Tender,1
+1233,2022-2023,Social Welfare Department,Cancelled,Services,Open Tender,1
+1234,2022-2023,Social Welfare Department,Financial Evaluation,Goods,Open Tender,1
+1235,2022-2023,Social Welfare Department,Technical Bid Opening,Goods,Open Tender,1
+1236,2022-2023,Soil Conservation Department,AOC,Works,Open Tender,12
+1237,2022-2023,Soil Conservation Department,Cancelled,Works,Open Tender,7
+1238,2022-2023,Transformation and Development Department,AOC,Services,Limited,1
+1239,2022-2023,Transformation and Development Department,AOC,Services,Open Tender,1
+1240,2022-2023,Transformation and Development Department,Financial Evaluation,Services,Open Tender,1
+1241,2022-2023,Transport Department,AOC,Services,Open Tender,1
+1242,2022-2023,Transport Department,Cancelled,Services,Open Tender,1
+1243,2022-2023,Transport Department,To Be Opened,Services,Open Tender,1
+1244,2022-2023,Transport Department- Externally Funded Projects,AOC,Goods,Open Tender,1
+1245,2022-2023,Transport Department- Externally Funded Projects,AOC,Services,Open Tender,2
+1246,2022-2023,Transport Department- Externally Funded Projects,Cancelled,Works,Open Tender,1
+1247,2022-2023,Transport Department- Externally Funded Projects,Financial Evaluation,Services,Open Tender,1
+1248,2022-2023,Urban Affairs Department Externally Aided Project,AOC,Services,Global Tenders,1
+1249,2022-2023,Urban Affairs Department Externally Aided Project,AOC,Services,Open Tender,1
+1250,2022-2023,Urban Affairs Department Externally Aided Project,AOC,Works,Open Tender,3
+1251,2022-2023,Urban Affairs Department Externally Aided Project,Cancelled,Goods,Open Tender,1
+1252,2022-2023,Urban Affairs Department Externally Aided Project,Cancelled,Works,Open Tender,2
+1253,2022-2023,Urban Development Department,AOC,Goods,Open Tender,4
+1254,2022-2023,Urban Development Department,AOC,Services,Open Tender,3
+1255,2022-2023,Urban Development Department,AOC,Works,Open Tender,16
+1256,2022-2023,Urban Development Department,Cancelled,Goods,Open Tender,3
+1257,2022-2023,Urban Development Department,Cancelled,Services,Open Tender,7
+1258,2022-2023,Urban Development Department,Cancelled,Works,Open Tender,14
+1259,2022-2023,Urban Development Department,Financial Bid Opening,Services,Open Tender,1
+1260,2022-2023,Urban Development Department,Financial Bid Opening,Works,Open Tender,3
+1261,2022-2023,Urban Development Department,Financial Evaluation,Services,Open Tender,1
+1262,2022-2023,Urban Development Department,Financial Evaluation,Works,Open Tender,5
+1263,2022-2023,Urban Development Department,Retender,Works,Open Tender,4
+1264,2022-2023,Urban Development Department,Technical Bid Opening,Services,Limited,2
+1265,2022-2023,Urban Development Department,Technical Evaluation,Services,Open Tender,1
+1266,2022-2023,Urban Development Department,Technical Evaluation,Works,Open Tender,4
+1267,2022-2023,Urban Development Department,To Be Opened,Goods,Open Tender,1
+1268,2022-2023,Urban Development Department,To Be Opened,Services,Open Tender,1
+1269,2022-2023,Urban Development Department,To Be Opened,Works,Open Tender,3
+1270,2022-2023,Water Resources Department- World Bank Tenders,AOC,Goods,Open Tender,2
+1271,2022-2023,Water Resources Department- World Bank Tenders,AOC,Services,Open Tender,1
+1272,2022-2023,Water Resources Department- World Bank Tenders,AOC,Works,Open Tender,3
+1273,2022-2023,Water Resources Department- World Bank Tenders,Financial Evaluation,Goods,Open Tender,2
+1274,2022-2023,Water Resources Department- World Bank Tenders,To Be Opened,Goods,Open Tender,1
+1275,2022-2023,Welfare of Minorities Development Department,Cancelled,Goods,Open Tender,1
+1276,2022-2023,Welfare of Minorities Development Department,Cancelled,Services,Open Tender,7
+1277,2022-2023,Welfare of Plain Tribes and Backward Classes,AOC,Goods,Open Tender,8
+1278,2022-2023,Welfare of Plain Tribes and Backward Classes,AOC,Works,Limited,28
+1279,2022-2023,Welfare of Plain Tribes and Backward Classes,AOC,Works,Open Tender,54
+1280,2022-2023,Welfare of Plain Tribes and Backward Classes,Cancelled,Goods,Open Tender,6
+1281,2022-2023,Welfare of Plain Tribes and Backward Classes,Cancelled,Works,Limited,1
+1282,2022-2023,Welfare of Plain Tribes and Backward Classes,Cancelled,Works,Open Tender,3
+1283,2022-2023,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Goods,Open Tender,13
+1284,2022-2023,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Works,Open Tender,1
+1285,2022-2023,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Works,Limited,2
+1286,2022-2023,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Works,Open Tender,1
+1287,2022-2023,Welfare of Plain Tribes and Backward Classes,Technical Bid Opening,Works,Open Tender,1
+1288,2022-2023,Welfare of Plain Tribes and Backward Classes,Technical Evaluation,Goods,Open Tender,16
+1289,2022-2023,Welfare of Plain Tribes and Backward Classes,Technical Evaluation,Works,Open Tender,1
+1290,2022-2023,Welfare of Plain Tribes and Backward Classes,To Be Opened,Goods,Open Tender,2
+1291,2023-2024,Assam Agricultural University,AOC,Goods,Open Tender,1
+1292,2023-2024,Assam Electricity Grid Corporation Ltd,AOC,Works,Open Tender,1
+1293,2023-2024,Assam Electricity Grid Corporation Ltd,Cancelled,Works,Open Tender,1
+1294,2023-2024,Assam Police Housing Corporation Ltd,AOC,Works,Open Tender,15
+1295,2023-2024,Assam Power Generation Company Limited,Financial Bid Opening,Works,Open Tender,1
+1296,2023-2024,Axom Sarba Siksha Abhijan Mission,Cancelled,Works,Open Tender,6
+1297,2023-2024,Axom Sarba Siksha Abhijan Mission,Financial Bid Opening,Works,Open Tender,2
+1298,2023-2024,Bodoland Territorial Council,AOC,Works,Open Tender,8
+1299,2023-2024,Bodoland Territorial Council,Cancelled,Goods,Open Tender,1
+1300,2023-2024,Bodoland Territorial Council,Cancelled,Works,Open Tender,1
+1301,2023-2024,Bodoland Territorial Council,Financial Bid Opening,Works,Open Tender,6
+1302,2023-2024,Bodoland Territorial Council,Financial Evaluation,Works,Open Tender,1
+1303,2023-2024,Bodoland Territorial Council,To Be Opened,Goods,Open Tender,1
+1304,2023-2024,Bodoland Territorial Council-PWD,Cancelled,Works,Open Tender,1
+1305,2023-2024,Department of Tourism,To Be Opened,Services,Open Tender,3
+1306,2023-2024,Department of Water Resources,AOC,Works,Open Tender,2
+1307,2023-2024,Department of Water Resources,Financial Bid Opening,Works,Open Tender,1
+1308,2023-2024,Department of Water Resources,Financial Evaluation,Works,Open Tender,1
+1309,2023-2024,Department of Water Resources,Technical Evaluation,Goods,Open Tender,2
+1310,2023-2024,Dibrugarh University,Technical Evaluation,Goods,Open Tender,1
+1311,2023-2024,Finance Department - World Bank Tenders,AOC,Goods,Open Tender,1
+1312,2023-2024,Guwahati Metropolitan Development Authority,AOC,Works,Open Tender,1
+1313,2023-2024,Health and Family Welfare Department,AOC,Services,Open Tender,1
+1314,2023-2024,Health and Family Welfare Department,Cancelled,Goods,Open Tender,1
+1315,2023-2024,Industries and Commerce Department,AOC,Goods,Open Limited,1
+1316,2023-2024,Industries and Commerce Department,Cancelled,Goods,Open Tender,3
+1317,2023-2024,Industries and Commerce Department,Technical Evaluation,Services,Open Tender,1
+1318,2023-2024,Industries and Commerce Department,To Be Opened,Goods,Open Tender,2
+1319,2023-2024,Inland Water Transport,Technical Evaluation,Services,Open Tender,7
+1320,2023-2024,Inland Water Transport,To Be Opened,Services,Open Tender,11
+1321,2023-2024,Irrigation Department,AOC,Works,Open Tender,1
+1322,2023-2024,Irrigation Department,Cancelled,Works,Open Tender,4
+1323,2023-2024,Karbi Anglong Autonomous Council,Financial Bid Opening,Works,Open Tender,2
+1324,2023-2024,National Health Mission,AOC,Works,Open Tender,5
+1325,2023-2024,National Health Mission,Cancelled,Works,Open Tender,5
+1326,2023-2024,National Health Mission,Financial Bid Opening,Works,Open Tender,1
+1327,2023-2024,National Health Mission,Technical Evaluation,Works,Open Tender,9
+1328,2023-2024,Principal Secretary-Department of Information Technology,Cancelled,Works,Open Tender,1
+1329,2023-2024,Principal Secretary-Department of Information Technology,To Be Opened,Works,Open Tender,1
+1330,2023-2024,Public Health Engineering Department,Retender,Works,Open Tender,1
+1331,2023-2024,Public Works Building and NH Department,AOC,Works,Open Tender,5
+1332,2023-2024,Public Works Building and NH Department,Cancelled,Works,Open Tender,3
+1333,2023-2024,Public Works Building and NH Department,Financial Evaluation,Works,Open Tender,1
+1334,2023-2024,Public Works Building and NH Department,To Be Opened,Works,Open Tender,1
+1335,2023-2024,Public Works Roads Department,Cancelled,Works,Open Tender,2
+1336,2023-2024,SECONDARY EDUCATION DEPARTMENT ASSAM,To Be Opened,Services,Open Tender,1
+1337,2023-2024,Urban Development Department,Cancelled,Works,Open Tender,2
+1338,2023-2024,Urban Development Department,Financial Evaluation,Works,Open Tender,1

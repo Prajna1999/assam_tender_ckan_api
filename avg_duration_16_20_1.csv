@@ -1,0 +1,1192 @@
+,"fiscal_year","buyer_name","tender/stage","tender/mainProcurementCategory","avg_duration"
+0,"2017-18","Assam Police","AOC","Goods",365
+1,"2017-18","Assam Police","Cancelled","Goods",365
+2,"2017-18","Bodoland Territorial Council","AOC","Works",180
+3,"2017-18","Bodoland Territorial Council-PWD","AOC","Works",180
+4,"2017-18","Bodoland Territorial Council-PWD","Cancelled","Works",180
+5,"2017-18","Industries and Commerce Department","Cancelled","Goods",180
+6,"2017-18","Industries and Commerce Department","Cancelled","Works",180
+7,"2017-18","Principal Secretary-Department of Information Technology","AOC","Goods",180
+8,"2017-18","Public Works Building and NH Department","AOC","Works",180
+9,"2017-18","Welfare of Plain Tribes and Backward Classes","Cancelled","Goods",90
+10,"2017-18","Welfare of Plain Tribes and Backward Classes","Cancelled","Works",180
+11,"2018-19","Assam Electricity Grid Corporation Ltd","AOC","Works",180
+12,"2018-19","Assam Electricity Grid Corporation Ltd","Cancelled","Works",210
+13,"2018-19","Assam Police","AOC","Services",180
+14,"2018-19","Assam Police","Cancelled","Goods",227.5
+15,"2018-19","Assam Power Distribution Company Ltd","AOC","Works",180
+16,"2018-19","Assam Power Generation Company Limited","Cancelled","Works",105
+17,"2018-19","Assam State Transport Corporation","AOC","Services",180
+18,"2018-19","Bodoland Territorial Council","AOC","Goods",180
+19,"2018-19","Bodoland Territorial Council","AOC","Works",180
+20,"2018-19","Bodoland Territorial Council","Cancelled","Works",180
+21,"2018-19","Bodoland Territorial Council-PWD","Cancelled","Works",180
+22,"2018-19","Bodoland Territorial Council-WRD","AOC","Works",90
+23,"2018-19","Cotton University","AOC","Works",180
+24,"2018-19","Department of Tourism","AOC","Works",180
+25,"2018-19","Department of Water Resources","AOC","Works",180
+26,"2018-19","Directorate of Agriculture and Assam Seed Corporation","AOC","Works",90
+27,"2018-19","Health and Family Welfare Department","AOC","Goods",365
+28,"2018-19","Health and Family Welfare Department","Cancelled","Goods",365
+29,"2018-19","Industries and Commerce Department","AOC","Works",180
+30,"2018-19","Industries and Commerce Department","Cancelled","Goods",180
+31,"2018-19","Principal Secretary- P and RD- Assam Secretariat","AOC","Works",180
+32,"2018-19","Principal Secretary-Department of Information Technology","Cancelled","Services",180
+33,"2018-19","Public Works Building and NH Department","AOC","Works",180
+34,"2018-19","Public Works Roads Department","AOC","Works",162
+35,"2018-19","Urban Development Department","AOC","Works",120
+36,"2018-19","Welfare of Plain Tribes and Backward Classes","AOC","Goods",45
+37,"2019-20","Animal Husbandry and Veterinary Department","AOC","Works",180
+38,"2019-20","Assam Electricity Grid Corporation Ltd","AOC","Goods",180
+39,"2019-20","Assam Electricity Grid Corporation Ltd","AOC","Services",180
+40,"2019-20","Assam Electricity Grid Corporation Ltd","AOC","Works",193.333333333333
+41,"2019-20","Assam Electricity Grid Corporation Ltd","Cancelled","Services",180
+42,"2019-20","Assam Electricity Grid Corporation Ltd","Cancelled","Works",180
+43,"2019-20","Assam Inland Water Transport Development Society","AOC","Goods",105
+44,"2019-20","Assam Inland Water Transport Development Society","AOC","Services",120
+45,"2019-20","Assam Inland Water Transport Development Society","AOC","Works",110
+46,"2019-20","Assam Police","AOC","Goods",296.25
+47,"2019-20","Assam Police","AOC","Services",365
+48,"2019-20","Assam Police Housing Corporation Ltd","AOC","Works",120
+49,"2019-20","Assam Power Distribution Company Ltd","AOC","Goods",180
+50,"2019-20","Assam Power Distribution Company Ltd","AOC","Services",350.394736842105
+51,"2019-20","Assam Power Distribution Company Ltd","AOC","Works",150
+52,"2019-20","Assam Power Distribution Company Ltd","Cancelled","Services",365
+53,"2019-20","Assam Power Generation Company Limited","AOC","Goods",120
+54,"2019-20","Assam Power Generation Company Limited","AOC","Services",180
+55,"2019-20","Assam Power Generation Company Limited","AOC","Works",156
+56,"2019-20","Assam Power Generation Company Limited","Cancelled","Works",180
+57,"2019-20","Assam State Transport Corporation","AOC","Goods",180
+58,"2019-20","Assam State Transport Corporation","AOC","Services",150
+59,"2019-20","Assam State Transport Corporation","Cancelled","Goods",160
+60,"2019-20","Assam State Transport Corporation","Cancelled","Services",160
+61,"2019-20","Assam State Transport Corporation","Cancelled","Works",180
+62,"2019-20","BODOLAND UNIVERSITY","Cancelled","Works",180
+63,"2019-20","Bodoland Territorial Council","AOC","Goods",180
+64,"2019-20","Bodoland Territorial Council","AOC","Works",180
+65,"2019-20","Bodoland Territorial Council","Cancelled","Works",180
+66,"2019-20","Bodoland Territorial Council-PWD","Cancelled","Works",180
+67,"2019-20","Cooperation Department","AOC","Works",180
+68,"2019-20","Cotton University","AOC","Works",180
+69,"2019-20","Department of Tourism","AOC","Works",180
+70,"2019-20","Department of Water Resources","AOC","Works",180
+71,"2019-20","Dibrugarh University","AOC","Works",90
+72,"2019-20","Director- Fire and Emergency Services-Assam","AOC","Works",303.333333333333
+73,"2019-20","Directorate of Agriculture and Assam Seed Corporation","AOC","Works",90
+74,"2019-20","Directorate of Land Records and Survey etc. Assam","AOC","Goods",180
+75,"2019-20","Directorate of Land Records and Survey etc. Assam","AOC","Services",180
+76,"2019-20","Finance Department - World Bank Tenders","AOC","Services",150
+77,"2019-20","Guwahati Metropolitan Development Authority","AOC","Works",120
+78,"2019-20","Guwahati Metropolitan Development Authority","Financial Evaluation","Works",120
+79,"2019-20","Health and Family Welfare Department","AOC","Goods",365
+80,"2019-20","Health and Family Welfare Department","AOC","Services",366
+81,"2019-20","Health and Family Welfare Department","Cancelled","Goods",297.727272727273
+82,"2019-20","Health and Family Welfare Department","Cancelled","Works",365
+83,"2019-20","Health and Family Welfare Department","Financial Evaluation","Goods",365
+84,"2019-20","Home B","AOC","Goods",267.722222222222
+85,"2019-20","Home B","Cancelled","Goods",93.3333333333333
+86,"2019-20","Industries and Commerce Department","AOC","Goods",180
+87,"2019-20","Industries and Commerce Department","AOC","Works",180
+88,"2019-20","Industries and Commerce Department","Cancelled","Services",90
+89,"2019-20","Industries and Commerce Department","Cancelled","Works",180
+90,"2019-20","Irrigation Department","Cancelled","Works",180
+91,"2019-20","National Health Mission","AOC","Goods",112.105263157895
+92,"2019-20","National Health Mission","AOC","Works",218.918918918919
+93,"2019-20","National Health Mission","Cancelled","Goods",180
+94,"2019-20","National Health Mission","Cancelled","Services",180
+95,"2019-20","National Health Mission","Cancelled","Works",191.25
+96,"2019-20","National Health Mission","Financial Evaluation","Services",90
+97,"2019-20","Principal Secretary- P and RD- Assam Secretariat","AOC","Works",180
+98,"2019-20","Principal Secretary- P and RD- Assam Secretariat","Cancelled","Works",180
+99,"2019-20","Principal Secretary- P and RD- Assam Secretariat","Financial Evaluation","Works",180
+100,"2019-20","Public Health Engineering Department","AOC","Services",90
+101,"2019-20","Public Health Engineering Department","Cancelled","Goods",90
+102,"2019-20","Public Health Engineering Department","Cancelled","Works",90
+103,"2019-20","Public Works Building and NH Department","AOC","Works",180
+104,"2019-20","Public Works Roads Department","AOC","Works",170
+105,"2019-20","Public Works Roads Department","Financial Evaluation","Works",90
+106,"2019-20","Skill Employment and Entrepreneurship Department","AOC","Services",180
+107,"2019-20","Social Welfare Department","Cancelled","Goods",90
+108,"2019-20","Urban Development Department","AOC","Works",120
+109,"2019-20","Urban Development Department","Cancelled","Goods",180
+110,"2019-20","Welfare of Plain Tribes and Backward Classes","AOC","Goods",258.5
+111,"2019-20","Welfare of Plain Tribes and Backward Classes","AOC","Services",180
+112,"2019-20","Welfare of Plain Tribes and Backward Classes","AOC","Works",156
+113,"2019-20","Welfare of Plain Tribes and Backward Classes","Cancelled","Goods",45
+114,"2019-20","Welfare of Plain Tribes and Backward Classes","Financial Evaluation","Goods",318.75
+115,"2019-20","Welfare of Plain Tribes and Backward Classes","Financial Evaluation","Services",270
+116,"2020-21","Animal Husbandry and Veterinary Department","AOC","Goods",268.636363636364
+117,"2020-21","Animal Husbandry and Veterinary Department","AOC","Works",180
+118,"2020-21","Animal Husbandry and Veterinary Department","Cancelled","Goods",180
+119,"2020-21","Animal Husbandry and Veterinary Department","Cancelled","Services",135
+120,"2020-21","Animal Husbandry and Veterinary Department","Cancelled","Works",180
+121,"2020-21","Animal Husbandry and Veterinary Department-Externally Aided Project","AOC","Goods",365
+122,"2020-21","Assam Electricity Grid Corporation Ltd","AOC","Goods",180
+123,"2020-21","Assam Electricity Grid Corporation Ltd","AOC","Services",180
+124,"2020-21","Assam Electricity Grid Corporation Ltd","AOC","Works",182.307692307692
+125,"2020-21","Assam Electricity Grid Corporation Ltd","Cancelled","Goods",180
+126,"2020-21","Assam Electricity Grid Corporation Ltd","Cancelled","Services",180
+127,"2020-21","Assam Electricity Grid Corporation Ltd","Cancelled","Works",180
+128,"2020-21","Assam Electricity Grid Corporation Ltd. - Externally Funded Projects","AOC","Works",174
+129,"2020-21","Assam Inland Water Transport Development Society","AOC","Services",150
+130,"2020-21","Assam Inland Water Transport Development Society","AOC","Works",120
+131,"2020-21","Assam Inland Water Transport Development Society","Cancelled","Services",120
+132,"2020-21","Assam Police","AOC","Goods",250
+133,"2020-21","Assam Police","AOC","Services",484.666666666667
+134,"2020-21","Assam Police","Cancelled","Goods",180
+135,"2020-21","Assam Police","Cancelled","Services",180
+136,"2020-21","Assam Police","Cancelled","Works",365
+137,"2020-21","Assam Police","Financial Evaluation","Goods",365
+138,"2020-21","Assam Police Housing Corporation Ltd","AOC","Works",120
+139,"2020-21","Assam Police Housing Corporation Ltd","Cancelled","Works",135
+140,"2020-21","Assam Power Distribution Company Limited- Externally Aided Project","AOC","Works",120
+141,"2020-21","Assam Power Distribution Company Limited- Externally Aided Project","Cancelled","Works",120
+142,"2020-21","Assam Power Distribution Company Ltd","AOC","Works",173.793103448276
+143,"2020-21","Assam Power Distribution Company Ltd","Cancelled","Services",365
+144,"2020-21","Assam Power Generation Company Limited","AOC","Goods",120
+145,"2020-21","Assam Power Generation Company Limited","AOC","Works",160
+146,"2020-21","Assam Power Generation Company Limited APGCL - ADB","AOC","Services",180
+147,"2020-21","Assam Power Generation Company Limited APGCL - ADB","AOC","Works",180
+148,"2020-21","Assam Science and Technology University","AOC","Goods",90
+149,"2020-21","Assam State Disaster Management Authority","AOC","Goods",365
+150,"2020-21","Assam State Disaster Management Authority","AOC","Services",365
+151,"2020-21","Assam State Disaster Management Authority","Cancelled","Goods",455
+152,"2020-21","Assam State Disaster Management Authority","Financial Evaluation","Services",365
+153,"2020-21","Assam State Transport Corporation","AOC","Goods",180
+154,"2020-21","Assam State Transport Corporation","AOC","Works",120
+155,"2020-21","Assam State Transport Corporation","Cancelled","Goods",165
+156,"2020-21","Assam State Transport Corporation","Cancelled","Services",140
+157,"2020-21","Axom Sarba Siksha Abhijan Mission","AOC","Goods",90
+158,"2020-21","Axom Sarba Siksha Abhijan Mission","AOC","Services",90
+159,"2020-21","Axom Sarba Siksha Abhijan Mission","Cancelled","Goods",90
+160,"2020-21","Axom Sarba Siksha Abhijan Mission","Cancelled","Services",60
+161,"2020-21","Axom Sarba Siksha Abhijan Mission","Cancelled","Works",180
+162,"2020-21","Axom Sarba Siksha Abhijan Mission","Technical Evaluation","Services",90
+163,"2020-21","Axom Sarba Siksha Abhijan Mission","Technical Evaluation","Works",180
+164,"2020-21","BODOLAND UNIVERSITY","Cancelled","Works",180
+165,"2020-21","Bodoland Territorial Council","AOC","Goods",180
+166,"2020-21","Bodoland Territorial Council","AOC","Works",177.272727272727
+167,"2020-21","Bodoland Territorial Council","Cancelled","Works",180
+168,"2020-21","Bodoland Territorial Council","Financial Bid Opening","Works",180
+169,"2020-21","Bodoland Territorial Council","Financial Evaluation","Works",90
+170,"2020-21","Bodoland Territorial Council","Technical Evaluation","Works",180
+171,"2020-21","Bodoland Territorial Council-PWD","AOC","Works",180
+172,"2020-21","Bodoland Territorial Council-PWD","Cancelled","Works",181.666666666667
+173,"2020-21","Bodoland Territorial Council-PWD","Technical Evaluation","Services",180
+174,"2020-21","Bodoland Territorial Council-PWD","Technical Evaluation","Works",180
+175,"2020-21","Bodoland Territorial Council-WRD","AOC","Works",180
+176,"2020-21","Cooperation Department","AOC","Goods",120
+177,"2020-21","Cooperation Department","AOC","Works",180
+178,"2020-21","Cotton University","AOC","Works",180
+179,"2020-21","Department of Cultural Affairs","AOC","Services",365
+180,"2020-21","Department of Cultural Affairs","AOC","Works",365
+181,"2020-21","Department of Cultural Affairs","Cancelled","Works",365
+182,"2020-21","Department of Cultural Affairs","Financial Bid Opening","Works",365
+183,"2020-21","Department of Cultural Affairs","Retender","Works",365
+184,"2020-21","Department of Cultural Affairs","Technical Evaluation","Works",365
+185,"2020-21","Department of Fisheries","AOC","Services",90
+186,"2020-21","Department of Fisheries","Cancelled","Works",180
+187,"2020-21","Department of Fisheries","Retender","Services",90
+188,"2020-21","Department of Handloom Textile and Sericulture","AOC","Goods",213.75
+189,"2020-21","Department of Handloom Textile and Sericulture","AOC","Works",270
+190,"2020-21","Department of Handloom Textile and Sericulture","Cancelled","Works",45
+191,"2020-21","Department of Handloom Textile and Sericulture","Technical Evaluation","Works",270
+192,"2020-21","Department of Labour and Welfare","AOC","Services",120
+193,"2020-21","Department of Science and Technology","AOC","Goods",180
+194,"2020-21","Department of Tourism","AOC","Goods",180
+195,"2020-21","Department of Water Resources","AOC","Works",180
+196,"2020-21","Department of Water Resources","Cancelled","Works",180
+197,"2020-21","Department of Water Resources","Retender","Works",180
+198,"2020-21","Dibrugarh University","AOC","Goods",45
+199,"2020-21","Dibrugarh University","AOC","Works",135
+200,"2020-21","Director- Fire and Emergency Services-Assam","AOC","Goods",365
+201,"2020-21","Director- Fire and Emergency Services-Assam","AOC","Works",312.142857142857
+202,"2020-21","Directorate of Agriculture and Assam Seed Corporation","AOC","Goods",120
+203,"2020-21","Directorate of Agriculture and Assam Seed Corporation","AOC","Works",90
+204,"2020-21","Directorate of Agriculture and Assam Seed Corporation","Cancelled","Goods",180
+205,"2020-21","Directorate of Agriculture and Assam Seed Corporation","Financial Bid Opening","Works",90
+206,"2020-21","Directorate of Agriculture and Assam Seed Corporation","Financial Evaluation","Goods",420
+207,"2020-21","Directorate of Horticulture Assam","AOC","Goods",365
+208,"2020-21","Directorate of Horticulture Assam","Cancelled","Works",730
+209,"2020-21","Directorate of Land Records and Survey etc. Assam","AOC","Goods",180
+210,"2020-21","Directorate of Land Records and Survey etc. Assam","AOC","Works",180
+211,"2020-21","Directorate of Sports and Youth Welfare - Assam","AOC","Goods",60
+212,"2020-21","Elementary Education Department","AOC","Goods",210
+213,"2020-21","Elementary Education Department","AOC","Services",360
+214,"2020-21","Elementary Education Department","Retender","Services",180
+215,"2020-21","Finance Department - World Bank Tenders","AOC","Goods",180
+216,"2020-21","Finance Department - World Bank Tenders","AOC","Services",128.571428571429
+217,"2020-21","Food Civil Supplies and Consumer Affairs Department","AOC","Goods",365
+218,"2020-21","Food Civil Supplies and Consumer Affairs Department","AOC","Services",180
+219,"2020-21","Food Civil Supplies and Consumer Affairs Department","Financial Bid Opening","Goods",365
+220,"2020-21","Gauhati University","AOC","Works",180
+221,"2020-21","Gauhati University","Retender","Works",180
+222,"2020-21","Guwahati Metropolitan Development Authority","AOC","Services",180
+223,"2020-21","Guwahati Metropolitan Development Authority","AOC","Works",120
+224,"2020-21","Guwahati Metropolitan Development Authority","Cancelled","Works",120
+225,"2020-21","Guwahati Metropolitan Development Authority","Technical Evaluation","Services",120
+226,"2020-21","Guwahati Metropolitan Development Authority","Technical Evaluation","Works",135
+227,"2020-21","Guwahati Municipal Corporation","AOC","Goods",90
+228,"2020-21","Guwahati Municipal Corporation","AOC","Services",999
+229,"2020-21","Guwahati Municipal Corporation","AOC","Works",101.25
+230,"2020-21","Guwahati Municipal Corporation","Cancelled","Goods",90
+231,"2020-21","Guwahati Municipal Corporation","Cancelled","Works",94.4354838709677
+232,"2020-21","Guwahati Municipal Corporation","Financial Bid Opening","Works",90
+233,"2020-21","Guwahati Municipal Corporation","Financial Evaluation","Works",90
+234,"2020-21","Guwahati Municipal Corporation","Retender","Works",90
+235,"2020-21","Guwahati Smart City Ltd.","Cancelled","Works",180
+236,"2020-21","Health and Family Welfare Department","AOC","Goods",341.75
+237,"2020-21","Health and Family Welfare Department","AOC","Services",318.75
+238,"2020-21","Health and Family Welfare Department","Cancelled","Goods",312.5
+239,"2020-21","Health and Family Welfare Department","Cancelled","Services",135
+240,"2020-21","Health and Family Welfare Department","Financial Evaluation","Goods",351.428571428571
+241,"2020-21","Health and Family Welfare Department","Financial Evaluation","Services",700
+242,"2020-21","Health and Family Welfare Department","Retender","Goods",365
+243,"2020-21","Health and Family Welfare Department","Retender","Services",700
+244,"2020-21","Health and Family Welfare Department","Technical Evaluation","Goods",365
+245,"2020-21","Health and Family Welfare Department","To Be Opened","Goods",365
+246,"2020-21","Higher Education (Technical) Department","AOC","Goods",90
+247,"2020-21","Higher Education (Technical) Department","Financial Evaluation","Goods",180
+248,"2020-21","Hill Areas Department","AOC","Goods",180
+249,"2020-21","Hill Areas Department","Retender","Goods",180
+250,"2020-21","Home B","AOC","Goods",365
+251,"2020-21","Home B","Cancelled","Goods",344.583333333333
+252,"2020-21","Industries and Commerce Department","AOC","Goods",224.166666666667
+253,"2020-21","Industries and Commerce Department","AOC","Services",120
+254,"2020-21","Industries and Commerce Department","AOC","Works",174.705882352941
+255,"2020-21","Industries and Commerce Department","Cancelled","Goods",222.142857142857
+256,"2020-21","Industries and Commerce Department","Cancelled","Services",150
+257,"2020-21","Industries and Commerce Department","Cancelled","Works",180
+258,"2020-21","Industries and Commerce Department","Financial Bid Opening","Goods",180
+259,"2020-21","Industries and Commerce Department","Financial Bid Opening","Services",180
+260,"2020-21","Industries and Commerce Department","Financial Bid Opening","Works",180
+261,"2020-21","Industries and Commerce Department","Retender","Works",180
+262,"2020-21","Industries and Commerce Department","Technical Evaluation","Goods",272.5
+263,"2020-21","Industries and Commerce Department","To Be Opened","Works",180
+264,"2020-21","Information and Public Relations Department","AOC","Services",365
+265,"2020-21","Irrigation Department","AOC","Goods",180
+266,"2020-21","Irrigation Department","AOC","Works",180
+267,"2020-21","Irrigation Department","Cancelled","Works",180
+268,"2020-21","Karbi Anglong Autonomous Council","AOC","Goods",180
+269,"2020-21","Karbi Anglong Autonomous Council","AOC","Works",180
+270,"2020-21","National Health Mission","AOC","Goods",115.3125
+271,"2020-21","National Health Mission","AOC","Services",120
+272,"2020-21","National Health Mission","AOC","Works",188.181818181818
+273,"2020-21","National Health Mission","Cancelled","Goods",165
+274,"2020-21","National Health Mission","Cancelled","Services",90
+275,"2020-21","National Health Mission","Cancelled","Works",212.142857142857
+276,"2020-21","National Health Mission","Financial Bid Opening","Works",216
+277,"2020-21","National Health Mission","Financial Evaluation","Goods",180
+278,"2020-21","National Health Mission","Financial Evaluation","Services",180
+279,"2020-21","National Health Mission","Financial Evaluation","Works",202.5
+280,"2020-21","National Health Mission","Retender","Works",225
+281,"2020-21","National Health Mission","Technical Evaluation","Goods",180
+282,"2020-21","National Health Mission","Technical Evaluation","Services",90
+283,"2020-21","National Health Mission","Technical Evaluation","Works",225
+284,"2020-21","Office of the Chief Electoral Officer Assam","AOC","Services",180
+285,"2020-21","Pollution Control Board","Retender","Works",180
+286,"2020-21","Pr. Chief Conservator of Forest and Head of Forest Force","AOC","Works",557.428571428572
+287,"2020-21","Pr. Chief Conservator of Forest and Head of Forest Force","Cancelled","Works",139
+288,"2020-21","Pr. Chief Conservator of Forest and Head of Forest Force","Retender","Works",486.411764705882
+289,"2020-21","Principal Secretary- P and RD- Assam Secretariat","AOC","Works",243.913043478261
+290,"2020-21","Principal Secretary- P and RD- Assam Secretariat","Cancelled","Goods",180
+291,"2020-21","Principal Secretary- P and RD- Assam Secretariat","Cancelled","Works",180
+292,"2020-21","Principal Secretary- P and RD- Assam Secretariat","Retender","Goods",180
+293,"2020-21","Principal Secretary-Department of Information Technology","AOC","Services",135
+294,"2020-21","Principal Secretary-Department of Information Technology","AOC","Works",180
+295,"2020-21","Principal Secretary-Department of Information Technology","Cancelled","Goods",135
+296,"2020-21","Principal Secretary-Department of Information Technology","Cancelled","Works",180
+297,"2020-21","Public Health Engineering Department","AOC","Goods",180
+298,"2020-21","Public Health Engineering Department","AOC","Services",105
+299,"2020-21","Public Health Engineering Department","AOC","Works",90
+300,"2020-21","Public Health Engineering Department","Cancelled","Services",90
+301,"2020-21","Public Health Engineering Department","Cancelled","Works",90
+302,"2020-21","Public Health Engineering Department","Financial Evaluation","Goods",180
+303,"2020-21","Public Works Building and NH Department","AOC","Works",178.928571428571
+304,"2020-21","Public Works Building and NH Department","Cancelled","Goods",180
+305,"2020-21","Public Works Building and NH Department","Cancelled","Works",170
+306,"2020-21","Public Works Building and NH Department","Financial Bid Opening","Works",180
+307,"2020-21","Public Works Building and NH Department","Financial Evaluation","Works",165
+308,"2020-21","Public Works Building and NH Department","Retender","Works",180
+309,"2020-21","Public Works Building and NH Department","Technical Bid Opening","Works",180
+310,"2020-21","Public Works Roads Department","AOC","Services",90
+311,"2020-21","Public Works Roads Department","AOC","Works",145.985915492958
+312,"2020-21","Public Works Roads Department","Cancelled","Works",127.5
+313,"2020-21","Public Works Roads Department","Financial Bid Opening","Works",173.571428571429
+314,"2020-21","Public Works Roads Department","Financial Evaluation","Works",90
+315,"2020-21","Public Works Roads Department","Retender","Works",180
+316,"2020-21","Public Works Roads Department","Technical Bid Opening","Works",180
+317,"2020-21","Public Works Roads Department","Technical Evaluation","Works",180
+318,"2020-21","Rashtriya Madhyamik Siksha Abhijan","Cancelled","Goods",365
+319,"2020-21","Rashtriya Madhyamik Siksha Abhijan","Financial Evaluation","Services",90
+320,"2020-21","Rashtriya Madhyamik Siksha Abhijan","Financial Evaluation","Works",180
+321,"2020-21","Skill Employment and Entrepreneurship Department","AOC","Services",150
+322,"2020-21","Skill Employment and Entrepreneurship Department","Cancelled","Services",160
+323,"2020-21","Social Welfare Department","AOC","Goods",90
+324,"2020-21","Social Welfare Department","Cancelled","Goods",120
+325,"2020-21","Social Welfare Department","Cancelled","Works",120
+326,"2020-21","Soil Conservation Department","AOC","Works",392.266666666667
+327,"2020-21","Soil Conservation Department","Retender","Works",180
+328,"2020-21","Tea Tribes Welfare Department","AOC","Goods",180
+329,"2020-21","Tea Tribes Welfare Department","Cancelled","Goods",180
+330,"2020-21","Transport Department","AOC","Services",180
+331,"2020-21","Transport Department","Financial Bid Opening","Goods",180
+332,"2020-21","Transport Department","Retender","Goods",180
+333,"2020-21","Transport Department","Retender","Services",180
+334,"2020-21","Transport Department","Technical Evaluation","Services",180
+335,"2020-21","Urban Development Department","AOC","Works",122.4
+336,"2020-21","Urban Development Department","Cancelled","Works",140
+337,"2020-21","Urban Development Department","Retender","Works",120
+338,"2020-21","Urban Development Department","Technical Bid Opening","Works",90
+339,"2020-21","Urban Development Department","Technical Evaluation","Works",120
+340,"2020-21","Welfare of Plain Tribes and Backward Classes","AOC","Goods",260.78125
+341,"2020-21","Welfare of Plain Tribes and Backward Classes","AOC","Services",365
+342,"2020-21","Welfare of Plain Tribes and Backward Classes","AOC","Works",160.714285714286
+343,"2020-21","Welfare of Plain Tribes and Backward Classes","Cancelled","Goods",265.833333333333
+344,"2020-21","Welfare of Plain Tribes and Backward Classes","Cancelled","Services",365
+345,"2020-21","Welfare of Plain Tribes and Backward Classes","Cancelled","Works",143.076923076923
+346,"2020-21","Welfare of Plain Tribes and Backward Classes","Financial Bid Opening","Goods",150
+347,"2020-21","Welfare of Plain Tribes and Backward Classes","Financial Evaluation","Goods",245.714285714286
+348,"2020-21","Welfare of Plain Tribes and Backward Classes","Financial Evaluation","Works",97.5
+349,"2020-21","Welfare of Plain Tribes and Backward Classes","Retender","Works",180
+350,"2020-21","Welfare of Plain Tribes and Backward Classes","Technical Bid Opening","Goods",150
+351,"2020-21","Welfare of Plain Tribes and Backward Classes","Technical Bid Opening","Works",120
+352,"2020-21","Welfare of Plain Tribes and Backward Classes","Technical Evaluation","Works",180
+353,"2021-22","ASSAM CANCER CARE FOUNDATION","AOC","Goods",180
+354,"2021-22","ASSAM CANCER CARE FOUNDATION","AOC","Services",180
+355,"2021-22","Animal Husbandry and Veterinary Department","AOC","Goods",392.5
+356,"2021-22","Animal Husbandry and Veterinary Department","AOC","Works",180
+357,"2021-22","Animal Husbandry and Veterinary Department","Cancelled","Goods",390
+358,"2021-22","Animal Husbandry and Veterinary Department","Cancelled","Works",180
+359,"2021-22","Animal Husbandry and Veterinary Department-Externally Aided Project","Cancelled","Goods",365
+360,"2021-22","Assam Agricultural University","AOC","Works",180
+361,"2021-22","Assam Electricity Grid Corporation Ltd","AOC","Goods",180
+362,"2021-22","Assam Electricity Grid Corporation Ltd","AOC","Works",178.636363636364
+363,"2021-22","Assam Electricity Grid Corporation Ltd","Cancelled","Works",180
+364,"2021-22","Assam Electricity Grid Corporation Ltd. - Externally Funded Projects","AOC","Goods",120
+365,"2021-22","Assam Inland Water Transport Development Society","AOC","Services",135
+366,"2021-22","Assam Inland Water Transport Development Society","AOC","Works",120
+367,"2021-22","Assam Inland Water Transport Development Society","Technical Evaluation","Services",150
+368,"2021-22","Assam Police","Cancelled","Goods",180
+369,"2021-22","Assam Police","Cancelled","Services",120
+370,"2021-22","Assam Police","Financial Evaluation","Goods",180
+371,"2021-22","Assam Police","Technical Bid Opening","Goods",272.5
+372,"2021-22","Assam Police","Technical Evaluation","Goods",180
+373,"2021-22","Assam Police Housing Corporation Ltd","AOC","Works",144
+374,"2021-22","Assam Police Housing Corporation Ltd","Cancelled","Works",120
+375,"2021-22","Assam Police Housing Corporation Ltd","Technical Evaluation","Works",120
+376,"2021-22","Assam Power Distribution Company Limited- Externally Aided Project","AOC","Works",120
+377,"2021-22","Assam Power Distribution Company Ltd","AOC","Goods",180
+378,"2021-22","Assam Power Distribution Company Ltd","AOC","Services",157.5
+379,"2021-22","Assam Power Distribution Company Ltd","AOC","Works",184.69512195122
+380,"2021-22","Assam Power Distribution Company Ltd","Cancelled","Goods",180
+381,"2021-22","Assam Power Distribution Company Ltd","Cancelled","Services",180
+382,"2021-22","Assam Power Distribution Company Ltd","Cancelled","Works",160
+383,"2021-22","Assam Power Distribution Company Ltd","Financial Bid Opening","Services",180
+384,"2021-22","Assam Power Distribution Company Ltd","Technical Evaluation","Services",180
+385,"2021-22","Assam Power Generation Company Limited","AOC","Services",160
+386,"2021-22","Assam Power Generation Company Limited","AOC","Works",180
+387,"2021-22","Assam Power Generation Company Limited","Cancelled","Works",180
+388,"2021-22","Assam Power Generation Company Limited APGCL - ADB","AOC","Services",180
+389,"2021-22","Assam Power Generation Company Limited APGCL - ADB","AOC","Works",180
+390,"2021-22","Assam Science and Technology University","Cancelled","Goods",90
+391,"2021-22","Assam State Disaster Management Authority","AOC","Goods",180
+392,"2021-22","Assam State Disaster Management Authority","AOC","Services",180
+393,"2021-22","Assam State Disaster Management Authority","Cancelled","Goods",180
+394,"2021-22","Assam State Transport Corporation","Cancelled","Services",180
+395,"2021-22","Axom Sarba Siksha Abhijan Mission","AOC","Goods",90
+396,"2021-22","Axom Sarba Siksha Abhijan Mission","AOC","Services",90
+397,"2021-22","Axom Sarba Siksha Abhijan Mission","AOC","Works",135
+398,"2021-22","Axom Sarba Siksha Abhijan Mission","Cancelled","Goods",92
+399,"2021-22","Axom Sarba Siksha Abhijan Mission","Cancelled","Services",87
+400,"2021-22","Axom Sarba Siksha Abhijan Mission","Cancelled","Works",90
+401,"2021-22","Axom Sarba Siksha Abhijan Mission","Financial Bid Opening","Goods",90
+402,"2021-22","Axom Sarba Siksha Abhijan Mission","Financial Evaluation","Services",227.5
+403,"2021-22","Axom Sarba Siksha Abhijan Mission","Technical Evaluation","Goods",90
+404,"2021-22","Axom Sarba Siksha Abhijan Mission","Technical Evaluation","Services",75
+405,"2021-22","Axom Sarba Siksha Abhijan Mission","Technical Evaluation","Works",180
+406,"2021-22","Axom Sarba Siksha Abhijan Mission","To Be Opened","Goods",90
+407,"2021-22","Axom Sarba Siksha Abhijan Mission","To Be Opened","Services",90
+408,"2021-22","BODOLAND UNIVERSITY","AOC","Works",180
+409,"2021-22","BODOLAND UNIVERSITY","Cancelled","Works",180
+410,"2021-22","Bodoland Territorial Council","AOC","Goods",180
+411,"2021-22","Bodoland Territorial Council","AOC","Works",180
+412,"2021-22","Bodoland Territorial Council","Cancelled","Goods",180
+413,"2021-22","Bodoland Territorial Council","Cancelled","Works",180
+414,"2021-22","Bodoland Territorial Council","Financial Bid Opening","Goods",180
+415,"2021-22","Bodoland Territorial Council","Financial Bid Opening","Works",180
+416,"2021-22","Bodoland Territorial Council","Financial Evaluation","Goods",164.210526315789
+417,"2021-22","Bodoland Territorial Council","Financial Evaluation","Works",180
+418,"2021-22","Bodoland Territorial Council","Retender","Goods",90
+419,"2021-22","Bodoland Territorial Council","Technical Bid Opening","Goods",180
+420,"2021-22","Bodoland Territorial Council","Technical Bid Opening","Works",180
+421,"2021-22","Bodoland Territorial Council","Technical Evaluation","Goods",180
+422,"2021-22","Bodoland Territorial Council","Technical Evaluation","Works",172.5
+423,"2021-22","Bodoland Territorial Council","To Be Opened","Works",180
+424,"2021-22","Bodoland Territorial Council-PWD","AOC","Works",180
+425,"2021-22","Bodoland Territorial Council-PWD","Cancelled","Works",180
+426,"2021-22","Bodoland Territorial Council-PWD","Technical Evaluation","Works",180
+427,"2021-22","Bodoland Territorial Council-WRD","AOC","Works",180
+428,"2021-22","Bodoland Territorial Council-WRD","Cancelled","Works",180
+429,"2021-22","Cooperation Department","AOC","Goods",120
+430,"2021-22","Cooperation Department","AOC","Services",60
+431,"2021-22","Cooperation Department","Cancelled","Services",60
+432,"2021-22","Cooperation Department","Retender","Goods",120
+433,"2021-22","Department of Cultural Affairs","AOC","Works",365
+434,"2021-22","Department of Cultural Affairs","Financial Bid Opening","Goods",30
+435,"2021-22","Department of Handloom Textile and Sericulture","AOC","Goods",180
+436,"2021-22","Department of Handloom Textile and Sericulture","AOC","Works",180
+437,"2021-22","Department of Handloom Textile and Sericulture","Financial Evaluation","Goods",365
+438,"2021-22","Department of Higher Education","Technical Evaluation","Works",180
+439,"2021-22","Department of Housing and Urban Affairs","AOC","Works",180
+440,"2021-22","Department of Housing and Urban Affairs","Cancelled","Works",180
+441,"2021-22","Department of Labour and Welfare","AOC","Goods",120
+442,"2021-22","Department of Labour and Welfare","AOC","Services",120
+443,"2021-22","Department of Labour and Welfare","Cancelled","Goods",90
+444,"2021-22","Department of Labour and Welfare","Cancelled","Services",180
+445,"2021-22","Department of Science and Technology","AOC","Services",105
+446,"2021-22","Department of Tourism","AOC","Services",180
+447,"2021-22","Department of Tourism","Financial Evaluation","Services",180
+448,"2021-22","Department of Tourism","Technical Evaluation","Services",180
+449,"2021-22","Department of Tourism","To Be Opened","Services",180
+450,"2021-22","Department of Water Resources","AOC","Services",120
+451,"2021-22","Department of Water Resources","AOC","Works",179.129032258065
+452,"2021-22","Department of Water Resources","Cancelled","Goods",120
+453,"2021-22","Department of Water Resources","Cancelled","Services",120
+454,"2021-22","Department of Water Resources","Cancelled","Works",178.928571428571
+455,"2021-22","Department of Water Resources","Financial Bid Opening","Works",180
+456,"2021-22","Department of Water Resources","Financial Evaluation","Works",144
+457,"2021-22","Department of Water Resources","Retender","Works",180
+458,"2021-22","Department of Water Resources","Technical Evaluation","Services",120
+459,"2021-22","Dibrugarh University","AOC","Goods",180
+460,"2021-22","Dibrugarh University","Cancelled","Goods",180
+461,"2021-22","Director- Fire and Emergency Services-Assam","AOC","Works",180
+462,"2021-22","Directorate of Agriculture and Assam Seed Corporation","AOC","Goods",90
+463,"2021-22","Directorate of Agriculture and Assam Seed Corporation","AOC","Services",180
+464,"2021-22","Directorate of Agriculture and Assam Seed Corporation","AOC","Works",45
+465,"2021-22","Directorate of Agriculture and Assam Seed Corporation","Cancelled","Goods",365
+466,"2021-22","Directorate of Agriculture and Assam Seed Corporation","Cancelled","Services",135
+467,"2021-22","Directorate of Agriculture and Assam Seed Corporation","Cancelled","Works",90
+468,"2021-22","Directorate of Agriculture and Assam Seed Corporation","Financial Evaluation","Goods",120
+469,"2021-22","Directorate of Agriculture and Assam Seed Corporation","Technical Evaluation","Goods",120
+470,"2021-22","Directorate of Horticulture Assam","Financial Evaluation","Goods",365
+471,"2021-22","Directorate of Sports and Youth Welfare - Assam","AOC","Goods",60
+472,"2021-22","Directorate of Sports and Youth Welfare - Assam","AOC","Services",30
+473,"2021-22","Directorate of Sports and Youth Welfare - Assam","Cancelled","Goods",82.5
+474,"2021-22","Directorate of Sports and Youth Welfare - Assam","Retender","Goods",30
+475,"2021-22","Finance Department - World Bank Tenders","AOC","Goods",180
+476,"2021-22","Finance Department - World Bank Tenders","Financial Bid Opening","Services",120
+477,"2021-22","Food Civil Supplies and Consumer Affairs Department","AOC","Services",365
+478,"2021-22","Gauhati High Court - Guwahati","AOC","Goods",60
+479,"2021-22","Gauhati University","AOC","Works",180
+480,"2021-22","Guwahati Metropolitan Development Authority","AOC","Works",135
+481,"2021-22","Guwahati Metropolitan Development Authority","Cancelled","Services",180
+482,"2021-22","Guwahati Metropolitan Development Authority","Cancelled","Works",120
+483,"2021-22","Guwahati Metropolitan Development Authority","Technical Bid Opening","Works",120
+484,"2021-22","Guwahati Metropolitan Development Authority","Technical Evaluation","Works",120
+485,"2021-22","Guwahati Metropolitan Development Authority","To Be Opened","Works",120
+486,"2021-22","Guwahati Municipal Corporation","Cancelled","Goods",90
+487,"2021-22","Guwahati Municipal Corporation","Cancelled","Works",90
+488,"2021-22","Guwahati Municipal Corporation","Financial Bid Opening","Works",90
+489,"2021-22","Guwahati Municipal Corporation","Financial Evaluation","Works",90
+490,"2021-22","Guwahati Municipal Corporation","Retender","Works",90
+491,"2021-22","Guwahati Municipal Corporation","Technical Bid Opening","Works",90
+492,"2021-22","Guwahati Municipal Corporation","To Be Opened","Goods",90
+493,"2021-22","Guwahati Municipal Corporation","To Be Opened","Works",90
+494,"2021-22","Guwahati Smart City Ltd.","Cancelled","Works",180
+495,"2021-22","Health and Family Welfare Department","AOC","Goods",259.642857142857
+496,"2021-22","Health and Family Welfare Department","AOC","Services",211.666666666667
+497,"2021-22","Health and Family Welfare Department","Cancelled","Goods",332.352941176471
+498,"2021-22","Health and Family Welfare Department","Cancelled","Services",514.666666666667
+499,"2021-22","Health and Family Welfare Department","Financial Evaluation","Goods",303.333333333333
+500,"2021-22","Home B","AOC","Goods",151.764705882353
+501,"2021-22","Home B","Cancelled","Goods",338.387096774194
+502,"2021-22","Home B","Financial Evaluation","Goods",330
+503,"2021-22","Home B","Technical Bid Opening","Goods",365
+504,"2021-22","Indigenous and Tribal Faith and Culture Department","AOC","Works",365
+505,"2021-22","Industries and Commerce Department","AOC","Goods",161.538461538462
+506,"2021-22","Industries and Commerce Department","AOC","Services",158.181818181818
+507,"2021-22","Industries and Commerce Department","AOC","Works",178.461538461538
+508,"2021-22","Industries and Commerce Department","Cancelled","Goods",180
+509,"2021-22","Industries and Commerce Department","Cancelled","Services",180
+510,"2021-22","Industries and Commerce Department","Cancelled","Works",160
+511,"2021-22","Industries and Commerce Department","Financial Bid Opening","Services",180
+512,"2021-22","Industries and Commerce Department","Retender","Services",180
+513,"2021-22","Industries and Commerce Department","Retender","Works",180
+514,"2021-22","Industries and Commerce Department","Technical Evaluation","Goods",180
+515,"2021-22","Industries and Commerce Department","Technical Evaluation","Works",180
+516,"2021-22","Information - Public Relations - Printing and Stationery Department","Cancelled","Goods",90
+517,"2021-22","Information and Public Relations Department","AOC","Goods",60
+518,"2021-22","Information and Public Relations Department","AOC","Services",181.666666666667
+519,"2021-22","Information and Public Relations Department","Cancelled","Goods",90
+520,"2021-22","Information and Public Relations Department","Retender","Goods",90
+521,"2021-22","Irrigation Department","AOC","Goods",180
+522,"2021-22","Irrigation Department","AOC","Works",180
+523,"2021-22","Irrigation Department","Cancelled","Works",180
+524,"2021-22","Irrigation Department","Financial Bid Opening","Works",180
+525,"2021-22","Karbi Anglong Autonomous Council","AOC","Works",180
+526,"2021-22","Karbi Anglong Autonomous Council","Financial Evaluation","Works",180
+527,"2021-22","Karbi Anglong Autonomous Council","Retender","Works",180
+528,"2021-22","Karbi Anglong Autonomous Council","Technical Evaluation","Works",180
+529,"2021-22","Karbi Anglong Autonomous Council","To Be Opened","Works",180
+530,"2021-22","National Health Mission","AOC","Goods",111.428571428571
+531,"2021-22","National Health Mission","AOC","Services",135
+532,"2021-22","National Health Mission","AOC","Works",183.315789473684
+533,"2021-22","National Health Mission","Cancelled","Goods",180
+534,"2021-22","National Health Mission","Cancelled","Works",180
+535,"2021-22","National Health Mission","Financial Bid Opening","Goods",180
+536,"2021-22","National Health Mission","Financial Bid Opening","Services",180
+537,"2021-22","National Health Mission","Financial Bid Opening","Works",207.692307692308
+538,"2021-22","National Health Mission","Financial Evaluation","Works",180
+539,"2021-22","National Health Mission","Retender","Goods",60
+540,"2021-22","National Health Mission","Retender","Works",180
+541,"2021-22","National Health Mission","Technical Bid Opening","Goods",90
+542,"2021-22","National Health Mission","Technical Evaluation","Works",213.260869565217
+543,"2021-22","National Health Mission","To Be Opened","Goods",180
+544,"2021-22","National Health Mission","To Be Opened","Services",180
+545,"2021-22","Office of the Chief Electoral Officer Assam","AOC","Goods",90
+546,"2021-22","Office of the Chief Electoral Officer Assam","AOC","Services",180
+547,"2021-22","Office of the Chief Electoral Officer Assam","Cancelled","Goods",90
+548,"2021-22","Office of the Chief Electoral Officer Assam","Cancelled","Services",180
+549,"2021-22","Pollution Control Board","AOC","Works",180
+550,"2021-22","Pollution Control Board","Cancelled","Goods",180
+551,"2021-22","Pr. Chief Conservator of Forest and Head of Forest Force","AOC","Works",505.888888888889
+552,"2021-22","Pr. Chief Conservator of Forest and Head of Forest Force","Cancelled","Works",229.239130434783
+553,"2021-22","Pr. Chief Conservator of Forest and Head of Forest Force","Financial Evaluation","Works",544.5
+554,"2021-22","Pr. Chief Conservator of Forest and Head of Forest Force","Retender","Works",508.6
+555,"2021-22","Pr. Chief Conservator of Forest and Head of Forest Force","Technical Bid Opening","Works",180
+556,"2021-22","Pr. Chief Conservator of Forest and Head of Forest Force","Technical Evaluation","Works",908
+557,"2021-22","Pr. Chief Conservator of Forest and Head of Forest Force","To Be Opened","Works",180
+558,"2021-22","Principal Secretary- P and RD- Assam Secretariat","AOC","Goods",180
+559,"2021-22","Principal Secretary- P and RD- Assam Secretariat","AOC","Services",135
+560,"2021-22","Principal Secretary- P and RD- Assam Secretariat","AOC","Works",159.230769230769
+561,"2021-22","Principal Secretary- P and RD- Assam Secretariat","Cancelled","Goods",180
+562,"2021-22","Principal Secretary- P and RD- Assam Secretariat","Financial Evaluation","Works",180
+563,"2021-22","Principal Secretary- P and RD- Assam Secretariat","To Be Opened","Works",365
+564,"2021-22","Principal Secretary-Department of Information Technology","AOC","Goods",180
+565,"2021-22","Principal Secretary-Department of Information Technology","AOC","Services",195
+566,"2021-22","Principal Secretary-Department of Information Technology","Cancelled","Goods",180
+567,"2021-22","Principal Secretary-Department of Information Technology","Cancelled","Services",180
+568,"2021-22","Principal Secretary-Department of Information Technology","Cancelled","Works",180
+569,"2021-22","Principal Secretary-Department of Information Technology","Retender","Services",180
+570,"2021-22","Principal Secretary-Department of Information Technology","Retender","Works",180
+571,"2021-22","Principal Secretary-Department of Information Technology","Technical Evaluation","Services",180
+572,"2021-22","Principal Secretary-Department of Information Technology","To Be Opened","Services",180
+573,"2021-22","Public Health Engineering Department","AOC","Goods",90
+574,"2021-22","Public Health Engineering Department","AOC","Services",90
+575,"2021-22","Public Health Engineering Department","AOC","Works",90
+576,"2021-22","Public Health Engineering Department","Cancelled","Goods",90
+577,"2021-22","Public Health Engineering Department","Cancelled","Services",90
+578,"2021-22","Public Health Engineering Department","Cancelled","Works",90
+579,"2021-22","Public Health Engineering Department","Financial Evaluation","Services",90
+580,"2021-22","Public Health Engineering Department","Retender","Goods",90
+581,"2021-22","Public Works Building and NH Department","AOC","Works",180
+582,"2021-22","Public Works Building and NH Department","Cancelled","Works",180
+583,"2021-22","Public Works Building and NH Department","Financial Bid Opening","Works",180
+584,"2021-22","Public Works Building and NH Department","Financial Evaluation","Goods",180
+585,"2021-22","Public Works Building and NH Department","Financial Evaluation","Works",180
+586,"2021-22","Public Works Building and NH Department","Retender","Works",180
+587,"2021-22","Public Works Building and NH Department","Technical Bid Opening","Works",180
+588,"2021-22","Public Works Building and NH Department","Technical Evaluation","Works",180
+589,"2021-22","Public Works Building and NH Department","To Be Opened","Works",180
+590,"2021-22","Public Works Roads Department","AOC","Goods",90
+591,"2021-22","Public Works Roads Department","AOC","Works",158.4375
+592,"2021-22","Public Works Roads Department","Cancelled","Works",159.310344827586
+593,"2021-22","Public Works Roads Department","Financial Bid Opening","Works",172.561983471074
+594,"2021-22","Public Works Roads Department","Financial Evaluation","Works",165.483870967742
+595,"2021-22","Public Works Roads Department","Retender","Works",180
+596,"2021-22","Public Works Roads Department","Technical Bid Opening","Works",130
+597,"2021-22","Public Works Roads Department","Technical Evaluation","Works",148.660714285714
+598,"2021-22","Public Works Roads Department","To Be Opened","Works",168.387096774194
+599,"2021-22","Public Works Roads Department-Externally Aided Project","AOC","Works",120
+600,"2021-22","Public Works Roads Department-Externally Aided Project","Cancelled","Works",120
+601,"2021-22","Public Works Roads Department-Externally Aided Project","Financial Bid Opening","Works",120
+602,"2021-22","Rashtriya Madhyamik Siksha Abhijan","AOC","Goods",90
+603,"2021-22","Rashtriya Madhyamik Siksha Abhijan","Cancelled","Goods",90
+604,"2021-22","Rashtriya Madhyamik Siksha Abhijan","Cancelled","Services",365
+605,"2021-22","Rashtriya Madhyamik Siksha Abhijan","Financial Evaluation","Goods",90
+606,"2021-22","Rashtriya Madhyamik Siksha Abhijan","Technical Evaluation","Services",227.5
+607,"2021-22","SECONDARY EDUCATION DEPARTMENT ASSAM","AOC","Services",365
+608,"2021-22","Social Welfare Department","Cancelled","Goods",120
+609,"2021-22","Social Welfare Department","Cancelled","Services",120
+610,"2021-22","Social Welfare Department","Financial Evaluation","Goods",180
+611,"2021-22","Soil Conservation Department","AOC","Works",272.5
+612,"2021-22","Soil Conservation Department","Retender","Works",365
+613,"2021-22","Tea Tribes Welfare Department","AOC","Goods",180
+614,"2021-22","Tea Tribes Welfare Department","Cancelled","Services",180
+615,"2021-22","Urban Development Department","AOC","Services",120
+616,"2021-22","Urban Development Department","AOC","Works",137.142857142857
+617,"2021-22","Urban Development Department","Cancelled","Goods",180
+618,"2021-22","Urban Development Department","Cancelled","Works",120
+619,"2021-22","Urban Development Department","Financial Bid Opening","Works",180
+620,"2021-22","Urban Development Department","Retender","Works",120
+621,"2021-22","Urban Development Department","Technical Evaluation","Works",150
+622,"2021-22","Urban Development Department","To Be Opened","Works",270
+623,"2021-22","Water Resources Department- World Bank Tenders","AOC","Goods",100
+624,"2021-22","Water Resources Department- World Bank Tenders","Cancelled","Goods",120
+625,"2021-22","Welfare of Plain Tribes and Backward Classes","AOC","Works",149.032258064516
+626,"2021-22","Welfare of Plain Tribes and Backward Classes","Cancelled","Goods",129.285714285714
+627,"2021-22","Welfare of Plain Tribes and Backward Classes","Cancelled","Works",150
+628,"2021-22","Welfare of Plain Tribes and Backward Classes","Financial Bid Opening","Goods",180
+629,"2021-22","Welfare of Plain Tribes and Backward Classes","Financial Bid Opening","Works",146.25
+630,"2021-22","Welfare of Plain Tribes and Backward Classes","Financial Evaluation","Goods",365
+631,"2021-22","Welfare of Plain Tribes and Backward Classes","Financial Evaluation","Works",150
+632,"2021-22","Welfare of Plain Tribes and Backward Classes","Retender","Works",150
+633,"2021-22","Welfare of Plain Tribes and Backward Classes","Technical Bid Opening","Works",120
+634,"2021-22","Welfare of Plain Tribes and Backward Classes","Technical Evaluation","Works",180
+635,"2021-22","Welfare of Plain Tribes and Backward Classes","To Be Opened","Goods",180
+636,"2021-22","Welfare of Plain Tribes and Backward Classes","To Be Opened","Works",120
+637,"2022-23","ASSAM CANCER CARE FOUNDATION","AOC","Goods",180
+638,"2022-23","ASSAM CANCER CARE FOUNDATION","AOC","Services",173.333333333333
+639,"2022-23","ASSAM CANCER CARE FOUNDATION","AOC","Works",165
+640,"2022-23","ASSAM CANCER CARE FOUNDATION","Cancelled","Services",180
+641,"2022-23","Animal Husbandry and Veterinary Department","AOC","Goods",248.75
+642,"2022-23","Animal Husbandry and Veterinary Department","AOC","Services",186
+643,"2022-23","Animal Husbandry and Veterinary Department","AOC","Works",178.04347826087
+644,"2022-23","Animal Husbandry and Veterinary Department","Cancelled","Goods",180
+645,"2022-23","Animal Husbandry and Veterinary Department","Cancelled","Services",180
+646,"2022-23","Animal Husbandry and Veterinary Department","Cancelled","Works",180
+647,"2022-23","Animal Husbandry and Veterinary Department","Financial Bid Opening","Services",120
+648,"2022-23","Animal Husbandry and Veterinary Department","Financial Bid Opening","Works",180
+649,"2022-23","Animal Husbandry and Veterinary Department","Financial Evaluation","Goods",180
+650,"2022-23","Animal Husbandry and Veterinary Department","Technical Evaluation","Goods",180
+651,"2022-23","Animal Husbandry and Veterinary Department","Technical Evaluation","Services",180
+652,"2022-23","Animal Husbandry and Veterinary Department","Technical Evaluation","Works",180
+653,"2022-23","Animal Husbandry and Veterinary Department-Externally Aided Project","AOC","Goods",85
+654,"2022-23","Animal Husbandry and Veterinary Department-Externally Aided Project","AOC","Services",45
+655,"2022-23","Animal Husbandry and Veterinary Department-Externally Aided Project","Cancelled","Goods",90
+656,"2022-23","Assam Agricultural University","AOC","Goods",100.909090909091
+657,"2022-23","Assam Agricultural University","AOC","Works",100.714285714286
+658,"2022-23","Assam Agricultural University","Cancelled","Goods",96
+659,"2022-23","Assam Agricultural University","Cancelled","Works",125
+660,"2022-23","Assam Agricultural University","Technical Evaluation","Works",90
+661,"2022-23","Assam Electricity Grid Corporation Ltd","AOC","Goods",180
+662,"2022-23","Assam Electricity Grid Corporation Ltd","AOC","Works",180
+663,"2022-23","Assam Electricity Grid Corporation Ltd","Cancelled","Works",166.666666666667
+664,"2022-23","Assam Electricity Grid Corporation Ltd","Financial Bid Opening","Works",180
+665,"2022-23","Assam Electricity Grid Corporation Ltd","Retender","Works",180
+666,"2022-23","Assam Electricity Grid Corporation Ltd","Technical Evaluation","Works",120
+667,"2022-23","Assam Electricity Grid Corporation Ltd. - Externally Funded Projects","AOC","Services",180
+668,"2022-23","Assam Electricity Grid Corporation Ltd. - Externally Funded Projects","Cancelled","Works",180
+669,"2022-23","Assam Police","Cancelled","Goods",157.5
+670,"2022-23","Assam Police","Cancelled","Services",150
+671,"2022-23","Assam Police","Technical Evaluation","Services",180
+672,"2022-23","Assam Police","To Be Opened","Goods",365
+673,"2022-23","Assam Police Housing Corporation Ltd","AOC","Works",126.923076923077
+674,"2022-23","Assam Police Housing Corporation Ltd","Cancelled","Works",156
+675,"2022-23","Assam Police Housing Corporation Ltd","To Be Opened","Works",120
+676,"2022-23","Assam Power Distribution Company Limited- Externally Aided Project","AOC","Works",180
+677,"2022-23","Assam Power Distribution Company Limited- Externally Aided Project","Cancelled","Works",180
+678,"2022-23","Assam Power Distribution Company Limited- Externally Aided Project","Financial Evaluation","Works",180
+679,"2022-23","Assam Power Distribution Company Ltd","AOC","Goods",180
+680,"2022-23","Assam Power Distribution Company Ltd","AOC","Services",165
+681,"2022-23","Assam Power Distribution Company Ltd","AOC","Works",197.317073170732
+682,"2022-23","Assam Power Distribution Company Ltd","Cancelled","Services",309.5
+683,"2022-23","Assam Power Distribution Company Ltd","Cancelled","Works",192.368421052632
+684,"2022-23","Assam Power Distribution Company Ltd","Financial Bid Opening","Services",180
+685,"2022-23","Assam Power Distribution Company Ltd","Financial Bid Opening","Works",180
+686,"2022-23","Assam Power Distribution Company Ltd","Financial Evaluation","Works",130
+687,"2022-23","Assam Power Distribution Company Ltd","Retender","Works",180
+688,"2022-23","Assam Power Distribution Company Ltd","Technical Evaluation","Goods",180
+689,"2022-23","Assam Power Distribution Company Ltd","Technical Evaluation","Services",353.333333333333
+690,"2022-23","Assam Power Distribution Company Ltd","Technical Evaluation","Works",196.818181818182
+691,"2022-23","Assam Power Distribution Company Ltd","To Be Opened","Works",180
+692,"2022-23","Assam Power Generation Company Limited","AOC","Goods",140
+693,"2022-23","Assam Power Generation Company Limited","AOC","Services",180
+694,"2022-23","Assam Power Generation Company Limited","AOC","Works",180
+695,"2022-23","Assam Power Generation Company Limited","Cancelled","Goods",160
+696,"2022-23","Assam Power Generation Company Limited","Cancelled","Services",180
+697,"2022-23","Assam Power Generation Company Limited","Cancelled","Works",169.5
+698,"2022-23","Assam Power Generation Company Limited","Financial Bid Opening","Services",180
+699,"2022-23","Assam Power Generation Company Limited","Financial Evaluation","Works",180
+700,"2022-23","Assam Power Generation Company Limited","Technical Bid Opening","Works",180
+701,"2022-23","Assam Power Generation Company Limited","Technical Evaluation","Services",180
+702,"2022-23","Assam Power Generation Company Limited","Technical Evaluation","Works",180
+703,"2022-23","Assam Power Generation Company Limited APGCL - ADB","AOC","Works",180
+704,"2022-23","Assam Science and Technology University","AOC","Works",180
+705,"2022-23","Assam State Agricultural Marketing Board","AOC","Services",90
+706,"2022-23","Assam State Agricultural Marketing Board","AOC","Works",90
+707,"2022-23","Assam State Agricultural Marketing Board","Cancelled","Services",90
+708,"2022-23","Assam State Agricultural Marketing Board","To Be Opened","Services",30
+709,"2022-23","Assam State Disaster Management Authority","Cancelled","Services",120
+710,"2022-23","Assam State Disaster Management Authority- Externally Aided Project","AOC","Services",180
+711,"2022-23","Assam State Disaster Management Authority- Externally Aided Project","Retender","Services",180
+712,"2022-23","Assam State Disaster Management Authority- Externally Aided Project","Technical Bid Opening","Services",180
+713,"2022-23","Assam State Transport Corporation","AOC","Goods",272.5
+714,"2022-23","Assam State Transport Corporation","AOC","Services",120
+715,"2022-23","Assam State Transport Corporation","AOC","Works",120
+716,"2022-23","Assam State Transport Corporation","Financial Bid Opening","Goods",365
+717,"2022-23","Assam State Transport Corporation","Financial Bid Opening","Works",360
+718,"2022-23","Assam State Transport Corporation","Financial Evaluation","Goods",365
+719,"2022-23","Assam State Transport Corporation","Technical Evaluation","Goods",180
+720,"2022-23","Axom Sarba Siksha Abhijan Mission","AOC","Services",90
+721,"2022-23","Axom Sarba Siksha Abhijan Mission","AOC","Works",180
+722,"2022-23","Axom Sarba Siksha Abhijan Mission","Cancelled","Goods",180
+723,"2022-23","Axom Sarba Siksha Abhijan Mission","Cancelled","Works",180
+724,"2022-23","Axom Sarba Siksha Abhijan Mission","Retender","Works",180
+725,"2022-23","Axom Sarba Siksha Abhijan Mission","Technical Evaluation","Goods",60
+726,"2022-23","Axom Sarba Siksha Abhijan Mission","Technical Evaluation","Services",90
+727,"2022-23","Axom Sarba Siksha Abhijan Mission","Technical Evaluation","Works",180
+728,"2022-23","Axom Sarba Siksha Abhijan Mission","To Be Opened","Works",75
+729,"2022-23","BODOLAND UNIVERSITY","AOC","Works",180
+730,"2022-23","Bodoland Territorial Council","AOC","Goods",125.131578947368
+731,"2022-23","Bodoland Territorial Council","AOC","Services",90
+732,"2022-23","Bodoland Territorial Council","AOC","Works",174.92
+733,"2022-23","Bodoland Territorial Council","Cancelled","Goods",122.588235294118
+734,"2022-23","Bodoland Territorial Council","Cancelled","Services",90
+735,"2022-23","Bodoland Territorial Council","Cancelled","Works",176.351351351351
+736,"2022-23","Bodoland Territorial Council","Financial Bid Opening","Goods",180
+737,"2022-23","Bodoland Territorial Council","Financial Bid Opening","Services",180
+738,"2022-23","Bodoland Territorial Council","Financial Bid Opening","Works",180
+739,"2022-23","Bodoland Territorial Council","Financial Evaluation","Goods",90
+740,"2022-23","Bodoland Territorial Council","Financial Evaluation","Services",180
+741,"2022-23","Bodoland Territorial Council","Financial Evaluation","Works",178.085106382979
+742,"2022-23","Bodoland Territorial Council","Retender","Goods",97
+743,"2022-23","Bodoland Territorial Council","Retender","Services",180
+744,"2022-23","Bodoland Territorial Council","Retender","Works",180
+745,"2022-23","Bodoland Territorial Council","Technical Bid Opening","Goods",90
+746,"2022-23","Bodoland Territorial Council","Technical Bid Opening","Works",180
+747,"2022-23","Bodoland Territorial Council","Technical Evaluation","Goods",135
+748,"2022-23","Bodoland Territorial Council","Technical Evaluation","Services",180
+749,"2022-23","Bodoland Territorial Council","Technical Evaluation","Works",150
+750,"2022-23","Bodoland Territorial Council-PWD","AOC","Goods",180
+751,"2022-23","Bodoland Territorial Council-PWD","AOC","Services",45
+752,"2022-23","Bodoland Territorial Council-PWD","AOC","Works",180
+753,"2022-23","Bodoland Territorial Council-PWD","Cancelled","Works",180
+754,"2022-23","Bodoland Territorial Council-PWD","Retender","Works",180
+755,"2022-23","Bodoland Territorial Council-PWD","Technical Bid Opening","Works",180
+756,"2022-23","Bodoland Territorial Council-WRD","AOC","Works",180
+757,"2022-23","Chief Minister Secretariat","AOC","Services",180
+758,"2022-23","Cooperation Department","AOC","Goods",120
+759,"2022-23","Cooperation Department","AOC","Services",120
+760,"2022-23","Cooperation Department","AOC","Works",180
+761,"2022-23","Cooperation Department","Cancelled","Goods",120
+762,"2022-23","Cooperation Department","Cancelled","Services",120
+763,"2022-23","Cooperation Department","Cancelled","Works",180
+764,"2022-23","Cooperation Department","Retender","Goods",120
+765,"2022-23","Cooperation Department","Technical Bid Opening","Services",180
+766,"2022-23","Cooperation Department","Technical Evaluation","Works",180
+767,"2022-23","Cotton University","AOC","Works",180
+768,"2022-23","Cotton University","Technical Evaluation","Goods",30
+769,"2022-23","Department of Cultural Affairs","AOC","Services",30
+770,"2022-23","Department of Cultural Affairs","Cancelled","Goods",60
+771,"2022-23","Department of Cultural Affairs","Cancelled","Services",105
+772,"2022-23","Department of Fisheries","Cancelled","Works",180
+773,"2022-23","Department of Handloom Textile and Sericulture","AOC","Works",135
+774,"2022-23","Department of Handloom Textile and Sericulture","Cancelled","Goods",180
+775,"2022-23","Department of Handloom Textile and Sericulture","Cancelled","Works",90
+776,"2022-23","Department of Handloom Textile and Sericulture","Financial Bid Opening","Services",365
+777,"2022-23","Department of Handloom Textile and Sericulture","Financial Bid Opening","Works",90
+778,"2022-23","Department of Handloom Textile and Sericulture","Technical Bid Opening","Goods",270
+779,"2022-23","Department of Handloom Textile and Sericulture","Technical Evaluation","Goods",120
+780,"2022-23","Department of Handloom Textile and Sericulture","Technical Evaluation","Works",105
+781,"2022-23","Department of Handloom Textile and Sericulture","To Be Opened","Goods",161.666666666667
+782,"2022-23","Department of Handloom Textile and Sericulture","To Be Opened","Works",115
+783,"2022-23","Department of Higher Education","AOC","Works",180
+784,"2022-23","Department of Housing and Urban Affairs","AOC","Goods",90
+785,"2022-23","Department of Housing and Urban Affairs","AOC","Works",146.015625
+786,"2022-23","Department of Housing and Urban Affairs","Cancelled","Works",165
+787,"2022-23","Department of Housing and Urban Affairs","Financial Evaluation","Works",135
+788,"2022-23","Department of Housing and Urban Affairs","Retender","Works",117
+789,"2022-23","Department of Housing and Urban Affairs","To Be Opened","Works",120
+790,"2022-23","Department of Labour and Welfare","Cancelled","Services",180
+791,"2022-23","Department of Science and Technology","AOC","Services",120
+792,"2022-23","Department of Science and Technology","Cancelled","Services",120
+793,"2022-23","Department of Science and Technology","Cancelled","Works",180
+794,"2022-23","Department of Science and Technology","Financial Evaluation","Services",135
+795,"2022-23","Department of Tourism","AOC","Services",180
+796,"2022-23","Department of Tourism","AOC","Works",180
+797,"2022-23","Department of Tourism","Cancelled","Services",180
+798,"2022-23","Department of Tourism","Cancelled","Works",180
+799,"2022-23","Department of Tourism","Financial Evaluation","Services",180
+800,"2022-23","Department of Tourism","Technical Evaluation","Services",180
+801,"2022-23","Department of Tourism","Technical Evaluation","Works",180
+802,"2022-23","Department of Tourism","To Be Opened","Services",180
+803,"2022-23","Department of Water Resources","AOC","Goods",175.263157894737
+804,"2022-23","Department of Water Resources","AOC","Services",120
+805,"2022-23","Department of Water Resources","AOC","Works",178.597122302158
+806,"2022-23","Department of Water Resources","Cancelled","Works",180
+807,"2022-23","Department of Water Resources","Financial Bid Opening","Works",180
+808,"2022-23","Department of Water Resources","Financial Evaluation","Services",45
+809,"2022-23","Department of Water Resources","Financial Evaluation","Works",141.428571428571
+810,"2022-23","Department of Water Resources","Retender","Goods",180
+811,"2022-23","Department of Water Resources","Retender","Works",180
+812,"2022-23","Department of Water Resources","To Be Opened","Works",180
+813,"2022-23","Department of Water Resources-Externally Aided Project","Financial Evaluation","Services",30
+814,"2022-23","Dibrugarh University","AOC","Goods",90
+815,"2022-23","Dibrugarh University","AOC","Works",40
+816,"2022-23","Dibrugarh University","Cancelled","Goods",67.5
+817,"2022-23","Dibrugarh University","Cancelled","Works",63.75
+818,"2022-23","Dibrugarh University","Financial Evaluation","Services",180
+819,"2022-23","Dibrugarh University","Retender","Works",90
+820,"2022-23","Dibrugarh University","Technical Evaluation","Goods",90
+821,"2022-23","Director- Fire and Emergency Services-Assam","AOC","Works",206.428571428571
+822,"2022-23","Directorate of Agriculture and Assam Seed Corporation","AOC","Goods",80
+823,"2022-23","Directorate of Agriculture and Assam Seed Corporation","AOC","Services",272.5
+824,"2022-23","Directorate of Agriculture and Assam Seed Corporation","AOC","Works",85.5405405405405
+825,"2022-23","Directorate of Agriculture and Assam Seed Corporation","Cancelled","Goods",132.916666666667
+826,"2022-23","Directorate of Agriculture and Assam Seed Corporation","Cancelled","Services",110
+827,"2022-23","Directorate of Agriculture and Assam Seed Corporation","Cancelled","Works",98.9024390243903
+828,"2022-23","Directorate of Agriculture and Assam Seed Corporation","Financial Bid Opening","Goods",365
+829,"2022-23","Directorate of Agriculture and Assam Seed Corporation","Financial Bid Opening","Works",150
+830,"2022-23","Directorate of Agriculture and Assam Seed Corporation","Financial Evaluation","Goods",547
+831,"2022-23","Directorate of Agriculture and Assam Seed Corporation","Financial Evaluation","Services",135
+832,"2022-23","Directorate of Agriculture and Assam Seed Corporation","Financial Evaluation","Works",114.545454545455
+833,"2022-23","Directorate of Agriculture and Assam Seed Corporation","Technical Bid Opening","Goods",90
+834,"2022-23","Directorate of Agriculture and Assam Seed Corporation","Technical Bid Opening","Works",90
+835,"2022-23","Directorate of Agriculture and Assam Seed Corporation","Technical Evaluation","Works",154.285714285714
+836,"2022-23","Directorate of Agriculture and Assam Seed Corporation","To Be Opened","Services",90
+837,"2022-23","Directorate of Forensic Science Assam","AOC","Goods",120
+838,"2022-23","Directorate of Forensic Science Assam","Cancelled","Goods",120
+839,"2022-23","Directorate of Forensic Science Assam","Financial Evaluation","Goods",120
+840,"2022-23","Directorate of Forensic Science Assam","Technical Bid Opening","Goods",120
+841,"2022-23","Directorate of Forensic Science Assam","To Be Opened","Goods",120
+842,"2022-23","Directorate of Horticulture Assam","Cancelled","Goods",413
+843,"2022-23","Directorate of Horticulture Assam","Cancelled","Services",180
+844,"2022-23","Directorate of Horticulture Assam","Cancelled","Works",60
+845,"2022-23","Directorate of Horticulture Assam","Financial Evaluation","Goods",730
+846,"2022-23","Directorate of Horticulture Assam","Financial Evaluation","Services",180
+847,"2022-23","Directorate of Horticulture Assam","Technical Evaluation","Goods",120
+848,"2022-23","Directorate of Land Records and Survey etc. Assam","AOC","Goods",120
+849,"2022-23","Directorate of Land Records and Survey etc. Assam","Cancelled","Services",120
+850,"2022-23","Directorate of Land Records and Survey etc. Assam","Financial Evaluation","Services",120
+851,"2022-23","Directorate of Sports and Youth Welfare - Assam","AOC","Goods",102
+852,"2022-23","Directorate of Sports and Youth Welfare - Assam","AOC","Works",180
+853,"2022-23","Directorate of Sports and Youth Welfare - Assam","Cancelled","Services",135
+854,"2022-23","Directorate of Sports and Youth Welfare - Assam","Financial Bid Opening","Goods",60
+855,"2022-23","Directorate of Sports and Youth Welfare - Assam","Financial Bid Opening","Services",360
+856,"2022-23","Directorate of Sports and Youth Welfare - Assam","Technical Bid Opening","Services",60
+857,"2022-23","Directorate of Sports and Youth Welfare - Assam","Technical Evaluation","Services",135
+858,"2022-23","Directorate of Sports and Youth Welfare - Assam","To Be Opened","Services",80
+859,"2022-23","Elementary Education Department","AOC","Services",21
+860,"2022-23","Elementary Education Department","Cancelled","Goods",154.285714285714
+861,"2022-23","Elementary Education Department","Cancelled","Services",330
+862,"2022-23","Elementary Education Department","Financial Evaluation","Goods",365
+863,"2022-23","Elementary Education Department","Financial Evaluation","Services",365
+864,"2022-23","Elementary Education Department","Technical Bid Opening","Goods",30
+865,"2022-23","Finance Department","Financial Evaluation","Services",180
+866,"2022-23","Finance Department - World Bank Tenders","AOC","Goods",165
+867,"2022-23","Finance Department - World Bank Tenders","AOC","Services",150
+868,"2022-23","Finance Department - World Bank Tenders","Cancelled","Goods",171.428571428571
+869,"2022-23","Finance Department - World Bank Tenders","Cancelled","Services",180
+870,"2022-23","Finance Department - World Bank Tenders","Financial Bid Opening","Goods",180
+871,"2022-23","Finance Department - World Bank Tenders","Financial Bid Opening","Services",90
+872,"2022-23","Finance Department - World Bank Tenders","Financial Evaluation","Goods",180
+873,"2022-23","Finance Department - World Bank Tenders","Technical Evaluation","Goods",120
+874,"2022-23","Food Civil Supplies and Consumer Affairs Department","AOC","Goods",263.333333333333
+875,"2022-23","Food Civil Supplies and Consumer Affairs Department","AOC","Services",30.75
+876,"2022-23","Food Civil Supplies and Consumer Affairs Department","AOC","Works",90
+877,"2022-23","Food Civil Supplies and Consumer Affairs Department","Cancelled","Goods",365
+878,"2022-23","Food Civil Supplies and Consumer Affairs Department","Financial Bid Opening","Goods",365
+879,"2022-23","Food Civil Supplies and Consumer Affairs Department","Technical Evaluation","Works",90
+880,"2022-23","Gauhati High Court - Guwahati","AOC","Goods",120
+881,"2022-23","Gauhati University","AOC","Works",180
+882,"2022-23","Gauhati University","Cancelled","Works",180
+883,"2022-23","Gauhati University","Financial Evaluation","Works",180
+884,"2022-23","Gauhati University","Retender","Works",180
+885,"2022-23","General Administration Department","AOC","Goods",272.5
+886,"2022-23","General Administration Department","AOC","Works",170.526315789474
+887,"2022-23","General Administration Department","Cancelled","Goods",180
+888,"2022-23","General Administration Department","Cancelled","Works",180
+889,"2022-23","General Administration Department","Financial Bid Opening","Works",180
+890,"2022-23","General Administration Department","Financial Evaluation","Works",90
+891,"2022-23","General Administration Department","Technical Evaluation","Goods",90
+892,"2022-23","General Administration Department","To Be Opened","Works",180
+893,"2022-23","Guwahati Metropolitan Development Authority","AOC","Goods",30
+894,"2022-23","Guwahati Metropolitan Development Authority","AOC","Services",138.75
+895,"2022-23","Guwahati Metropolitan Development Authority","AOC","Works",140
+896,"2022-23","Guwahati Metropolitan Development Authority","Cancelled","Services",180
+897,"2022-23","Guwahati Metropolitan Development Authority","Cancelled","Works",135
+898,"2022-23","Guwahati Metropolitan Development Authority","Financial Evaluation","Services",180
+899,"2022-23","Guwahati Metropolitan Development Authority","Financial Evaluation","Works",120
+900,"2022-23","Guwahati Metropolitan Development Authority","Technical Evaluation","Services",120
+901,"2022-23","Guwahati Metropolitan Development Authority","Technical Evaluation","Works",120
+902,"2022-23","Guwahati Metropolitan Development Authority","To Be Opened","Services",140
+903,"2022-23","Guwahati Metropolitan Development Authority","To Be Opened","Works",144
+904,"2022-23","Guwahati Municipal Corporation","AOC","Services",180
+905,"2022-23","Guwahati Municipal Corporation","AOC","Works",99.4871794871795
+906,"2022-23","Guwahati Municipal Corporation","Cancelled","Goods",90
+907,"2022-23","Guwahati Municipal Corporation","Cancelled","Services",180
+908,"2022-23","Guwahati Municipal Corporation","Cancelled","Works",99.9163179916318
+909,"2022-23","Guwahati Municipal Corporation","Financial Bid Opening","Works",180
+910,"2022-23","Guwahati Municipal Corporation","Financial Evaluation","Works",90
+911,"2022-23","Guwahati Municipal Corporation","Technical Bid Opening","Works",120
+912,"2022-23","Guwahati Municipal Corporation","Technical Evaluation","Works",90
+913,"2022-23","Guwahati Municipal Corporation","To Be Opened","Works",90
+914,"2022-23","Guwahati Smart City Ltd.","AOC","Services",120
+915,"2022-23","Health and Family Welfare Department","AOC","Goods",211.744186046512
+916,"2022-23","Health and Family Welfare Department","AOC","Services",220
+917,"2022-23","Health and Family Welfare Department","AOC","Works",90
+918,"2022-23","Health and Family Welfare Department","Cancelled","Goods",213.035714285714
+919,"2022-23","Health and Family Welfare Department","Cancelled","Services",311.363636363636
+920,"2022-23","Health and Family Welfare Department","Financial Bid Opening","Goods",241.25
+921,"2022-23","Health and Family Welfare Department","Financial Bid Opening","Services",272.5
+922,"2022-23","Health and Family Welfare Department","Financial Evaluation","Goods",272
+923,"2022-23","Health and Family Welfare Department","Financial Evaluation","Services",170
+924,"2022-23","Health and Family Welfare Department","Retender","Goods",364.166666666667
+925,"2022-23","Health and Family Welfare Department","Retender","Services",303.333333333333
+926,"2022-23","Health and Family Welfare Department","Retender","Works",180
+927,"2022-23","Health and Family Welfare Department","Technical Bid Opening","Goods",272.5
+928,"2022-23","Health and Family Welfare Department","Technical Bid Opening","Services",180
+929,"2022-23","Health and Family Welfare Department","Technical Evaluation","Goods",180
+930,"2022-23","Health and Family Welfare Department","To Be Opened","Goods",180
+931,"2022-23","Health and Family Welfare Department","To Be Opened","Services",180
+932,"2022-23","Health and Family Welfare Department","To Be Opened","Works",180
+933,"2022-23","Home B","AOC","Goods",153.053333333333
+934,"2022-23","Home B","Cancelled","Goods",152.5
+935,"2022-23","Home B","Financial Bid Opening","Goods",301.666666666667
+936,"2022-23","Home B","Financial Evaluation","Goods",115.714285714286
+937,"2022-23","Home B","Retender","Goods",90
+938,"2022-23","Home B","Technical Evaluation","Goods",181.666666666667
+939,"2022-23","Home B","To Be Opened","Goods",155.083333333333
+940,"2022-23","Industries and Commerce Department","AOC","Goods",139.973684210526
+941,"2022-23","Industries and Commerce Department","AOC","Services",148.695652173913
+942,"2022-23","Industries and Commerce Department","AOC","Works",174.210526315789
+943,"2022-23","Industries and Commerce Department","Cancelled","Goods",115
+944,"2022-23","Industries and Commerce Department","Cancelled","Services",148.125
+945,"2022-23","Industries and Commerce Department","Cancelled","Works",166.5
+946,"2022-23","Industries and Commerce Department","Financial Bid Opening","Goods",180
+947,"2022-23","Industries and Commerce Department","Financial Bid Opening","Services",165
+948,"2022-23","Industries and Commerce Department","Financial Bid Opening","Works",174
+949,"2022-23","Industries and Commerce Department","Financial Evaluation","Works",180
+950,"2022-23","Industries and Commerce Department","Retender","Goods",180
+951,"2022-23","Industries and Commerce Department","Retender","Services",180
+952,"2022-23","Industries and Commerce Department","Retender","Works",168
+953,"2022-23","Industries and Commerce Department","Technical Bid Opening","Services",132
+954,"2022-23","Industries and Commerce Department","Technical Bid Opening","Works",180
+955,"2022-23","Industries and Commerce Department","Technical Evaluation","Goods",194.615384615385
+956,"2022-23","Industries and Commerce Department","Technical Evaluation","Services",135
+957,"2022-23","Industries and Commerce Department","Technical Evaluation","Works",132
+958,"2022-23","Industries and Commerce Department","To Be Opened","Goods",135
+959,"2022-23","Industries and Commerce Department","To Be Opened","Services",105
+960,"2022-23","Industries and Commerce Department","To Be Opened","Works",180
+961,"2022-23","Information - Public Relations - Printing and Stationery Department","AOC","Works",180
+962,"2022-23","Information - Public Relations - Printing and Stationery Department","Cancelled","Goods",180
+963,"2022-23","Information - Public Relations - Printing and Stationery Department","Cancelled","Services",144
+964,"2022-23","Information - Public Relations - Printing and Stationery Department","Retender","Services",90
+965,"2022-23","Information - Public Relations - Printing and Stationery Department","Technical Evaluation","Works",180
+966,"2022-23","Information and Public Relations Department","AOC","Goods",90
+967,"2022-23","Information and Public Relations Department","AOC","Services",180
+968,"2022-23","Information and Public Relations Department","Cancelled","Goods",90
+969,"2022-23","Information and Public Relations Department","Cancelled","Services",105
+970,"2022-23","Information and Public Relations Department","Financial Evaluation","Goods",90
+971,"2022-23","Information and Public Relations Department","Financial Evaluation","Services",60
+972,"2022-23","Inland Water Transport","AOC","Services",30
+973,"2022-23","Inland Water Transport","Cancelled","Services",30
+974,"2022-23","Inland Water Transport","Financial Bid Opening","Services",90
+975,"2022-23","Inland Water Transport","Technical Evaluation","Services",86.6666666666667
+976,"2022-23","Inland Water Transport","To Be Opened","Services",86
+977,"2022-23","Irrigation Department","AOC","Services",180
+978,"2022-23","Irrigation Department","AOC","Works",173.866666666667
+979,"2022-23","Irrigation Department","Cancelled","Services",180
+980,"2022-23","Irrigation Department","Cancelled","Works",180
+981,"2022-23","Irrigation Department","Retender","Works",135
+982,"2022-23","Karbi Anglong Autonomous Council","AOC","Works",120
+983,"2022-23","Karbi Anglong Autonomous Council","Retender","Works",90
+984,"2022-23","Karbi Anglong Autonomous Council","Technical Evaluation","Works",180
+985,"2022-23","Medical Education and Research Department- Externally Aided Project","AOC","Services",135
+986,"2022-23","National Health Mission","AOC","Goods",70
+987,"2022-23","National Health Mission","AOC","Services",135
+988,"2022-23","National Health Mission","AOC","Works",179.936034115139
+989,"2022-23","National Health Mission","Cancelled","Goods",90
+990,"2022-23","National Health Mission","Cancelled","Services",90
+991,"2022-23","National Health Mission","Cancelled","Works",180
+992,"2022-23","National Health Mission","Financial Bid Opening","Services",90
+993,"2022-23","National Health Mission","Financial Bid Opening","Works",180
+994,"2022-23","National Health Mission","Financial Evaluation","Works",180
+995,"2022-23","National Health Mission","Retender","Goods",90
+996,"2022-23","National Health Mission","Retender","Works",180
+997,"2022-23","National Health Mission","Technical Bid Opening","Goods",83.5714285714286
+998,"2022-23","National Health Mission","Technical Bid Opening","Works",180
+999,"2022-23","National Health Mission","Technical Evaluation","Services",90
+1000,"2022-23","National Health Mission","Technical Evaluation","Works",180
+1001,"2022-23","National Health Mission","To Be Opened","Goods",90
+1002,"2022-23","National Health Mission","To Be Opened","Services",180
+1003,"2022-23","National Health Mission","To Be Opened","Works",180
+1004,"2022-23","Office of the Chief Electoral Officer Assam","AOC","Services",180
+1005,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","AOC","Goods",180
+1006,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","AOC","Services",180
+1007,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","AOC","Works",117.779411764706
+1008,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","Cancelled","Goods",180
+1009,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","Cancelled","Services",112.5
+1010,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","Cancelled","Works",108.813559322034
+1011,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","Financial Bid Opening","Goods",180
+1012,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","Financial Bid Opening","Works",30
+1013,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","Financial Evaluation","Services",180
+1014,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","Financial Evaluation","Works",365
+1015,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","Retender","Goods",270
+1016,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","Retender","Works",90
+1017,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","Technical Bid Opening","Goods",180
+1018,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","Technical Bid Opening","Services",180
+1019,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","Technical Bid Opening","Works",145
+1020,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","Technical Evaluation","Goods",180
+1021,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","Technical Evaluation","Works",90
+1022,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","To Be Opened","Services",90
+1023,"2022-23","Pr. Chief Conservator of Forest and Head of Forest Force","To Be Opened","Works",102
+1024,"2022-23","Principal Secretary- P and RD- Assam Secretariat","AOC","Goods",180
+1025,"2022-23","Principal Secretary- P and RD- Assam Secretariat","AOC","Services",180
+1026,"2022-23","Principal Secretary- P and RD- Assam Secretariat","AOC","Works",180
+1027,"2022-23","Principal Secretary- P and RD- Assam Secretariat","Cancelled","Goods",180
+1028,"2022-23","Principal Secretary- P and RD- Assam Secretariat","Cancelled","Works",180
+1029,"2022-23","Principal Secretary- P and RD- Assam Secretariat","Retender","Goods",180
+1030,"2022-23","Principal Secretary- P and RD- Assam Secretariat","Retender","Works",180
+1031,"2022-23","Principal Secretary- P and RD- Assam Secretariat","Technical Bid Opening","Goods",180
+1032,"2022-23","Principal Secretary-Department of Information Technology","AOC","Goods",180
+1033,"2022-23","Principal Secretary-Department of Information Technology","AOC","Works",111
+1034,"2022-23","Principal Secretary-Department of Information Technology","Cancelled","Goods",180
+1035,"2022-23","Principal Secretary-Department of Information Technology","Cancelled","Works",180
+1036,"2022-23","Principal Secretary-Department of Information Technology","Financial Bid Opening","Services",180
+1037,"2022-23","Principal Secretary-Department of Information Technology","Financial Evaluation","Works",180
+1038,"2022-23","Principal Secretary-Department of Information Technology","Retender","Services",90
+1039,"2022-23","Principal Secretary-Department of Information Technology","To Be Opened","Works",180
+1040,"2022-23","Public Health Engineering Department","AOC","Goods",120
+1041,"2022-23","Public Health Engineering Department","AOC","Services",172.5
+1042,"2022-23","Public Health Engineering Department","AOC","Works",130
+1043,"2022-23","Public Health Engineering Department","Cancelled","Works",90
+1044,"2022-23","Public Health Engineering Department","Financial Bid Opening","Goods",90
+1045,"2022-23","Public Health Engineering Department","Financial Evaluation","Goods",90
+1046,"2022-23","Public Health Engineering Department","Financial Evaluation","Services",90
+1047,"2022-23","Public Health Engineering Department","Financial Evaluation","Works",90
+1048,"2022-23","Public Health Engineering Department","Retender","Goods",90
+1049,"2022-23","Public Health Engineering Department","Retender","Services",120
+1050,"2022-23","Public Health Engineering Department","Retender","Works",120
+1051,"2022-23","Public Health Engineering Department","Technical Bid Opening","Services",90
+1052,"2022-23","Public Health Engineering Department","Technical Evaluation","Works",120
+1053,"2022-23","Public Health Engineering Department","To Be Opened","Services",120
+1054,"2022-23","Public Health Engineering Department","To Be Opened","Works",120
+1055,"2022-23","Public Works Building and NH Department","AOC","Works",179.851485148515
+1056,"2022-23","Public Works Building and NH Department","Cancelled","Services",180
+1057,"2022-23","Public Works Building and NH Department","Cancelled","Works",180
+1058,"2022-23","Public Works Building and NH Department","Financial Bid Opening","Works",180
+1059,"2022-23","Public Works Building and NH Department","Financial Evaluation","Works",180
+1060,"2022-23","Public Works Building and NH Department","Retender","Works",180
+1061,"2022-23","Public Works Building and NH Department","Technical Bid Opening","Works",180
+1062,"2022-23","Public Works Building and NH Department","Technical Evaluation","Works",180
+1063,"2022-23","Public Works Building and NH Department","To Be Opened","Works",180
+1064,"2022-23","Public Works Roads Department","AOC","Goods",180
+1065,"2022-23","Public Works Roads Department","AOC","Works",177.539608574091
+1066,"2022-23","Public Works Roads Department","Cancelled","Works",179.733333333333
+1067,"2022-23","Public Works Roads Department","Financial Bid Opening","Works",180
+1068,"2022-23","Public Works Roads Department","Financial Evaluation","Works",167.142857142857
+1069,"2022-23","Public Works Roads Department","Retender","Services",180
+1070,"2022-23","Public Works Roads Department","Retender","Works",177.5
+1071,"2022-23","Public Works Roads Department","Technical Bid Opening","Works",180
+1072,"2022-23","Public Works Roads Department","Technical Evaluation","Works",170
+1073,"2022-23","Public Works Roads Department","To Be Opened","Services",180
+1074,"2022-23","Public Works Roads Department","To Be Opened","Works",180
+1075,"2022-23","Public Works Roads Department-Externally Aided Project","AOC","Works",90
+1076,"2022-23","Public Works Roads Department-Externally Aided Project","Cancelled","Works",88.125
+1077,"2022-23","Public Works Roads Department-Externally Aided Project","Financial Bid Opening","Services",150
+1078,"2022-23","Public Works Roads Department-Externally Aided Project","Technical Bid Opening","Services",80
+1079,"2022-23","Public Works Roads Department-Externally Aided Project","Technical Evaluation","Works",120
+1080,"2022-23","SECONDARY EDUCATION DEPARTMENT ASSAM","AOC","Goods",90
+1081,"2022-23","Science Technology and Climate Change Department","AOC","Goods",180
+1082,"2022-23","Science Technology and Climate Change Department","AOC","Services",90
+1083,"2022-23","Science Technology and Climate Change Department","Cancelled","Goods",180
+1084,"2022-23","Science Technology and Climate Change Department","Financial Bid Opening","Goods",180
+1085,"2022-23","Skill Employment and Entrepreneurship Department","AOC","Services",180
+1086,"2022-23","Skill Employment and Entrepreneurship Department","AOC","Works",90
+1087,"2022-23","Skill Employment and Entrepreneurship Department","Cancelled","Services",180
+1088,"2022-23","Social Welfare Department","AOC","Goods",365
+1089,"2022-23","Social Welfare Department","Cancelled","Goods",90
+1090,"2022-23","Social Welfare Department","Cancelled","Services",180
+1091,"2022-23","Social Welfare Department","Financial Evaluation","Goods",120
+1092,"2022-23","Social Welfare Department","Technical Bid Opening","Goods",180
+1093,"2022-23","Soil Conservation Department","AOC","Works",180
+1094,"2022-23","Soil Conservation Department","Cancelled","Works",180
+1095,"2022-23","Transformation and Development Department","AOC","Services",112.5
+1096,"2022-23","Transformation and Development Department","Financial Evaluation","Services",21
+1097,"2022-23","Transport Department","AOC","Services",180
+1098,"2022-23","Transport Department","Cancelled","Services",180
+1099,"2022-23","Transport Department","To Be Opened","Services",30
+1100,"2022-23","Transport Department- Externally Funded Projects","AOC","Goods",120
+1101,"2022-23","Transport Department- Externally Funded Projects","AOC","Services",120
+1102,"2022-23","Transport Department- Externally Funded Projects","Cancelled","Works",120
+1103,"2022-23","Transport Department- Externally Funded Projects","Financial Evaluation","Services",120
+1104,"2022-23","Urban Affairs Department Externally Aided Project","AOC","Services",52.5
+1105,"2022-23","Urban Affairs Department Externally Aided Project","AOC","Works",90
+1106,"2022-23","Urban Affairs Department Externally Aided Project","Cancelled","Goods",90
+1107,"2022-23","Urban Affairs Department Externally Aided Project","Cancelled","Works",90
+1108,"2022-23","Urban Development Department","AOC","Goods",180
+1109,"2022-23","Urban Development Department","AOC","Services",110
+1110,"2022-23","Urban Development Department","AOC","Works",165
+1111,"2022-23","Urban Development Department","Cancelled","Goods",180
+1112,"2022-23","Urban Development Department","Cancelled","Services",124.285714285714
+1113,"2022-23","Urban Development Department","Cancelled","Works",160.714285714286
+1114,"2022-23","Urban Development Department","Financial Bid Opening","Services",120
+1115,"2022-23","Urban Development Department","Financial Bid Opening","Works",180
+1116,"2022-23","Urban Development Department","Financial Evaluation","Services",180
+1117,"2022-23","Urban Development Department","Financial Evaluation","Works",168
+1118,"2022-23","Urban Development Department","Retender","Works",180
+1119,"2022-23","Urban Development Department","Technical Bid Opening","Services",180
+1120,"2022-23","Urban Development Department","Technical Evaluation","Services",180
+1121,"2022-23","Urban Development Department","Technical Evaluation","Works",165
+1122,"2022-23","Urban Development Department","To Be Opened","Goods",180
+1123,"2022-23","Urban Development Department","To Be Opened","Services",180
+1124,"2022-23","Urban Development Department","To Be Opened","Works",180
+1125,"2022-23","Water Resources Department- World Bank Tenders","AOC","Goods",60
+1126,"2022-23","Water Resources Department- World Bank Tenders","AOC","Services",90
+1127,"2022-23","Water Resources Department- World Bank Tenders","AOC","Works",55
+1128,"2022-23","Water Resources Department- World Bank Tenders","Financial Evaluation","Goods",60
+1129,"2022-23","Water Resources Department- World Bank Tenders","To Be Opened","Goods",60
+1130,"2022-23","Welfare of Minorities Development Department","Cancelled","Goods",180
+1131,"2022-23","Welfare of Minorities Development Department","Cancelled","Services",171.428571428571
+1132,"2022-23","Welfare of Plain Tribes and Backward Classes","AOC","Goods",241.875
+1133,"2022-23","Welfare of Plain Tribes and Backward Classes","AOC","Works",155
+1134,"2022-23","Welfare of Plain Tribes and Backward Classes","Cancelled","Goods",165.833333333333
+1135,"2022-23","Welfare of Plain Tribes and Backward Classes","Cancelled","Works",135
+1136,"2022-23","Welfare of Plain Tribes and Backward Classes","Financial Bid Opening","Goods",223.846153846154
+1137,"2022-23","Welfare of Plain Tribes and Backward Classes","Financial Bid Opening","Works",120
+1138,"2022-23","Welfare of Plain Tribes and Backward Classes","Financial Evaluation","Works",160
+1139,"2022-23","Welfare of Plain Tribes and Backward Classes","Technical Bid Opening","Works",120
+1140,"2022-23","Welfare of Plain Tribes and Backward Classes","Technical Evaluation","Goods",361.25
+1141,"2022-23","Welfare of Plain Tribes and Backward Classes","Technical Evaluation","Works",120
+1142,"2022-23","Welfare of Plain Tribes and Backward Classes","To Be Opened","Goods",365
+1143,"2023-24","Assam Agricultural University","AOC","Goods",60
+1144,"2023-24","Assam Electricity Grid Corporation Ltd","AOC","Works",180
+1145,"2023-24","Assam Electricity Grid Corporation Ltd","Cancelled","Works",180
+1146,"2023-24","Assam Police Housing Corporation Ltd","AOC","Works",180
+1147,"2023-24","Assam Power Generation Company Limited","Financial Bid Opening","Works",180
+1148,"2023-24","Axom Sarba Siksha Abhijan Mission","Cancelled","Works",180
+1149,"2023-24","Axom Sarba Siksha Abhijan Mission","Financial Bid Opening","Works",180
+1150,"2023-24","Bodoland Territorial Council","AOC","Works",180
+1151,"2023-24","Bodoland Territorial Council","Cancelled","Goods",90
+1152,"2023-24","Bodoland Territorial Council","Cancelled","Works",180
+1153,"2023-24","Bodoland Territorial Council","Financial Bid Opening","Works",180
+1154,"2023-24","Bodoland Territorial Council","Financial Evaluation","Works",180
+1155,"2023-24","Bodoland Territorial Council","To Be Opened","Goods",90
+1156,"2023-24","Bodoland Territorial Council-PWD","Cancelled","Works",180
+1157,"2023-24","Department of Tourism","To Be Opened","Services",180
+1158,"2023-24","Department of Water Resources","AOC","Works",180
+1159,"2023-24","Department of Water Resources","Financial Bid Opening","Works",180
+1160,"2023-24","Department of Water Resources","Financial Evaluation","Works",180
+1161,"2023-24","Department of Water Resources","Technical Evaluation","Goods",120
+1162,"2023-24","Dibrugarh University","Technical Evaluation","Goods",180
+1163,"2023-24","Finance Department - World Bank Tenders","AOC","Goods",120
+1164,"2023-24","Guwahati Metropolitan Development Authority","AOC","Works",180
+1165,"2023-24","Health and Family Welfare Department","AOC","Services",365
+1166,"2023-24","Health and Family Welfare Department","Cancelled","Goods",180
+1167,"2023-24","Industries and Commerce Department","AOC","Goods",120
+1168,"2023-24","Industries and Commerce Department","Cancelled","Goods",160
+1169,"2023-24","Industries and Commerce Department","Technical Evaluation","Services",120
+1170,"2023-24","Industries and Commerce Department","To Be Opened","Goods",180
+1171,"2023-24","Inland Water Transport","Technical Evaluation","Services",180
+1172,"2023-24","Inland Water Transport","To Be Opened","Services",180
+1173,"2023-24","Irrigation Department","AOC","Works",180
+1174,"2023-24","Irrigation Department","Cancelled","Works",180
+1175,"2023-24","Karbi Anglong Autonomous Council","Financial Bid Opening","Works",90
+1176,"2023-24","National Health Mission","AOC","Works",180
+1177,"2023-24","National Health Mission","Cancelled","Works",180
+1178,"2023-24","National Health Mission","Financial Bid Opening","Works",180
+1179,"2023-24","National Health Mission","Technical Evaluation","Works",180
+1180,"2023-24","Principal Secretary-Department of Information Technology","Cancelled","Works",180
+1181,"2023-24","Principal Secretary-Department of Information Technology","To Be Opened","Works",180
+1182,"2023-24","Public Health Engineering Department","Retender","Works",120
+1183,"2023-24","Public Works Building and NH Department","AOC","Works",180
+1184,"2023-24","Public Works Building and NH Department","Cancelled","Works",180
+1185,"2023-24","Public Works Building and NH Department","Financial Evaluation","Works",180
+1186,"2023-24","Public Works Building and NH Department","To Be Opened","Works",180
+1187,"2023-24","Public Works Roads Department","Cancelled","Works",180
+1188,"2023-24","SECONDARY EDUCATION DEPARTMENT ASSAM","To Be Opened","Services",90
+1189,"2023-24","Urban Development Department","Cancelled","Works",120
+1190,"2023-24","Urban Development Department","Financial Evaluation","Works",180

@@ -1,0 +1,1335 @@
+,fiscal_year,buyer_name,tender/stage,tender/mainProcurementCategory,saving/overrun,tender_count
+0,2017-2018,Assam Police,AOC,Goods,Samevalue,20
+1,2017-2018,Assam Police,Cancelled,Goods,Samevalue,3
+2,2017-2018,Bodoland Territorial Council,AOC,Works,Samevalue,5
+3,2017-2018,Bodoland Territorial Council-PWD,AOC,Works,Samevalue,4
+4,2017-2018,Bodoland Territorial Council-PWD,Cancelled,Works,Samevalue,1
+5,2017-2018,Industries and Commerce Department,Cancelled,Goods,Samevalue,3
+6,2017-2018,Industries and Commerce Department,Cancelled,Works,Samevalue,1
+7,2017-2018,Principal Secretary-Department of Information Technology,AOC,Goods,Samevalue,1
+8,2017-2018,Public Works Building and NH Department,AOC,Works,Samevalue,6
+9,2017-2018,Welfare of Plain Tribes and Backward Classes,Cancelled,Goods,Samevalue,1
+10,2017-2018,Welfare of Plain Tribes and Backward Classes,Cancelled,Works,Samevalue,2
+11,2018-2019,Assam Electricity Grid Corporation Ltd,AOC,Works,Samevalue,3
+12,2018-2019,Assam Electricity Grid Corporation Ltd,Cancelled,Works,Samevalue,1
+13,2018-2019,Assam Police,AOC,Services,Samevalue,2
+14,2018-2019,Assam Police,Cancelled,Goods,Samevalue,2
+15,2018-2019,Assam Power Distribution Company Ltd,AOC,Works,Samevalue,1
+16,2018-2019,Assam Power Generation Company Limited,Cancelled,Works,Samevalue,6
+17,2018-2019,Assam State Transport Corporation,AOC,Services,Samevalue,1
+18,2018-2019,Bodoland Territorial Council,AOC,Goods,Samevalue,1
+19,2018-2019,Bodoland Territorial Council,AOC,Works,Samevalue,7
+20,2018-2019,Bodoland Territorial Council,Cancelled,Works,Samevalue,5
+21,2018-2019,Bodoland Territorial Council-PWD,Cancelled,Works,Samevalue,1
+22,2018-2019,Bodoland Territorial Council-WRD,AOC,Works,Samevalue,7
+23,2018-2019,Cotton University,AOC,Works,Samevalue,2
+24,2018-2019,Department of Tourism,AOC,Works,Samevalue,1
+25,2018-2019,Department of Water Resources,AOC,Works,Samevalue,1
+26,2018-2019,Directorate of Agriculture and Assam Seed Corporation,AOC,Works,Saving,1
+27,2018-2019,Health and Family Welfare Department,AOC,Goods,Samevalue,1
+28,2018-2019,Health and Family Welfare Department,Cancelled,Goods,Samevalue,1
+29,2018-2019,Industries and Commerce Department,AOC,Works,Samevalue,3
+30,2018-2019,Industries and Commerce Department,Cancelled,Goods,Samevalue,1
+31,2018-2019,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,Samevalue,2
+32,2018-2019,Principal Secretary-Department of Information Technology,Cancelled,Services,Samevalue,1
+33,2018-2019,Public Works Building and NH Department,AOC,Works,Overrun,3
+34,2018-2019,Public Works Building and NH Department,AOC,Works,Samevalue,13
+35,2018-2019,Public Works Roads Department,AOC,Works,Samevalue,2
+36,2018-2019,Public Works Roads Department,AOC,Works,Saving,3
+37,2018-2019,Urban Development Department,AOC,Works,Saving,1
+38,2018-2019,Welfare of Plain Tribes and Backward Classes,AOC,Goods,Samevalue,1
+39,2019-2020,Animal Husbandry and Veterinary Department,AOC,Works,Overrun,1
+40,2019-2020,Animal Husbandry and Veterinary Department,AOC,Works,Samevalue,3
+41,2019-2020,Assam Electricity Grid Corporation Ltd,AOC,Goods,Samevalue,1
+42,2019-2020,Assam Electricity Grid Corporation Ltd,AOC,Services,Samevalue,4
+43,2019-2020,Assam Electricity Grid Corporation Ltd,AOC,Works,Samevalue,9
+44,2019-2020,Assam Electricity Grid Corporation Ltd,Cancelled,Services,Samevalue,1
+45,2019-2020,Assam Electricity Grid Corporation Ltd,Cancelled,Works,Samevalue,2
+46,2019-2020,Assam Inland Water Transport Development Society,AOC,Goods,Samevalue,8
+47,2019-2020,Assam Inland Water Transport Development Society,AOC,Services,Samevalue,1
+48,2019-2020,Assam Inland Water Transport Development Society,AOC,Works,Samevalue,3
+49,2019-2020,Assam Police,AOC,Goods,Samevalue,4
+50,2019-2020,Assam Police,AOC,Services,Samevalue,1
+51,2019-2020,Assam Police Housing Corporation Ltd,AOC,Works,Samevalue,20
+52,2019-2020,Assam Power Distribution Company Ltd,AOC,Goods,Samevalue,11
+53,2019-2020,Assam Power Distribution Company Ltd,AOC,Services,Samevalue,38
+54,2019-2020,Assam Power Distribution Company Ltd,AOC,Works,Samevalue,3
+55,2019-2020,Assam Power Distribution Company Ltd,Cancelled,Services,Samevalue,1
+56,2019-2020,Assam Power Generation Company Limited,AOC,Goods,Samevalue,2
+57,2019-2020,Assam Power Generation Company Limited,AOC,Services,Samevalue,2
+58,2019-2020,Assam Power Generation Company Limited,AOC,Works,Samevalue,5
+59,2019-2020,Assam Power Generation Company Limited,Cancelled,Works,Samevalue,1
+60,2019-2020,Assam State Transport Corporation,AOC,Goods,Samevalue,1
+61,2019-2020,Assam State Transport Corporation,AOC,Services,Samevalue,3
+62,2019-2020,Assam State Transport Corporation,Cancelled,Goods,Samevalue,3
+63,2019-2020,Assam State Transport Corporation,Cancelled,Services,Samevalue,3
+64,2019-2020,Assam State Transport Corporation,Cancelled,Works,Samevalue,1
+65,2019-2020,BODOLAND UNIVERSITY,Cancelled,Works,Samevalue,2
+66,2019-2020,Bodoland Territorial Council,AOC,Goods,Samevalue,3
+67,2019-2020,Bodoland Territorial Council,AOC,Goods,Saving,2
+68,2019-2020,Bodoland Territorial Council,AOC,Works,Samevalue,6
+69,2019-2020,Bodoland Territorial Council,Cancelled,Works,Samevalue,4
+70,2019-2020,Bodoland Territorial Council-PWD,Cancelled,Works,Samevalue,5
+71,2019-2020,Cooperation Department,AOC,Works,Samevalue,21
+72,2019-2020,Cotton University,AOC,Works,Samevalue,3
+73,2019-2020,Department of Tourism,AOC,Works,Samevalue,2
+74,2019-2020,Department of Water Resources,AOC,Works,Samevalue,2
+75,2019-2020,Dibrugarh University,AOC,Works,Samevalue,2
+76,2019-2020,Director- Fire and Emergency Services-Assam,AOC,Works,Samevalue,3
+77,2019-2020,Directorate of Agriculture and Assam Seed Corporation,AOC,Works,Samevalue,8
+78,2019-2020,Directorate of Land Records and Survey etc. Assam,AOC,Goods,Samevalue,1
+79,2019-2020,Directorate of Land Records and Survey etc. Assam,AOC,Services,Samevalue,1
+80,2019-2020,Finance Department - World Bank Tenders,AOC,Services,Samevalue,2
+81,2019-2020,Guwahati Metropolitan Development Authority,AOC,Works,Samevalue,1
+82,2019-2020,Guwahati Metropolitan Development Authority,AOC,Works,Saving,1
+83,2019-2020,Guwahati Metropolitan Development Authority,Financial Evaluation,Works,Samevalue,1
+84,2019-2020,Health and Family Welfare Department,AOC,Goods,Samevalue,7
+85,2019-2020,Health and Family Welfare Department,AOC,Services,Samevalue,1
+86,2019-2020,Health and Family Welfare Department,Cancelled,Goods,Samevalue,11
+87,2019-2020,Health and Family Welfare Department,Cancelled,Works,Samevalue,1
+88,2019-2020,Health and Family Welfare Department,Financial Evaluation,Goods,Samevalue,1
+89,2019-2020,Home B,AOC,Goods,Samevalue,18
+90,2019-2020,Home B,Cancelled,Goods,Samevalue,15
+91,2019-2020,Industries and Commerce Department,AOC,Goods,Samevalue,1
+92,2019-2020,Industries and Commerce Department,AOC,Works,Samevalue,4
+93,2019-2020,Industries and Commerce Department,Cancelled,Services,Samevalue,1
+94,2019-2020,Industries and Commerce Department,Cancelled,Works,Samevalue,1
+95,2019-2020,Irrigation Department,Cancelled,Works,Samevalue,1
+96,2019-2020,National Health Mission,AOC,Goods,Samevalue,19
+97,2019-2020,National Health Mission,AOC,Works,Samevalue,37
+98,2019-2020,National Health Mission,Cancelled,Goods,Samevalue,1
+99,2019-2020,National Health Mission,Cancelled,Services,Samevalue,1
+100,2019-2020,National Health Mission,Cancelled,Works,Samevalue,4
+101,2019-2020,National Health Mission,Financial Evaluation,Services,Samevalue,1
+102,2019-2020,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,Samevalue,25
+103,2019-2020,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,Saving,7
+104,2019-2020,Principal Secretary- P and RD- Assam Secretariat,Cancelled,Works,Samevalue,1
+105,2019-2020,Principal Secretary- P and RD- Assam Secretariat,Financial Evaluation,Works,Samevalue,4
+106,2019-2020,Public Health Engineering Department,AOC,Services,Samevalue,1
+107,2019-2020,Public Health Engineering Department,Cancelled,Goods,Samevalue,2
+108,2019-2020,Public Health Engineering Department,Cancelled,Works,Samevalue,4
+109,2019-2020,Public Works Building and NH Department,AOC,Works,Overrun,1
+110,2019-2020,Public Works Building and NH Department,AOC,Works,Samevalue,18
+111,2019-2020,Public Works Building and NH Department,AOC,Works,Saving,2
+112,2019-2020,Public Works Roads Department,AOC,Works,Samevalue,9
+113,2019-2020,Public Works Roads Department,Financial Evaluation,Works,Samevalue,1
+114,2019-2020,Skill Employment and Entrepreneurship Department,AOC,Services,Samevalue,1
+115,2019-2020,Social Welfare Department,Cancelled,Goods,Samevalue,1
+116,2019-2020,Urban Development Department,AOC,Works,Samevalue,3
+117,2019-2020,Urban Development Department,Cancelled,Goods,Samevalue,3
+118,2019-2020,Welfare of Plain Tribes and Backward Classes,AOC,Goods,Samevalue,10
+119,2019-2020,Welfare of Plain Tribes and Backward Classes,AOC,Services,Samevalue,1
+120,2019-2020,Welfare of Plain Tribes and Backward Classes,AOC,Works,Samevalue,10
+121,2019-2020,Welfare of Plain Tribes and Backward Classes,Cancelled,Goods,Samevalue,1
+122,2019-2020,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Goods,Samevalue,4
+123,2019-2020,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Services,Samevalue,2
+124,2020-2021,Animal Husbandry and Veterinary Department,AOC,Goods,Samevalue,11
+125,2020-2021,Animal Husbandry and Veterinary Department,AOC,Works,Samevalue,3
+126,2020-2021,Animal Husbandry and Veterinary Department,Cancelled,Goods,Samevalue,1
+127,2020-2021,Animal Husbandry and Veterinary Department,Cancelled,Services,Samevalue,2
+128,2020-2021,Animal Husbandry and Veterinary Department,Cancelled,Works,Samevalue,1
+129,2020-2021,Animal Husbandry and Veterinary Department-Externally Aided Project,AOC,Goods,Samevalue,1
+130,2020-2021,Assam Electricity Grid Corporation Ltd,AOC,Goods,Samevalue,1
+131,2020-2021,Assam Electricity Grid Corporation Ltd,AOC,Services,Samevalue,1
+132,2020-2021,Assam Electricity Grid Corporation Ltd,AOC,Works,Samevalue,13
+133,2020-2021,Assam Electricity Grid Corporation Ltd,Cancelled,Goods,Samevalue,1
+134,2020-2021,Assam Electricity Grid Corporation Ltd,Cancelled,Services,Samevalue,1
+135,2020-2021,Assam Electricity Grid Corporation Ltd,Cancelled,Works,Samevalue,3
+136,2020-2021,Assam Electricity Grid Corporation Ltd. - Externally Funded Projects,AOC,Works,Samevalue,10
+137,2020-2021,Assam Inland Water Transport Development Society,AOC,Services,Saving,1
+138,2020-2021,Assam Inland Water Transport Development Society,AOC,Works,Samevalue,1
+139,2020-2021,Assam Inland Water Transport Development Society,AOC,Works,Saving,1
+140,2020-2021,Assam Inland Water Transport Development Society,Cancelled,Services,Samevalue,2
+141,2020-2021,Assam Police,AOC,Goods,Samevalue,4
+142,2020-2021,Assam Police,AOC,Services,Samevalue,3
+143,2020-2021,Assam Police,Cancelled,Goods,Samevalue,2
+144,2020-2021,Assam Police,Cancelled,Services,Samevalue,1
+145,2020-2021,Assam Police,Cancelled,Works,Samevalue,1
+146,2020-2021,Assam Police,Financial Evaluation,Goods,Samevalue,1
+147,2020-2021,Assam Police Housing Corporation Ltd,AOC,Works,Samevalue,33
+148,2020-2021,Assam Police Housing Corporation Ltd,Cancelled,Works,Samevalue,4
+149,2020-2021,Assam Power Distribution Company Limited- Externally Aided Project,AOC,Works,Samevalue,9
+150,2020-2021,Assam Power Distribution Company Limited- Externally Aided Project,Cancelled,Works,Samevalue,1
+151,2020-2021,Assam Power Distribution Company Ltd,AOC,Works,Samevalue,29
+152,2020-2021,Assam Power Distribution Company Ltd,Cancelled,Services,Samevalue,14
+153,2020-2021,Assam Power Generation Company Limited,AOC,Goods,Samevalue,1
+154,2020-2021,Assam Power Generation Company Limited,AOC,Works,Samevalue,3
+155,2020-2021,Assam Power Generation Company Limited APGCL - ADB,AOC,Services,Overrun,1
+156,2020-2021,Assam Power Generation Company Limited APGCL - ADB,AOC,Services,Samevalue,1
+157,2020-2021,Assam Power Generation Company Limited APGCL - ADB,AOC,Works,Overrun,1
+158,2020-2021,Assam Power Generation Company Limited APGCL - ADB,AOC,Works,Samevalue,1
+159,2020-2021,Assam Science and Technology University,AOC,Goods,Samevalue,1
+160,2020-2021,Assam State Disaster Management Authority,AOC,Goods,Samevalue,2
+161,2020-2021,Assam State Disaster Management Authority,AOC,Services,Samevalue,1
+162,2020-2021,Assam State Disaster Management Authority,Cancelled,Goods,Samevalue,2
+163,2020-2021,Assam State Disaster Management Authority,Financial Evaluation,Services,Samevalue,1
+164,2020-2021,Assam State Transport Corporation,AOC,Goods,Samevalue,1
+165,2020-2021,Assam State Transport Corporation,AOC,Works,Samevalue,1
+166,2020-2021,Assam State Transport Corporation,Cancelled,Goods,Samevalue,4
+167,2020-2021,Assam State Transport Corporation,Cancelled,Services,Samevalue,3
+168,2020-2021,Axom Sarba Siksha Abhijan Mission,AOC,Goods,Samevalue,11
+169,2020-2021,Axom Sarba Siksha Abhijan Mission,AOC,Services,Samevalue,1
+170,2020-2021,Axom Sarba Siksha Abhijan Mission,Cancelled,Goods,Samevalue,11
+171,2020-2021,Axom Sarba Siksha Abhijan Mission,Cancelled,Services,Samevalue,1
+172,2020-2021,Axom Sarba Siksha Abhijan Mission,Cancelled,Works,Samevalue,2
+173,2020-2021,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Services,Samevalue,1
+174,2020-2021,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Works,Samevalue,18
+175,2020-2021,BODOLAND UNIVERSITY,Cancelled,Works,Samevalue,2
+176,2020-2021,Bodoland Territorial Council,AOC,Goods,Samevalue,1
+177,2020-2021,Bodoland Territorial Council,AOC,Works,Samevalue,33
+178,2020-2021,Bodoland Territorial Council,Cancelled,Works,Samevalue,3
+179,2020-2021,Bodoland Territorial Council,Financial Bid Opening,Works,Samevalue,21
+180,2020-2021,Bodoland Territorial Council,Financial Evaluation,Works,Samevalue,1
+181,2020-2021,Bodoland Territorial Council,Technical Evaluation,Works,Samevalue,3
+182,2020-2021,Bodoland Territorial Council-PWD,AOC,Works,Samevalue,16
+183,2020-2021,Bodoland Territorial Council-PWD,Cancelled,Works,Samevalue,9
+184,2020-2021,Bodoland Territorial Council-PWD,Technical Evaluation,Services,Samevalue,1
+185,2020-2021,Bodoland Territorial Council-PWD,Technical Evaluation,Works,Samevalue,4
+186,2020-2021,Bodoland Territorial Council-WRD,AOC,Works,Samevalue,7
+187,2020-2021,Cooperation Department,AOC,Goods,Samevalue,4
+188,2020-2021,Cooperation Department,AOC,Works,Samevalue,36
+189,2020-2021,Cotton University,AOC,Works,Samevalue,2
+190,2020-2021,Department of Cultural Affairs,AOC,Services,Samevalue,2
+191,2020-2021,Department of Cultural Affairs,AOC,Works,Samevalue,36
+192,2020-2021,Department of Cultural Affairs,Cancelled,Works,Samevalue,1
+193,2020-2021,Department of Cultural Affairs,Financial Bid Opening,Works,Samevalue,1
+194,2020-2021,Department of Cultural Affairs,Retender,Works,Samevalue,4
+195,2020-2021,Department of Cultural Affairs,Technical Evaluation,Works,Samevalue,1
+196,2020-2021,Department of Fisheries,AOC,Services,Samevalue,1
+197,2020-2021,Department of Fisheries,Cancelled,Works,Samevalue,1
+198,2020-2021,Department of Fisheries,Retender,Services,Samevalue,1
+199,2020-2021,Department of Handloom Textile and Sericulture,AOC,Goods,Samevalue,4
+200,2020-2021,Department of Handloom Textile and Sericulture,AOC,Works,Samevalue,1
+201,2020-2021,Department of Handloom Textile and Sericulture,Cancelled,Works,Samevalue,1
+202,2020-2021,Department of Handloom Textile and Sericulture,Technical Evaluation,Works,Samevalue,1
+203,2020-2021,Department of Labour and Welfare,AOC,Services,Samevalue,1
+204,2020-2021,Department of Science and Technology,AOC,Goods,Samevalue,1
+205,2020-2021,Department of Tourism,AOC,Goods,Samevalue,1
+206,2020-2021,Department of Water Resources,AOC,Works,Samevalue,41
+207,2020-2021,Department of Water Resources,Cancelled,Works,Samevalue,1
+208,2020-2021,Department of Water Resources,Retender,Works,Samevalue,6
+209,2020-2021,Dibrugarh University,AOC,Goods,Samevalue,1
+210,2020-2021,Dibrugarh University,AOC,Works,Samevalue,2
+211,2020-2021,Director- Fire and Emergency Services-Assam,AOC,Goods,Samevalue,2
+212,2020-2021,Director- Fire and Emergency Services-Assam,AOC,Works,Samevalue,7
+213,2020-2021,Directorate of Agriculture and Assam Seed Corporation,AOC,Goods,Samevalue,1
+214,2020-2021,Directorate of Agriculture and Assam Seed Corporation,AOC,Works,Samevalue,1
+215,2020-2021,Directorate of Agriculture and Assam Seed Corporation,Cancelled,Goods,Samevalue,1
+216,2020-2021,Directorate of Agriculture and Assam Seed Corporation,Financial Bid Opening,Works,Samevalue,1
+217,2020-2021,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Goods,Samevalue,3
+218,2020-2021,Directorate of Horticulture Assam,AOC,Goods,Samevalue,1
+219,2020-2021,Directorate of Horticulture Assam,Cancelled,Works,Samevalue,1
+220,2020-2021,Directorate of Land Records and Survey etc. Assam,AOC,Goods,Samevalue,2
+221,2020-2021,Directorate of Land Records and Survey etc. Assam,AOC,Works,Samevalue,1
+222,2020-2021,Directorate of Sports and Youth Welfare - Assam,AOC,Goods,Samevalue,1
+223,2020-2021,Elementary Education Department,AOC,Goods,Samevalue,1
+224,2020-2021,Elementary Education Department,AOC,Services,Samevalue,1
+225,2020-2021,Elementary Education Department,Retender,Services,Samevalue,1
+226,2020-2021,Finance Department - World Bank Tenders,AOC,Goods,Samevalue,1
+227,2020-2021,Finance Department - World Bank Tenders,AOC,Services,Samevalue,7
+228,2020-2021,Food Civil Supplies and Consumer Affairs Department,AOC,Goods,Samevalue,2
+229,2020-2021,Food Civil Supplies and Consumer Affairs Department,AOC,Services,Samevalue,1
+230,2020-2021,Food Civil Supplies and Consumer Affairs Department,Financial Bid Opening,Goods,Samevalue,2
+231,2020-2021,Gauhati University,AOC,Works,Samevalue,1
+232,2020-2021,Gauhati University,Retender,Works,Samevalue,1
+233,2020-2021,Guwahati Metropolitan Development Authority,AOC,Services,Samevalue,1
+234,2020-2021,Guwahati Metropolitan Development Authority,AOC,Works,Saving,2
+235,2020-2021,Guwahati Metropolitan Development Authority,Cancelled,Works,Samevalue,2
+236,2020-2021,Guwahati Metropolitan Development Authority,Technical Evaluation,Services,Samevalue,1
+237,2020-2021,Guwahati Metropolitan Development Authority,Technical Evaluation,Works,Samevalue,2
+238,2020-2021,Guwahati Municipal Corporation,AOC,Goods,Samevalue,1
+239,2020-2021,Guwahati Municipal Corporation,AOC,Services,Samevalue,1
+240,2020-2021,Guwahati Municipal Corporation,AOC,Works,Samevalue,5
+241,2020-2021,Guwahati Municipal Corporation,AOC,Works,Saving,3
+242,2020-2021,Guwahati Municipal Corporation,Cancelled,Goods,Samevalue,1
+243,2020-2021,Guwahati Municipal Corporation,Cancelled,Works,Samevalue,62
+244,2020-2021,Guwahati Municipal Corporation,Financial Bid Opening,Works,Samevalue,2
+245,2020-2021,Guwahati Municipal Corporation,Financial Evaluation,Works,Samevalue,6
+246,2020-2021,Guwahati Municipal Corporation,Retender,Works,Samevalue,10
+247,2020-2021,Guwahati Smart City Ltd.,Cancelled,Works,Samevalue,3
+248,2020-2021,Health and Family Welfare Department,AOC,Goods,Samevalue,19
+249,2020-2021,Health and Family Welfare Department,AOC,Goods,Saving,1
+250,2020-2021,Health and Family Welfare Department,AOC,Services,Samevalue,8
+251,2020-2021,Health and Family Welfare Department,Cancelled,Goods,Samevalue,14
+252,2020-2021,Health and Family Welfare Department,Cancelled,Services,Samevalue,2
+253,2020-2021,Health and Family Welfare Department,Financial Evaluation,Goods,Samevalue,7
+254,2020-2021,Health and Family Welfare Department,Financial Evaluation,Services,Samevalue,1
+255,2020-2021,Health and Family Welfare Department,Retender,Goods,Samevalue,6
+256,2020-2021,Health and Family Welfare Department,Retender,Services,Samevalue,1
+257,2020-2021,Health and Family Welfare Department,Technical Evaluation,Goods,Samevalue,5
+258,2020-2021,Health and Family Welfare Department,To Be Opened,Goods,Samevalue,1
+259,2020-2021,Higher Education (Technical) Department,AOC,Goods,Samevalue,2
+260,2020-2021,Higher Education (Technical) Department,Financial Evaluation,Goods,Samevalue,1
+261,2020-2021,Hill Areas Department,AOC,Goods,Samevalue,13
+262,2020-2021,Hill Areas Department,Retender,Goods,Samevalue,1
+263,2020-2021,Home B,AOC,Goods,Samevalue,15
+264,2020-2021,Home B,Cancelled,Goods,Samevalue,12
+265,2020-2021,Industries and Commerce Department,AOC,Goods,Overrun,2
+266,2020-2021,Industries and Commerce Department,AOC,Goods,Samevalue,10
+267,2020-2021,Industries and Commerce Department,AOC,Services,Samevalue,5
+268,2020-2021,Industries and Commerce Department,AOC,Works,Samevalue,34
+269,2020-2021,Industries and Commerce Department,Cancelled,Goods,Samevalue,7
+270,2020-2021,Industries and Commerce Department,Cancelled,Services,Samevalue,4
+271,2020-2021,Industries and Commerce Department,Cancelled,Works,Samevalue,34
+272,2020-2021,Industries and Commerce Department,Financial Bid Opening,Goods,Samevalue,2
+273,2020-2021,Industries and Commerce Department,Financial Bid Opening,Services,Samevalue,1
+274,2020-2021,Industries and Commerce Department,Financial Bid Opening,Works,Samevalue,2
+275,2020-2021,Industries and Commerce Department,Retender,Works,Samevalue,7
+276,2020-2021,Industries and Commerce Department,Technical Evaluation,Goods,Samevalue,2
+277,2020-2021,Industries and Commerce Department,To Be Opened,Works,Samevalue,1
+278,2020-2021,Information and Public Relations Department,AOC,Services,Samevalue,1
+279,2020-2021,Irrigation Department,AOC,Goods,Samevalue,2
+280,2020-2021,Irrigation Department,AOC,Works,Samevalue,26
+281,2020-2021,Irrigation Department,Cancelled,Works,Samevalue,15
+282,2020-2021,Karbi Anglong Autonomous Council,AOC,Goods,Samevalue,1
+283,2020-2021,Karbi Anglong Autonomous Council,AOC,Works,Samevalue,2
+284,2020-2021,National Health Mission,AOC,Goods,Samevalue,16
+285,2020-2021,National Health Mission,AOC,Services,Samevalue,3
+286,2020-2021,National Health Mission,AOC,Works,Samevalue,22
+287,2020-2021,National Health Mission,Cancelled,Goods,Samevalue,4
+288,2020-2021,National Health Mission,Cancelled,Services,Samevalue,1
+289,2020-2021,National Health Mission,Cancelled,Works,Samevalue,7
+290,2020-2021,National Health Mission,Financial Bid Opening,Works,Samevalue,5
+291,2020-2021,National Health Mission,Financial Evaluation,Goods,Samevalue,2
+292,2020-2021,National Health Mission,Financial Evaluation,Services,Samevalue,1
+293,2020-2021,National Health Mission,Financial Evaluation,Works,Samevalue,12
+294,2020-2021,National Health Mission,Retender,Works,Samevalue,1
+295,2020-2021,National Health Mission,Technical Evaluation,Goods,Samevalue,1
+296,2020-2021,National Health Mission,Technical Evaluation,Services,Samevalue,1
+297,2020-2021,National Health Mission,Technical Evaluation,Works,Samevalue,12
+298,2020-2021,Office of the Chief Electoral Officer Assam,AOC,Services,Samevalue,1
+299,2020-2021,Pollution Control Board,Retender,Works,Samevalue,1
+300,2020-2021,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Works,Samevalue,5
+301,2020-2021,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Works,Saving,2
+302,2020-2021,Pr. Chief Conservator of Forest and Head of Forest Force,Cancelled,Works,Samevalue,9
+303,2020-2021,Pr. Chief Conservator of Forest and Head of Forest Force,Retender,Works,Samevalue,17
+304,2020-2021,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,Samevalue,23
+305,2020-2021,Principal Secretary- P and RD- Assam Secretariat,Cancelled,Goods,Samevalue,4
+306,2020-2021,Principal Secretary- P and RD- Assam Secretariat,Cancelled,Works,Samevalue,1
+307,2020-2021,Principal Secretary- P and RD- Assam Secretariat,Retender,Goods,Samevalue,4
+308,2020-2021,Principal Secretary-Department of Information Technology,AOC,Services,Samevalue,2
+309,2020-2021,Principal Secretary-Department of Information Technology,AOC,Works,Samevalue,1
+310,2020-2021,Principal Secretary-Department of Information Technology,Cancelled,Goods,Samevalue,2
+311,2020-2021,Principal Secretary-Department of Information Technology,Cancelled,Works,Samevalue,1
+312,2020-2021,Public Health Engineering Department,AOC,Goods,Samevalue,2
+313,2020-2021,Public Health Engineering Department,AOC,Services,Samevalue,2
+314,2020-2021,Public Health Engineering Department,AOC,Works,Samevalue,11
+315,2020-2021,Public Health Engineering Department,Cancelled,Services,Samevalue,4
+316,2020-2021,Public Health Engineering Department,Cancelled,Works,Samevalue,1
+317,2020-2021,Public Health Engineering Department,Financial Evaluation,Goods,Samevalue,1
+318,2020-2021,Public Works Building and NH Department,AOC,Works,Overrun,2
+319,2020-2021,Public Works Building and NH Department,AOC,Works,Samevalue,166
+320,2020-2021,Public Works Building and NH Department,Cancelled,Goods,Samevalue,2
+321,2020-2021,Public Works Building and NH Department,Cancelled,Works,Samevalue,6
+322,2020-2021,Public Works Building and NH Department,Financial Bid Opening,Works,Samevalue,2
+323,2020-2021,Public Works Building and NH Department,Financial Evaluation,Works,Samevalue,4
+324,2020-2021,Public Works Building and NH Department,Retender,Works,Samevalue,2
+325,2020-2021,Public Works Building and NH Department,Technical Bid Opening,Works,Samevalue,1
+326,2020-2021,Public Works Roads Department,AOC,Services,Samevalue,1
+327,2020-2021,Public Works Roads Department,AOC,Works,Overrun,1
+328,2020-2021,Public Works Roads Department,AOC,Works,Samevalue,406
+329,2020-2021,Public Works Roads Department,AOC,Works,Saving,19
+330,2020-2021,Public Works Roads Department,Cancelled,Works,Samevalue,24
+331,2020-2021,Public Works Roads Department,Financial Bid Opening,Works,Samevalue,28
+332,2020-2021,Public Works Roads Department,Financial Evaluation,Works,Samevalue,2
+333,2020-2021,Public Works Roads Department,Retender,Works,Samevalue,10
+334,2020-2021,Public Works Roads Department,Technical Bid Opening,Works,Samevalue,1
+335,2020-2021,Public Works Roads Department,Technical Evaluation,Works,Samevalue,14
+336,2020-2021,Rashtriya Madhyamik Siksha Abhijan,Cancelled,Goods,Samevalue,1
+337,2020-2021,Rashtriya Madhyamik Siksha Abhijan,Financial Evaluation,Services,Samevalue,1
+338,2020-2021,Rashtriya Madhyamik Siksha Abhijan,Financial Evaluation,Works,Samevalue,1
+339,2020-2021,Skill Employment and Entrepreneurship Department,AOC,Services,Samevalue,2
+340,2020-2021,Skill Employment and Entrepreneurship Department,Cancelled,Services,Samevalue,3
+341,2020-2021,Social Welfare Department,AOC,Goods,Samevalue,2
+342,2020-2021,Social Welfare Department,Cancelled,Goods,Samevalue,1
+343,2020-2021,Social Welfare Department,Cancelled,Works,Samevalue,2
+344,2020-2021,Soil Conservation Department,AOC,Works,Samevalue,15
+345,2020-2021,Soil Conservation Department,Retender,Works,Samevalue,1
+346,2020-2021,Tea Tribes Welfare Department,AOC,Goods,Samevalue,1
+347,2020-2021,Tea Tribes Welfare Department,Cancelled,Goods,Samevalue,1
+348,2020-2021,Transport Department,AOC,Services,Samevalue,1
+349,2020-2021,Transport Department,Financial Bid Opening,Goods,Samevalue,1
+350,2020-2021,Transport Department,Retender,Goods,Samevalue,1
+351,2020-2021,Transport Department,Retender,Services,Samevalue,1
+352,2020-2021,Transport Department,Technical Evaluation,Services,Samevalue,1
+353,2020-2021,Urban Development Department,AOC,Works,Samevalue,25
+354,2020-2021,Urban Development Department,Cancelled,Works,Samevalue,3
+355,2020-2021,Urban Development Department,Retender,Works,Samevalue,3
+356,2020-2021,Urban Development Department,Technical Bid Opening,Works,Samevalue,5
+357,2020-2021,Urban Development Department,Technical Evaluation,Works,Samevalue,1
+358,2020-2021,Welfare of Plain Tribes and Backward Classes,AOC,Goods,Samevalue,32
+359,2020-2021,Welfare of Plain Tribes and Backward Classes,AOC,Services,Samevalue,2
+360,2020-2021,Welfare of Plain Tribes and Backward Classes,AOC,Works,Samevalue,19
+361,2020-2021,Welfare of Plain Tribes and Backward Classes,AOC,Works,Saving,9
+362,2020-2021,Welfare of Plain Tribes and Backward Classes,Cancelled,Goods,Samevalue,18
+363,2020-2021,Welfare of Plain Tribes and Backward Classes,Cancelled,Services,Samevalue,1
+364,2020-2021,Welfare of Plain Tribes and Backward Classes,Cancelled,Works,Samevalue,13
+365,2020-2021,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Goods,Samevalue,4
+366,2020-2021,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Goods,Samevalue,7
+367,2020-2021,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Works,Samevalue,2
+368,2020-2021,Welfare of Plain Tribes and Backward Classes,Retender,Works,Samevalue,1
+369,2020-2021,Welfare of Plain Tribes and Backward Classes,Technical Bid Opening,Goods,Samevalue,2
+370,2020-2021,Welfare of Plain Tribes and Backward Classes,Technical Bid Opening,Works,Samevalue,1
+371,2020-2021,Welfare of Plain Tribes and Backward Classes,Technical Evaluation,Works,Samevalue,1
+372,2021-2022,ASSAM CANCER CARE FOUNDATION,AOC,Goods,Overrun,3
+373,2021-2022,ASSAM CANCER CARE FOUNDATION,AOC,Services,Saving,3
+374,2021-2022,Animal Husbandry and Veterinary Department,AOC,Goods,Saving,2
+375,2021-2022,Animal Husbandry and Veterinary Department,AOC,Works,Samevalue,2
+376,2021-2022,Animal Husbandry and Veterinary Department,AOC,Works,Saving,5
+377,2021-2022,Animal Husbandry and Veterinary Department,Cancelled,Goods,Samevalue,1
+378,2021-2022,Animal Husbandry and Veterinary Department,Cancelled,Works,Samevalue,2
+379,2021-2022,Animal Husbandry and Veterinary Department-Externally Aided Project,Cancelled,Goods,Samevalue,1
+380,2021-2022,Assam Agricultural University,AOC,Works,Saving,2
+381,2021-2022,Assam Electricity Grid Corporation Ltd,AOC,Goods,Samevalue,3
+382,2021-2022,Assam Electricity Grid Corporation Ltd,AOC,Works,Samevalue,10
+383,2021-2022,Assam Electricity Grid Corporation Ltd,AOC,Works,Saving,1
+384,2021-2022,Assam Electricity Grid Corporation Ltd,Cancelled,Works,Samevalue,2
+385,2021-2022,Assam Electricity Grid Corporation Ltd. - Externally Funded Projects,AOC,Goods,Overrun,1
+386,2021-2022,Assam Electricity Grid Corporation Ltd. - Externally Funded Projects,AOC,Goods,Samevalue,1
+387,2021-2022,Assam Inland Water Transport Development Society,AOC,Services,Samevalue,1
+388,2021-2022,Assam Inland Water Transport Development Society,AOC,Services,Saving,1
+389,2021-2022,Assam Inland Water Transport Development Society,AOC,Works,Saving,1
+390,2021-2022,Assam Inland Water Transport Development Society,Technical Evaluation,Services,Samevalue,1
+391,2021-2022,Assam Police,Cancelled,Goods,Samevalue,1
+392,2021-2022,Assam Police,Cancelled,Services,Samevalue,1
+393,2021-2022,Assam Police,Financial Evaluation,Goods,Samevalue,1
+394,2021-2022,Assam Police,Technical Bid Opening,Goods,Samevalue,2
+395,2021-2022,Assam Police,Technical Evaluation,Goods,Samevalue,1
+396,2021-2022,Assam Police Housing Corporation Ltd,AOC,Works,Overrun,3
+397,2021-2022,Assam Police Housing Corporation Ltd,AOC,Works,Samevalue,7
+398,2021-2022,Assam Police Housing Corporation Ltd,Cancelled,Works,Samevalue,12
+399,2021-2022,Assam Police Housing Corporation Ltd,Technical Evaluation,Works,Samevalue,8
+400,2021-2022,Assam Power Distribution Company Limited- Externally Aided Project,AOC,Works,Samevalue,5
+401,2021-2022,Assam Power Distribution Company Ltd,AOC,Goods,Samevalue,1
+402,2021-2022,Assam Power Distribution Company Ltd,AOC,Services,Samevalue,4
+403,2021-2022,Assam Power Distribution Company Ltd,AOC,Works,Overrun,38
+404,2021-2022,Assam Power Distribution Company Ltd,AOC,Works,Samevalue,7
+405,2021-2022,Assam Power Distribution Company Ltd,AOC,Works,Saving,37
+406,2021-2022,Assam Power Distribution Company Ltd,Cancelled,Goods,Samevalue,1
+407,2021-2022,Assam Power Distribution Company Ltd,Cancelled,Services,Samevalue,2
+408,2021-2022,Assam Power Distribution Company Ltd,Cancelled,Works,Samevalue,3
+409,2021-2022,Assam Power Distribution Company Ltd,Financial Bid Opening,Services,Samevalue,1
+410,2021-2022,Assam Power Distribution Company Ltd,Technical Evaluation,Services,Samevalue,1
+411,2021-2022,Assam Power Generation Company Limited,AOC,Services,Samevalue,3
+412,2021-2022,Assam Power Generation Company Limited,AOC,Works,Samevalue,1
+413,2021-2022,Assam Power Generation Company Limited,Cancelled,Works,Samevalue,2
+414,2021-2022,Assam Power Generation Company Limited APGCL - ADB,AOC,Services,Samevalue,1
+415,2021-2022,Assam Power Generation Company Limited APGCL - ADB,AOC,Works,Samevalue,2
+416,2021-2022,Assam Science and Technology University,Cancelled,Goods,Samevalue,1
+417,2021-2022,Assam State Disaster Management Authority,AOC,Goods,Samevalue,2
+418,2021-2022,Assam State Disaster Management Authority,AOC,Services,Samevalue,1
+419,2021-2022,Assam State Disaster Management Authority,Cancelled,Goods,Samevalue,1
+420,2021-2022,Assam State Transport Corporation,Cancelled,Services,Samevalue,1
+421,2021-2022,Axom Sarba Siksha Abhijan Mission,AOC,Goods,Samevalue,9
+422,2021-2022,Axom Sarba Siksha Abhijan Mission,AOC,Goods,Saving,1
+423,2021-2022,Axom Sarba Siksha Abhijan Mission,AOC,Services,Samevalue,4
+424,2021-2022,Axom Sarba Siksha Abhijan Mission,AOC,Works,Samevalue,2
+425,2021-2022,Axom Sarba Siksha Abhijan Mission,Cancelled,Goods,Samevalue,15
+426,2021-2022,Axom Sarba Siksha Abhijan Mission,Cancelled,Services,Samevalue,10
+427,2021-2022,Axom Sarba Siksha Abhijan Mission,Cancelled,Works,Samevalue,4
+428,2021-2022,Axom Sarba Siksha Abhijan Mission,Financial Bid Opening,Goods,Samevalue,1
+429,2021-2022,Axom Sarba Siksha Abhijan Mission,Financial Evaluation,Services,Samevalue,2
+430,2021-2022,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Goods,Samevalue,2
+431,2021-2022,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Services,Samevalue,2
+432,2021-2022,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Works,Samevalue,1
+433,2021-2022,Axom Sarba Siksha Abhijan Mission,To Be Opened,Goods,Samevalue,1
+434,2021-2022,Axom Sarba Siksha Abhijan Mission,To Be Opened,Services,Samevalue,2
+435,2021-2022,BODOLAND UNIVERSITY,AOC,Works,Samevalue,4
+436,2021-2022,BODOLAND UNIVERSITY,Cancelled,Works,Samevalue,2
+437,2021-2022,Bodoland Territorial Council,AOC,Goods,Samevalue,1
+438,2021-2022,Bodoland Territorial Council,AOC,Goods,Saving,1
+439,2021-2022,Bodoland Territorial Council,AOC,Works,Samevalue,209
+440,2021-2022,Bodoland Territorial Council,Cancelled,Goods,Samevalue,1
+441,2021-2022,Bodoland Territorial Council,Cancelled,Works,Samevalue,45
+442,2021-2022,Bodoland Territorial Council,Financial Bid Opening,Goods,Samevalue,8
+443,2021-2022,Bodoland Territorial Council,Financial Bid Opening,Works,Samevalue,3
+444,2021-2022,Bodoland Territorial Council,Financial Evaluation,Goods,Samevalue,19
+445,2021-2022,Bodoland Territorial Council,Financial Evaluation,Works,Samevalue,4
+446,2021-2022,Bodoland Territorial Council,Retender,Goods,Samevalue,2
+447,2021-2022,Bodoland Territorial Council,Technical Bid Opening,Goods,Samevalue,4
+448,2021-2022,Bodoland Territorial Council,Technical Bid Opening,Works,Samevalue,6
+449,2021-2022,Bodoland Territorial Council,Technical Evaluation,Goods,Samevalue,1
+450,2021-2022,Bodoland Territorial Council,Technical Evaluation,Works,Samevalue,8
+451,2021-2022,Bodoland Territorial Council,To Be Opened,Works,Samevalue,2
+452,2021-2022,Bodoland Territorial Council-PWD,AOC,Works,Samevalue,227
+453,2021-2022,Bodoland Territorial Council-PWD,AOC,Works,Saving,2
+454,2021-2022,Bodoland Territorial Council-PWD,Cancelled,Works,Samevalue,38
+455,2021-2022,Bodoland Territorial Council-PWD,Technical Evaluation,Works,Samevalue,2
+456,2021-2022,Bodoland Territorial Council-WRD,AOC,Works,Samevalue,46
+457,2021-2022,Bodoland Territorial Council-WRD,AOC,Works,Saving,9
+458,2021-2022,Bodoland Territorial Council-WRD,Cancelled,Works,Samevalue,2
+459,2021-2022,Cooperation Department,AOC,Goods,Samevalue,5
+460,2021-2022,Cooperation Department,AOC,Services,Samevalue,1
+461,2021-2022,Cooperation Department,Cancelled,Services,Samevalue,1
+462,2021-2022,Cooperation Department,Retender,Goods,Samevalue,2
+463,2021-2022,Department of Cultural Affairs,AOC,Works,Samevalue,1
+464,2021-2022,Department of Cultural Affairs,AOC,Works,Saving,1
+465,2021-2022,Department of Cultural Affairs,Financial Bid Opening,Goods,Samevalue,2
+466,2021-2022,Department of Handloom Textile and Sericulture,AOC,Goods,Samevalue,1
+467,2021-2022,Department of Handloom Textile and Sericulture,AOC,Works,Samevalue,1
+468,2021-2022,Department of Handloom Textile and Sericulture,Financial Evaluation,Goods,Samevalue,1
+469,2021-2022,Department of Higher Education,Technical Evaluation,Works,Samevalue,1
+470,2021-2022,Department of Housing and Urban Affairs,AOC,Works,Saving,14
+471,2021-2022,Department of Housing and Urban Affairs,Cancelled,Works,Samevalue,3
+472,2021-2022,Department of Labour and Welfare,AOC,Goods,Samevalue,1
+473,2021-2022,Department of Labour and Welfare,AOC,Services,Samevalue,1
+474,2021-2022,Department of Labour and Welfare,Cancelled,Goods,Samevalue,2
+475,2021-2022,Department of Labour and Welfare,Cancelled,Services,Samevalue,1
+476,2021-2022,Department of Science and Technology,AOC,Services,Samevalue,2
+477,2021-2022,Department of Tourism,AOC,Services,Overrun,2
+478,2021-2022,Department of Tourism,AOC,Services,Samevalue,1
+479,2021-2022,Department of Tourism,Financial Evaluation,Services,Samevalue,1
+480,2021-2022,Department of Tourism,Technical Evaluation,Services,Samevalue,1
+481,2021-2022,Department of Tourism,To Be Opened,Services,Samevalue,12
+482,2021-2022,Department of Water Resources,AOC,Services,Samevalue,1
+483,2021-2022,Department of Water Resources,AOC,Works,Overrun,1
+484,2021-2022,Department of Water Resources,AOC,Works,Samevalue,121
+485,2021-2022,Department of Water Resources,AOC,Works,Saving,33
+486,2021-2022,Department of Water Resources,Cancelled,Goods,Samevalue,1
+487,2021-2022,Department of Water Resources,Cancelled,Services,Samevalue,1
+488,2021-2022,Department of Water Resources,Cancelled,Works,Samevalue,56
+489,2021-2022,Department of Water Resources,Financial Bid Opening,Works,Samevalue,1
+490,2021-2022,Department of Water Resources,Financial Evaluation,Works,Samevalue,5
+491,2021-2022,Department of Water Resources,Retender,Works,Samevalue,36
+492,2021-2022,Department of Water Resources,Technical Evaluation,Services,Samevalue,1
+493,2021-2022,Dibrugarh University,AOC,Goods,Samevalue,2
+494,2021-2022,Dibrugarh University,Cancelled,Goods,Samevalue,1
+495,2021-2022,Director- Fire and Emergency Services-Assam,AOC,Works,Samevalue,15
+496,2021-2022,Directorate of Agriculture and Assam Seed Corporation,AOC,Goods,Saving,1
+497,2021-2022,Directorate of Agriculture and Assam Seed Corporation,AOC,Services,Samevalue,1
+498,2021-2022,Directorate of Agriculture and Assam Seed Corporation,AOC,Works,Saving,3
+499,2021-2022,Directorate of Agriculture and Assam Seed Corporation,Cancelled,Goods,Samevalue,2
+500,2021-2022,Directorate of Agriculture and Assam Seed Corporation,Cancelled,Services,Samevalue,2
+501,2021-2022,Directorate of Agriculture and Assam Seed Corporation,Cancelled,Works,Samevalue,13
+502,2021-2022,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Goods,Samevalue,1
+503,2021-2022,Directorate of Agriculture and Assam Seed Corporation,Technical Evaluation,Goods,Samevalue,1
+504,2021-2022,Directorate of Horticulture Assam,Financial Evaluation,Goods,Samevalue,3
+505,2021-2022,Directorate of Sports and Youth Welfare - Assam,AOC,Goods,Samevalue,1
+506,2021-2022,Directorate of Sports and Youth Welfare - Assam,AOC,Services,Samevalue,1
+507,2021-2022,Directorate of Sports and Youth Welfare - Assam,Cancelled,Goods,Samevalue,2
+508,2021-2022,Directorate of Sports and Youth Welfare - Assam,Retender,Goods,Samevalue,1
+509,2021-2022,Finance Department - World Bank Tenders,AOC,Goods,Samevalue,2
+510,2021-2022,Finance Department - World Bank Tenders,Financial Bid Opening,Services,Samevalue,1
+511,2021-2022,Food Civil Supplies and Consumer Affairs Department,AOC,Services,Samevalue,1
+512,2021-2022,Gauhati High Court - Guwahati,AOC,Goods,Samevalue,2
+513,2021-2022,Gauhati University,AOC,Works,Samevalue,1
+514,2021-2022,Guwahati Metropolitan Development Authority,AOC,Works,Saving,4
+515,2021-2022,Guwahati Metropolitan Development Authority,Cancelled,Services,Samevalue,1
+516,2021-2022,Guwahati Metropolitan Development Authority,Cancelled,Works,Samevalue,2
+517,2021-2022,Guwahati Metropolitan Development Authority,Technical Bid Opening,Works,Samevalue,2
+518,2021-2022,Guwahati Metropolitan Development Authority,Technical Evaluation,Works,Samevalue,4
+519,2021-2022,Guwahati Metropolitan Development Authority,To Be Opened,Works,Samevalue,1
+520,2021-2022,Guwahati Municipal Corporation,Cancelled,Goods,Samevalue,1
+521,2021-2022,Guwahati Municipal Corporation,Cancelled,Works,Samevalue,51
+522,2021-2022,Guwahati Municipal Corporation,Financial Bid Opening,Works,Samevalue,17
+523,2021-2022,Guwahati Municipal Corporation,Financial Evaluation,Works,Samevalue,72
+524,2021-2022,Guwahati Municipal Corporation,Retender,Works,Samevalue,17
+525,2021-2022,Guwahati Municipal Corporation,Technical Bid Opening,Works,Samevalue,2
+526,2021-2022,Guwahati Municipal Corporation,To Be Opened,Goods,Samevalue,1
+527,2021-2022,Guwahati Municipal Corporation,To Be Opened,Works,Samevalue,6
+528,2021-2022,Guwahati Smart City Ltd.,Cancelled,Works,Samevalue,1
+529,2021-2022,Health and Family Welfare Department,AOC,Goods,Samevalue,13
+530,2021-2022,Health and Family Welfare Department,AOC,Goods,Saving,1
+531,2021-2022,Health and Family Welfare Department,AOC,Services,Samevalue,2
+532,2021-2022,Health and Family Welfare Department,AOC,Services,Saving,1
+533,2021-2022,Health and Family Welfare Department,Cancelled,Goods,Samevalue,17
+534,2021-2022,Health and Family Welfare Department,Cancelled,Services,Samevalue,3
+535,2021-2022,Health and Family Welfare Department,Financial Evaluation,Goods,Samevalue,3
+536,2021-2022,Home B,AOC,Goods,Overrun,12
+537,2021-2022,Home B,AOC,Goods,Samevalue,20
+538,2021-2022,Home B,AOC,Goods,Saving,2
+539,2021-2022,Home B,Cancelled,Goods,Samevalue,31
+540,2021-2022,Home B,Financial Evaluation,Goods,Samevalue,2
+541,2021-2022,Home B,Technical Bid Opening,Goods,Samevalue,1
+542,2021-2022,Indigenous and Tribal Faith and Culture Department,AOC,Works,Samevalue,2
+543,2021-2022,Indigenous and Tribal Faith and Culture Department,AOC,Works,Saving,6
+544,2021-2022,Industries and Commerce Department,AOC,Goods,Overrun,1
+545,2021-2022,Industries and Commerce Department,AOC,Goods,Samevalue,11
+546,2021-2022,Industries and Commerce Department,AOC,Goods,Saving,1
+547,2021-2022,Industries and Commerce Department,AOC,Services,Samevalue,9
+548,2021-2022,Industries and Commerce Department,AOC,Services,Saving,2
+549,2021-2022,Industries and Commerce Department,AOC,Works,Overrun,2
+550,2021-2022,Industries and Commerce Department,AOC,Works,Samevalue,25
+551,2021-2022,Industries and Commerce Department,AOC,Works,Saving,12
+552,2021-2022,Industries and Commerce Department,Cancelled,Goods,Samevalue,7
+553,2021-2022,Industries and Commerce Department,Cancelled,Services,Samevalue,2
+554,2021-2022,Industries and Commerce Department,Cancelled,Works,Samevalue,6
+555,2021-2022,Industries and Commerce Department,Financial Bid Opening,Services,Samevalue,1
+556,2021-2022,Industries and Commerce Department,Retender,Services,Samevalue,1
+557,2021-2022,Industries and Commerce Department,Retender,Works,Samevalue,6
+558,2021-2022,Industries and Commerce Department,Technical Evaluation,Goods,Samevalue,1
+559,2021-2022,Industries and Commerce Department,Technical Evaluation,Works,Samevalue,4
+560,2021-2022,Information - Public Relations - Printing and Stationery Department,Cancelled,Goods,Samevalue,2
+561,2021-2022,Information and Public Relations Department,AOC,Goods,Samevalue,1
+562,2021-2022,Information and Public Relations Department,AOC,Services,Samevalue,3
+563,2021-2022,Information and Public Relations Department,Cancelled,Goods,Samevalue,1
+564,2021-2022,Information and Public Relations Department,Retender,Goods,Samevalue,1
+565,2021-2022,Irrigation Department,AOC,Goods,Saving,2
+566,2021-2022,Irrigation Department,AOC,Works,Samevalue,32
+567,2021-2022,Irrigation Department,AOC,Works,Saving,1
+568,2021-2022,Irrigation Department,Cancelled,Works,Samevalue,7
+569,2021-2022,Irrigation Department,Financial Bid Opening,Works,Samevalue,2
+570,2021-2022,Karbi Anglong Autonomous Council,AOC,Works,Samevalue,17
+571,2021-2022,Karbi Anglong Autonomous Council,Financial Evaluation,Works,Samevalue,1
+572,2021-2022,Karbi Anglong Autonomous Council,Retender,Works,Samevalue,1
+573,2021-2022,Karbi Anglong Autonomous Council,Technical Evaluation,Works,Samevalue,2
+574,2021-2022,Karbi Anglong Autonomous Council,To Be Opened,Works,Samevalue,1
+575,2021-2022,National Health Mission,AOC,Goods,Samevalue,7
+576,2021-2022,National Health Mission,AOC,Services,Overrun,1
+577,2021-2022,National Health Mission,AOC,Services,Samevalue,1
+578,2021-2022,National Health Mission,AOC,Works,Overrun,1
+579,2021-2022,National Health Mission,AOC,Works,Samevalue,3
+580,2021-2022,National Health Mission,AOC,Works,Saving,91
+581,2021-2022,National Health Mission,Cancelled,Goods,Samevalue,1
+582,2021-2022,National Health Mission,Cancelled,Works,Samevalue,127
+583,2021-2022,National Health Mission,Financial Bid Opening,Goods,Samevalue,3
+584,2021-2022,National Health Mission,Financial Bid Opening,Services,Samevalue,1
+585,2021-2022,National Health Mission,Financial Bid Opening,Works,Samevalue,13
+586,2021-2022,National Health Mission,Financial Evaluation,Works,Samevalue,1
+587,2021-2022,National Health Mission,Retender,Goods,Samevalue,1
+588,2021-2022,National Health Mission,Retender,Works,Samevalue,2
+589,2021-2022,National Health Mission,Technical Bid Opening,Goods,Samevalue,3
+590,2021-2022,National Health Mission,Technical Evaluation,Works,Samevalue,23
+591,2021-2022,National Health Mission,To Be Opened,Goods,Samevalue,1
+592,2021-2022,National Health Mission,To Be Opened,Services,Samevalue,2
+593,2021-2022,Office of the Chief Electoral Officer Assam,AOC,Goods,Samevalue,1
+594,2021-2022,Office of the Chief Electoral Officer Assam,AOC,Services,Samevalue,5
+595,2021-2022,Office of the Chief Electoral Officer Assam,Cancelled,Goods,Samevalue,1
+596,2021-2022,Office of the Chief Electoral Officer Assam,Cancelled,Services,Samevalue,1
+597,2021-2022,Pollution Control Board,AOC,Works,Samevalue,1
+598,2021-2022,Pollution Control Board,Cancelled,Goods,Samevalue,1
+599,2021-2022,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Works,Samevalue,23
+600,2021-2022,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Works,Saving,4
+601,2021-2022,Pr. Chief Conservator of Forest and Head of Forest Force,Cancelled,Works,Samevalue,46
+602,2021-2022,Pr. Chief Conservator of Forest and Head of Forest Force,Financial Evaluation,Works,Samevalue,4
+603,2021-2022,Pr. Chief Conservator of Forest and Head of Forest Force,Retender,Works,Samevalue,10
+604,2021-2022,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Bid Opening,Works,Samevalue,1
+605,2021-2022,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Evaluation,Works,Samevalue,9
+606,2021-2022,Pr. Chief Conservator of Forest and Head of Forest Force,To Be Opened,Works,Samevalue,1
+607,2021-2022,Principal Secretary- P and RD- Assam Secretariat,AOC,Goods,Saving,1
+608,2021-2022,Principal Secretary- P and RD- Assam Secretariat,AOC,Services,Samevalue,1
+609,2021-2022,Principal Secretary- P and RD- Assam Secretariat,AOC,Services,Saving,1
+610,2021-2022,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,Samevalue,3
+611,2021-2022,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,Saving,10
+612,2021-2022,Principal Secretary- P and RD- Assam Secretariat,Cancelled,Goods,Samevalue,1
+613,2021-2022,Principal Secretary- P and RD- Assam Secretariat,Financial Evaluation,Works,Samevalue,4
+614,2021-2022,Principal Secretary- P and RD- Assam Secretariat,To Be Opened,Works,Samevalue,2
+615,2021-2022,Principal Secretary-Department of Information Technology,AOC,Goods,Samevalue,1
+616,2021-2022,Principal Secretary-Department of Information Technology,AOC,Services,Samevalue,2
+617,2021-2022,Principal Secretary-Department of Information Technology,Cancelled,Goods,Samevalue,1
+618,2021-2022,Principal Secretary-Department of Information Technology,Cancelled,Services,Samevalue,2
+619,2021-2022,Principal Secretary-Department of Information Technology,Cancelled,Works,Samevalue,1
+620,2021-2022,Principal Secretary-Department of Information Technology,Retender,Services,Samevalue,1
+621,2021-2022,Principal Secretary-Department of Information Technology,Retender,Works,Samevalue,1
+622,2021-2022,Principal Secretary-Department of Information Technology,Technical Evaluation,Services,Samevalue,1
+623,2021-2022,Principal Secretary-Department of Information Technology,To Be Opened,Services,Samevalue,1
+624,2021-2022,Public Health Engineering Department,AOC,Goods,Samevalue,15
+625,2021-2022,Public Health Engineering Department,AOC,Services,Overrun,1
+626,2021-2022,Public Health Engineering Department,AOC,Works,Samevalue,14
+627,2021-2022,Public Health Engineering Department,Cancelled,Goods,Samevalue,5
+628,2021-2022,Public Health Engineering Department,Cancelled,Services,Samevalue,1
+629,2021-2022,Public Health Engineering Department,Cancelled,Works,Samevalue,12
+630,2021-2022,Public Health Engineering Department,Financial Evaluation,Services,Samevalue,1
+631,2021-2022,Public Health Engineering Department,Retender,Goods,Samevalue,4
+632,2021-2022,Public Works Building and NH Department,AOC,Works,Overrun,16
+633,2021-2022,Public Works Building and NH Department,AOC,Works,Samevalue,50
+634,2021-2022,Public Works Building and NH Department,AOC,Works,Saving,30
+635,2021-2022,Public Works Building and NH Department,Cancelled,Works,Samevalue,18
+636,2021-2022,Public Works Building and NH Department,Financial Bid Opening,Works,Samevalue,6
+637,2021-2022,Public Works Building and NH Department,Financial Evaluation,Goods,Samevalue,2
+638,2021-2022,Public Works Building and NH Department,Financial Evaluation,Works,Samevalue,1
+639,2021-2022,Public Works Building and NH Department,Retender,Works,Samevalue,2
+640,2021-2022,Public Works Building and NH Department,Technical Bid Opening,Works,Samevalue,3
+641,2021-2022,Public Works Building and NH Department,Technical Evaluation,Works,Samevalue,1
+642,2021-2022,Public Works Building and NH Department,To Be Opened,Works,Samevalue,1
+643,2021-2022,Public Works Roads Department,AOC,Goods,Samevalue,1
+644,2021-2022,Public Works Roads Department,AOC,Works,Overrun,5
+645,2021-2022,Public Works Roads Department,AOC,Works,Samevalue,396
+646,2021-2022,Public Works Roads Department,AOC,Works,Saving,79
+647,2021-2022,Public Works Roads Department,Cancelled,Works,Samevalue,87
+648,2021-2022,Public Works Roads Department,Financial Bid Opening,Works,Samevalue,242
+649,2021-2022,Public Works Roads Department,Financial Evaluation,Works,Samevalue,31
+650,2021-2022,Public Works Roads Department,Retender,Works,Samevalue,25
+651,2021-2022,Public Works Roads Department,Technical Bid Opening,Works,Samevalue,9
+652,2021-2022,Public Works Roads Department,Technical Evaluation,Works,Samevalue,112
+653,2021-2022,Public Works Roads Department,To Be Opened,Works,Samevalue,62
+654,2021-2022,Public Works Roads Department-Externally Aided Project,AOC,Works,Overrun,2
+655,2021-2022,Public Works Roads Department-Externally Aided Project,AOC,Works,Saving,4
+656,2021-2022,Public Works Roads Department-Externally Aided Project,Cancelled,Works,Samevalue,1
+657,2021-2022,Public Works Roads Department-Externally Aided Project,Financial Bid Opening,Works,Samevalue,1
+658,2021-2022,Rashtriya Madhyamik Siksha Abhijan,AOC,Goods,Samevalue,1
+659,2021-2022,Rashtriya Madhyamik Siksha Abhijan,Cancelled,Goods,Samevalue,1
+660,2021-2022,Rashtriya Madhyamik Siksha Abhijan,Cancelled,Services,Samevalue,1
+661,2021-2022,Rashtriya Madhyamik Siksha Abhijan,Financial Evaluation,Goods,Samevalue,2
+662,2021-2022,Rashtriya Madhyamik Siksha Abhijan,Technical Evaluation,Services,Samevalue,2
+663,2021-2022,SECONDARY EDUCATION DEPARTMENT ASSAM,AOC,Services,Samevalue,1
+664,2021-2022,Social Welfare Department,Cancelled,Goods,Samevalue,2
+665,2021-2022,Social Welfare Department,Cancelled,Services,Samevalue,1
+666,2021-2022,Social Welfare Department,Financial Evaluation,Goods,Samevalue,1
+667,2021-2022,Soil Conservation Department,AOC,Works,Samevalue,13
+668,2021-2022,Soil Conservation Department,AOC,Works,Saving,3
+669,2021-2022,Soil Conservation Department,Retender,Works,Samevalue,2
+670,2021-2022,Tea Tribes Welfare Department,AOC,Goods,Samevalue,2
+671,2021-2022,Tea Tribes Welfare Department,Cancelled,Services,Samevalue,1
+672,2021-2022,Urban Development Department,AOC,Services,Samevalue,1
+673,2021-2022,Urban Development Department,AOC,Works,Overrun,2
+674,2021-2022,Urban Development Department,AOC,Works,Samevalue,5
+675,2021-2022,Urban Development Department,Cancelled,Goods,Samevalue,1
+676,2021-2022,Urban Development Department,Cancelled,Works,Samevalue,2
+677,2021-2022,Urban Development Department,Financial Bid Opening,Works,Samevalue,1
+678,2021-2022,Urban Development Department,Retender,Works,Samevalue,2
+679,2021-2022,Urban Development Department,Technical Evaluation,Works,Samevalue,2
+680,2021-2022,Urban Development Department,To Be Opened,Works,Samevalue,5
+681,2021-2022,Water Resources Department- World Bank Tenders,AOC,Goods,Samevalue,3
+682,2021-2022,Water Resources Department- World Bank Tenders,Cancelled,Goods,Samevalue,1
+683,2021-2022,Welfare of Plain Tribes and Backward Classes,AOC,Works,Overrun,4
+684,2021-2022,Welfare of Plain Tribes and Backward Classes,AOC,Works,Samevalue,40
+685,2021-2022,Welfare of Plain Tribes and Backward Classes,AOC,Works,Saving,18
+686,2021-2022,Welfare of Plain Tribes and Backward Classes,Cancelled,Goods,Samevalue,7
+687,2021-2022,Welfare of Plain Tribes and Backward Classes,Cancelled,Works,Samevalue,2
+688,2021-2022,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Goods,Samevalue,2
+689,2021-2022,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Works,Samevalue,16
+690,2021-2022,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Goods,Samevalue,4
+691,2021-2022,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Works,Samevalue,2
+692,2021-2022,Welfare of Plain Tribes and Backward Classes,Retender,Works,Samevalue,2
+693,2021-2022,Welfare of Plain Tribes and Backward Classes,Technical Bid Opening,Works,Samevalue,3
+694,2021-2022,Welfare of Plain Tribes and Backward Classes,Technical Evaluation,Works,Samevalue,2
+695,2021-2022,Welfare of Plain Tribes and Backward Classes,To Be Opened,Goods,Samevalue,1
+696,2021-2022,Welfare of Plain Tribes and Backward Classes,To Be Opened,Works,Samevalue,3
+697,2022-2023,ASSAM CANCER CARE FOUNDATION,AOC,Goods,Samevalue,2
+698,2022-2023,ASSAM CANCER CARE FOUNDATION,AOC,Services,Samevalue,6
+699,2022-2023,ASSAM CANCER CARE FOUNDATION,AOC,Services,Saving,3
+700,2022-2023,ASSAM CANCER CARE FOUNDATION,AOC,Works,Overrun,1
+701,2022-2023,ASSAM CANCER CARE FOUNDATION,AOC,Works,Samevalue,3
+702,2022-2023,ASSAM CANCER CARE FOUNDATION,Cancelled,Services,Samevalue,2
+703,2022-2023,Animal Husbandry and Veterinary Department,AOC,Goods,Samevalue,4
+704,2022-2023,Animal Husbandry and Veterinary Department,AOC,Goods,Saving,4
+705,2022-2023,Animal Husbandry and Veterinary Department,AOC,Services,Samevalue,2
+706,2022-2023,Animal Husbandry and Veterinary Department,AOC,Services,Saving,3
+707,2022-2023,Animal Husbandry and Veterinary Department,AOC,Works,Overrun,2
+708,2022-2023,Animal Husbandry and Veterinary Department,AOC,Works,Samevalue,20
+709,2022-2023,Animal Husbandry and Veterinary Department,AOC,Works,Saving,24
+710,2022-2023,Animal Husbandry and Veterinary Department,Cancelled,Goods,Samevalue,9
+711,2022-2023,Animal Husbandry and Veterinary Department,Cancelled,Services,Samevalue,1
+712,2022-2023,Animal Husbandry and Veterinary Department,Cancelled,Works,Samevalue,14
+713,2022-2023,Animal Husbandry and Veterinary Department,Financial Bid Opening,Services,Samevalue,3
+714,2022-2023,Animal Husbandry and Veterinary Department,Financial Bid Opening,Works,Samevalue,7
+715,2022-2023,Animal Husbandry and Veterinary Department,Financial Evaluation,Goods,Samevalue,1
+716,2022-2023,Animal Husbandry and Veterinary Department,Technical Evaluation,Goods,Samevalue,1
+717,2022-2023,Animal Husbandry and Veterinary Department,Technical Evaluation,Services,Samevalue,1
+718,2022-2023,Animal Husbandry and Veterinary Department,Technical Evaluation,Works,Samevalue,2
+719,2022-2023,Animal Husbandry and Veterinary Department-Externally Aided Project,AOC,Goods,Samevalue,6
+720,2022-2023,Animal Husbandry and Veterinary Department-Externally Aided Project,AOC,Services,Samevalue,1
+721,2022-2023,Animal Husbandry and Veterinary Department-Externally Aided Project,Cancelled,Goods,Samevalue,2
+722,2022-2023,Assam Agricultural University,AOC,Goods,Samevalue,11
+723,2022-2023,Assam Agricultural University,AOC,Works,Overrun,1
+724,2022-2023,Assam Agricultural University,AOC,Works,Samevalue,7
+725,2022-2023,Assam Agricultural University,AOC,Works,Saving,20
+726,2022-2023,Assam Agricultural University,Cancelled,Goods,Samevalue,5
+727,2022-2023,Assam Agricultural University,Cancelled,Works,Samevalue,6
+728,2022-2023,Assam Agricultural University,Technical Evaluation,Works,Samevalue,1
+729,2022-2023,Assam Electricity Grid Corporation Ltd,AOC,Goods,Samevalue,2
+730,2022-2023,Assam Electricity Grid Corporation Ltd,AOC,Goods,Saving,2
+731,2022-2023,Assam Electricity Grid Corporation Ltd,AOC,Works,Overrun,1
+732,2022-2023,Assam Electricity Grid Corporation Ltd,AOC,Works,Samevalue,16
+733,2022-2023,Assam Electricity Grid Corporation Ltd,AOC,Works,Saving,10
+734,2022-2023,Assam Electricity Grid Corporation Ltd,Cancelled,Works,Samevalue,9
+735,2022-2023,Assam Electricity Grid Corporation Ltd,Financial Bid Opening,Works,Samevalue,1
+736,2022-2023,Assam Electricity Grid Corporation Ltd,Retender,Works,Samevalue,1
+737,2022-2023,Assam Electricity Grid Corporation Ltd,Technical Evaluation,Works,Samevalue,1
+738,2022-2023,Assam Electricity Grid Corporation Ltd. - Externally Funded Projects,AOC,Services,Samevalue,1
+739,2022-2023,Assam Electricity Grid Corporation Ltd. - Externally Funded Projects,Cancelled,Works,Samevalue,1
+740,2022-2023,Assam Police,Cancelled,Goods,Samevalue,4
+741,2022-2023,Assam Police,Cancelled,Services,Samevalue,3
+742,2022-2023,Assam Police,Technical Evaluation,Services,Samevalue,1
+743,2022-2023,Assam Police,To Be Opened,Goods,Samevalue,1
+744,2022-2023,Assam Police Housing Corporation Ltd,AOC,Works,Overrun,3
+745,2022-2023,Assam Police Housing Corporation Ltd,AOC,Works,Samevalue,3
+746,2022-2023,Assam Police Housing Corporation Ltd,AOC,Works,Saving,20
+747,2022-2023,Assam Police Housing Corporation Ltd,Cancelled,Works,Samevalue,25
+748,2022-2023,Assam Police Housing Corporation Ltd,To Be Opened,Works,Samevalue,1
+749,2022-2023,Assam Power Distribution Company Limited- Externally Aided Project,AOC,Works,Samevalue,13
+750,2022-2023,Assam Power Distribution Company Limited- Externally Aided Project,Cancelled,Works,Samevalue,1
+751,2022-2023,Assam Power Distribution Company Limited- Externally Aided Project,Financial Evaluation,Works,Samevalue,4
+752,2022-2023,Assam Power Distribution Company Ltd,AOC,Goods,Samevalue,1
+753,2022-2023,Assam Power Distribution Company Ltd,AOC,Services,Overrun,1
+754,2022-2023,Assam Power Distribution Company Ltd,AOC,Services,Samevalue,7
+755,2022-2023,Assam Power Distribution Company Ltd,AOC,Services,Saving,7
+756,2022-2023,Assam Power Distribution Company Ltd,AOC,Works,Overrun,1
+757,2022-2023,Assam Power Distribution Company Ltd,AOC,Works,Samevalue,30
+758,2022-2023,Assam Power Distribution Company Ltd,AOC,Works,Saving,10
+759,2022-2023,Assam Power Distribution Company Ltd,Cancelled,Services,Samevalue,20
+760,2022-2023,Assam Power Distribution Company Ltd,Cancelled,Works,Samevalue,19
+761,2022-2023,Assam Power Distribution Company Ltd,Financial Bid Opening,Services,Samevalue,1
+762,2022-2023,Assam Power Distribution Company Ltd,Financial Bid Opening,Works,Samevalue,17
+763,2022-2023,Assam Power Distribution Company Ltd,Financial Evaluation,Works,Samevalue,6
+764,2022-2023,Assam Power Distribution Company Ltd,Retender,Works,Samevalue,33
+765,2022-2023,Assam Power Distribution Company Ltd,Technical Evaluation,Goods,Samevalue,2
+766,2022-2023,Assam Power Distribution Company Ltd,Technical Evaluation,Services,Samevalue,21
+767,2022-2023,Assam Power Distribution Company Ltd,Technical Evaluation,Works,Samevalue,22
+768,2022-2023,Assam Power Distribution Company Ltd,To Be Opened,Works,Samevalue,2
+769,2022-2023,Assam Power Generation Company Limited,AOC,Goods,Samevalue,3
+770,2022-2023,Assam Power Generation Company Limited,AOC,Services,Overrun,2
+771,2022-2023,Assam Power Generation Company Limited,AOC,Services,Samevalue,4
+772,2022-2023,Assam Power Generation Company Limited,AOC,Works,Samevalue,10
+773,2022-2023,Assam Power Generation Company Limited,AOC,Works,Saving,2
+774,2022-2023,Assam Power Generation Company Limited,Cancelled,Goods,Samevalue,3
+775,2022-2023,Assam Power Generation Company Limited,Cancelled,Services,Samevalue,1
+776,2022-2023,Assam Power Generation Company Limited,Cancelled,Works,Samevalue,20
+777,2022-2023,Assam Power Generation Company Limited,Financial Bid Opening,Services,Samevalue,1
+778,2022-2023,Assam Power Generation Company Limited,Financial Evaluation,Works,Samevalue,2
+779,2022-2023,Assam Power Generation Company Limited,Technical Bid Opening,Works,Samevalue,2
+780,2022-2023,Assam Power Generation Company Limited,Technical Evaluation,Services,Samevalue,1
+781,2022-2023,Assam Power Generation Company Limited,Technical Evaluation,Works,Samevalue,1
+782,2022-2023,Assam Power Generation Company Limited APGCL - ADB,AOC,Works,Samevalue,1
+783,2022-2023,Assam Science and Technology University,AOC,Works,Saving,1
+784,2022-2023,Assam State Agricultural Marketing Board,AOC,Services,Samevalue,2
+785,2022-2023,Assam State Agricultural Marketing Board,AOC,Works,Samevalue,1
+786,2022-2023,Assam State Agricultural Marketing Board,Cancelled,Services,Samevalue,1
+787,2022-2023,Assam State Agricultural Marketing Board,To Be Opened,Services,Samevalue,4
+788,2022-2023,Assam State Disaster Management Authority,Cancelled,Services,Samevalue,1
+789,2022-2023,Assam State Disaster Management Authority- Externally Aided Project,AOC,Services,Samevalue,1
+790,2022-2023,Assam State Disaster Management Authority- Externally Aided Project,Retender,Services,Samevalue,1
+791,2022-2023,Assam State Disaster Management Authority- Externally Aided Project,Technical Bid Opening,Services,Samevalue,1
+792,2022-2023,Assam State Transport Corporation,AOC,Goods,Samevalue,4
+793,2022-2023,Assam State Transport Corporation,AOC,Services,Samevalue,2
+794,2022-2023,Assam State Transport Corporation,AOC,Works,Overrun,1
+795,2022-2023,Assam State Transport Corporation,Financial Bid Opening,Goods,Samevalue,1
+796,2022-2023,Assam State Transport Corporation,Financial Bid Opening,Works,Samevalue,1
+797,2022-2023,Assam State Transport Corporation,Financial Evaluation,Goods,Samevalue,1
+798,2022-2023,Assam State Transport Corporation,Technical Evaluation,Goods,Samevalue,1
+799,2022-2023,Axom Sarba Siksha Abhijan Mission,AOC,Services,Samevalue,1
+800,2022-2023,Axom Sarba Siksha Abhijan Mission,AOC,Works,Samevalue,17
+801,2022-2023,Axom Sarba Siksha Abhijan Mission,Cancelled,Goods,Samevalue,1
+802,2022-2023,Axom Sarba Siksha Abhijan Mission,Cancelled,Works,Samevalue,50
+803,2022-2023,Axom Sarba Siksha Abhijan Mission,Retender,Works,Samevalue,10
+804,2022-2023,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Goods,Samevalue,1
+805,2022-2023,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Services,Samevalue,1
+806,2022-2023,Axom Sarba Siksha Abhijan Mission,Technical Evaluation,Works,Samevalue,1
+807,2022-2023,Axom Sarba Siksha Abhijan Mission,To Be Opened,Works,Samevalue,5
+808,2022-2023,BODOLAND UNIVERSITY,AOC,Works,Saving,3
+809,2022-2023,Bodoland Territorial Council,AOC,Goods,Overrun,1
+810,2022-2023,Bodoland Territorial Council,AOC,Goods,Samevalue,19
+811,2022-2023,Bodoland Territorial Council,AOC,Goods,Saving,18
+812,2022-2023,Bodoland Territorial Council,AOC,Services,Saving,1
+813,2022-2023,Bodoland Territorial Council,AOC,Works,Overrun,24
+814,2022-2023,Bodoland Territorial Council,AOC,Works,Samevalue,79
+815,2022-2023,Bodoland Territorial Council,AOC,Works,Saving,272
+816,2022-2023,Bodoland Territorial Council,Cancelled,Goods,Samevalue,17
+817,2022-2023,Bodoland Territorial Council,Cancelled,Services,Samevalue,1
+818,2022-2023,Bodoland Territorial Council,Cancelled,Works,Samevalue,37
+819,2022-2023,Bodoland Territorial Council,Financial Bid Opening,Goods,Samevalue,10
+820,2022-2023,Bodoland Territorial Council,Financial Bid Opening,Services,Samevalue,1
+821,2022-2023,Bodoland Territorial Council,Financial Bid Opening,Works,Samevalue,25
+822,2022-2023,Bodoland Territorial Council,Financial Evaluation,Goods,Samevalue,10
+823,2022-2023,Bodoland Territorial Council,Financial Evaluation,Services,Samevalue,1
+824,2022-2023,Bodoland Territorial Council,Financial Evaluation,Works,Samevalue,47
+825,2022-2023,Bodoland Territorial Council,Retender,Goods,Samevalue,2
+826,2022-2023,Bodoland Territorial Council,Retender,Services,Samevalue,1
+827,2022-2023,Bodoland Territorial Council,Retender,Works,Samevalue,6
+828,2022-2023,Bodoland Territorial Council,Technical Bid Opening,Goods,Samevalue,1
+829,2022-2023,Bodoland Territorial Council,Technical Bid Opening,Works,Samevalue,1
+830,2022-2023,Bodoland Territorial Council,Technical Evaluation,Goods,Samevalue,4
+831,2022-2023,Bodoland Territorial Council,Technical Evaluation,Services,Samevalue,1
+832,2022-2023,Bodoland Territorial Council,Technical Evaluation,Works,Samevalue,3
+833,2022-2023,Bodoland Territorial Council-PWD,AOC,Goods,Samevalue,1
+834,2022-2023,Bodoland Territorial Council-PWD,AOC,Services,Saving,1
+835,2022-2023,Bodoland Territorial Council-PWD,AOC,Works,Overrun,8
+836,2022-2023,Bodoland Territorial Council-PWD,AOC,Works,Samevalue,25
+837,2022-2023,Bodoland Territorial Council-PWD,AOC,Works,Saving,194
+838,2022-2023,Bodoland Territorial Council-PWD,Cancelled,Works,Samevalue,35
+839,2022-2023,Bodoland Territorial Council-PWD,Retender,Works,Samevalue,1
+840,2022-2023,Bodoland Territorial Council-PWD,Technical Bid Opening,Works,Samevalue,2
+841,2022-2023,Bodoland Territorial Council-WRD,AOC,Works,Saving,1
+842,2022-2023,Chief Minister Secretariat,AOC,Services,Samevalue,1
+843,2022-2023,Cooperation Department,AOC,Goods,Samevalue,27
+844,2022-2023,Cooperation Department,AOC,Services,Samevalue,1
+845,2022-2023,Cooperation Department,AOC,Works,Overrun,1
+846,2022-2023,Cooperation Department,AOC,Works,Samevalue,2
+847,2022-2023,Cooperation Department,AOC,Works,Saving,2
+848,2022-2023,Cooperation Department,Cancelled,Goods,Samevalue,8
+849,2022-2023,Cooperation Department,Cancelled,Services,Samevalue,1
+850,2022-2023,Cooperation Department,Cancelled,Works,Samevalue,2
+851,2022-2023,Cooperation Department,Retender,Goods,Samevalue,4
+852,2022-2023,Cooperation Department,Technical Bid Opening,Services,Samevalue,1
+853,2022-2023,Cooperation Department,Technical Evaluation,Works,Samevalue,2
+854,2022-2023,Cotton University,AOC,Works,Saving,2
+855,2022-2023,Cotton University,Technical Evaluation,Goods,Samevalue,3
+856,2022-2023,Department of Cultural Affairs,AOC,Services,Samevalue,1
+857,2022-2023,Department of Cultural Affairs,Cancelled,Goods,Samevalue,1
+858,2022-2023,Department of Cultural Affairs,Cancelled,Services,Samevalue,2
+859,2022-2023,Department of Fisheries,Cancelled,Works,Samevalue,3
+860,2022-2023,Department of Handloom Textile and Sericulture,AOC,Works,Samevalue,1
+861,2022-2023,Department of Handloom Textile and Sericulture,AOC,Works,Saving,1
+862,2022-2023,Department of Handloom Textile and Sericulture,Cancelled,Goods,Samevalue,1
+863,2022-2023,Department of Handloom Textile and Sericulture,Cancelled,Works,Samevalue,1
+864,2022-2023,Department of Handloom Textile and Sericulture,Financial Bid Opening,Services,Samevalue,1
+865,2022-2023,Department of Handloom Textile and Sericulture,Financial Bid Opening,Works,Samevalue,1
+866,2022-2023,Department of Handloom Textile and Sericulture,Technical Bid Opening,Goods,Samevalue,1
+867,2022-2023,Department of Handloom Textile and Sericulture,Technical Evaluation,Goods,Samevalue,1
+868,2022-2023,Department of Handloom Textile and Sericulture,Technical Evaluation,Works,Samevalue,2
+869,2022-2023,Department of Handloom Textile and Sericulture,To Be Opened,Goods,Samevalue,3
+870,2022-2023,Department of Handloom Textile and Sericulture,To Be Opened,Works,Samevalue,15
+871,2022-2023,Department of Higher Education,AOC,Works,Samevalue,1
+872,2022-2023,Department of Higher Education,AOC,Works,Saving,1
+873,2022-2023,Department of Housing and Urban Affairs,AOC,Goods,Saving,2
+874,2022-2023,Department of Housing and Urban Affairs,AOC,Works,Overrun,1
+875,2022-2023,Department of Housing and Urban Affairs,AOC,Works,Samevalue,10
+876,2022-2023,Department of Housing and Urban Affairs,AOC,Works,Saving,53
+877,2022-2023,Department of Housing and Urban Affairs,Cancelled,Works,Samevalue,18
+878,2022-2023,Department of Housing and Urban Affairs,Financial Evaluation,Works,Samevalue,2
+879,2022-2023,Department of Housing and Urban Affairs,Retender,Works,Samevalue,5
+880,2022-2023,Department of Housing and Urban Affairs,To Be Opened,Works,Samevalue,2
+881,2022-2023,Department of Labour and Welfare,Cancelled,Services,Samevalue,1
+882,2022-2023,Department of Science and Technology,AOC,Services,Samevalue,2
+883,2022-2023,Department of Science and Technology,Cancelled,Services,Samevalue,1
+884,2022-2023,Department of Science and Technology,Cancelled,Works,Samevalue,1
+885,2022-2023,Department of Science and Technology,Financial Evaluation,Services,Samevalue,2
+886,2022-2023,Department of Tourism,AOC,Services,Overrun,2
+887,2022-2023,Department of Tourism,AOC,Services,Samevalue,5
+888,2022-2023,Department of Tourism,AOC,Works,Overrun,3
+889,2022-2023,Department of Tourism,AOC,Works,Samevalue,6
+890,2022-2023,Department of Tourism,AOC,Works,Saving,1
+891,2022-2023,Department of Tourism,Cancelled,Services,Samevalue,5
+892,2022-2023,Department of Tourism,Cancelled,Works,Samevalue,1
+893,2022-2023,Department of Tourism,Financial Evaluation,Services,Samevalue,11
+894,2022-2023,Department of Tourism,Technical Evaluation,Services,Samevalue,1
+895,2022-2023,Department of Tourism,Technical Evaluation,Works,Samevalue,1
+896,2022-2023,Department of Tourism,To Be Opened,Services,Samevalue,12
+897,2022-2023,Department of Water Resources,AOC,Goods,Samevalue,10
+898,2022-2023,Department of Water Resources,AOC,Goods,Saving,9
+899,2022-2023,Department of Water Resources,AOC,Services,Samevalue,1
+900,2022-2023,Department of Water Resources,AOC,Works,Samevalue,52
+901,2022-2023,Department of Water Resources,AOC,Works,Saving,87
+902,2022-2023,Department of Water Resources,Cancelled,Works,Samevalue,11
+903,2022-2023,Department of Water Resources,Financial Bid Opening,Works,Samevalue,17
+904,2022-2023,Department of Water Resources,Financial Evaluation,Services,Samevalue,2
+905,2022-2023,Department of Water Resources,Financial Evaluation,Works,Samevalue,7
+906,2022-2023,Department of Water Resources,Retender,Goods,Samevalue,3
+907,2022-2023,Department of Water Resources,Retender,Works,Samevalue,49
+908,2022-2023,Department of Water Resources,To Be Opened,Works,Samevalue,1
+909,2022-2023,Department of Water Resources-Externally Aided Project,Financial Evaluation,Services,Samevalue,3
+910,2022-2023,Dibrugarh University,AOC,Goods,Samevalue,1
+911,2022-2023,Dibrugarh University,AOC,Works,Overrun,1
+912,2022-2023,Dibrugarh University,AOC,Works,Samevalue,1
+913,2022-2023,Dibrugarh University,AOC,Works,Saving,1
+914,2022-2023,Dibrugarh University,Cancelled,Goods,Samevalue,4
+915,2022-2023,Dibrugarh University,Cancelled,Works,Samevalue,4
+916,2022-2023,Dibrugarh University,Financial Evaluation,Services,Samevalue,1
+917,2022-2023,Dibrugarh University,Retender,Works,Samevalue,1
+918,2022-2023,Dibrugarh University,Technical Evaluation,Goods,Samevalue,2
+919,2022-2023,Director- Fire and Emergency Services-Assam,AOC,Works,Samevalue,3
+920,2022-2023,Director- Fire and Emergency Services-Assam,AOC,Works,Saving,4
+921,2022-2023,Directorate of Agriculture and Assam Seed Corporation,AOC,Goods,Samevalue,3
+922,2022-2023,Directorate of Agriculture and Assam Seed Corporation,AOC,Services,Samevalue,1
+923,2022-2023,Directorate of Agriculture and Assam Seed Corporation,AOC,Services,Saving,1
+924,2022-2023,Directorate of Agriculture and Assam Seed Corporation,AOC,Works,Overrun,1
+925,2022-2023,Directorate of Agriculture and Assam Seed Corporation,AOC,Works,Samevalue,2
+926,2022-2023,Directorate of Agriculture and Assam Seed Corporation,AOC,Works,Saving,108
+927,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Cancelled,Goods,Samevalue,12
+928,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Cancelled,Services,Samevalue,3
+929,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Cancelled,Works,Samevalue,41
+930,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Financial Bid Opening,Goods,Samevalue,3
+931,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Financial Bid Opening,Works,Samevalue,3
+932,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Goods,Samevalue,3
+933,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Services,Samevalue,2
+934,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Financial Evaluation,Works,Samevalue,11
+935,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Technical Bid Opening,Goods,Samevalue,1
+936,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Technical Bid Opening,Works,Samevalue,2
+937,2022-2023,Directorate of Agriculture and Assam Seed Corporation,Technical Evaluation,Works,Samevalue,7
+938,2022-2023,Directorate of Agriculture and Assam Seed Corporation,To Be Opened,Services,Samevalue,1
+939,2022-2023,Directorate of Forensic Science Assam,AOC,Goods,Samevalue,3
+940,2022-2023,Directorate of Forensic Science Assam,Cancelled,Goods,Samevalue,2
+941,2022-2023,Directorate of Forensic Science Assam,Financial Evaluation,Goods,Samevalue,1
+942,2022-2023,Directorate of Forensic Science Assam,Technical Bid Opening,Goods,Samevalue,1
+943,2022-2023,Directorate of Forensic Science Assam,To Be Opened,Goods,Samevalue,1
+944,2022-2023,Directorate of Horticulture Assam,Cancelled,Goods,Samevalue,3
+945,2022-2023,Directorate of Horticulture Assam,Cancelled,Services,Samevalue,1
+946,2022-2023,Directorate of Horticulture Assam,Cancelled,Works,Samevalue,1
+947,2022-2023,Directorate of Horticulture Assam,Financial Evaluation,Goods,Samevalue,1
+948,2022-2023,Directorate of Horticulture Assam,Financial Evaluation,Services,Samevalue,1
+949,2022-2023,Directorate of Horticulture Assam,Technical Evaluation,Goods,Samevalue,1
+950,2022-2023,Directorate of Land Records and Survey etc. Assam,AOC,Goods,Samevalue,1
+951,2022-2023,Directorate of Land Records and Survey etc. Assam,Cancelled,Services,Samevalue,1
+952,2022-2023,Directorate of Land Records and Survey etc. Assam,Financial Evaluation,Services,Samevalue,1
+953,2022-2023,Directorate of Sports and Youth Welfare - Assam,AOC,Goods,Samevalue,5
+954,2022-2023,Directorate of Sports and Youth Welfare - Assam,AOC,Works,Saving,2
+955,2022-2023,Directorate of Sports and Youth Welfare - Assam,Cancelled,Services,Samevalue,4
+956,2022-2023,Directorate of Sports and Youth Welfare - Assam,Financial Bid Opening,Goods,Samevalue,1
+957,2022-2023,Directorate of Sports and Youth Welfare - Assam,Financial Bid Opening,Services,Samevalue,5
+958,2022-2023,Directorate of Sports and Youth Welfare - Assam,Technical Bid Opening,Services,Samevalue,1
+959,2022-2023,Directorate of Sports and Youth Welfare - Assam,Technical Evaluation,Services,Samevalue,2
+960,2022-2023,Directorate of Sports and Youth Welfare - Assam,To Be Opened,Services,Samevalue,3
+961,2022-2023,Elementary Education Department,AOC,Services,Samevalue,1
+962,2022-2023,Elementary Education Department,Cancelled,Goods,Samevalue,7
+963,2022-2023,Elementary Education Department,Cancelled,Services,Samevalue,7
+964,2022-2023,Elementary Education Department,Financial Evaluation,Goods,Samevalue,1
+965,2022-2023,Elementary Education Department,Financial Evaluation,Services,Samevalue,1
+966,2022-2023,Elementary Education Department,Technical Bid Opening,Goods,Samevalue,1
+967,2022-2023,Finance Department,Financial Evaluation,Services,Samevalue,1
+968,2022-2023,Finance Department - World Bank Tenders,AOC,Goods,Samevalue,8
+969,2022-2023,Finance Department - World Bank Tenders,AOC,Services,Overrun,1
+970,2022-2023,Finance Department - World Bank Tenders,AOC,Services,Samevalue,2
+971,2022-2023,Finance Department - World Bank Tenders,Cancelled,Goods,Samevalue,7
+972,2022-2023,Finance Department - World Bank Tenders,Cancelled,Services,Samevalue,1
+973,2022-2023,Finance Department - World Bank Tenders,Financial Bid Opening,Goods,Samevalue,2
+974,2022-2023,Finance Department - World Bank Tenders,Financial Bid Opening,Services,Samevalue,1
+975,2022-2023,Finance Department - World Bank Tenders,Financial Evaluation,Goods,Samevalue,1
+976,2022-2023,Finance Department - World Bank Tenders,Technical Evaluation,Goods,Samevalue,1
+977,2022-2023,Food Civil Supplies and Consumer Affairs Department,AOC,Goods,Samevalue,6
+978,2022-2023,Food Civil Supplies and Consumer Affairs Department,AOC,Services,Samevalue,2
+979,2022-2023,Food Civil Supplies and Consumer Affairs Department,AOC,Services,Saving,118
+980,2022-2023,Food Civil Supplies and Consumer Affairs Department,AOC,Works,Saving,1
+981,2022-2023,Food Civil Supplies and Consumer Affairs Department,Cancelled,Goods,Samevalue,1
+982,2022-2023,Food Civil Supplies and Consumer Affairs Department,Financial Bid Opening,Goods,Samevalue,1
+983,2022-2023,Food Civil Supplies and Consumer Affairs Department,Technical Evaluation,Works,Samevalue,1
+984,2022-2023,Gauhati High Court - Guwahati,AOC,Goods,Samevalue,3
+985,2022-2023,Gauhati University,AOC,Works,Samevalue,1
+986,2022-2023,Gauhati University,AOC,Works,Saving,7
+987,2022-2023,Gauhati University,Cancelled,Works,Samevalue,2
+988,2022-2023,Gauhati University,Financial Evaluation,Works,Samevalue,1
+989,2022-2023,Gauhati University,Retender,Works,Samevalue,2
+990,2022-2023,General Administration Department,AOC,Goods,Samevalue,1
+991,2022-2023,General Administration Department,AOC,Goods,Saving,1
+992,2022-2023,General Administration Department,AOC,Works,Samevalue,1
+993,2022-2023,General Administration Department,AOC,Works,Saving,18
+994,2022-2023,General Administration Department,Cancelled,Goods,Samevalue,2
+995,2022-2023,General Administration Department,Cancelled,Works,Samevalue,9
+996,2022-2023,General Administration Department,Financial Bid Opening,Works,Samevalue,6
+997,2022-2023,General Administration Department,Financial Evaluation,Works,Samevalue,2
+998,2022-2023,General Administration Department,Technical Evaluation,Goods,Samevalue,2
+999,2022-2023,General Administration Department,To Be Opened,Works,Samevalue,4
+1000,2022-2023,Guwahati Metropolitan Development Authority,AOC,Goods,Overrun,2
+1001,2022-2023,Guwahati Metropolitan Development Authority,AOC,Services,Overrun,4
+1002,2022-2023,Guwahati Metropolitan Development Authority,AOC,Works,Samevalue,16
+1003,2022-2023,Guwahati Metropolitan Development Authority,AOC,Works,Saving,5
+1004,2022-2023,Guwahati Metropolitan Development Authority,Cancelled,Services,Samevalue,4
+1005,2022-2023,Guwahati Metropolitan Development Authority,Cancelled,Works,Samevalue,8
+1006,2022-2023,Guwahati Metropolitan Development Authority,Financial Evaluation,Services,Samevalue,2
+1007,2022-2023,Guwahati Metropolitan Development Authority,Financial Evaluation,Works,Samevalue,2
+1008,2022-2023,Guwahati Metropolitan Development Authority,Technical Evaluation,Services,Samevalue,1
+1009,2022-2023,Guwahati Metropolitan Development Authority,Technical Evaluation,Works,Samevalue,1
+1010,2022-2023,Guwahati Metropolitan Development Authority,To Be Opened,Services,Samevalue,3
+1011,2022-2023,Guwahati Metropolitan Development Authority,To Be Opened,Works,Samevalue,5
+1012,2022-2023,Guwahati Municipal Corporation,AOC,Services,Overrun,1
+1013,2022-2023,Guwahati Municipal Corporation,AOC,Services,Samevalue,3
+1014,2022-2023,Guwahati Municipal Corporation,AOC,Works,Overrun,1
+1015,2022-2023,Guwahati Municipal Corporation,AOC,Works,Samevalue,78
+1016,2022-2023,Guwahati Municipal Corporation,AOC,Works,Saving,38
+1017,2022-2023,Guwahati Municipal Corporation,Cancelled,Goods,Samevalue,1
+1018,2022-2023,Guwahati Municipal Corporation,Cancelled,Services,Samevalue,1
+1019,2022-2023,Guwahati Municipal Corporation,Cancelled,Works,Samevalue,239
+1020,2022-2023,Guwahati Municipal Corporation,Financial Bid Opening,Works,Samevalue,3
+1021,2022-2023,Guwahati Municipal Corporation,Financial Evaluation,Works,Samevalue,3
+1022,2022-2023,Guwahati Municipal Corporation,Technical Bid Opening,Works,Samevalue,3
+1023,2022-2023,Guwahati Municipal Corporation,Technical Evaluation,Works,Samevalue,10
+1024,2022-2023,Guwahati Municipal Corporation,To Be Opened,Works,Samevalue,9
+1025,2022-2023,Guwahati Smart City Ltd.,AOC,Services,Saving,1
+1026,2022-2023,Health and Family Welfare Department,AOC,Goods,Samevalue,41
+1027,2022-2023,Health and Family Welfare Department,AOC,Goods,Saving,2
+1028,2022-2023,Health and Family Welfare Department,AOC,Services,Samevalue,7
+1029,2022-2023,Health and Family Welfare Department,AOC,Works,Samevalue,1
+1030,2022-2023,Health and Family Welfare Department,Cancelled,Goods,Samevalue,28
+1031,2022-2023,Health and Family Welfare Department,Cancelled,Services,Samevalue,11
+1032,2022-2023,Health and Family Welfare Department,Financial Bid Opening,Goods,Samevalue,12
+1033,2022-2023,Health and Family Welfare Department,Financial Bid Opening,Services,Samevalue,2
+1034,2022-2023,Health and Family Welfare Department,Financial Evaluation,Goods,Samevalue,10
+1035,2022-2023,Health and Family Welfare Department,Financial Evaluation,Services,Samevalue,3
+1036,2022-2023,Health and Family Welfare Department,Retender,Goods,Samevalue,6
+1037,2022-2023,Health and Family Welfare Department,Retender,Services,Samevalue,3
+1038,2022-2023,Health and Family Welfare Department,Retender,Works,Samevalue,1
+1039,2022-2023,Health and Family Welfare Department,Technical Bid Opening,Goods,Samevalue,2
+1040,2022-2023,Health and Family Welfare Department,Technical Bid Opening,Services,Samevalue,1
+1041,2022-2023,Health and Family Welfare Department,Technical Evaluation,Goods,Samevalue,1
+1042,2022-2023,Health and Family Welfare Department,To Be Opened,Goods,Samevalue,3
+1043,2022-2023,Health and Family Welfare Department,To Be Opened,Services,Samevalue,2
+1044,2022-2023,Health and Family Welfare Department,To Be Opened,Works,Samevalue,1
+1045,2022-2023,Home B,AOC,Goods,Overrun,5
+1046,2022-2023,Home B,AOC,Goods,Samevalue,70
+1047,2022-2023,Home B,Cancelled,Goods,Samevalue,38
+1048,2022-2023,Home B,Financial Bid Opening,Goods,Samevalue,3
+1049,2022-2023,Home B,Financial Evaluation,Goods,Samevalue,14
+1050,2022-2023,Home B,Retender,Goods,Samevalue,1
+1051,2022-2023,Home B,Technical Evaluation,Goods,Samevalue,3
+1052,2022-2023,Home B,To Be Opened,Goods,Samevalue,24
+1053,2022-2023,Industries and Commerce Department,AOC,Goods,Overrun,7
+1054,2022-2023,Industries and Commerce Department,AOC,Goods,Samevalue,19
+1055,2022-2023,Industries and Commerce Department,AOC,Goods,Saving,12
+1056,2022-2023,Industries and Commerce Department,AOC,Services,Samevalue,15
+1057,2022-2023,Industries and Commerce Department,AOC,Services,Saving,8
+1058,2022-2023,Industries and Commerce Department,AOC,Works,Overrun,2
+1059,2022-2023,Industries and Commerce Department,AOC,Works,Samevalue,42
+1060,2022-2023,Industries and Commerce Department,AOC,Works,Saving,13
+1061,2022-2023,Industries and Commerce Department,Cancelled,Goods,Samevalue,18
+1062,2022-2023,Industries and Commerce Department,Cancelled,Services,Samevalue,16
+1063,2022-2023,Industries and Commerce Department,Cancelled,Works,Samevalue,20
+1064,2022-2023,Industries and Commerce Department,Financial Bid Opening,Goods,Samevalue,1
+1065,2022-2023,Industries and Commerce Department,Financial Bid Opening,Services,Samevalue,4
+1066,2022-2023,Industries and Commerce Department,Financial Bid Opening,Works,Samevalue,10
+1067,2022-2023,Industries and Commerce Department,Financial Evaluation,Works,Samevalue,2
+1068,2022-2023,Industries and Commerce Department,Retender,Goods,Samevalue,1
+1069,2022-2023,Industries and Commerce Department,Retender,Services,Samevalue,1
+1070,2022-2023,Industries and Commerce Department,Retender,Works,Samevalue,5
+1071,2022-2023,Industries and Commerce Department,Technical Bid Opening,Services,Samevalue,5
+1072,2022-2023,Industries and Commerce Department,Technical Bid Opening,Works,Samevalue,13
+1073,2022-2023,Industries and Commerce Department,Technical Evaluation,Goods,Samevalue,13
+1074,2022-2023,Industries and Commerce Department,Technical Evaluation,Services,Samevalue,4
+1075,2022-2023,Industries and Commerce Department,Technical Evaluation,Works,Samevalue,5
+1076,2022-2023,Industries and Commerce Department,To Be Opened,Goods,Samevalue,4
+1077,2022-2023,Industries and Commerce Department,To Be Opened,Services,Samevalue,6
+1078,2022-2023,Industries and Commerce Department,To Be Opened,Works,Samevalue,1
+1079,2022-2023,Information - Public Relations - Printing and Stationery Department,AOC,Works,Samevalue,1
+1080,2022-2023,Information - Public Relations - Printing and Stationery Department,Cancelled,Goods,Samevalue,2
+1081,2022-2023,Information - Public Relations - Printing and Stationery Department,Cancelled,Services,Samevalue,5
+1082,2022-2023,Information - Public Relations - Printing and Stationery Department,Retender,Services,Samevalue,2
+1083,2022-2023,Information - Public Relations - Printing and Stationery Department,Technical Evaluation,Works,Samevalue,3
+1084,2022-2023,Information and Public Relations Department,AOC,Goods,Samevalue,1
+1085,2022-2023,Information and Public Relations Department,AOC,Services,Saving,1
+1086,2022-2023,Information and Public Relations Department,Cancelled,Goods,Samevalue,1
+1087,2022-2023,Information and Public Relations Department,Cancelled,Services,Samevalue,2
+1088,2022-2023,Information and Public Relations Department,Financial Evaluation,Goods,Samevalue,1
+1089,2022-2023,Information and Public Relations Department,Financial Evaluation,Services,Samevalue,1
+1090,2022-2023,Inland Water Transport,AOC,Services,Samevalue,4
+1091,2022-2023,Inland Water Transport,Cancelled,Services,Samevalue,1
+1092,2022-2023,Inland Water Transport,Financial Bid Opening,Services,Samevalue,1
+1093,2022-2023,Inland Water Transport,Technical Evaluation,Services,Samevalue,18
+1094,2022-2023,Inland Water Transport,To Be Opened,Services,Samevalue,30
+1095,2022-2023,Irrigation Department,AOC,Services,Overrun,1
+1096,2022-2023,Irrigation Department,AOC,Works,Samevalue,16
+1097,2022-2023,Irrigation Department,AOC,Works,Saving,89
+1098,2022-2023,Irrigation Department,Cancelled,Services,Samevalue,1
+1099,2022-2023,Irrigation Department,Cancelled,Works,Samevalue,27
+1100,2022-2023,Irrigation Department,Retender,Works,Samevalue,2
+1101,2022-2023,Karbi Anglong Autonomous Council,AOC,Works,Samevalue,2
+1102,2022-2023,Karbi Anglong Autonomous Council,AOC,Works,Saving,1
+1103,2022-2023,Karbi Anglong Autonomous Council,Retender,Works,Samevalue,2
+1104,2022-2023,Karbi Anglong Autonomous Council,Technical Evaluation,Works,Samevalue,1
+1105,2022-2023,Medical Education and Research Department- Externally Aided Project,AOC,Services,Samevalue,2
+1106,2022-2023,National Health Mission,AOC,Goods,Samevalue,2
+1107,2022-2023,National Health Mission,AOC,Goods,Saving,1
+1108,2022-2023,National Health Mission,AOC,Services,Samevalue,4
+1109,2022-2023,National Health Mission,AOC,Works,Overrun,2
+1110,2022-2023,National Health Mission,AOC,Works,Samevalue,343
+1111,2022-2023,National Health Mission,AOC,Works,Saving,124
+1112,2022-2023,National Health Mission,Cancelled,Goods,Samevalue,2
+1113,2022-2023,National Health Mission,Cancelled,Services,Samevalue,3
+1114,2022-2023,National Health Mission,Cancelled,Works,Samevalue,408
+1115,2022-2023,National Health Mission,Financial Bid Opening,Services,Samevalue,1
+1116,2022-2023,National Health Mission,Financial Bid Opening,Works,Samevalue,78
+1117,2022-2023,National Health Mission,Financial Evaluation,Works,Samevalue,1
+1118,2022-2023,National Health Mission,Retender,Goods,Samevalue,1
+1119,2022-2023,National Health Mission,Retender,Works,Samevalue,6
+1120,2022-2023,National Health Mission,Technical Bid Opening,Goods,Samevalue,14
+1121,2022-2023,National Health Mission,Technical Bid Opening,Works,Samevalue,4
+1122,2022-2023,National Health Mission,Technical Evaluation,Services,Samevalue,2
+1123,2022-2023,National Health Mission,Technical Evaluation,Works,Samevalue,152
+1124,2022-2023,National Health Mission,To Be Opened,Goods,Samevalue,2
+1125,2022-2023,National Health Mission,To Be Opened,Services,Samevalue,1
+1126,2022-2023,National Health Mission,To Be Opened,Works,Samevalue,48
+1127,2022-2023,Office of the Chief Electoral Officer Assam,AOC,Services,Samevalue,2
+1128,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Goods,Samevalue,7
+1129,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Services,Samevalue,1
+1130,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Works,Overrun,1
+1131,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Works,Samevalue,21
+1132,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,AOC,Works,Saving,46
+1133,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Cancelled,Goods,Samevalue,4
+1134,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Cancelled,Services,Samevalue,4
+1135,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Cancelled,Works,Samevalue,59
+1136,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Financial Bid Opening,Goods,Samevalue,2
+1137,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Financial Bid Opening,Works,Samevalue,2
+1138,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Financial Evaluation,Services,Samevalue,1
+1139,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Financial Evaluation,Works,Samevalue,1
+1140,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Retender,Goods,Samevalue,1
+1141,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Retender,Works,Samevalue,3
+1142,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Bid Opening,Goods,Samevalue,8
+1143,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Bid Opening,Services,Samevalue,1
+1144,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Bid Opening,Works,Samevalue,24
+1145,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Evaluation,Goods,Samevalue,1
+1146,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,Technical Evaluation,Works,Samevalue,3
+1147,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,To Be Opened,Services,Samevalue,2
+1148,2022-2023,Pr. Chief Conservator of Forest and Head of Forest Force,To Be Opened,Works,Samevalue,10
+1149,2022-2023,Principal Secretary- P and RD- Assam Secretariat,AOC,Goods,Overrun,1
+1150,2022-2023,Principal Secretary- P and RD- Assam Secretariat,AOC,Goods,Samevalue,4
+1151,2022-2023,Principal Secretary- P and RD- Assam Secretariat,AOC,Goods,Saving,8
+1152,2022-2023,Principal Secretary- P and RD- Assam Secretariat,AOC,Services,Samevalue,4
+1153,2022-2023,Principal Secretary- P and RD- Assam Secretariat,AOC,Services,Saving,1
+1154,2022-2023,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,Samevalue,4
+1155,2022-2023,Principal Secretary- P and RD- Assam Secretariat,AOC,Works,Saving,9
+1156,2022-2023,Principal Secretary- P and RD- Assam Secretariat,Cancelled,Goods,Samevalue,5
+1157,2022-2023,Principal Secretary- P and RD- Assam Secretariat,Cancelled,Works,Samevalue,2
+1158,2022-2023,Principal Secretary- P and RD- Assam Secretariat,Retender,Goods,Samevalue,2
+1159,2022-2023,Principal Secretary- P and RD- Assam Secretariat,Retender,Works,Samevalue,2
+1160,2022-2023,Principal Secretary- P and RD- Assam Secretariat,Technical Bid Opening,Goods,Samevalue,5
+1161,2022-2023,Principal Secretary-Department of Information Technology,AOC,Goods,Samevalue,4
+1162,2022-2023,Principal Secretary-Department of Information Technology,AOC,Works,Samevalue,9
+1163,2022-2023,Principal Secretary-Department of Information Technology,AOC,Works,Saving,1
+1164,2022-2023,Principal Secretary-Department of Information Technology,Cancelled,Goods,Samevalue,3
+1165,2022-2023,Principal Secretary-Department of Information Technology,Cancelled,Works,Samevalue,3
+1166,2022-2023,Principal Secretary-Department of Information Technology,Financial Bid Opening,Services,Samevalue,1
+1167,2022-2023,Principal Secretary-Department of Information Technology,Financial Evaluation,Works,Samevalue,1
+1168,2022-2023,Principal Secretary-Department of Information Technology,Retender,Services,Samevalue,1
+1169,2022-2023,Principal Secretary-Department of Information Technology,To Be Opened,Works,Samevalue,1
+1170,2022-2023,Public Health Engineering Department,AOC,Goods,Samevalue,1
+1171,2022-2023,Public Health Engineering Department,AOC,Services,Overrun,2
+1172,2022-2023,Public Health Engineering Department,AOC,Services,Samevalue,2
+1173,2022-2023,Public Health Engineering Department,AOC,Works,Samevalue,2
+1174,2022-2023,Public Health Engineering Department,AOC,Works,Saving,1
+1175,2022-2023,Public Health Engineering Department,Cancelled,Works,Samevalue,1
+1176,2022-2023,Public Health Engineering Department,Financial Bid Opening,Goods,Samevalue,1
+1177,2022-2023,Public Health Engineering Department,Financial Evaluation,Goods,Samevalue,4
+1178,2022-2023,Public Health Engineering Department,Financial Evaluation,Services,Samevalue,2
+1179,2022-2023,Public Health Engineering Department,Financial Evaluation,Works,Samevalue,1
+1180,2022-2023,Public Health Engineering Department,Retender,Goods,Samevalue,1
+1181,2022-2023,Public Health Engineering Department,Retender,Services,Samevalue,1
+1182,2022-2023,Public Health Engineering Department,Retender,Works,Samevalue,2
+1183,2022-2023,Public Health Engineering Department,Technical Bid Opening,Services,Samevalue,1
+1184,2022-2023,Public Health Engineering Department,Technical Evaluation,Works,Samevalue,5
+1185,2022-2023,Public Health Engineering Department,To Be Opened,Services,Samevalue,1
+1186,2022-2023,Public Health Engineering Department,To Be Opened,Works,Samevalue,1
+1187,2022-2023,Public Works Building and NH Department,AOC,Works,Overrun,182
+1188,2022-2023,Public Works Building and NH Department,AOC,Works,Samevalue,91
+1189,2022-2023,Public Works Building and NH Department,AOC,Works,Saving,232
+1190,2022-2023,Public Works Building and NH Department,Cancelled,Services,Samevalue,8
+1191,2022-2023,Public Works Building and NH Department,Cancelled,Works,Samevalue,302
+1192,2022-2023,Public Works Building and NH Department,Financial Bid Opening,Works,Samevalue,72
+1193,2022-2023,Public Works Building and NH Department,Financial Evaluation,Works,Samevalue,10
+1194,2022-2023,Public Works Building and NH Department,Retender,Works,Samevalue,6
+1195,2022-2023,Public Works Building and NH Department,Technical Bid Opening,Works,Samevalue,31
+1196,2022-2023,Public Works Building and NH Department,Technical Evaluation,Works,Samevalue,4
+1197,2022-2023,Public Works Building and NH Department,To Be Opened,Works,Samevalue,1
+1198,2022-2023,Public Works Roads Department,AOC,Goods,Saving,1
+1199,2022-2023,Public Works Roads Department,AOC,Works,Overrun,19
+1200,2022-2023,Public Works Roads Department,AOC,Works,Samevalue,649
+1201,2022-2023,Public Works Roads Department,AOC,Works,Saving,405
+1202,2022-2023,Public Works Roads Department,Cancelled,Works,Samevalue,225
+1203,2022-2023,Public Works Roads Department,Financial Bid Opening,Works,Samevalue,39
+1204,2022-2023,Public Works Roads Department,Financial Evaluation,Works,Samevalue,7
+1205,2022-2023,Public Works Roads Department,Retender,Services,Samevalue,2
+1206,2022-2023,Public Works Roads Department,Retender,Works,Samevalue,12
+1207,2022-2023,Public Works Roads Department,Technical Bid Opening,Works,Samevalue,14
+1208,2022-2023,Public Works Roads Department,Technical Evaluation,Works,Samevalue,24
+1209,2022-2023,Public Works Roads Department,To Be Opened,Services,Samevalue,7
+1210,2022-2023,Public Works Roads Department,To Be Opened,Works,Samevalue,65
+1211,2022-2023,Public Works Roads Department-Externally Aided Project,AOC,Works,Overrun,3
+1212,2022-2023,Public Works Roads Department-Externally Aided Project,AOC,Works,Samevalue,14
+1213,2022-2023,Public Works Roads Department-Externally Aided Project,AOC,Works,Saving,110
+1214,2022-2023,Public Works Roads Department-Externally Aided Project,Cancelled,Works,Samevalue,32
+1215,2022-2023,Public Works Roads Department-Externally Aided Project,Financial Bid Opening,Services,Samevalue,2
+1216,2022-2023,Public Works Roads Department-Externally Aided Project,Technical Bid Opening,Services,Samevalue,2
+1217,2022-2023,Public Works Roads Department-Externally Aided Project,Technical Evaluation,Works,Samevalue,10
+1218,2022-2023,SECONDARY EDUCATION DEPARTMENT ASSAM,AOC,Goods,Samevalue,3
+1219,2022-2023,Science Technology and Climate Change Department,AOC,Goods,Samevalue,3
+1220,2022-2023,Science Technology and Climate Change Department,AOC,Services,Samevalue,1
+1221,2022-2023,Science Technology and Climate Change Department,Cancelled,Goods,Samevalue,1
+1222,2022-2023,Science Technology and Climate Change Department,Financial Bid Opening,Goods,Samevalue,1
+1223,2022-2023,Skill Employment and Entrepreneurship Department,AOC,Services,Samevalue,7
+1224,2022-2023,Skill Employment and Entrepreneurship Department,AOC,Works,Saving,2
+1225,2022-2023,Skill Employment and Entrepreneurship Department,Cancelled,Services,Samevalue,1
+1226,2022-2023,Social Welfare Department,AOC,Goods,Samevalue,1
+1227,2022-2023,Social Welfare Department,Cancelled,Goods,Samevalue,1
+1228,2022-2023,Social Welfare Department,Cancelled,Services,Samevalue,1
+1229,2022-2023,Social Welfare Department,Financial Evaluation,Goods,Samevalue,1
+1230,2022-2023,Social Welfare Department,Technical Bid Opening,Goods,Samevalue,1
+1231,2022-2023,Soil Conservation Department,AOC,Works,Saving,12
+1232,2022-2023,Soil Conservation Department,Cancelled,Works,Samevalue,7
+1233,2022-2023,Transformation and Development Department,AOC,Services,Samevalue,2
+1234,2022-2023,Transformation and Development Department,Financial Evaluation,Services,Samevalue,1
+1235,2022-2023,Transport Department,AOC,Services,Samevalue,1
+1236,2022-2023,Transport Department,Cancelled,Services,Samevalue,1
+1237,2022-2023,Transport Department,To Be Opened,Services,Samevalue,1
+1238,2022-2023,Transport Department- Externally Funded Projects,AOC,Goods,Samevalue,1
+1239,2022-2023,Transport Department- Externally Funded Projects,AOC,Services,Samevalue,2
+1240,2022-2023,Transport Department- Externally Funded Projects,Cancelled,Works,Samevalue,1
+1241,2022-2023,Transport Department- Externally Funded Projects,Financial Evaluation,Services,Samevalue,1
+1242,2022-2023,Urban Affairs Department Externally Aided Project,AOC,Services,Samevalue,2
+1243,2022-2023,Urban Affairs Department Externally Aided Project,AOC,Works,Samevalue,3
+1244,2022-2023,Urban Affairs Department Externally Aided Project,Cancelled,Goods,Samevalue,1
+1245,2022-2023,Urban Affairs Department Externally Aided Project,Cancelled,Works,Samevalue,2
+1246,2022-2023,Urban Development Department,AOC,Goods,Samevalue,4
+1247,2022-2023,Urban Development Department,AOC,Services,Samevalue,3
+1248,2022-2023,Urban Development Department,AOC,Works,Overrun,1
+1249,2022-2023,Urban Development Department,AOC,Works,Samevalue,8
+1250,2022-2023,Urban Development Department,AOC,Works,Saving,7
+1251,2022-2023,Urban Development Department,Cancelled,Goods,Samevalue,3
+1252,2022-2023,Urban Development Department,Cancelled,Services,Samevalue,7
+1253,2022-2023,Urban Development Department,Cancelled,Works,Samevalue,14
+1254,2022-2023,Urban Development Department,Financial Bid Opening,Services,Samevalue,1
+1255,2022-2023,Urban Development Department,Financial Bid Opening,Works,Samevalue,3
+1256,2022-2023,Urban Development Department,Financial Evaluation,Services,Samevalue,1
+1257,2022-2023,Urban Development Department,Financial Evaluation,Works,Samevalue,5
+1258,2022-2023,Urban Development Department,Retender,Works,Samevalue,4
+1259,2022-2023,Urban Development Department,Technical Bid Opening,Services,Samevalue,2
+1260,2022-2023,Urban Development Department,Technical Evaluation,Services,Samevalue,1
+1261,2022-2023,Urban Development Department,Technical Evaluation,Works,Samevalue,4
+1262,2022-2023,Urban Development Department,To Be Opened,Goods,Samevalue,1
+1263,2022-2023,Urban Development Department,To Be Opened,Services,Samevalue,1
+1264,2022-2023,Urban Development Department,To Be Opened,Works,Samevalue,3
+1265,2022-2023,Water Resources Department- World Bank Tenders,AOC,Goods,Saving,2
+1266,2022-2023,Water Resources Department- World Bank Tenders,AOC,Services,Saving,1
+1267,2022-2023,Water Resources Department- World Bank Tenders,AOC,Works,Saving,3
+1268,2022-2023,Water Resources Department- World Bank Tenders,Financial Evaluation,Goods,Samevalue,2
+1269,2022-2023,Water Resources Department- World Bank Tenders,To Be Opened,Goods,Samevalue,1
+1270,2022-2023,Welfare of Minorities Development Department,Cancelled,Goods,Samevalue,1
+1271,2022-2023,Welfare of Minorities Development Department,Cancelled,Services,Samevalue,7
+1272,2022-2023,Welfare of Plain Tribes and Backward Classes,AOC,Goods,Samevalue,3
+1273,2022-2023,Welfare of Plain Tribes and Backward Classes,AOC,Goods,Saving,5
+1274,2022-2023,Welfare of Plain Tribes and Backward Classes,AOC,Works,Overrun,1
+1275,2022-2023,Welfare of Plain Tribes and Backward Classes,AOC,Works,Samevalue,52
+1276,2022-2023,Welfare of Plain Tribes and Backward Classes,AOC,Works,Saving,29
+1277,2022-2023,Welfare of Plain Tribes and Backward Classes,Cancelled,Goods,Samevalue,6
+1278,2022-2023,Welfare of Plain Tribes and Backward Classes,Cancelled,Works,Samevalue,4
+1279,2022-2023,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Goods,Samevalue,13
+1280,2022-2023,Welfare of Plain Tribes and Backward Classes,Financial Bid Opening,Works,Samevalue,1
+1281,2022-2023,Welfare of Plain Tribes and Backward Classes,Financial Evaluation,Works,Samevalue,3
+1282,2022-2023,Welfare of Plain Tribes and Backward Classes,Technical Bid Opening,Works,Samevalue,1
+1283,2022-2023,Welfare of Plain Tribes and Backward Classes,Technical Evaluation,Goods,Samevalue,16
+1284,2022-2023,Welfare of Plain Tribes and Backward Classes,Technical Evaluation,Works,Samevalue,1
+1285,2022-2023,Welfare of Plain Tribes and Backward Classes,To Be Opened,Goods,Samevalue,2
+1286,2023-2024,Assam Agricultural University,AOC,Goods,Samevalue,1
+1287,2023-2024,Assam Electricity Grid Corporation Ltd,AOC,Works,Samevalue,1
+1288,2023-2024,Assam Electricity Grid Corporation Ltd,Cancelled,Works,Samevalue,1
+1289,2023-2024,Assam Police Housing Corporation Ltd,AOC,Works,Samevalue,15
+1290,2023-2024,Assam Power Generation Company Limited,Financial Bid Opening,Works,Samevalue,1
+1291,2023-2024,Axom Sarba Siksha Abhijan Mission,Cancelled,Works,Samevalue,6
+1292,2023-2024,Axom Sarba Siksha Abhijan Mission,Financial Bid Opening,Works,Samevalue,2
+1293,2023-2024,Bodoland Territorial Council,AOC,Works,Samevalue,8
+1294,2023-2024,Bodoland Territorial Council,Cancelled,Goods,Samevalue,1
+1295,2023-2024,Bodoland Territorial Council,Cancelled,Works,Samevalue,1
+1296,2023-2024,Bodoland Territorial Council,Financial Bid Opening,Works,Samevalue,6
+1297,2023-2024,Bodoland Territorial Council,Financial Evaluation,Works,Samevalue,1
+1298,2023-2024,Bodoland Territorial Council,To Be Opened,Goods,Samevalue,1
+1299,2023-2024,Bodoland Territorial Council-PWD,Cancelled,Works,Samevalue,1
+1300,2023-2024,Department of Tourism,To Be Opened,Services,Samevalue,3
+1301,2023-2024,Department of Water Resources,AOC,Works,Samevalue,2
+1302,2023-2024,Department of Water Resources,Financial Bid Opening,Works,Samevalue,1
+1303,2023-2024,Department of Water Resources,Financial Evaluation,Works,Samevalue,1
+1304,2023-2024,Department of Water Resources,Technical Evaluation,Goods,Samevalue,2
+1305,2023-2024,Dibrugarh University,Technical Evaluation,Goods,Samevalue,1
+1306,2023-2024,Finance Department - World Bank Tenders,AOC,Goods,Samevalue,1
+1307,2023-2024,Guwahati Metropolitan Development Authority,AOC,Works,Samevalue,1
+1308,2023-2024,Health and Family Welfare Department,AOC,Services,Samevalue,1
+1309,2023-2024,Health and Family Welfare Department,Cancelled,Goods,Samevalue,1
+1310,2023-2024,Industries and Commerce Department,AOC,Goods,Samevalue,1
+1311,2023-2024,Industries and Commerce Department,Cancelled,Goods,Samevalue,3
+1312,2023-2024,Industries and Commerce Department,Technical Evaluation,Services,Samevalue,1
+1313,2023-2024,Industries and Commerce Department,To Be Opened,Goods,Samevalue,2
+1314,2023-2024,Inland Water Transport,Technical Evaluation,Services,Samevalue,7
+1315,2023-2024,Inland Water Transport,To Be Opened,Services,Samevalue,11
+1316,2023-2024,Irrigation Department,AOC,Works,Samevalue,1
+1317,2023-2024,Irrigation Department,Cancelled,Works,Samevalue,4
+1318,2023-2024,Karbi Anglong Autonomous Council,Financial Bid Opening,Works,Samevalue,2
+1319,2023-2024,National Health Mission,AOC,Works,Samevalue,5
+1320,2023-2024,National Health Mission,Cancelled,Works,Samevalue,5
+1321,2023-2024,National Health Mission,Financial Bid Opening,Works,Samevalue,1
+1322,2023-2024,National Health Mission,Technical Evaluation,Works,Samevalue,9
+1323,2023-2024,Principal Secretary-Department of Information Technology,Cancelled,Works,Samevalue,1
+1324,2023-2024,Principal Secretary-Department of Information Technology,To Be Opened,Works,Samevalue,1
+1325,2023-2024,Public Health Engineering Department,Retender,Works,Samevalue,1
+1326,2023-2024,Public Works Building and NH Department,AOC,Works,Samevalue,5
+1327,2023-2024,Public Works Building and NH Department,Cancelled,Works,Samevalue,3
+1328,2023-2024,Public Works Building and NH Department,Financial Evaluation,Works,Samevalue,1
+1329,2023-2024,Public Works Building and NH Department,To Be Opened,Works,Samevalue,1
+1330,2023-2024,Public Works Roads Department,Cancelled,Works,Samevalue,2
+1331,2023-2024,SECONDARY EDUCATION DEPARTMENT ASSAM,To Be Opened,Services,Samevalue,1
+1332,2023-2024,Urban Development Department,Cancelled,Works,Samevalue,2
+1333,2023-2024,Urban Development Department,Financial Evaluation,Works,Samevalue,1
